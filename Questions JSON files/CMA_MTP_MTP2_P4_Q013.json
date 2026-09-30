@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. \nA business manufactures a single product and is preparing its production budget for the \nyear ahead. It is estimated that 2,00,000 units of the product can be sold in the year and \nthe opening inventory is currently 25,000 units. The inventory level is to be reduced by \n40% by the end of the year. What is production budget in units? \n(a) \n1,95,000 units \n(b) \n1,90,000 units  \n(c) \n1,84,000 units \n(d) \n1,75,000 units \n(2 Marks)",
+  "suggested_answer": "(B) 1,90,000 units Units Sales budget 2,00,000 Add: Closing Inventory (25,000 x 0.6) 15,000 Less: Opening Inventory (25,000) Production Budget 1,90,000",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q013",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nA business manufactures a single product and is preparing its production budget for the \nyear ahead. It is estimated that 2,00,000 units of the product can be sold in the year and \nthe opening inventory is currently 25,000 units. The inventory level is to be reduced by \n40% by the end of the year. What is production budget in units? \n(a) \n1,95,000 units \n(b) \n1,90,000 units  \n(c) \n1,84,000 units \n(d) \n1,75,000 units \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) 1,90,000 units Units Sales budget 2,00,000 Add: Closing Inventory (25,000 x 0.6) 15,000 Less: Opening Inventory (25,000) Production Budget 1,90,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

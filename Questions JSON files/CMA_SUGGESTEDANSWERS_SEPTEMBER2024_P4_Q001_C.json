@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q001_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) JC Ltd. has a production capacity of 80,000 units per year. Presently a\ncompany produces 60,000 units. Its cost structure is as under:\nMaterial Cost\n\n` 6 per unit\nLabour Cost\n\n` 4 per unit\nVariable overheads\n` 2 per unit\nTotal fixed cost ` 3,00,000 per annum. Present selling price ` 20 per unit in\nthe month of January, 2024 company received an offer from a Japanese client\nto supply 20,000 units at a price of ` 14 per unit with the additional shipping\ncost of ` 8,000.\n\n10\nRequired:\n(i) On the basis of changes in the profit, advice to the company, whether\nthe offer should be accepted or not?\n(ii) Will your advice be different, if the customer is local one?\n(iii) If Japanese client offer for supply of 30,000 units to a price of ` 14 (part\nsupply of order not accepted) and shipping cost treated as variable cost,\nanalyze the impact on the profit of JC Ltd., if order accepted.\n(4 Marks)",
+  "suggested_answer": "(c)  (i)  Statement Showing “Cost and Profit under Both Situation”\nParticulars\nExisting\nProduction\n(60,000 units)\nAfter Offer\n(80,000 units)\n\n(`)\n(`)\nSales\n\nExisting (60,000 x ` 20)\n12,00,000\n12,00,000\nOffer (20,000 x ` 14)\n-\n2,80,000\nTotal Sales\n12,00,000\n14,80,000\nLess: Direct Materials @ ` 6\n3,60,000\n4,80,000\nDirect Labour @ ` 4\n2,40,000\n3,20,000\nVariable Overheads @ ` 2\n1,20,000\n1,60,000\nContribution\n4,80,000\n5,20,000\nLess: Additional Shipping cost\n-\n8,000\nLess: Fixed Cost\n3,00,000\n3,00,000\nProfit\n1,80,000\n2,12,000\nSince the Profit has increased by ` 32,000, the proposal of the Japanese\nclient should be accepted\n(ii) Yes, the advice will be different, if the customer is local one since the\ncompany is currently selling at ` 20 in local market and therefore,\nselling at discounted price of ` 14 may impact its local market.\n(iii) Statement Showing “Cost and Profit”\nParticulars\nAfter Offer\n(80,000 units)\n\n(`)\nSales\n\nExisting (50,000 x ` 20)\n10,00,000\nOffer (30,000 x ` 14)\n4,20,000\nTotal Sales\n14,20,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13\nLess: Direct Materials @ ` 6\n4,80,000\nDirect Labour @ ` 4\n3,20,000\nVariable Overheads @ ` 2\n1,60,000\nAdditional Shipping cost\n(` 8,000/20,000 units) x 30,000 units\n12,000\nContribution\n4,48,000\nLess: Fixed Cost\n3,00,000\nProfit\n1,48,000\nIf offer of Japanese client to supply 30,000 units at a price of ` 14 is\naccepted, the Profit will decrease by `32,000 from the current level.",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q001_C",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 9,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) JC Ltd. has a production capacity of 80,000 units per year. Presently a\ncompany produces 60,000 units. Its cost structure is as under:\nMaterial Cost\n\n` 6 per unit\nLabour Cost\n\n` 4 per unit\nVariable overheads\n` 2 per unit\nTotal fixed cost ` 3,00,000 per annum. Present selling price ` 20 per unit in\nthe month of January, 2024 company received an offer from a Japanese client\nto supply 20,000 units at a price of ` 14 per unit with the additional shipping\ncost of ` 8,000.\n\n10\nRequired:\n(i) On the basis of changes in the profit, advice to the company, whether\nthe offer should be accepted or not?\n(ii) Will your advice be different, if the customer is local one?\n(iii) If Japanese client offer for supply of 30,000 units to a price of ` 14 (part\nsupply of order not accepted) and shipping cost treated as variable cost,\nanalyze the impact on the profit of JC Ltd., if order accepted.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  (i)  Statement Showing “Cost and Profit under Both Situation”\nParticulars\nExisting\nProduction\n(60,000 units)\nAfter Offer\n(80,000 units)\n\n(`)\n(`)\nSales\n\nExisting (60,000 x ` 20)\n12,00,000\n12,00,000\nOffer (20,000 x ` 14)\n-\n2,80,000\nTotal Sales\n12,00,000\n14,80,000\nLess: Direct Materials @ ` 6\n3,60,000\n4,80,000\nDirect Labour @ ` 4\n2,40,000\n3,20,000\nVariable Overheads @ ` 2\n1,20,000\n1,60,000\nContribution\n4,80,000\n5,20,000\nLess: Additional Shipping cost\n-\n8,000\nLess: Fixed Cost\n3,00,000\n3,00,000\nProfit\n1,80,000\n2,12,000\nSince the Profit has increased by ` 32,000, the proposal of the Japanese\nclient should be accepted\n(ii) Yes, the advice will be different, if the customer is local one since the\ncompany is currently selling at ` 20 in local market and therefore,\nselling at discounted price of ` 14 may impact its local market.\n(iii) Statement Showing “Cost and Profit”\nParticulars\nAfter Offer\n(80,000 units)\n\n(`)\nSales\n\nExisting (50,000 x ` 20)\n10,00,000\nOffer (30,000 x ` 14)\n4,20,000\nTotal Sales\n14,20,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13\nLess: Direct Materials @ ` 6\n4,80,000\nDirect Labour @ ` 4\n3,20,000\nVariable Overheads @ ` 2\n1,60,000\nAdditional Shipping cost\n(` 8,000/20,000 units) x 30,000 units\n12,000\nContribution\n4,48,000\nLess: Fixed Cost\n3,00,000\nProfit\n1,48,000\nIf offer of Japanese client to supply 30,000 units at a price of ` 14 is\naccepted, the Profit will decrease by `32,000 from the current level."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q002_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  During the audit of Alpha Components Ltd., the management informs the\nauditor that the company has implemented a sophisticated ERP system that\ntracks all movements of raw materials and finished goods in real time. Based\non this system, they have stopped conducting any physical verification of\ninventories, claiming that the system itself ensures accuracy and control over\nstock levels.\n\nAs the auditor, explain reporting requirement under CARO, 2020. (4 Marks)",
+  "suggested_answer": "(c) Reporting requirement under CARO 2020: As per Clause 3(ii)(a) of\nCARO, 2020, the auditor is required to report whether physical verification\nof inventory has been conducted at reasonable intervals by the\nmanagement and whether, in the opinion of the auditor, the coverage and\nprocedures of such verification by the management is appropriate. The\nauditor is also required to report whether any discrepancies of 10% or more\nin the aggregate for each class of inventory were noticed and, if so, whether\nthe same have been properly dealt with in the books of account.\n\nAUDITING AND ETHICS\n\n17\n\nAuditor must Report on the non-conduct of physical verification\n\nIn the present case, the management of Alpha Components Ltd. has stated\nthat it has discontinued physical verification of inventories on the ground\nthat a sophisticated ERP system tracks inventory movement in real time.\nHowever, the existence of an ERP system does not replace the requirement\nof physical verification, as CARO, 2020 specifically requires reporting on\nphysical verification conducted by management.\n\nTherefore, in compliance with Clause 3(ii)(a) of CARO, 2020, the auditor\nmust report the non-conduct of physical verification of inventory,\nnotwithstanding the use of an ERP system, and suitably reflect this matter\nin the CARO report.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q002_C",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 16,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  During the audit of Alpha Components Ltd., the management informs the\nauditor that the company has implemented a sophisticated ERP system that\ntracks all movements of raw materials and finished goods in real time. Based\non this system, they have stopped conducting any physical verification of\ninventories, claiming that the system itself ensures accuracy and control over\nstock levels.\n\nAs the auditor, explain reporting requirement under CARO, 2020. (4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Reporting requirement under CARO 2020: As per Clause 3(ii)(a) of\nCARO, 2020, the auditor is required to report whether physical verification\nof inventory has been conducted at reasonable intervals by the\nmanagement and whether, in the opinion of the auditor, the coverage and\nprocedures of such verification by the management is appropriate. The\nauditor is also required to report whether any discrepancies of 10% or more\nin the aggregate for each class of inventory were noticed and, if so, whether\nthe same have been properly dealt with in the books of account.\n\nAUDITING AND ETHICS\n\n17\n\nAuditor must Report on the non-conduct of physical verification\n\nIn the present case, the management of Alpha Components Ltd. has stated\nthat it has discontinued physical verification of inventories on the ground\nthat a sophisticated ERP system tracks inventory movement in real time.\nHowever, the existence of an ERP system does not replace the requirement\nof physical verification, as CARO, 2020 specifically requires reporting on\nphysical verification conducted by management.\n\nTherefore, in compliance with Clause 3(ii)(a) of CARO, 2020, the auditor\nmust report the non-conduct of physical verification of inventory,\nnotwithstanding the use of an ERP system, and suitably reflect this matter\nin the CARO report."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

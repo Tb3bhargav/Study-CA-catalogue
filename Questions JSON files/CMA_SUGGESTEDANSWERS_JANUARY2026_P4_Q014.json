@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.  In a factory, during the month of October 2025, the following transactions\nhave occurred in respect of purchase and issue of \"Material A.\"\n\nMaterial A\n\nStock on 01.10.2025, 100 units at ` 50 per unit\n\nPurchases:\n\n05-10-2025, 2,500 units at ` 55 per unit\n\n08-10-2025, 600 units at ` 56 per unit\n\nIssues:\n\n15-10-2025, 1,500 units\n\nWhat is the value of material A consumed during the period, using LIFO\nmethod of pricing issues?\n(A)  ` 83,100\n(B)  ` 82,000\n(C) ` 82,500\n(D)  ` 84,000\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q014",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.  In a factory, during the month of October 2025, the following transactions\nhave occurred in respect of purchase and issue of \"Material A.\"\n\nMaterial A\n\nStock on 01.10.2025, 100 units at ` 50 per unit\n\nPurchases:\n\n05-10-2025, 2,500 units at ` 55 per unit\n\n08-10-2025, 600 units at ` 56 per unit\n\nIssues:\n\n15-10-2025, 1,500 units\n\nWhat is the value of material A consumed during the period, using LIFO\nmethod of pricing issues?\n(A)  ` 83,100\n(B)  ` 82,000\n(C) ` 82,500\n(D)  ` 84,000\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

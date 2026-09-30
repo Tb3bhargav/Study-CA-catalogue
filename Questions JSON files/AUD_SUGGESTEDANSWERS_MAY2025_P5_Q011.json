@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. The method suggested by second team member in which a complete and\nexhaustive description of internal control in operation is recorded. This\nmethod is known as\n(A)  Narrative Record\n(B)  Flow Chart\n(C)  Questionnaire\n(D)  Check List\n(2 Marks)\n\n40",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q011",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. The method suggested by second team member in which a complete and\nexhaustive description of internal control in operation is recorded. This\nmethod is known as\n(A)  Narrative Record\n(B)  Flow Chart\n(C)  Questionnaire\n(D)  Check List\n(2 Marks)\n\n40"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

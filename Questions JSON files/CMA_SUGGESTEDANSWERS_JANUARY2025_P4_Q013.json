@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.  The data pertaining to the worker C in a factory depicts that he is paid at a\nrate of ` 100 per hour and a week comprises 48 hours for a 6 days’ work. The\nallowed absence time is 15 minutes per day for maintenance etc. The job\ncard of C indicates, his chargeable time is scattered for 2 different jobs J1-21\nhours and J2-24 hours. Any unaccounted time is attributable for power\nfailure.\nCalculate cost of normal idle time and abnormal idle time.\n(A)  ` 100 and ` 150\n(B)  ` 150 and ` 150\n(C)  ` 150 and ` 100\n(D)  ` 100 and ` 100",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q013",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  The data pertaining to the worker C in a factory depicts that he is paid at a\nrate of ` 100 per hour and a week comprises 48 hours for a 6 days’ work. The\nallowed absence time is 15 minutes per day for maintenance etc. The job\ncard of C indicates, his chargeable time is scattered for 2 different jobs J1-21\nhours and J2-24 hours. Any unaccounted time is attributable for power\nfailure.\nCalculate cost of normal idle time and abnormal idle time.\n(A)  ` 100 and ` 150\n(B)  ` 150 and ` 150\n(C)  ` 150 and ` 100\n(D)  ` 100 and ` 100"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. The engagement partner CA B, while evaluating and reporting on the designs\nand efficiency of internal financial controls at GHB Ltd., also highlighted to\nthe directors, independent directors and the audit committee the manner in\nwhich the Companies Act, 2013 places greater emphasis on the effective\nimplementation and reporting on the internal control of a company.\n\nWith reference to reporting on the internal financial controls system under\nthe Companies Act, 2013, which of the following statements does not fall\nwithin the nature of responsibility of GHB Ltd.?\n(A)  In accordance with the terms of reference specified in writing by the\nBoard, act of every audit committee to include evaluation of internal\nfinancial controls and risk management systems.\n(B)  Director's responsibility statement to state that the Director has laid\ndown internal financial controls to be followed by the company and that\nsuch internal financial controls are adequate and were operating\neffectively.\n(C)  Board of Directors have to appoint an expert to state that the internal\nfinancial controls of the company are commensurate with the size and\nnature of its business.\n(D)  In terms of code for Independent Directors, independent directors to get\nthemselves satisfied that financial controls and systems of risk\nmanagement are robust and defensible.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q014",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Strategic Management Implementation and Control",
+    "topic": "Strategic Management Implementation and Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 10,
+    "page_end": 10,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. The engagement partner CA B, while evaluating and reporting on the designs\nand efficiency of internal financial controls at GHB Ltd., also highlighted to\nthe directors, independent directors and the audit committee the manner in\nwhich the Companies Act, 2013 places greater emphasis on the effective\nimplementation and reporting on the internal control of a company.\n\nWith reference to reporting on the internal financial controls system under\nthe Companies Act, 2013, which of the following statements does not fall\nwithin the nature of responsibility of GHB Ltd.?\n(A)  In accordance with the terms of reference specified in writing by the\nBoard, act of every audit committee to include evaluation of internal\nfinancial controls and risk management systems.\n(B)  Director's responsibility statement to state that the Director has laid\ndown internal financial controls to be followed by the company and that\nsuch internal financial controls are adequate and were operating\neffectively.\n(C)  Board of Directors have to appoint an expert to state that the internal\nfinancial controls of the company are commensurate with the size and\nnature of its business.\n(D)  In terms of code for Independent Directors, independent directors to get\nthemselves satisfied that financial controls and systems of risk\nmanagement are robust and defensible.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

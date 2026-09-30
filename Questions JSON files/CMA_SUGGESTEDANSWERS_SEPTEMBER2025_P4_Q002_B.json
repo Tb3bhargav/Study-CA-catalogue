@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q002_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  A factory has three production departments, P1, P2, P3 and two service\ndepartments S1, and S2 Both the service departments are independent and\nprovide services to each other. Following is the detail of expenses of each\nservice department:\n\n14\nDepartment\nAmount (`)\nS1\n1,60,000\nS2\n2,40,000\n\nFurther the expenses of department S1 and S2 are apportioned on the\nfollowing basis:\n\nP1\nP2\nP3\nS1\nS2\nS1\n25%\n35%\n20%\n-\n20%\nS2\n35%\n30%\n25%\n10%\n-\n\nYou are required to apportion the expenses of departments S1 and S2 to\nproduction departments P1, P2 and P3 using Simultaneous Equation Method.\n(4 Marks)",
+  "suggested_answer": "(b)  The total expenses of the two service departments will be determined as\nfollows:\nS1\n\n=  1,60,000 + 0.10 S2\nS2\n\n=  2,40,000 + 0.20 S1\nSubstituting the value of S1,\nS2\n\n=  2,40,000 + 0.20 (1,60,000 + 0.1 S2)\n\n=  2,40,000 + 32,000 + 0.02 S2\n\n=  2,72,000 + 0.02 S2\nS2 - 0.02 S2 =  2,72,000\n\n16\nS2\n\n= \n\n\n\n\n\n2,72,000\n0.98\n=  ` 2,77,551\n\nThe total of expenses of the S2 is ` 2,77,551 and that of the S1 is ` 1,87,755\ni.e., ` 1,60,000 + 0.1 x ` 2,77,551.\nThe expenses will be allocated to the production departments as under:\n\nProduction Department\n\nDept.-P1\nDept.-P2\nDept.-P3\nS1 (25%, 35% and 20% of `1,87,755)\n46,939\n65,714\n37,551\nS2(35%, 30% and 25% of ` 2,77,551)\n97,143\n83,265\n69,388\nTotal\n1,44,082\n1,48,979\n1,06,939\nThe total of expenses apportioned to P1, P2 and P3 is ` 4,00,000.",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q002_B",
+  "source_filename": "89273bos-aps3012-int-p4.pdf",
+  "source_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "answer_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf"
+    },
+    "page_start": 13,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  A factory has three production departments, P1, P2, P3 and two service\ndepartments S1, and S2 Both the service departments are independent and\nprovide services to each other. Following is the detail of expenses of each\nservice department:\n\n14\nDepartment\nAmount (`)\nS1\n1,60,000\nS2\n2,40,000\n\nFurther the expenses of department S1 and S2 are apportioned on the\nfollowing basis:\n\nP1\nP2\nP3\nS1\nS2\nS1\n25%\n35%\n20%\n-\n20%\nS2\n35%\n30%\n25%\n10%\n-\n\nYou are required to apportion the expenses of departments S1 and S2 to\nproduction departments P1, P2 and P3 using Simultaneous Equation Method.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  The total expenses of the two service departments will be determined as\nfollows:\nS1\n\n=  1,60,000 + 0.10 S2\nS2\n\n=  2,40,000 + 0.20 S1\nSubstituting the value of S1,\nS2\n\n=  2,40,000 + 0.20 (1,60,000 + 0.1 S2)\n\n=  2,40,000 + 32,000 + 0.02 S2\n\n=  2,72,000 + 0.02 S2\nS2 - 0.02 S2 =  2,72,000\n\n16\nS2\n\n= \n\n\n\n\n\n2,72,000\n0.98\n=  ` 2,77,551\n\nThe total of expenses of the S2 is ` 2,77,551 and that of the S1 is ` 1,87,755\ni.e., ` 1,60,000 + 0.1 x ` 2,77,551.\nThe expenses will be allocated to the production departments as under:\n\nProduction Department\n\nDept.-P1\nDept.-P2\nDept.-P3\nS1 (25%, 35% and 20% of `1,87,755)\n46,939\n65,714\n37,551\nS2(35%, 30% and 25% of ` 2,77,551)\n97,143\n83,265\n69,388\nTotal\n1,44,082\n1,48,979\n1,06,939\nThe total of expenses apportioned to P1, P2 and P3 is ` 4,00,000."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

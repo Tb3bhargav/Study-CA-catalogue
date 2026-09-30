@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. During the audit of EF Limited for the financial year 2024-25, Mr. Uday, an\narticled clerk was assigned the task of preparing additional information to\nbe disclosed relating to Crypto Currency or Virtual Currency transactions in\nthe financial statements, in accordance with the Companies Act, 2013.\n\nAs a senior auditor, help Mr. Uday to identify which of the points, out of the\noptions given, should be included in the additional information to be\ndisclosed relating to Crypto Currency or Virtual Currency.\nI.\nProfit or loss on transactions involving Crypto currency or Virtual\nCurrency.\nII.  Maximum amount of currency held during the financial year.\nIII.  Market value of crypto currency at the end of the financial year.\nIV.  Amount of currency held as at the reporting date.\nV.  Deposits or advances from any person for the purpose of trading or\ninvesting in Crypto Currency/ virtual currency.\n(A)  I, II, III, V\n(B)  I, III, V\n(C)  I, II, IV\n(D)  I, IV, V\n(2 Marks)",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q014",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 10,
+    "page_end": 10,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. During the audit of EF Limited for the financial year 2024-25, Mr. Uday, an\narticled clerk was assigned the task of preparing additional information to\nbe disclosed relating to Crypto Currency or Virtual Currency transactions in\nthe financial statements, in accordance with the Companies Act, 2013.\n\nAs a senior auditor, help Mr. Uday to identify which of the points, out of the\noptions given, should be included in the additional information to be\ndisclosed relating to Crypto Currency or Virtual Currency.\nI.\nProfit or loss on transactions involving Crypto currency or Virtual\nCurrency.\nII.  Maximum amount of currency held during the financial year.\nIII.  Market value of crypto currency at the end of the financial year.\nIV.  Amount of currency held as at the reporting date.\nV.  Deposits or advances from any person for the purpose of trading or\ninvesting in Crypto Currency/ virtual currency.\n(A)  I, II, III, V\n(B)  I, III, V\n(C)  I, II, IV\n(D)  I, IV, V\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

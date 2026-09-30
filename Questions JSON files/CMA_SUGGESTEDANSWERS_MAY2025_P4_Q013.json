@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.  A Lorry starts with a load of 15 tons of goods from Station 'X'. It unloads 5\ntons in Station 'Y' and balance goods in Station 'Z'. On return trip, it reaches\nStation 'X' with a load of 8 tons, loaded at Station 'Z'. The distance between\nX to Y, Y to Z and Z to X are 50 kms, 60 kms and 80 kms, respectively.\n\nCompute \"Absolute Tons-Kilometre\" and \"Commercial Tons-Kilometre\".\n(A)  1,690 & 2,000\n(B)  1,990 & 2,090\n(C)  2,090 & 1,990\n(D)  2,100 & 1,980",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q013",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  A Lorry starts with a load of 15 tons of goods from Station 'X'. It unloads 5\ntons in Station 'Y' and balance goods in Station 'Z'. On return trip, it reaches\nStation 'X' with a load of 8 tons, loaded at Station 'Z'. The distance between\nX to Y, Y to Z and Z to X are 50 kms, 60 kms and 80 kms, respectively.\n\nCompute \"Absolute Tons-Kilometre\" and \"Commercial Tons-Kilometre\".\n(A)  1,690 & 2,000\n(B)  1,990 & 2,090\n(C)  2,090 & 1,990\n(D)  2,100 & 1,980"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

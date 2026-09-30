@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nWhile auditing Happy Pvt. Ltd., CA M reviews a large number of invoices \ncollected by the audit team. However, noticing that only a few have \nthird-party confirmations, CA M reminds the team that simply having \nmore documents doesn't ensure strong audit evidence and explained \nthat reliability or quality matters too. What CA M is trying to explain in \nthe given situation? \n(a)  \nSufficiency relates to quality; appropriateness relates to quantity. \n(b)  \nInternal documents are always sufficient and appropriate. \n(c)  \nMore documents mean better audit evidence. \n(d)  \nSufficiency refers to quantity; appropriateness refers to quality. \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n60 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION",
+  "suggested_answer": "(D)",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q006",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nWhile auditing Happy Pvt. Ltd., CA M reviews a large number of invoices \ncollected by the audit team. However, noticing that only a few have \nthird-party confirmations, CA M reminds the team that simply having \nmore documents doesn't ensure strong audit evidence and explained \nthat reliability or quality matters too. What CA M is trying to explain in \nthe given situation? \n(a)  \nSufficiency relates to quality; appropriateness relates to quantity. \n(b)  \nInternal documents are always sufficient and appropriate. \n(c)  \nMore documents mean better audit evidence. \n(d)  \nSufficiency refers to quantity; appropriateness refers to quality. \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n60 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

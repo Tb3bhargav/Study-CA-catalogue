@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) BG company produces a standard product and sold in a packet of 10 kg. The\nstandard cost card per pack is as follows:\nDirect Material:\nA - 4 kg @ ` 50 per kg\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nB - 8 kg @ ` 40 per kg\nDirect Labour:\n6 hours @ ` 20 per hour\nThe company manufactured and sold 1,600 packets during the month. Actual\ndata for material and labour recorded as under.\nDirect Material:\nA - 7,000 kg @ ` 40\nB - 12,500 kg @ ` 45\nLabour hours paid for two different categories of workers:\nSkilled\n\n6,000 hours @ ` 25\nSemi-skilled\n\n4,000 hours @ ` 20\n5% of the time paid was lost due to an abnormal reason.\nCalculate the following variances indicating their nature (Favourable or\nAdverse):\n(i) Material cost variances\n(ii) Material price variances\n(iii) Material usage variances\n(iv) Material mix variances\n(v) Material yield variances\n(vi) Labour cost variances\n(vii) Labour rate variances\n(viii)Labour efficiency variances\n(ix) Labour Idle time variances\n(9 Marks)",
+  "suggested_answer": "(a)\nBudget\nActual\nQty. (Kg.)\n[SQ]\nPrice\n(`)\n[SP]\nAmount\n(`)\n[SQ x SP]\nQty. (Kg.)\n[AQ]\nPrice\n(`)\n[AP]\nAmount\n(`)\n[AQ x AP]\nA\n6,400\n50\n3,20,000\n7,000\n40\n2,80,000\nB\n12,800\n40\n5,12,000\n12,500\n45\n5,62,500\n19,200\n8,32,000\n19,500\n8,42,500\nMaterial Cost Variance\n\n= (SQ X SP – AQ X AP)\n= ` 8,32,000 – ` 8,42,500\n\n= ` 10,500 (A)\nMaterial Price Variance\n\n= (SP – AP) x AQ\nA (` 50 – ` 40) × 7,000 Kg\n\n= ` 70,000 (F)\nB (` 40 – ` 45) × 12,500 Kg\n\n= ` 62,500 (A)\n\n`   7,500 (F)\nMaterial Usage Variance\n\n= SP x (SQ – AQ)\nA ` 50 × (6,400 Kg – 7000 Kg)\n=\n` 30,000 (A)\nB ` 40 × (12,800 Kg – 12,500 Kg)\n=\n` 12,000 (F)\n\n` 18,000 (A)\nMaterial Mix Variance\n\n= (RSQ - AQ) X SP\nA = (6,500 Kg – 7,000 Kg) x ` 50      =\n` 25,000 (A)\nB = (13,000 Kg – 12,500 Kg) x ` 40  =\n` 20,000 (F)\n\n` 5,000 (A)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27\nMaterial Yield Variance\n\n= (SQ – RSQ) X SP\nA = (6,400 Kg – 6,500 Kg) x ` 50\n=\n` 5,000 (A)\nB = (12,800 Kg – 13,000 Kg) x ` 40  =\n` 8,000 (A)\n\n`  13,000 (A)\nLabour\nStandard Hours for actual Production = 6 Hours X 1,600 Units = 9,600 Hours\nLabour Cost Variance = (SH X SR – AH X AR)\n= 9,600 hrs x ` 20 – {(6,000 hrs x ` 25) + (4,000 hrs x ` 20)}\n= ` 1,92,000 – ` 2,30,000 =\n` 38,000 (A)\nLabour Rate Variance = (SR – AR) X AH\n= (` 20 -` 25) x 6,000 hrs =  ` 30,000 (A)\nEfficiency Variance    = (SH – AH worked) x SR\n= (9,600 hrs – 9,500 hrs) x ` 20 =  ` 2,000 (F)\nIdle time Variance    = Idle Hours X SR\n= (AH – AH#) × SR\n= (10,000 hours – 9,500 hours) x ` 20 = ` 10,000 (A)\nAH# refers to Actual Hours Worked",
+  "marks": "(9 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q004_A",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 27
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": "(9 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 24,
+    "page_end": 27,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) BG company produces a standard product and sold in a packet of 10 kg. The\nstandard cost card per pack is as follows:\nDirect Material:\nA - 4 kg @ ` 50 per kg\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nB - 8 kg @ ` 40 per kg\nDirect Labour:\n6 hours @ ` 20 per hour\nThe company manufactured and sold 1,600 packets during the month. Actual\ndata for material and labour recorded as under.\nDirect Material:\nA - 7,000 kg @ ` 40\nB - 12,500 kg @ ` 45\nLabour hours paid for two different categories of workers:\nSkilled\n\n6,000 hours @ ` 25\nSemi-skilled\n\n4,000 hours @ ` 20\n5% of the time paid was lost due to an abnormal reason.\nCalculate the following variances indicating their nature (Favourable or\nAdverse):\n(i) Material cost variances\n(ii) Material price variances\n(iii) Material usage variances\n(iv) Material mix variances\n(v) Material yield variances\n(vi) Labour cost variances\n(vii) Labour rate variances\n(viii)Labour efficiency variances\n(ix) Labour Idle time variances\n(9 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\nBudget\nActual\nQty. (Kg.)\n[SQ]\nPrice\n(`)\n[SP]\nAmount\n(`)\n[SQ x SP]\nQty. (Kg.)\n[AQ]\nPrice\n(`)\n[AP]\nAmount\n(`)\n[AQ x AP]\nA\n6,400\n50\n3,20,000\n7,000\n40\n2,80,000\nB\n12,800\n40\n5,12,000\n12,500\n45\n5,62,500\n19,200\n8,32,000\n19,500\n8,42,500\nMaterial Cost Variance\n\n= (SQ X SP – AQ X AP)\n= ` 8,32,000 – ` 8,42,500\n\n= ` 10,500 (A)\nMaterial Price Variance\n\n= (SP – AP) x AQ\nA (` 50 – ` 40) × 7,000 Kg\n\n= ` 70,000 (F)\nB (` 40 – ` 45) × 12,500 Kg\n\n= ` 62,500 (A)\n\n`   7,500 (F)\nMaterial Usage Variance\n\n= SP x (SQ – AQ)\nA ` 50 × (6,400 Kg – 7000 Kg)\n=\n` 30,000 (A)\nB ` 40 × (12,800 Kg – 12,500 Kg)\n=\n` 12,000 (F)\n\n` 18,000 (A)\nMaterial Mix Variance\n\n= (RSQ - AQ) X SP\nA = (6,500 Kg – 7,000 Kg) x ` 50      =\n` 25,000 (A)\nB = (13,000 Kg – 12,500 Kg) x ` 40  =\n` 20,000 (F)\n\n` 5,000 (A)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27\nMaterial Yield Variance\n\n= (SQ – RSQ) X SP\nA = (6,400 Kg – 6,500 Kg) x ` 50\n=\n` 5,000 (A)\nB = (12,800 Kg – 13,000 Kg) x ` 40  =\n` 8,000 (A)\n\n`  13,000 (A)\nLabour\nStandard Hours for actual Production = 6 Hours X 1,600 Units = 9,600 Hours\nLabour Cost Variance = (SH X SR – AH X AR)\n= 9,600 hrs x ` 20 – {(6,000 hrs x ` 25) + (4,000 hrs x ` 20)}\n= ` 1,92,000 – ` 2,30,000 =\n` 38,000 (A)\nLabour Rate Variance = (SR – AR) X AH\n= (` 20 -` 25) x 6,000 hrs =  ` 30,000 (A)\nEfficiency Variance    = (SH – AH worked) x SR\n= (9,600 hrs – 9,500 hrs) x ` 20 =  ` 2,000 (F)\nIdle time Variance    = Idle Hours X SR\n= (AH – AH#) × SR\n= (10,000 hours – 9,500 hours) x ` 20 = ` 10,000 (A)\nAH# refers to Actual Hours Worked"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

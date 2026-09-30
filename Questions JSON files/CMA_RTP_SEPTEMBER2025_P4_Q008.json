@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2025_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "8.  \nThe existing incentive system of Sakshi Limited is as under: \nNormal working week \n5 days of 8 hours each \nplus 3 late shifts of 3 \nhours each \nRate of Payment \nDay work: ` 160 per hour \nLate shift: ` 225 per hour  \nAverage output per operator for 49-hours \nweek i.e. including 3 late shifts \n240 articles \n \nIn order to increase output and eliminate overtime, it is decided to \nswitch on to a system of payment by results.  The following information \nis obtained:  \nTime-rate (as usual)  \n: \n` 160 per hour \nBasic time allowed for 15 \narticles \n: \n2.5 hours \nPiece-work rate \n: \nAdd 20% to basic piece-rate \nPremium Bonus \n: \nAdd 50% to time. \nIf during the last week 270 articles are produced in a 40-hour week. \nRequired: \n(i) \nCALCULATE weekly earnings for one operator under the following \nsystems: \n(a) \nExisting time-rate \n(b) \nStraight piece-work \n(c) \nRowan system \n(d)  \nHalsey premium system \n(ii) \nPREPARE a Statement showing hours worked, weekly earnings, \nnumber of articles produced and labour cost per article for one \noperator under the above systems. \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\nOverheads- Absorption Costing Method",
+  "suggested_answer": "(i)  \n(a)  Existing time rate \nWeekly wages: \nNormal shift \n \n(40 hours × `160): \n \n` 6,400 \nLate shift \n(9 hours × `225) \n` 2,025 \n \n \n` 8,425 \n(b)  Piece Rate System \n15 articles are produced in 2.5 hours \nTherefore, to produce 270 articles, hours required is \n2.5 hours\n15 articles  × 270 articles = 45 hours. \nCost of producing 270 articles: \nAt basic time rate (45 hours × `160)  =  ` 7,200 \nAdd: Bonus @ 20% on basic Piece rate \n` 1,440 \n   Earning for the week    \n \n \n \n ` 8,640 \n(c) \nRowan Premium System \n(i) \nTime \nallowed \nfor \nproducing \n270 \narticles \nቀ\n2.5 hours\n15 articles  × 270 articles × 150%ቁ= 67.5 hours \n(ii)  \nTime taken to produce 270 articles = 40.0 hours \n(iii)  Time Saved = 67.5 – 40 = 27.5 hours \nEarnings under Rowan Premium system:  \n= (Time taken × Rate per hour) + ቀ\nTime saved\nTime allowed  × Time taken × Rate per hourቁ  \n= (40 hours × ` 160) + ቀ\n27.5 hours\n67.5 hours  × 40 hours × ` 160ቁ \n=` 6,400 + ` 2,607.41 ` 9,007.41 \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n(d)  Halsey Premium System \n= \n1\n(Timetaken×Rateperhour)+( ×Timesaved×Rateperhour)\n2\n \n \n= \n1\n(40hours× 160)+\n×27.5hours× 160\n2\n\n\n\n\n\n\n`\n`\n \n= ` 6,400 + ` 2,200 = ` 8,600 \n(ii)  Statement showing hours worked, weekly earnings, number of \narticles produced and cost per article \nMethod of \nPayment \nHours \nworked \nWeekly \nearnings \n(`) \nNumber of \narticles \nproduced \nLabour cost \nper article \n(`) \nExisting \ntime \nrate  \n49 \n8,425.00 \n240 \n35.10 \nStraight piece \nrate system  \n40 \n8,640.00 \n270 \n32.00 \nRowan \nPremium \nSystem  \n40 \n9,007.41 \n270 \n33.36 \nHalsey \nPremium \nSystem  \n40 \n8,600.00 \n270 \n31.85 \n \n \n \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n35 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2025_P4_Q008",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.  \nThe existing incentive system of Sakshi Limited is as under: \nNormal working week \n5 days of 8 hours each \nplus 3 late shifts of 3 \nhours each \nRate of Payment \nDay work: ` 160 per hour \nLate shift: ` 225 per hour  \nAverage output per operator for 49-hours \nweek i.e. including 3 late shifts \n240 articles \n \nIn order to increase output and eliminate overtime, it is decided to \nswitch on to a system of payment by results.  The following information \nis obtained:  \nTime-rate (as usual)  \n: \n` 160 per hour \nBasic time allowed for 15 \narticles \n: \n2.5 hours \nPiece-work rate \n: \nAdd 20% to basic piece-rate \nPremium Bonus \n: \nAdd 50% to time. \nIf during the last week 270 articles are produced in a 40-hour week. \nRequired: \n(i) \nCALCULATE weekly earnings for one operator under the following \nsystems: \n(a) \nExisting time-rate \n(b) \nStraight piece-work \n(c) \nRowan system \n(d)  \nHalsey premium system \n(ii) \nPREPARE a Statement showing hours worked, weekly earnings, \nnumber of articles produced and labour cost per article for one \noperator under the above systems. \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\nOverheads- Absorption Costing Method"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i)  \n(a)  Existing time rate \nWeekly wages: \nNormal shift \n \n(40 hours × `160): \n \n` 6,400 \nLate shift \n(9 hours × `225) \n` 2,025 \n \n \n` 8,425 \n(b)  Piece Rate System \n15 articles are produced in 2.5 hours \nTherefore, to produce 270 articles, hours required is \n2.5 hours\n15 articles  × 270 articles = 45 hours. \nCost of producing 270 articles: \nAt basic time rate (45 hours × `160)  =  ` 7,200 \nAdd: Bonus @ 20% on basic Piece rate \n` 1,440 \n   Earning for the week    \n \n \n \n ` 8,640 \n(c) \nRowan Premium System \n(i) \nTime \nallowed \nfor \nproducing \n270 \narticles \nቀ\n2.5 hours\n15 articles  × 270 articles × 150%ቁ= 67.5 hours \n(ii)  \nTime taken to produce 270 articles = 40.0 hours \n(iii)  Time Saved = 67.5 – 40 = 27.5 hours \nEarnings under Rowan Premium system:  \n= (Time taken × Rate per hour) + ቀ\nTime saved\nTime allowed  × Time taken × Rate per hourቁ  \n= (40 hours × ` 160) + ቀ\n27.5 hours\n67.5 hours  × 40 hours × ` 160ቁ \n=` 6,400 + ` 2,607.41 ` 9,007.41 \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n(d)  Halsey Premium System \n= \n1\n(Timetaken×Rateperhour)+( ×Timesaved×Rateperhour)\n2\n \n \n= \n1\n(40hours× 160)+\n×27.5hours× 160\n2\n\n\n\n\n\n\n`\n`\n \n= ` 6,400 + ` 2,200 = ` 8,600 \n(ii)  Statement showing hours worked, weekly earnings, number of \narticles produced and cost per article \nMethod of \nPayment \nHours \nworked \nWeekly \nearnings \n(`) \nNumber of \narticles \nproduced \nLabour cost \nper article \n(`) \nExisting \ntime \nrate  \n49 \n8,425.00 \n240 \n35.10 \nStraight piece \nrate system  \n40 \n8,640.00 \n270 \n32.00 \nRowan \nPremium \nSystem  \n40 \n9,007.41 \n270 \n33.36 \nHalsey \nPremium \nSystem  \n40 \n8,600.00 \n270 \n31.85 \n \n \n \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n35 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q002_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  XYZ Highway Toll Plaza Limited operates a toll plaza on a 100 km highway\nand collects tolls from vehicles passing through the plaza. The company has\nestimated that every year a total of ` 60 lakh vehicles (60% Passenger\nvehicles, 15% Heavy Commercial Vehicles and rest are Buses) will be using\nthe highway during the 15 years toll collection tenure.\n\nToll Operating and Maintenance cost for the month (30 days in a month) are\nas follows:\n(1)  Personnel Costs (Salaries):\n\nCollection Personnel:\n•\nNumber of shifts: 3\n•\nNumber of toll collection personnel per shift: 10\n•\nSalary per day per person: ` 800\n\nSupervisors:\n•\nNumber of shifts: 2\n•\nNumber of supervisors per shift: 3\n•\nSalary per day per supervisor: ` 1,200\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13\n\nSecurity Personnel:\n•\nNumber of shifts: 3\n•\nNumber of security personnel per shift: 10\n•\nSalary per day per security person: ` 500\n\nToll Plaza Manager:\n•\nNumber of shifts: 2\n•\nNumber of managers per shift: 1\n•\nSalary per day per manager: ` 2,000\n(2)  Other Annual costs:\nElectricity\n` 14,40,000\nTelephone & Communication Cost\n` 2,40,000\nMaintenance Cost\n` 60,00,000\nDepreciation and amortization\n` 12,00,00,000\nInsurance and safety cost\n` 15,00,000\nInterest expense incurred for servicing term loans\n` 7,83,48,000\n\nThe toll rate per vehicle is to be fixed as under:\nHeavy commercial vehicles\n500% of toll rate for Passenger vehicle\nBus\n400% of toll rate for Passenger vehicle\nRequired:\n(i)  Calculate the total cost per month for the toll plaza.\n(ii)  The company aims to achieve a 20% profit margin over total takings.\nCalculate the toll rate to be charged for each type of vehicle. (Assume a\n360 days year)\n(10 Marks)",
+  "suggested_answer": "(a)  (i)\n\nStatement of Cost\nParticulars\nAmount (`)\nPersonnel Cost:\nCollection Personnel (3 x 10 x 800 x 30)\n7,20,000\nSupervisor (2 x 3 x 1,200 x 30)\n2,16,000\nSecurity Personnel (3 x 10 x 500 x 30)\n4,50,000\nToll Plaza manager (2 x 1 x 2,000 x 30)\n1,20,000\nOther Cost:\nElectricity\n1,20,000\nTelephone and Communication\n20,000\nMaintenance Cost\n5,00,000\nDepreciation and Amortization\n1,00,00,000\nInsurance and Safety Cost\n1,25,000\nInterest Expense\n65,29,000\nTotal Cost\n1,88,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\n(ii) Total cost\n\n` 1,88,00000\n\nProfit\n\n` 47,00,000\n\nTakings (1,88,00,000/80%)\n\n` 2,35,00,000\n\nNo. of vehicles (monthly)\n\nPassenger vehicles (5,00,000 x 60%)\n\n3,00,000\n\nHeavy Commercial vehicles (5,00,000 x 15%)\n\n75,000\n\nBuses (5,00,000 x 25%)\n\n1,25,000\n\nLet the toll rate for Passenger vehicles be\n\nX\n\nThen toll rate for Heavy Commercial vehicles be\n5X\n\nThen toll rate for Buses be\n\n4X\n\nTherefore\n\n3,00,000*X +75,000*5X +1,25,000*4X = 11,75,000X = ` 2,35,00,000\n\nX = ` 2,35,00,000/11,75,000 = ` 20\n\nToll Rate (per vehicle)\n\nPassenger vehicles\n\n20\n\nHeavy Commercial vehicles\n\n100\n\nBuses\n\n80",
+  "marks": "(10 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q002_A",
+  "source_filename": "89273bos-aps3012-int-p4.pdf",
+  "source_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 12,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(a)",
+    "marks": "(10 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "answer_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf"
+    },
+    "page_start": 12,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  XYZ Highway Toll Plaza Limited operates a toll plaza on a 100 km highway\nand collects tolls from vehicles passing through the plaza. The company has\nestimated that every year a total of ` 60 lakh vehicles (60% Passenger\nvehicles, 15% Heavy Commercial Vehicles and rest are Buses) will be using\nthe highway during the 15 years toll collection tenure.\n\nToll Operating and Maintenance cost for the month (30 days in a month) are\nas follows:\n(1)  Personnel Costs (Salaries):\n\nCollection Personnel:\n•\nNumber of shifts: 3\n•\nNumber of toll collection personnel per shift: 10\n•\nSalary per day per person: ` 800\n\nSupervisors:\n•\nNumber of shifts: 2\n•\nNumber of supervisors per shift: 3\n•\nSalary per day per supervisor: ` 1,200\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13\n\nSecurity Personnel:\n•\nNumber of shifts: 3\n•\nNumber of security personnel per shift: 10\n•\nSalary per day per security person: ` 500\n\nToll Plaza Manager:\n•\nNumber of shifts: 2\n•\nNumber of managers per shift: 1\n•\nSalary per day per manager: ` 2,000\n(2)  Other Annual costs:\nElectricity\n` 14,40,000\nTelephone & Communication Cost\n` 2,40,000\nMaintenance Cost\n` 60,00,000\nDepreciation and amortization\n` 12,00,00,000\nInsurance and safety cost\n` 15,00,000\nInterest expense incurred for servicing term loans\n` 7,83,48,000\n\nThe toll rate per vehicle is to be fixed as under:\nHeavy commercial vehicles\n500% of toll rate for Passenger vehicle\nBus\n400% of toll rate for Passenger vehicle\nRequired:\n(i)  Calculate the total cost per month for the toll plaza.\n(ii)  The company aims to achieve a 20% profit margin over total takings.\nCalculate the toll rate to be charged for each type of vehicle. (Assume a\n360 days year)\n(10 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)\n\nStatement of Cost\nParticulars\nAmount (`)\nPersonnel Cost:\nCollection Personnel (3 x 10 x 800 x 30)\n7,20,000\nSupervisor (2 x 3 x 1,200 x 30)\n2,16,000\nSecurity Personnel (3 x 10 x 500 x 30)\n4,50,000\nToll Plaza manager (2 x 1 x 2,000 x 30)\n1,20,000\nOther Cost:\nElectricity\n1,20,000\nTelephone and Communication\n20,000\nMaintenance Cost\n5,00,000\nDepreciation and Amortization\n1,00,00,000\nInsurance and Safety Cost\n1,25,000\nInterest Expense\n65,29,000\nTotal Cost\n1,88,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\n(ii) Total cost\n\n` 1,88,00000\n\nProfit\n\n` 47,00,000\n\nTakings (1,88,00,000/80%)\n\n` 2,35,00,000\n\nNo. of vehicles (monthly)\n\nPassenger vehicles (5,00,000 x 60%)\n\n3,00,000\n\nHeavy Commercial vehicles (5,00,000 x 15%)\n\n75,000\n\nBuses (5,00,000 x 25%)\n\n1,25,000\n\nLet the toll rate for Passenger vehicles be\n\nX\n\nThen toll rate for Heavy Commercial vehicles be\n5X\n\nThen toll rate for Buses be\n\n4X\n\nTherefore\n\n3,00,000*X +75,000*5X +1,25,000*4X = 11,75,000X = ` 2,35,00,000\n\nX = ` 2,35,00,000/11,75,000 = ` 20\n\nToll Rate (per vehicle)\n\nPassenger vehicles\n\n20\n\nHeavy Commercial vehicles\n\n100\n\nBuses\n\n80"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

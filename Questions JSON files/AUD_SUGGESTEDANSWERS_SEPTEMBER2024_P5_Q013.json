@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.\nM/s DEF & Associates have been appointed as the statutory auditor of JKL\nLtd. for the first time for the financial year 2024-25. The engagement partner,\nCA D, is briefing his engagement team about the need of Engagement\nStandards and Quality Control Standards in the areas of financial statement\naudits and in other types of assurance services. Out of the following which\none point is not correct about why standards are needed?\n(A)\nStandards equip professional accountants with professional knowledge\n& Skill.\n(B)\nStandards ensure audit quality.\n(C)\nStandards promote uniformity as audit of financial statements is\ncarried out following these Standards.\n(D)  Standards ensure carrying out of audit against established benchmarks\nat par with local practices.",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q013",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.\nM/s DEF & Associates have been appointed as the statutory auditor of JKL\nLtd. for the first time for the financial year 2024-25. The engagement partner,\nCA D, is briefing his engagement team about the need of Engagement\nStandards and Quality Control Standards in the areas of financial statement\naudits and in other types of assurance services. Out of the following which\none point is not correct about why standards are needed?\n(A)\nStandards equip professional accountants with professional knowledge\n& Skill.\n(B)\nStandards ensure audit quality.\n(C)\nStandards promote uniformity as audit of financial statements is\ncarried out following these Standards.\n(D)  Standards ensure carrying out of audit against established benchmarks\nat par with local practices."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

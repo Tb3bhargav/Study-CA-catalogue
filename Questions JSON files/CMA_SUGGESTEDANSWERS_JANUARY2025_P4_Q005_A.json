@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) The following information has been provided by a company:\nNumber of units produced and sold\n:\n7,000\nStandard labour rate per hour\n\n:\n` 9\n\n24\nActual hours worked\n\n:\n17,820 hours\nLabour efficiency\n\n:\n106.8%\nLabour rate variance\n\n:\n71,280 (A)\nYou are required to calculate :\n(i)  Actual labour rate per hour\n(1 Marks)\n(ii)  Standard hours required for 7,000 units\n(2 Marks)\n(iii)  Labour Efficiency variance\n(1 Marks)\n(iv)  Standard labour cost per unit\n(1 Marks)\n(v)  Actual labour cost per unit\n(1 Marks)",
+  "suggested_answer": "(a) (i) Actual Hours Worked\n17,820\nStandard Rate Per hour\n\n9\nLabour Rate Variance\n71280 (A)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nLabour Rate Variance\n= (Standard Rate – Actual Rate) Actual Hours\n(9 – Actual Rate) 17,820  = -71,280\n(9 – Actual Rate)\n\n= - 4\nActual Rate\n\n= 13\n(ii)  Labour Efficiency\n= Standard Hours x 100\nActual Hours\n\n106.8%\n\n= Standard Hours\n1  7,820\n\nStandard Hours\n= 19,031.76\n(iii) Labour Efficiency Variance\n= (Standard Hours – Actual Hours) x\n\nStandard Rate\n= (19,031.76 – 17,820) x 9\n= 10,905.84 (F)\n(iv)  Standard Labour Cost per unit= 19,031.76 x 9\n7,000\n= 24.47\n(v) Actual Labour cost per unit  = 17,820 x 13\n7,000\n= 33.09",
+  "marks": "(1 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005_A",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 23,
+    "end": 25
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(a)",
+    "marks": "(1 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 23,
+    "page_end": 25,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) The following information has been provided by a company:\nNumber of units produced and sold\n:\n7,000\nStandard labour rate per hour\n\n:\n` 9\n\n24\nActual hours worked\n\n:\n17,820 hours\nLabour efficiency\n\n:\n106.8%\nLabour rate variance\n\n:\n71,280 (A)\nYou are required to calculate :\n(i)  Actual labour rate per hour\n(1 Marks)\n(ii)  Standard hours required for 7,000 units\n(2 Marks)\n(iii)  Labour Efficiency variance\n(1 Marks)\n(iv)  Standard labour cost per unit\n(1 Marks)\n(v)  Actual labour cost per unit\n(1 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i) Actual Hours Worked\n17,820\nStandard Rate Per hour\n\n9\nLabour Rate Variance\n71280 (A)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nLabour Rate Variance\n= (Standard Rate – Actual Rate) Actual Hours\n(9 – Actual Rate) 17,820  = -71,280\n(9 – Actual Rate)\n\n= - 4\nActual Rate\n\n= 13\n(ii)  Labour Efficiency\n= Standard Hours x 100\nActual Hours\n\n106.8%\n\n= Standard Hours\n1  7,820\n\nStandard Hours\n= 19,031.76\n(iii) Labour Efficiency Variance\n= (Standard Hours – Actual Hours) x\n\nStandard Rate\n= (19,031.76 – 17,820) x 9\n= 10,905.84 (F)\n(iv)  Standard Labour Cost per unit= 19,031.76 x 9\n7,000\n= 24.47\n(v) Actual Labour cost per unit  = 17,820 x 13\n7,000\n= 33.09"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

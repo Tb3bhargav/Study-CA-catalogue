@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q016",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16. \nMr. Intell newly sets up a Home Stay in Hanle, Ladakh offering two types \nof room, single and double. The expected occupancy percentage for the \nrooms is provided below: \nType of rooms \nNumber \nOccupancy percentage \nSingle  \n20 \n100% \nDouble  \n10 \n80% \nThe details of the expenses as forecasted are provided below:  \nParticulars \n(`)  \nStaff salaries \n 30,20,000  \nFood and beverage costs \n20,16,000 \nLighting and power \n 8,60,000  \nRepairs and renovation \n 4,94,000  \nLaundry charges \n 3,22,000  \nBuilding rent \n 14,40,000  \nMiscellaneous expenses  \n 6,12,000  \nRoom attendants to be paid @ ` 125 per room day. \nMr. Intell knowing about the power cut during nights at Hanle to \npreserve the natural light for astronomical research, sets up emergency \npower backup, being charged from the customers separately @ ` 200 \nper room, if requested.  \nThe rent of the double room is to be fixed at 1.5 times the single room. \nIn the month of June, Mr. Matrix along with his family visited Hanle Dark \nSky Reserve to experience the breathtaking view of the stars. For one \nnight stay at the place, he approached Mr. Intell to book a double \nbedroom and also requested for emergency power backup at night. \nYou are required to CALCULATE the rent to be charged from Mr. Matrix, \nconsidering the profit @ 25% on total taking. \n(Assume 360 days in a year for calculation purpose.) \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nStandard Costing",
+  "suggested_answer": "Working Notes: \nTotal equivalent single rooms \nNature of \nroom \nOccupancy (Room-days) \nEquivalent single \nrooms (Room-\ndays) \nSingle room  \n7,200 \n(20 rooms × 360 days × 100%) \n7,200 \n(7,200 × 1) \nDouble rooms  \n2,880 \n(10 rooms × 360 days × 80%) \n4,320 \n(2,880 × 1.5) \n \n10,080 \n11,520 \nStatement of total cost \nParticulars \n(`) \nStaff salaries \n 30,20,000  \nRoom attendant’s wages (` 125 per Room Day for \n10,080 Room Days) \n12,60,000 \nFood and beverage costs \n20,16,000 \nLighting and power \n 8,60,000  \nRepairs and renovation \n 4,94,000  \nLaundry charges \n 3,22,000  \nBuilding rent \n 14,40,000  \nMiscellaneous expenses  \n 6,12,000  \nTotal cost \n1,00,24,000 \nProfit is 25% on total taking \n∴ Total taking = ` 1,00,24,000 + 25% of total taking \nLet R be rent for single room \nThen 11,520 R  \n  \n \n= 1,00,24,000 + (0.25 × 11,520 R) \nOr,     8,640 R \n  \n \n= 1,00,24,000 \nOr,     R \n \n  \n \n= ` 1,160 (approx.) \nRent to be charged for single room  = ` 1,160 \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nRent for double room ` 1,160 × 1.5  = ` 1,740 \nRent to be charged from Mr. Matrix \nDouble room rent  \n \n \n` 1,740 \nAdd: Power backup charges  \n   ` 200 \n \n \n \n \n  \n \n \n \n` 1,940",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q016",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. \nMr. Intell newly sets up a Home Stay in Hanle, Ladakh offering two types \nof room, single and double. The expected occupancy percentage for the \nrooms is provided below: \nType of rooms \nNumber \nOccupancy percentage \nSingle  \n20 \n100% \nDouble  \n10 \n80% \nThe details of the expenses as forecasted are provided below:  \nParticulars \n(`)  \nStaff salaries \n 30,20,000  \nFood and beverage costs \n20,16,000 \nLighting and power \n 8,60,000  \nRepairs and renovation \n 4,94,000  \nLaundry charges \n 3,22,000  \nBuilding rent \n 14,40,000  \nMiscellaneous expenses  \n 6,12,000  \nRoom attendants to be paid @ ` 125 per room day. \nMr. Intell knowing about the power cut during nights at Hanle to \npreserve the natural light for astronomical research, sets up emergency \npower backup, being charged from the customers separately @ ` 200 \nper room, if requested.  \nThe rent of the double room is to be fixed at 1.5 times the single room. \nIn the month of June, Mr. Matrix along with his family visited Hanle Dark \nSky Reserve to experience the breathtaking view of the stars. For one \nnight stay at the place, he approached Mr. Intell to book a double \nbedroom and also requested for emergency power backup at night. \nYou are required to CALCULATE the rent to be charged from Mr. Matrix, \nconsidering the profit @ 25% on total taking. \n(Assume 360 days in a year for calculation purpose.) \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nStandard Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Working Notes: \nTotal equivalent single rooms \nNature of \nroom \nOccupancy (Room-days) \nEquivalent single \nrooms (Room-\ndays) \nSingle room  \n7,200 \n(20 rooms × 360 days × 100%) \n7,200 \n(7,200 × 1) \nDouble rooms  \n2,880 \n(10 rooms × 360 days × 80%) \n4,320 \n(2,880 × 1.5) \n \n10,080 \n11,520 \nStatement of total cost \nParticulars \n(`) \nStaff salaries \n 30,20,000  \nRoom attendant’s wages (` 125 per Room Day for \n10,080 Room Days) \n12,60,000 \nFood and beverage costs \n20,16,000 \nLighting and power \n 8,60,000  \nRepairs and renovation \n 4,94,000  \nLaundry charges \n 3,22,000  \nBuilding rent \n 14,40,000  \nMiscellaneous expenses  \n 6,12,000  \nTotal cost \n1,00,24,000 \nProfit is 25% on total taking \n∴ Total taking = ` 1,00,24,000 + 25% of total taking \nLet R be rent for single room \nThen 11,520 R  \n  \n \n= 1,00,24,000 + (0.25 × 11,520 R) \nOr,     8,640 R \n  \n \n= 1,00,24,000 \nOr,     R \n \n  \n \n= ` 1,160 (approx.) \nRent to be charged for single room  = ` 1,160 \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nRent for double room ` 1,160 × 1.5  = ` 1,740 \nRent to be charged from Mr. Matrix \nDouble room rent  \n \n \n` 1,740 \nAdd: Power backup charges  \n   ` 200 \n \n \n \n \n  \n \n \n \n` 1,940"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

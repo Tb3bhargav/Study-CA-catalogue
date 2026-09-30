@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q002_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Luxury Designer Pvt. Ltd. is a manufacturing company, which manufactures\nreadymade designer shirts. It has four customers: two wholesale category\ncustomers and two retail category customers. It has developed the following\nActivity- Based Costing system:\nActivity\nCost Driver Rate (`)\nOrder Processing\n1,260 per purchase order\nCustomer Visits\n1,500 per customer visit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7\nRegular Delivery\n30 per delivery Km. travelled\nExpedited Delivery\n4,490 per expedited delivery\n\nList selling price per shirt is ` 1,000 and average cost per shirt is ` 600. CEO\nof Luxury Designer Pvt. Ltd. wants to evaluate the profitability of each of the\nfour customers for the year 2023, to explore opportunities for increasing\nprofitability of his Company in the next year 2024. The following data in\ncontext of four customers are available for 2023:\n\nWholesale\nCustomers\nRetail\nCustomers\n\nWC-1\nWC-2\nRC-1\nRC-2\nNumber of Purchase orders\n50\n65\n224\n245\nNumber of Customer visits\n10\n13\n25\n22\nRegular Deliveries\n46\n52\n175\n198\nKilometers travelled per delivery\n20\n15\n10\n25\nExpedited Deliveries\n5\n16\n50\n62\nAverage Number of Shirts per Shirt\n215\n110\n18\n15\nAverage Selling Price per Shirt\n` 700\n` 800\n` 900\n` 950\n\nYou are required to:\n\nCalculate the customer-level operating income and operating income as a %\nof revenues in 2023 and rank them on the basis of relative profitability.",
+  "suggested_answer": "(a) Working note:\n\nComputation of revenues (at listed price), discount, cost of goods sold\nand customer level operating activities costs:\n\nWholesale Category\nCustomers\nRetail Category\nCustomers\nWC-1\nWC-2\nRC-1\nRC-2\nNumber of shirts\nsold (a)\n10,750\n(215x50)\n7,150\n(110x65)\n4,032\n(18x224)\n3,675\n(15x245)\nRevenues (at listed\nprice) (`): (b)\n{(a) × ` 1,000)}\n1,07,50,000   71,50,000   40,32,000  36,75,000\nDiscount (`): (c)\n{(a) × Discount per\nshirt}\n32,25,000   14,30,000\n4,03,200   1,83,750\nCost of shirts (`) : (d)\n{(a) × ` 600}\n64,50,000   42,90,000   24,19,200  22,05,000\nOrder taking costs\n(`):\n63,000\n81,900\n2,82,240   3,08,700\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\n(No. of purchase ×\n`1,260)\nCustomer\nvisits\ncosts (`)\n(No. of customer\nvisits × ` 1,500)\n15,000\n19,500\n37,500\n33,000\nDelivery\nvehicles\ntravel costs (`)\n(Kms travelled by\ndelivery vehicles ×\n` 30 per km.)\n27,600\n23,400\n52,500   1,48,500\nCost of expediting\ndeliveries (`)\n{No. of expedited\ndeliveries\n×\n` 4,490}\n22,450\n71,840\n2,24,500   2,78,380\nTotal\ncost\nof\ncustomer\nlevel\noperating activities\n(`)\n1,28,050\n1,96,640\n5,96,740   7,68,580\nComputation of Customer level operating income\n\nWholesale Category\nCustomers\nRetail Category\nCustomers\n\nWC-1\nWC-2\nRC-1\nRC-2\nRevenues\n(At list price)\n(Refer\nto\nworking\nnote)\n1,07,50,000   71,50,000   40,32,000  36,75,000\nLess: Discount\n(Refer\nto\nworking\nnote)\n32,25,000   14,30,000\n4,03,200   1,83,750\nRevenue\n75,25,000   57,20,000   36,28,800  34,91,250\n\n10\n(At actual price)\nLess: Cost of shirts\n(Refer\nto\nworking\nnote)\n64,50,000   42,90,000   24,19,200  22,05,000\nGross margin\n10,75,000   14,30,000  12,09,600  12,86,250\nLess: Customer level\noperating\nactivities\ncosts\n(Refer\nto\nworking\nnote)\n1,28,050\n1,96,640\n5,96,740   7,68,580\nCustomer\nlevel\noperating income\n9,46,950   12,33,360\n6,12,860   5,17,670\nOperating income as\na % of revenues\n12.584%\n21.562%\n16.889%\n14.828%\nRank\nIV\nI\nII\nIII",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q002_A",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Luxury Designer Pvt. Ltd. is a manufacturing company, which manufactures\nreadymade designer shirts. It has four customers: two wholesale category\ncustomers and two retail category customers. It has developed the following\nActivity- Based Costing system:\nActivity\nCost Driver Rate (`)\nOrder Processing\n1,260 per purchase order\nCustomer Visits\n1,500 per customer visit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7\nRegular Delivery\n30 per delivery Km. travelled\nExpedited Delivery\n4,490 per expedited delivery\n\nList selling price per shirt is ` 1,000 and average cost per shirt is ` 600. CEO\nof Luxury Designer Pvt. Ltd. wants to evaluate the profitability of each of the\nfour customers for the year 2023, to explore opportunities for increasing\nprofitability of his Company in the next year 2024. The following data in\ncontext of four customers are available for 2023:\n\nWholesale\nCustomers\nRetail\nCustomers\n\nWC-1\nWC-2\nRC-1\nRC-2\nNumber of Purchase orders\n50\n65\n224\n245\nNumber of Customer visits\n10\n13\n25\n22\nRegular Deliveries\n46\n52\n175\n198\nKilometers travelled per delivery\n20\n15\n10\n25\nExpedited Deliveries\n5\n16\n50\n62\nAverage Number of Shirts per Shirt\n215\n110\n18\n15\nAverage Selling Price per Shirt\n` 700\n` 800\n` 900\n` 950\n\nYou are required to:\n\nCalculate the customer-level operating income and operating income as a %\nof revenues in 2023 and rank them on the basis of relative profitability."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Working note:\n\nComputation of revenues (at listed price), discount, cost of goods sold\nand customer level operating activities costs:\n\nWholesale Category\nCustomers\nRetail Category\nCustomers\nWC-1\nWC-2\nRC-1\nRC-2\nNumber of shirts\nsold (a)\n10,750\n(215x50)\n7,150\n(110x65)\n4,032\n(18x224)\n3,675\n(15x245)\nRevenues (at listed\nprice) (`): (b)\n{(a) × ` 1,000)}\n1,07,50,000   71,50,000   40,32,000  36,75,000\nDiscount (`): (c)\n{(a) × Discount per\nshirt}\n32,25,000   14,30,000\n4,03,200   1,83,750\nCost of shirts (`) : (d)\n{(a) × ` 600}\n64,50,000   42,90,000   24,19,200  22,05,000\nOrder taking costs\n(`):\n63,000\n81,900\n2,82,240   3,08,700\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\n(No. of purchase ×\n`1,260)\nCustomer\nvisits\ncosts (`)\n(No. of customer\nvisits × ` 1,500)\n15,000\n19,500\n37,500\n33,000\nDelivery\nvehicles\ntravel costs (`)\n(Kms travelled by\ndelivery vehicles ×\n` 30 per km.)\n27,600\n23,400\n52,500   1,48,500\nCost of expediting\ndeliveries (`)\n{No. of expedited\ndeliveries\n×\n` 4,490}\n22,450\n71,840\n2,24,500   2,78,380\nTotal\ncost\nof\ncustomer\nlevel\noperating activities\n(`)\n1,28,050\n1,96,640\n5,96,740   7,68,580\nComputation of Customer level operating income\n\nWholesale Category\nCustomers\nRetail Category\nCustomers\n\nWC-1\nWC-2\nRC-1\nRC-2\nRevenues\n(At list price)\n(Refer\nto\nworking\nnote)\n1,07,50,000   71,50,000   40,32,000  36,75,000\nLess: Discount\n(Refer\nto\nworking\nnote)\n32,25,000   14,30,000\n4,03,200   1,83,750\nRevenue\n75,25,000   57,20,000   36,28,800  34,91,250\n\n10\n(At actual price)\nLess: Cost of shirts\n(Refer\nto\nworking\nnote)\n64,50,000   42,90,000   24,19,200  22,05,000\nGross margin\n10,75,000   14,30,000  12,09,600  12,86,250\nLess: Customer level\noperating\nactivities\ncosts\n(Refer\nto\nworking\nnote)\n1,28,050\n1,96,640\n5,96,740   7,68,580\nCustomer\nlevel\noperating income\n9,46,950   12,33,360\n6,12,860   5,17,670\nOperating income as\na % of revenues\n12.584%\n21.562%\n16.889%\n14.828%\nRank\nIV\nI\nII\nIII"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

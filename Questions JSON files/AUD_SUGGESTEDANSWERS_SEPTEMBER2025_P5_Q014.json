@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. During the course of audit of a company CA Nitin has verified various\nassertions relating to Income Statement and Balance Sheet items. Consider\nthe following statements:\n\nStatement 1: Occurrence and Valuation are assertions relating to Balance\nSheet captions.\n\nStatement 2: Measurement and Existence are assertions relating to Income\nStatement captions.\n\nStatement 3: Measurement and Completeness are assertions relating to\nIncome Statement captions.\n\nStatement 4: Existence and Rights & Obligations are assertions relating to\nBalance Sheet captions.\n\nChoose the correct option from below:\n(A)  Only 1 & 2 are correct.\n(B)  Only 1 & 3 are correct.\n(C)  Only 2 & 4 are correct.\n(D)  Only 3 & 4 are correct.\n(2 Marks)",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q014",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. During the course of audit of a company CA Nitin has verified various\nassertions relating to Income Statement and Balance Sheet items. Consider\nthe following statements:\n\nStatement 1: Occurrence and Valuation are assertions relating to Balance\nSheet captions.\n\nStatement 2: Measurement and Existence are assertions relating to Income\nStatement captions.\n\nStatement 3: Measurement and Completeness are assertions relating to\nIncome Statement captions.\n\nStatement 4: Existence and Rights & Obligations are assertions relating to\nBalance Sheet captions.\n\nChoose the correct option from below:\n(A)  Only 1 & 2 are correct.\n(B)  Only 1 & 3 are correct.\n(C)  Only 2 & 4 are correct.\n(D)  Only 3 & 4 are correct.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

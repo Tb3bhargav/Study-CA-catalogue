@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. During the audit of OP Ltd. Mr. Paras concludes that the financial statements\ndo not provide adequate disclosure of a material uncertainty related to going\nconcern. What action should Mr. Paras take in this situation?\n(A)  The auditor shall express an unmodified opinion.\n(B)  The auditor shall express a qualified opinion or adverse opinion, as\nappropriate, in accordance with SA 705.\n(C)  The auditor shall express a qualified opinion or a disclaimer of opinion\nin the auditor's report that may be appropriate, in accordance with\nSA 705.\n(D)  Auditor shall disclose the matter in EOM paragraph of the auditor's\nreport.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q011",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. During the audit of OP Ltd. Mr. Paras concludes that the financial statements\ndo not provide adequate disclosure of a material uncertainty related to going\nconcern. What action should Mr. Paras take in this situation?\n(A)  The auditor shall express an unmodified opinion.\n(B)  The auditor shall express a qualified opinion or adverse opinion, as\nappropriate, in accordance with SA 705.\n(C)  The auditor shall express a qualified opinion or a disclaimer of opinion\nin the auditor's report that may be appropriate, in accordance with\nSA 705.\n(D)  Auditor shall disclose the matter in EOM paragraph of the auditor's\nreport.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

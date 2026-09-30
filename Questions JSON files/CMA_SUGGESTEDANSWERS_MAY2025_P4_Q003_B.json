@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Max Cinemas has three types of seats – Classic, Prime & Recliner where the\ntotal capacity is 306 seats, which are divided in the ratio of 12: 4: 1\nrespectively. The ticket price of Prime is twice of Classic ticket price and that\nof Recliner is thrice of Prime ticket price. Following information is given:\nTypes of seats\nOccupancy percentage\nClassic\n75%\nPrime\n50%\nRecliner\n50%\n\nOn a daily basis, 4 movie shows are run throughout the year. The total cost\nper day is estimated to be ` 77,760. Assume 25% profit on total revenue.\n\nRequired:\n(i) Calculate Equivalent Classic seats per day.\n(ii) Calculate Ticket prices of all three types of seats.\n(6 Marks)\n\n20",
+  "suggested_answer": "(b)  (i)  Total Equivalent Classic seats per day:\nType\nof\nSeats\nOccupied seats per day\nEquivalent Classic\nseats per day\nClassic\n648\n(216 seats x 75% x 4 shows)\n648\n(648 × 1)\nPrime\n144\n(72 seats x 50% x 4 shows)\n288\n(144 × 2)\nRecliner\n36\n(18 seats x 50% x 4 shows)\n216\n(36 × 6)\n\n1,152\n(ii)  Calculation of Ticket Prices for all types of seats:\nTotal cost per day     = ` 77,760\nProfit is 25% on total revenue\n\n∴ Total Revenue\n=  77,760\n75\n`\nx 100 = ` 1,03,680\n\nCalculation of Ticket Price for Classic seat per show:\n\nTotal Revenue / Equivalent Classic Seats per day =  1,03,680\n1,152\n`\n= ` 90\n\nTicket Prices for all three types of seats:\nTicket price per show for Classic Seat  = ` 90\nTicket price per show for Prime Seat\n= ` 90 x 2 = ` 180\nTicket price per show for Recliner Seat = ` 90 x 6 = ` 540\n\n22",
+  "marks": "(6 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003_B",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 19,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(b)",
+    "marks": "(6 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 19,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Max Cinemas has three types of seats – Classic, Prime & Recliner where the\ntotal capacity is 306 seats, which are divided in the ratio of 12: 4: 1\nrespectively. The ticket price of Prime is twice of Classic ticket price and that\nof Recliner is thrice of Prime ticket price. Following information is given:\nTypes of seats\nOccupancy percentage\nClassic\n75%\nPrime\n50%\nRecliner\n50%\n\nOn a daily basis, 4 movie shows are run throughout the year. The total cost\nper day is estimated to be ` 77,760. Assume 25% profit on total revenue.\n\nRequired:\n(i) Calculate Equivalent Classic seats per day.\n(ii) Calculate Ticket prices of all three types of seats.\n(6 Marks)\n\n20"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  Total Equivalent Classic seats per day:\nType\nof\nSeats\nOccupied seats per day\nEquivalent Classic\nseats per day\nClassic\n648\n(216 seats x 75% x 4 shows)\n648\n(648 × 1)\nPrime\n144\n(72 seats x 50% x 4 shows)\n288\n(144 × 2)\nRecliner\n36\n(18 seats x 50% x 4 shows)\n216\n(36 × 6)\n\n1,152\n(ii)  Calculation of Ticket Prices for all types of seats:\nTotal cost per day     = ` 77,760\nProfit is 25% on total revenue\n\n∴ Total Revenue\n=  77,760\n75\n`\nx 100 = ` 1,03,680\n\nCalculation of Ticket Price for Classic seat per show:\n\nTotal Revenue / Equivalent Classic Seats per day =  1,03,680\n1,152\n`\n= ` 90\n\nTicket Prices for all three types of seats:\nTicket price per show for Classic Seat  = ` 90\nTicket price per show for Prime Seat\n= ` 90 x 2 = ` 180\nTicket price per show for Recliner Seat = ` 90 x 6 = ` 540\n\n22"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

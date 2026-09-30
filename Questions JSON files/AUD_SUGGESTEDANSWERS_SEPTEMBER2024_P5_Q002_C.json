@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) Schedule III of the Companies Act, 2013 prescribes disclosure of certain ratios\nas a part of Additional Regulatory Information. Mention any 3 ratios that\nshould be disclosed along with the Rules relating to disclosure of these ratios.\n\n(3 Marks)",
+  "suggested_answer": "(c)  Disclosure of Ratios as a part of Additional Regulatory Information as per\nSchedule III of the Companies Act 2013 and its Rules relating to disclosure\nare:\n(1)  Current Ratio,\n(2)  Debt-Equity Ratio,\n(3)  Debt Service Coverage Ratio,\n(4)  Return on Equity Ratio,\n(5)  Inventory turnover ratio,\n(6)  Trade Receivables turnover ratio,\n(7)  Trade payables turnover ratio,\n(8)  Net capital turnover ratio,\n(9)  Net profit ratio,\n(10) Return on Capital employed,\n(11) Return on investment.\nRules relating to disclosures of Ratios: The company shall explain the\nitems included in the numerator and denominator for computing the above\nratios.\n\n16\nFurther explanation shall be provided for any change in the ratio by more\nthan 25% as compared to the preceding year.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_C",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(c)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 13,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Schedule III of the Companies Act, 2013 prescribes disclosure of certain ratios\nas a part of Additional Regulatory Information. Mention any 3 ratios that\nshould be disclosed along with the Rules relating to disclosure of these ratios.\n\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Disclosure of Ratios as a part of Additional Regulatory Information as per\nSchedule III of the Companies Act 2013 and its Rules relating to disclosure\nare:\n(1)  Current Ratio,\n(2)  Debt-Equity Ratio,\n(3)  Debt Service Coverage Ratio,\n(4)  Return on Equity Ratio,\n(5)  Inventory turnover ratio,\n(6)  Trade Receivables turnover ratio,\n(7)  Trade payables turnover ratio,\n(8)  Net capital turnover ratio,\n(9)  Net profit ratio,\n(10) Return on Capital employed,\n(11) Return on investment.\nRules relating to disclosures of Ratios: The company shall explain the\nitems included in the numerator and denominator for computing the above\nratios.\n\n16\nFurther explanation shall be provided for any change in the ratio by more\nthan 25% as compared to the preceding year."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

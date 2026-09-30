@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10.\nCalculate amount of Abnormal Loss during storage to be transferred to\nCosting Profit & Loss Account (based on average price)\n(A)\n` 2,04,000\n(B)\n` 2,04,760\n(C)\n` 2,03,760\n(D)\n` 2,05,320",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q010",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10.\nCalculate amount of Abnormal Loss during storage to be transferred to\nCosting Profit & Loss Account (based on average price)\n(A)\n` 2,04,000\n(B)\n` 2,04,760\n(C)\n` 2,03,760\n(D)\n` 2,05,320"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

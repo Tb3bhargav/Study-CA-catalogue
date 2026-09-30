@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3. \nWhat is the ratio of share in the joint costs, if Joint costs are allocated on the basis of \nSales Value at split off point \n(a) \n115:10:4:30.  \n(b) \n4:3:2:1  \n(c) \n20:4:1:5 \n(d) \n10:4:2:5.",
+  "suggested_answer": "(C) 20:4:1:5",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q003",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nWhat is the ratio of share in the joint costs, if Joint costs are allocated on the basis of \nSales Value at split off point \n(a) \n115:10:4:30.  \n(b) \n4:3:2:1  \n(c) \n20:4:1:5 \n(d) \n10:4:2:5."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) 20:4:1:5"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

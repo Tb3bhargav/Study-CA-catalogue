@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2026_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "13. \nPQR Limited is engaged in trading and manufacturing activities and \nreports a substantial amount of inventories in its financial statements as \nat 31st March 2025. A portion of the inventories is held at the company’s \nown warehouses, while some inventories are held on consignment and \nwith third parties. \n \nWhile conducting the audit, the auditor is required to obtain sufficient \nand appropriate audit evidence to establish the legal ownership rights \nover the inventories claimed to be held by the entity and recorded in the \nfinancial statements. \n \nState the audit procedures to establish the legal ownership rights over \nthe inventories claimed to be held by the entity.",
+  "suggested_answer": "Audit procedure to establish the legal ownership rights over the \nInventories claimed to be held by the entity and recorded in the \nfinancial statements: \n(i) \nVouch recorded purchases to underlying documentation (purchase \nrequisition, purchase order, receiving report, vendor invoice and \ncancelled cheque or payment ﬁle). \n(ii) \nEvaluate the consigned goods. \n(iii) \nExamine client correspondence, sales and receivables records, \npurchase documents. \n(iv) \nDetermine existence of collateral agreements. \n(v) \nReview consignment agreements. \n(vi) \nReview material purchase commitment agreements. \n(vii) Examine invoices for evidence of ownership i.e. the invoices shall be \nin the name of the client. \n(viii) Auditor shall obtain confirmation for significant items of inventory. \n(ix)  For instances of inventory held by third party, the auditor should \ninsist on obtaining declaration from the third party on its business \nletterhead and signed by authorised personnel of that third party \nconﬁrming that the items of inventory belong to the entity and are \nbeing held by such third party on behalf of and for the beneﬁt of the \nentity under audit. \n\n \nINTERMEDIATE EXAMINATION \n \n \n68 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThus, by performing the above procedures, the auditor can obtain \nsufficient and appropriate audit evidence regarding the entity’s legal \nownership rights over inventories reported in the financial statements.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2026_P5_Q013",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nPQR Limited is engaged in trading and manufacturing activities and \nreports a substantial amount of inventories in its financial statements as \nat 31st March 2025. A portion of the inventories is held at the company’s \nown warehouses, while some inventories are held on consignment and \nwith third parties. \n \nWhile conducting the audit, the auditor is required to obtain sufficient \nand appropriate audit evidence to establish the legal ownership rights \nover the inventories claimed to be held by the entity and recorded in the \nfinancial statements. \n \nState the audit procedures to establish the legal ownership rights over \nthe inventories claimed to be held by the entity."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Audit procedure to establish the legal ownership rights over the \nInventories claimed to be held by the entity and recorded in the \nfinancial statements: \n(i) \nVouch recorded purchases to underlying documentation (purchase \nrequisition, purchase order, receiving report, vendor invoice and \ncancelled cheque or payment ﬁle). \n(ii) \nEvaluate the consigned goods. \n(iii) \nExamine client correspondence, sales and receivables records, \npurchase documents. \n(iv) \nDetermine existence of collateral agreements. \n(v) \nReview consignment agreements. \n(vi) \nReview material purchase commitment agreements. \n(vii) Examine invoices for evidence of ownership i.e. the invoices shall be \nin the name of the client. \n(viii) Auditor shall obtain confirmation for significant items of inventory. \n(ix)  For instances of inventory held by third party, the auditor should \ninsist on obtaining declaration from the third party on its business \nletterhead and signed by authorised personnel of that third party \nconﬁrming that the items of inventory belong to the entity and are \nbeing held by such third party on behalf of and for the beneﬁt of the \nentity under audit. \n\n \nINTERMEDIATE EXAMINATION \n \n \n68 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThus, by performing the above procedures, the auditor can obtain \nsufficient and appropriate audit evidence regarding the entity’s legal \nownership rights over inventories reported in the financial statements."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

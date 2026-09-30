@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q003_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Enumerate the factors that may make it appropriate to revise the terms of\nthe audit engagement or to remind the entity of existing terms.\n(5 Marks)",
+  "suggested_answer": "(b)  As per SA 210 “Agreeing the Terms of Audit Engagements”, the auditor may\ndecide not to send a new audit engagement letter or other written\nagreement each period. However, the following factors may make it\nappropriate to revise the terms of the audit engagement or to remind the\nentity of existing terms:\n(i)  Any indication that the entity misunderstands the objective and scope\nof the audit.\n(ii)  Any revised or special terms of the audit engagement.\n(iii)  A recent change of senior management.\n(iv)  A significant change in ownership.\n(v)  A significant change in nature or size of the entity’s business.\n(vi)  A change in legal or regulatory requirements.\n(vii)  A change in the financial reporting framework adopted in the\npreparation of the financial statements.\n(viii) A change in other reporting requirements.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q003_B",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Enumerate the factors that may make it appropriate to revise the terms of\nthe audit engagement or to remind the entity of existing terms.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  As per SA 210 “Agreeing the Terms of Audit Engagements”, the auditor may\ndecide not to send a new audit engagement letter or other written\nagreement each period. However, the following factors may make it\nappropriate to revise the terms of the audit engagement or to remind the\nentity of existing terms:\n(i)  Any indication that the entity misunderstands the objective and scope\nof the audit.\n(ii)  Any revised or special terms of the audit engagement.\n(iii)  A recent change of senior management.\n(iv)  A significant change in ownership.\n(v)  A significant change in nature or size of the entity’s business.\n(vi)  A change in legal or regulatory requirements.\n(vii)  A change in the financial reporting framework adopted in the\npreparation of the financial statements.\n(viii) A change in other reporting requirements."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

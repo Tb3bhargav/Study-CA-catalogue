@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.  The total cost of product Z as per activity based costing method is :\n(A)  ` 2,86,073\n(B)  ` 2,94,905\n(C)  ` 84,905\n(D)  ` 2,60,660\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nCase Scenario - II\nXYZ Limited produces the product P. The cost accountant of the company has to\nprepare its budget for a particular year.\nThe following information are made available for this purpose:\nThe expected sales of the product P is 1,00,000 units during the year at a selling\nprice of ` 50 per unit.\nEach unit of product P requires 3 kgs of raw material Q and 4 kgs of raw material R.\nThe expected stock levels are as follows:\n\nBeginning of year\nEnd of year\nFinished product P in units\n12,000\n15,000\nRaw material Q in kgs\n26,000\n20,000\nRaw material R in kgs\n36,000\n42,000\nRaw material Q costs ` 2 per kg and R costs ` 3 per kg.\nIt requires 10 minutes of direct labour time to produce one unit of product P.\nLabour cost is ` 50 per hour.\nVariable manufacturing overheads are ` 10 per unit.\nFixed manufacturing cost is ` 3,00,000 per year.\nFixed Administration and selling expenses are ` 25,000 per year.\nOn the basis of above Case Scenario, you are required to answer the\nfollowing MCQs 6 to 10:",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.  The total cost of product Z as per activity based costing method is :\n(A)  ` 2,86,073\n(B)  ` 2,94,905\n(C)  ` 84,905\n(D)  ` 2,60,660\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nCase Scenario - II\nXYZ Limited produces the product P. The cost accountant of the company has to\nprepare its budget for a particular year.\nThe following information are made available for this purpose:\nThe expected sales of the product P is 1,00,000 units during the year at a selling\nprice of ` 50 per unit.\nEach unit of product P requires 3 kgs of raw material Q and 4 kgs of raw material R.\nThe expected stock levels are as follows:\n\nBeginning of year\nEnd of year\nFinished product P in units\n12,000\n15,000\nRaw material Q in kgs\n26,000\n20,000\nRaw material R in kgs\n36,000\n42,000\nRaw material Q costs ` 2 per kg and R costs ` 3 per kg.\nIt requires 10 minutes of direct labour time to produce one unit of product P.\nLabour cost is ` 50 per hour.\nVariable manufacturing overheads are ` 10 per unit.\nFixed manufacturing cost is ` 3,00,000 per year.\nFixed Administration and selling expenses are ` 25,000 per year.\nOn the basis of above Case Scenario, you are required to answer the\nfollowing MCQs 6 to 10:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

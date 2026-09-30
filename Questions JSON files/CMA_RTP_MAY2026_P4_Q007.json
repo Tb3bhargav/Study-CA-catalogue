@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q007",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7. \nRivaan Industries manufactures and sells wooden study tables. The \ndemand for these tables has been steadily increasing due to the \ncompany’s strong distribution network and reputation for durable \nproducts. Despite the rising market potential, the company continues to \nrely on its long-established wage practices. At present, Rivaan Industries \npays wages under a piece–rate system, with a standard piece rate of ` 18 \nper table produced. \n \nThe company policy for payment under the piece-rate system is as \nfollows: \n• \nFor efficiency less than 100%: \nWorkers are paid 80% of the standard piece rate \n• \nFor efficiency equal to or more than 100%: \nWorkers are paid 125% of the standard piece rate \nThe standard output per hour is 3 tables. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n9 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nEach worker works 9 hours per day from Monday to Friday and 4 hours \non Saturday. \n \nA total of 132 workers are currently eligible for this wage plan. \n \nHowever, the cutting and finishing machines used in production were \npurchased many years ago and now limit workers’ efficiency. As a result, \nworkers have demanded a shift to a time-rate wage system at `65 per \nhour, along with incentives under the Halsey Premium Plan (50% sharing \nof time saved). \n \nTo evaluate the financial impact, the management has prepared the \nfollowing estimated production levels for January 2026 under three \ndifferent scenarios: \n \nProduction Estimates (January 2026) \nScenario \nWorst Case \nOptimal Case \nBest Case \nProduction (units) \n36,900 \n73,800 \n1,10,700 \n \nIn addition, the company is assessing a potential Technology Upgrade \nCase involving partial automation, which may influence both output \nlevels and worker productivity. \nRequired: \n(a) \nCompute the Total wages, and Average wages per worker per \nmonth, for all four scenarios (Worst, Optimal, Best, and Technology \nUpgrade Case) under each of the following wage systems: \n(i)  \nCurrent piece–rate wage system (based on differential piece \nrates) \n(ii)  \nWorkers’ proposed system: Time-rate wages @ ` 65 per hour + \nHalsey Premium (50%) \n(b) \nMr. R, one of the workers, produced 900 tables in December 2025. \nIf he produces the same number of tables in January 2026, \ncompute: \n• \nHis earnings under the current piece-rate system \n• \nHis earnings under the proposed time-rate + Halsey incentive \nsystem \n\n \nINTERMEDIATE EXAMINATION \n \n \n10 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n• \nThe difference in his earnings \n \nBased on your computation, should Mr. R support the workers’ \ndemand? \n \n(Assume 4 working weeks in a month.) \nOverheads: Absorption Costing method",
+  "suggested_answer": "(A) Calculation of Total wages and average wages per worker per month. (i) When Current system of wages and incentive payment system is followed: Standard Production per Month Standard production per worker = 196 hours × 3 units = 588 units Standard production for 132 workers = 588 × 132 = 77,616 units Particulars Worst Case Optimal Case Best Case I. Standard Production (units) (588 units × 132 workers) 77,616 77,616 77,616 II. Actual Production (units) 36,900 73,800 1,10,700 III. Efficiency (%) (II ÷ I × 100) 47.54% 95.08% 142.63% IV. Applicable Piece Rate ` 14.40 (` 18 x 0.8) ` 14.40 (` 18 x 0.8) ` 22.50 (` 18 x 1.25) V. Total Wages (II × IV) ` 5,31,360 ` 10,62,720 ` 24,90,750 VI. Average Wage per Worker (V ÷ 132) ` 4,025.45 ` 8,050.91 ` 18,869.32 (ii) When workers’ demand for time rate wages and Halsey premium plan is accepted: Particulars Worst Case Optimal Case Best Case I. Actual Production (units) 36,900 73,800 1,10,700 II. Standard Units per hour 3 3 3 III. Standard Hours Required (I ÷ II) 12,300 24,600 36,900 IV. Expected working hours (132 workers × 196 hrs.) 25,872 25,872 25,872 V. Time Saved (IV − III) — — 11,028 VI. Time Wages (IV × ` 65) ` 16,81,680 ` 16,81,680 ` 16,81,680 INTERMEDIATE EXAMINATION 32 REVISION TEST PAPERS MAY 2026 EXAMINATION VII. Halsey Bonus (50% × Time Saved × 65) — — ` 3,58,410 VIII. Total Wages (VI + VII) `16,81,680 `16,81,680 `20,40,090 IX. Average Wage per Worker (VIII ÷ 132) `12,740 `12,740 `15,455.23 (b) Calculation of gain or loss in the current monthly income of Mr. R: 1. Under Current Piece-Rate System Standard production = 588 units Production in December = 900 units Efficiency = 900 ÷ 588 × 100 = 153.06% Rate = ` 22.50 Total wages = 900 × 22.50 = ` 20,250 2. Under Proposed Time Rate + Halsey Plan Standard hours = 900 units ÷ 3 units = 300 hours Actual hours available = 196 hours Time saved = 300 – 196 = 104 hrs , Time wages = 196 × ` 65 = ` 12,740 Halsey Bonus (50% × Time Saved × 65) = 104 hrs x 50% x 65 = ` 3,380 Total expected wages = ` 16,120 3. Loss To Mr. R Loss = 20,250 – 16,120 = ` 4,130 Supporting the demand of colleague workers will cost ` 4,130 in the next month to Mr. R. COST AND MANAGEMENT ACCOUNTING 33 MAY 2026 EXAMINATION REVISION TEST PAPERS",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q007",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7. \nRivaan Industries manufactures and sells wooden study tables. The \ndemand for these tables has been steadily increasing due to the \ncompany’s strong distribution network and reputation for durable \nproducts. Despite the rising market potential, the company continues to \nrely on its long-established wage practices. At present, Rivaan Industries \npays wages under a piece–rate system, with a standard piece rate of ` 18 \nper table produced. \n \nThe company policy for payment under the piece-rate system is as \nfollows: \n• \nFor efficiency less than 100%: \nWorkers are paid 80% of the standard piece rate \n• \nFor efficiency equal to or more than 100%: \nWorkers are paid 125% of the standard piece rate \nThe standard output per hour is 3 tables. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n9 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nEach worker works 9 hours per day from Monday to Friday and 4 hours \non Saturday. \n \nA total of 132 workers are currently eligible for this wage plan. \n \nHowever, the cutting and finishing machines used in production were \npurchased many years ago and now limit workers’ efficiency. As a result, \nworkers have demanded a shift to a time-rate wage system at `65 per \nhour, along with incentives under the Halsey Premium Plan (50% sharing \nof time saved). \n \nTo evaluate the financial impact, the management has prepared the \nfollowing estimated production levels for January 2026 under three \ndifferent scenarios: \n \nProduction Estimates (January 2026) \nScenario \nWorst Case \nOptimal Case \nBest Case \nProduction (units) \n36,900 \n73,800 \n1,10,700 \n \nIn addition, the company is assessing a potential Technology Upgrade \nCase involving partial automation, which may influence both output \nlevels and worker productivity. \nRequired: \n(a) \nCompute the Total wages, and Average wages per worker per \nmonth, for all four scenarios (Worst, Optimal, Best, and Technology \nUpgrade Case) under each of the following wage systems: \n(i)  \nCurrent piece–rate wage system (based on differential piece \nrates) \n(ii)  \nWorkers’ proposed system: Time-rate wages @ ` 65 per hour + \nHalsey Premium (50%) \n(b) \nMr. R, one of the workers, produced 900 tables in December 2025. \nIf he produces the same number of tables in January 2026, \ncompute: \n• \nHis earnings under the current piece-rate system \n• \nHis earnings under the proposed time-rate + Halsey incentive \nsystem \n\n \nINTERMEDIATE EXAMINATION \n \n \n10 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n• \nThe difference in his earnings \n \nBased on your computation, should Mr. R support the workers’ \ndemand? \n \n(Assume 4 working weeks in a month.) \nOverheads: Absorption Costing method"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Calculation of Total wages and average wages per worker per month. (i) When Current system of wages and incentive payment system is followed: Standard Production per Month Standard production per worker = 196 hours × 3 units = 588 units Standard production for 132 workers = 588 × 132 = 77,616 units Particulars Worst Case Optimal Case Best Case I. Standard Production (units) (588 units × 132 workers) 77,616 77,616 77,616 II. Actual Production (units) 36,900 73,800 1,10,700 III. Efficiency (%) (II ÷ I × 100) 47.54% 95.08% 142.63% IV. Applicable Piece Rate ` 14.40 (` 18 x 0.8) ` 14.40 (` 18 x 0.8) ` 22.50 (` 18 x 1.25) V. Total Wages (II × IV) ` 5,31,360 ` 10,62,720 ` 24,90,750 VI. Average Wage per Worker (V ÷ 132) ` 4,025.45 ` 8,050.91 ` 18,869.32 (ii) When workers’ demand for time rate wages and Halsey premium plan is accepted: Particulars Worst Case Optimal Case Best Case I. Actual Production (units) 36,900 73,800 1,10,700 II. Standard Units per hour 3 3 3 III. Standard Hours Required (I ÷ II) 12,300 24,600 36,900 IV. Expected working hours (132 workers × 196 hrs.) 25,872 25,872 25,872 V. Time Saved (IV − III) — — 11,028 VI. Time Wages (IV × ` 65) ` 16,81,680 ` 16,81,680 ` 16,81,680 INTERMEDIATE EXAMINATION 32 REVISION TEST PAPERS MAY 2026 EXAMINATION VII. Halsey Bonus (50% × Time Saved × 65) — — ` 3,58,410 VIII. Total Wages (VI + VII) `16,81,680 `16,81,680 `20,40,090 IX. Average Wage per Worker (VIII ÷ 132) `12,740 `12,740 `15,455.23 (b) Calculation of gain or loss in the current monthly income of Mr. R: 1. Under Current Piece-Rate System Standard production = 588 units Production in December = 900 units Efficiency = 900 ÷ 588 × 100 = 153.06% Rate = ` 22.50 Total wages = 900 × 22.50 = ` 20,250 2. Under Proposed Time Rate + Halsey Plan Standard hours = 900 units ÷ 3 units = 300 hours Actual hours available = 196 hours Time saved = 300 – 196 = 104 hrs , Time wages = 196 × ` 65 = ` 12,740 Halsey Bonus (50% × Time Saved × 65) = 104 hrs x 50% x 65 = ` 3,380 Total expected wages = ` 16,120 3. Loss To Mr. R Loss = 20,250 – 16,120 = ` 4,130 Supporting the demand of colleague workers will cost ` 4,130 in the next month to Mr. R. COST AND MANAGEMENT ACCOUNTING 33 MAY 2026 EXAMINATION REVISION TEST PAPERS"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

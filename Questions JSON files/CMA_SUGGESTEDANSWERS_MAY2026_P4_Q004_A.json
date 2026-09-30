@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  ZED Ltd. manufactures two categories of products, Omega and Theta.  These\nproducts are sold through two primary distribution channels, Online Portals\nand Retail Stores. In the current financial year, Omega performed\nexceptionally well online due to a viral trend, while Theta saw a surge in\nretail stores. The following information is available for the year 2025-26:\nProduct  Channel  Budgeted\nSales\nActual Sales\nSelling Price per\nunit (For Budgeted\nand Actual Sales)\nOmega\nOnline\n1000 units\n1200 units\n` 15,000\nRetail\n800 units\n700 units\n` 18,000\nTheta\nOnline\n500 units\n450 units\n`40,000\nRetail\n400 units\n500 units\n` 45,000\n\nMarket research indicates that Omega series is facing stiff competition\noffline, therefore, management has decided to reduce the price by 10% across\nboth channels. Theta series has gained luxury status, so the management has\ndecided to increase the price by ` 5,000 per unit for both Online and Retail\nsales. Based on these price changes, the Sales Manager has submitted the\nfollowing estimates of increase in sales for the year 2026-27 over the original\nbudgeted sales:\nProduct\nOnline Channel\nRetail Channel\nOmega\n+ 15%\n+5%\nTheta\n+ 10%\n+20%\n\nFurthermore, the company has signed a contract for an Influencer Marketing\nCampaign. It is estimated that for the year 2026-27 this campaign will\ngenerate the following additional sales:\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nProduct\nOnline channel\nRetail Channel\nOmega\n200 units\nNil\nTheta\n100 units\n50 Units\nYou are required to prepare:\n(i)  Sales Budget for 2026-27 after incorporating the above estimates.\n(ii)  Statement showing Budgeted and Actual Sales for 2025-26. (9 Marks)",
+  "suggested_answer": "(a)  (i)\n\nStatement Showing Sales Budget for 2026-27\nChannel\nOmega\nTheta\nTotal\nQty.\nRate\n(`)\nAmt. (`)\nQty.\nRate\n(`)\nAmt. (`)\nAmt. (`)\nOnline\n1,350¹ 13,500 1,82,25,000\n650³ 45,000 2,92,50,000 4,74,75,000\nRetail\n840² 16,200 1,36,08,000\n530⁴ 50,000 2,65,00,000 4,01,08,000\nTotal\n2,190\n3,18,33,000 1,180\n5,57,50,000 8,75,83,000\nWorkings\n1.\n1,000 × 115% + 200 = 1,350 units\n2.\n800 × 105% + Nil = 840 units\n3.\n500 × 110% + 100 = 650 units\n4.\n400 × 120% + 50 = 530 units\n\n22\n(ii)\n\nStatement Showing Budgeted Sales for 2025-26\nChannel\nOmega\nTheta\nTotal\nQty. Rate (`)\nAmt. (`) Qty. Rate (`)\nAmt. (`)\nAmt. (`)\nOnline\n1,000\n15,000 1,50,00,000 500\n40,000\n2,00,00,000 3,50,00,000\nRetail\n800\n18,000 1,44,00,000 400\n45,000\n1,80,00,000 3,24,00,000\nTotal\n1,800\n\n2,94,00,000 900\n\n3,80,00,000 6,74,00,000\nStatement Showing Actual Sales for 2025-26\nChannel\nOmega\nTheta\nTotal\nQty. Rate (`)\nAmt. (`)\nQty. Rate (`)\nAmt. (`)\nAmt. (`)\nOnline\n1,200\n15,000 1,80,00,000 450\n40,000 1,80,00,000 3,60,00,000\nRetail\n700\n18,000 1,26,00,000 500\n45,000 2,25,00,000 3,51,00,000\nTotal\n1,900\n3,06,00,000 950\n4,05,00,000 7,11,00,000",
+  "marks": "(9 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q004_A",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": "(9 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 20,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  ZED Ltd. manufactures two categories of products, Omega and Theta.  These\nproducts are sold through two primary distribution channels, Online Portals\nand Retail Stores. In the current financial year, Omega performed\nexceptionally well online due to a viral trend, while Theta saw a surge in\nretail stores. The following information is available for the year 2025-26:\nProduct  Channel  Budgeted\nSales\nActual Sales\nSelling Price per\nunit (For Budgeted\nand Actual Sales)\nOmega\nOnline\n1000 units\n1200 units\n` 15,000\nRetail\n800 units\n700 units\n` 18,000\nTheta\nOnline\n500 units\n450 units\n`40,000\nRetail\n400 units\n500 units\n` 45,000\n\nMarket research indicates that Omega series is facing stiff competition\noffline, therefore, management has decided to reduce the price by 10% across\nboth channels. Theta series has gained luxury status, so the management has\ndecided to increase the price by ` 5,000 per unit for both Online and Retail\nsales. Based on these price changes, the Sales Manager has submitted the\nfollowing estimates of increase in sales for the year 2026-27 over the original\nbudgeted sales:\nProduct\nOnline Channel\nRetail Channel\nOmega\n+ 15%\n+5%\nTheta\n+ 10%\n+20%\n\nFurthermore, the company has signed a contract for an Influencer Marketing\nCampaign. It is estimated that for the year 2026-27 this campaign will\ngenerate the following additional sales:\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nProduct\nOnline channel\nRetail Channel\nOmega\n200 units\nNil\nTheta\n100 units\n50 Units\nYou are required to prepare:\n(i)  Sales Budget for 2026-27 after incorporating the above estimates.\n(ii)  Statement showing Budgeted and Actual Sales for 2025-26. (9 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)\n\nStatement Showing Sales Budget for 2026-27\nChannel\nOmega\nTheta\nTotal\nQty.\nRate\n(`)\nAmt. (`)\nQty.\nRate\n(`)\nAmt. (`)\nAmt. (`)\nOnline\n1,350¹ 13,500 1,82,25,000\n650³ 45,000 2,92,50,000 4,74,75,000\nRetail\n840² 16,200 1,36,08,000\n530⁴ 50,000 2,65,00,000 4,01,08,000\nTotal\n2,190\n3,18,33,000 1,180\n5,57,50,000 8,75,83,000\nWorkings\n1.\n1,000 × 115% + 200 = 1,350 units\n2.\n800 × 105% + Nil = 840 units\n3.\n500 × 110% + 100 = 650 units\n4.\n400 × 120% + 50 = 530 units\n\n22\n(ii)\n\nStatement Showing Budgeted Sales for 2025-26\nChannel\nOmega\nTheta\nTotal\nQty. Rate (`)\nAmt. (`) Qty. Rate (`)\nAmt. (`)\nAmt. (`)\nOnline\n1,000\n15,000 1,50,00,000 500\n40,000\n2,00,00,000 3,50,00,000\nRetail\n800\n18,000 1,44,00,000 400\n45,000\n1,80,00,000 3,24,00,000\nTotal\n1,800\n\n2,94,00,000 900\n\n3,80,00,000 6,74,00,000\nStatement Showing Actual Sales for 2025-26\nChannel\nOmega\nTheta\nTotal\nQty. Rate (`)\nAmt. (`)\nQty. Rate (`)\nAmt. (`)\nAmt. (`)\nOnline\n1,200\n15,000 1,80,00,000 450\n40,000 1,80,00,000 3,60,00,000\nRetail\n700\n18,000 1,26,00,000 500\n45,000 2,25,00,000 3,51,00,000\nTotal\n1,900\n3,06,00,000 950\n4,05,00,000 7,11,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

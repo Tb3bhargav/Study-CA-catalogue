@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q009",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "9. \nThe financial books of a company reveal the following data for the year \nended 31st March, 2026: \n \n(`) \nOpening Stock: \nFinished goods 875 units \n \n76,525 \n \nWork-in-process \n33,000 \n01.04.2025 to 31.3.2026 \n \n \nRaw materials consumed \n7,84,000 \n \nDirect Labour \n4,65,000 \n \nFactory overheads \n2,65,000 \n \nGoodwill written off \n95,000 \n \nAdministration overheads \n3,15,000 \n \nInterest paid \n72,000 \n \nBad Debts \n21,000 \n \nSelling and Distribution Overheads \n65,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \nInterest received \n18,500 \n \nRent received \n72,000 \n \nSales 14,500 units \n20,80,000 \n \nClosing Stock: Finished goods 375 units \n43,250 \n \nWork-in-process \n48,200 \nThe cost records provide as under: \nFactory overheads are absorbed at 60% of direct wages. \nAdministration overheads are recovered at 20% of factory cost. \nSelling and distribution overheads are charged at ` 5 per unit sold. \nOpening Stock of finished goods is valued at ` 105 per unit. \n \nThe company values work-in-process at factory cost for both Financial \nand Cost Profit Reporting. \n \nRequired: \n(i) \nPrepare statements for the year ended 31st March, 2026, show \n-  \nthe profit as per financial records \n-  \nthe profit as per costing records. \n(ii) \nPresent a statement reconciling the profit as per costing records \nwith the profit as per Financial Records.  \nJob & Batch Costing",
+  "suggested_answer": "(i) \n \n \nStatement of Profit as per financial records \n \n \n (for the year ended March 31, 2026) \n \n(`)  \n(`) \nTo Opening stock:  \n By Sales \n20,80,000 \nFinished Goods \n76,525 By Closing stock: \n \nWork-in-process \n33,000 \nFinished Goods \n43,250 \nTo Raw materials consumed \n7,84,000 \nWork-in-Process \n48,200 \nTo Direct labour \n4,65,000 By Rent received \n72,000 \nTo Factory overheads \n2,65,000  By Interest received \n18,500 \nTo Goodwill written off \n95,000  \n \nTo Administration overheads \n3,15,000  \n \nTo \nSelling \n& \ndistribution \noverheads \n65,000  \n \nTo Interest paid \n72,000  \n \nTo Bad debts \n21,000  \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n33 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nTo Profit \n70,425   \n \n \n22,61,950  \n22,61,950 \n \nStatement of Profit as per costing records \n(for the year ended March 31,2026) \n \n(`) \n(`) \nSales revenue (14,500 units)  \n \n \n \n(A) \n \n20,80,000 \nCost of Sales: \n \n \nOpening stock (875 units x ` 105) \n91,875 \n \nAdd: Cost of production of 14,000 units \n(Refer to Working Note 1& 2) \n18,15,360 \n \nLess: Closing stock \n18,15,360 × 375 units\n14,000 units\n\n\n\n\n\n\n`\n \n(48,626) \n \nProduction cost of goods sold (14,500 units) \n18,58,609 \n \nSelling & distribution overheads  \n(14,500 units x ` 5) \n72,500 \n \nCost of sales: (B) \n19,31,109 \n19,31,109 \nProfit: {(A) – (B)} \n \n1,48,891 \n(ii) \nStatement of Reconciliation \n \n(Reconciling the profit as per costing records with the profit as \nper financial records) \n \n(`) \n(`) \nProfit as per Cost Accounts \n \n1,48,891 \nAdd: Factory overheads over absorbed  \n(` 2,79,000 – ` 2,65,000) \n14,000 \n \n \nS&D overheads over absorbed  \n \n(` 72,500 – ` 65,000) \n7,500 \n \nOpening stock overvalued  \n(` 91,875 – ` 76,525)  \n15,350 \n \nInterest received \n18,500 \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nRent received \n72,000 \n1,27,350 \n \n \n2,76,241 \nLess: \nAdministration \noverheads \nunder  \n \nrecovery (` 3,15000 – ` 3,02,560) \n12,440 \n \nClosing stock overvalued (` 48,626 –  \n \n` 43,250) \n5,376 \n \nGoodwill written off \n95,000 \n \nInterest paid \n72,000 \n \nBad debts \n21,000 \n2,05,816 \nProfit as per financial accounts \n \n70,425 \n \nWorking Notes:",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q009",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "9",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nThe financial books of a company reveal the following data for the year \nended 31st March, 2026: \n \n(`) \nOpening Stock: \nFinished goods 875 units \n \n76,525 \n \nWork-in-process \n33,000 \n01.04.2025 to 31.3.2026 \n \n \nRaw materials consumed \n7,84,000 \n \nDirect Labour \n4,65,000 \n \nFactory overheads \n2,65,000 \n \nGoodwill written off \n95,000 \n \nAdministration overheads \n3,15,000 \n \nInterest paid \n72,000 \n \nBad Debts \n21,000 \n \nSelling and Distribution Overheads \n65,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \nInterest received \n18,500 \n \nRent received \n72,000 \n \nSales 14,500 units \n20,80,000 \n \nClosing Stock: Finished goods 375 units \n43,250 \n \nWork-in-process \n48,200 \nThe cost records provide as under: \nFactory overheads are absorbed at 60% of direct wages. \nAdministration overheads are recovered at 20% of factory cost. \nSelling and distribution overheads are charged at ` 5 per unit sold. \nOpening Stock of finished goods is valued at ` 105 per unit. \n \nThe company values work-in-process at factory cost for both Financial \nand Cost Profit Reporting. \n \nRequired: \n(i) \nPrepare statements for the year ended 31st March, 2026, show \n-  \nthe profit as per financial records \n-  \nthe profit as per costing records. \n(ii) \nPresent a statement reconciling the profit as per costing records \nwith the profit as per Financial Records.  \nJob & Batch Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \n \n \nStatement of Profit as per financial records \n \n \n (for the year ended March 31, 2026) \n \n(`)  \n(`) \nTo Opening stock:  \n By Sales \n20,80,000 \nFinished Goods \n76,525 By Closing stock: \n \nWork-in-process \n33,000 \nFinished Goods \n43,250 \nTo Raw materials consumed \n7,84,000 \nWork-in-Process \n48,200 \nTo Direct labour \n4,65,000 By Rent received \n72,000 \nTo Factory overheads \n2,65,000  By Interest received \n18,500 \nTo Goodwill written off \n95,000  \n \nTo Administration overheads \n3,15,000  \n \nTo \nSelling \n& \ndistribution \noverheads \n65,000  \n \nTo Interest paid \n72,000  \n \nTo Bad debts \n21,000  \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n33 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nTo Profit \n70,425   \n \n \n22,61,950  \n22,61,950 \n \nStatement of Profit as per costing records \n(for the year ended March 31,2026) \n \n(`) \n(`) \nSales revenue (14,500 units)  \n \n \n \n(A) \n \n20,80,000 \nCost of Sales: \n \n \nOpening stock (875 units x ` 105) \n91,875 \n \nAdd: Cost of production of 14,000 units \n(Refer to Working Note 1& 2) \n18,15,360 \n \nLess: Closing stock \n18,15,360 × 375 units\n14,000 units\n\n\n\n\n\n\n`\n \n(48,626) \n \nProduction cost of goods sold (14,500 units) \n18,58,609 \n \nSelling & distribution overheads  \n(14,500 units x ` 5) \n72,500 \n \nCost of sales: (B) \n19,31,109 \n19,31,109 \nProfit: {(A) – (B)} \n \n1,48,891 \n(ii) \nStatement of Reconciliation \n \n(Reconciling the profit as per costing records with the profit as \nper financial records) \n \n(`) \n(`) \nProfit as per Cost Accounts \n \n1,48,891 \nAdd: Factory overheads over absorbed  \n(` 2,79,000 – ` 2,65,000) \n14,000 \n \n \nS&D overheads over absorbed  \n \n(` 72,500 – ` 65,000) \n7,500 \n \nOpening stock overvalued  \n(` 91,875 – ` 76,525)  \n15,350 \n \nInterest received \n18,500 \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nRent received \n72,000 \n1,27,350 \n \n \n2,76,241 \nLess: \nAdministration \noverheads \nunder  \n \nrecovery (` 3,15000 – ` 3,02,560) \n12,440 \n \nClosing stock overvalued (` 48,626 –  \n \n` 43,250) \n5,376 \n \nGoodwill written off \n95,000 \n \nInterest paid \n72,000 \n \nBad debts \n21,000 \n2,05,816 \nProfit as per financial accounts \n \n70,425 \n \nWorking Notes:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

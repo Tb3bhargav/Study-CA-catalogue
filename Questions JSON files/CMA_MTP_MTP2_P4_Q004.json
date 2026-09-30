@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q004",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4. \nIf product BOXE is sold at split off point, what is the total profit or loss on BOXE?  \n(a) \n` 1,067 Profit \n(b) \n` 5,333 Profit \n(c) \n` 4,267 Loss \n(d) \n` 4,267 Profit",
+  "suggested_answer": "(D) ` 4,267 Profit",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q004",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "4",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4. \nIf product BOXE is sold at split off point, what is the total profit or loss on BOXE?  \n(a) \n` 1,067 Profit \n(b) \n` 5,333 Profit \n(c) \n` 4,267 Loss \n(d) \n` 4,267 Profit"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) ` 4,267 Profit"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

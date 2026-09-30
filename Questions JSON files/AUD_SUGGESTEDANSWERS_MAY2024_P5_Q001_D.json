@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q001_D",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "d",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(d) CA B, an auditor, after the completion of busy audit season, was occupied in\nassembling of final audit files of one of his client. First of all, he started\npreparing various documents of that client and then kept those documents\nin various folders. He was preparing documents as well as audit file in paper\nform because he believed that it is mandatory. He could complete\ndocumentation as well as assembling of final audit file of that client after\nthree months from the date of audit report. Generally, he retains audit file of\nthe clients for 4 years from the date of audit report. Check the validity of the\naction of CA B.\n(3 Marks)",
+  "suggested_answer": "(d)  Assembly of the Final Audit File:\nAudit documentation may be recorded on paper or on electronic or other\nmedia. Audit file may be defined as one or more folders or other storage\nmedia, in physical or electronic form, containing the records that comprise\nthe audit documentation for a specific engagement. Hence the views of CA\nB that audit documentation should be maintained mandatorily in paper\nform is not correct.\nThe auditor shall prepare audit documentation on timely basis. Preparing\nsufficient and appropriate audit documentation on a timely basis helps to\n\n32\nenhance the quality of the audit and facilitates the effective review and\nevaluation of the audit evidence obtained and conclusions reached before\nthe auditor’s report is finalized. Documentation prepared after the audit\nwork has been performed is likely to be less accurate than documentation\nprepared at the time such work is performed. Completing the audit\nDocumentation by CA B not on timely basis is not proper.\nAn appropriate time limit within which to complete the assembly of the\nﬁnal audit ﬁle is ordinarily not more than 60 days after the date of the\nauditor’s report. In the given situation, CA. B, after completion of audit\nseason, is completing the audit file as well as assembling of final audit files\nof his client after three months of the date of audit report which is not valid\nas per SQC 1.\nSQC 1 “Quality Control for Firms that perform Audits and Review of Historical\nFinancial Information, and other Assurance and Related Services”, requires\nﬁrms to establish policies and procedures for the retention of engagement\ndocumentation. The retention period for audit engagements ordinarily is\nno shorter than seven years from the date of the auditor’s report, or, if later,\nthe date of the group auditor’s report. He retains audit file of the client for\n4 years from the date of audit report is also non-compliance of SQC 1.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q001_D",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(d)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 2,
+    "page_end": 5,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d) CA B, an auditor, after the completion of busy audit season, was occupied in\nassembling of final audit files of one of his client. First of all, he started\npreparing various documents of that client and then kept those documents\nin various folders. He was preparing documents as well as audit file in paper\nform because he believed that it is mandatory. He could complete\ndocumentation as well as assembling of final audit file of that client after\nthree months from the date of audit report. Generally, he retains audit file of\nthe clients for 4 years from the date of audit report. Check the validity of the\naction of CA B.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d)  Assembly of the Final Audit File:\nAudit documentation may be recorded on paper or on electronic or other\nmedia. Audit file may be defined as one or more folders or other storage\nmedia, in physical or electronic form, containing the records that comprise\nthe audit documentation for a specific engagement. Hence the views of CA\nB that audit documentation should be maintained mandatorily in paper\nform is not correct.\nThe auditor shall prepare audit documentation on timely basis. Preparing\nsufficient and appropriate audit documentation on a timely basis helps to\n\n32\nenhance the quality of the audit and facilitates the effective review and\nevaluation of the audit evidence obtained and conclusions reached before\nthe auditor’s report is finalized. Documentation prepared after the audit\nwork has been performed is likely to be less accurate than documentation\nprepared at the time such work is performed. Completing the audit\nDocumentation by CA B not on timely basis is not proper.\nAn appropriate time limit within which to complete the assembly of the\nﬁnal audit ﬁle is ordinarily not more than 60 days after the date of the\nauditor’s report. In the given situation, CA. B, after completion of audit\nseason, is completing the audit file as well as assembling of final audit files\nof his client after three months of the date of audit report which is not valid\nas per SQC 1.\nSQC 1 “Quality Control for Firms that perform Audits and Review of Historical\nFinancial Information, and other Assurance and Related Services”, requires\nﬁrms to establish policies and procedures for the retention of engagement\ndocumentation. The retention period for audit engagements ordinarily is\nno shorter than seven years from the date of the auditor’s report, or, if later,\nthe date of the group auditor’s report. He retains audit file of the client for\n4 years from the date of audit report is also non-compliance of SQC 1."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

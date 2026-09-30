@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q002_A",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  RK Limited provided following data for the year ended on 31-03-2025:\nSales\n\n` 50,00,000\nEPS\n\n` 2.50\nTax Rate\n\n` 40%\nFixed cost excluding interest\n\n` 10,80,000\nThe Capital structure is as under:\nEquity Share capital of ` 10/- each\n\n` 18,00,000\n10% Preference share of ` 100/- each\n` 9,00,000\n12% Debentures\n\n` 75,00,000\nYou are required to:\n(i)  Calculate Earnings before Interest and Tax (EBIT).\n(ii)  Calculate Combined Leverage.\n(iii)  Advise, the level of sales where Earning before Tax (EBT) will be zero.\n(5 Marks)\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n15",
+  "suggested_answer": "(a)  (i)  Calculation of Earnings before Interest and Tax (EBIT)\nParticulars\nAmount (`)\nSales Revenue\n50,00,000\nLess: Variable Cost (Balancing figure)\n21,20,000\n\n16\nContribution\n28,80,000\nLess: Fixed Cost (excluding interest)\n10,80,000\nEarnings Before Interest & Tax (EBIT)\n18,00,000\nLess: Interest on Debentures (12% of ` 75,00,000)\n9,00,000\nEarnings Before Tax (EBT)\n9,00,000\nLess: Tax @ 40%\n3,60,000\nProfit After Tax (PAT)\n5,40,000\nLess: Preference Dividend (10% of ` 9,00,000)\n90,000\nProfit available to Equity Shareholders\n(1,80,000 × 2.50)\n4,50,000\n(ii) Combined Leverage =\nContribution\nEBT - Pref. Dividend (Pre- tax)\n\n=\n`\n`\n28,80,000\n9,00,000 - 1,50,000 = 3.84\n(iii) EBT zero means 100% reduction in EBT. Since combined leverage is\n3.84, sales have to be dropped by 100/3.84 = 26.042%.  Hence new\nsales will be ` 50,00,000 × (100 – 26.042) = ` 36,97,900.\n\nTherefore, at ` 36,97,900. level of sales, the Earnings before Tax of the\ncompany will be equal to zero.\n\nCombined Leverage and Sales can also be calculated without\ndeducting preference dividend in following way:\n(ii) Combined Leverage = Contribution\nEBT\n= `\n`\n28,80,000\n9,00,000 = 3.2\n(iii) EBT zero means 100% reduction in EBT. Since combined leverage is 3.2,\nsales have to be dropped by 100/3.2 = 31.25%.  Hence new sales will\nbe ` 50,00,000 × (100 – 31.25) = ` 34,37,500.\n\nTherefore, at ` 34,37,500. level of sales, the Earnings before Tax of the\ncompany will be equal to zero.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17",
+  "marks": "(5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q002_A",
+  "source_filename": "91204bos-aps4356-sa-int-p6.pdf",
+  "source_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "2(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+      "answer_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf"
+    },
+    "page_start": 15,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  RK Limited provided following data for the year ended on 31-03-2025:\nSales\n\n` 50,00,000\nEPS\n\n` 2.50\nTax Rate\n\n` 40%\nFixed cost excluding interest\n\n` 10,80,000\nThe Capital structure is as under:\nEquity Share capital of ` 10/- each\n\n` 18,00,000\n10% Preference share of ` 100/- each\n` 9,00,000\n12% Debentures\n\n` 75,00,000\nYou are required to:\n(i)  Calculate Earnings before Interest and Tax (EBIT).\n(ii)  Calculate Combined Leverage.\n(iii)  Advise, the level of sales where Earning before Tax (EBT) will be zero.\n(5 Marks)\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n15"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)  Calculation of Earnings before Interest and Tax (EBIT)\nParticulars\nAmount (`)\nSales Revenue\n50,00,000\nLess: Variable Cost (Balancing figure)\n21,20,000\n\n16\nContribution\n28,80,000\nLess: Fixed Cost (excluding interest)\n10,80,000\nEarnings Before Interest & Tax (EBIT)\n18,00,000\nLess: Interest on Debentures (12% of ` 75,00,000)\n9,00,000\nEarnings Before Tax (EBT)\n9,00,000\nLess: Tax @ 40%\n3,60,000\nProfit After Tax (PAT)\n5,40,000\nLess: Preference Dividend (10% of ` 9,00,000)\n90,000\nProfit available to Equity Shareholders\n(1,80,000 × 2.50)\n4,50,000\n(ii) Combined Leverage =\nContribution\nEBT - Pref. Dividend (Pre- tax)\n\n=\n`\n`\n28,80,000\n9,00,000 - 1,50,000 = 3.84\n(iii) EBT zero means 100% reduction in EBT. Since combined leverage is\n3.84, sales have to be dropped by 100/3.84 = 26.042%.  Hence new\nsales will be ` 50,00,000 × (100 – 26.042) = ` 36,97,900.\n\nTherefore, at ` 36,97,900. level of sales, the Earnings before Tax of the\ncompany will be equal to zero.\n\nCombined Leverage and Sales can also be calculated without\ndeducting preference dividend in following way:\n(ii) Combined Leverage = Contribution\nEBT\n= `\n`\n28,80,000\n9,00,000 = 3.2\n(iii) EBT zero means 100% reduction in EBT. Since combined leverage is 3.2,\nsales have to be dropped by 100/3.2 = 31.25%.  Hence new sales will\nbe ` 50,00,000 × (100 – 31.25) = ` 34,37,500.\n\nTherefore, at ` 34,37,500. level of sales, the Earnings before Tax of the\ncompany will be equal to zero.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

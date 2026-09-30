@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5. \nDuring the audit of Saraswati University, the auditor estimated hostel income based on \n200 rooms, an 80% occupancy rate, and a monthly fee of ` 6,000. The recorded hostel \nincome was found to be materially higher than the auditor’s estimate. \nWhat would be the most appropriate course of action by the auditor? \n(a)  \nAccept the recorded income since it is reflected in the books and supported by \nreceipts. \n(b)  \nAdjust the estimate to match the recorded income if minor differences exist. \n(c)  \nConclude that the income is overstated solely based on the analytical comparison. \n(d)  \nInvestigate the variance by examining supporting records, occupancy data, and \nassumptions used, and perform additional audit procedures as necessary.",
+  "suggested_answer": "(D)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q005",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nDuring the audit of Saraswati University, the auditor estimated hostel income based on \n200 rooms, an 80% occupancy rate, and a monthly fee of ` 6,000. The recorded hostel \nincome was found to be materially higher than the auditor’s estimate. \nWhat would be the most appropriate course of action by the auditor? \n(a)  \nAccept the recorded income since it is reflected in the books and supported by \nreceipts. \n(b)  \nAdjust the estimate to match the recorded income if minor differences exist. \n(c)  \nConclude that the income is overstated solely based on the analytical comparison. \n(d)  \nInvestigate the variance by examining supporting records, occupancy data, and \nassumptions used, and perform additional audit procedures as necessary."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

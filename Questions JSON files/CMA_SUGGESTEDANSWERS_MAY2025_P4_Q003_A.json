@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Meri Chai Teri Chai Ltd., is engaged in manufacturing three products:\n-\nGinger Chai\n-\nMasala Chai\n-\nSaffron Chai\n\nIt calculates activity cost rates based on cost driver capacity.\nActivity\nCost driver\nCapacity\nCost (`)\nMachine Setup\nNumber of setups\n64\n7,68,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\nMachine Processing\nMachine hours\n1,40,000\n7,00,000\nQuality inspection\nNumber of inspections\n544\n6,80,000\nPackaging\nNumber of packings\n600\n7,20,000\n\nFor the year ended 31st March 2025, the following consumption of cost drivers\nwas reported:\nProduct\nNumber\nof setups\nMachine\nhours\nNumber of\ninspections\nNumber of\npackings\nGinger Chai\n21\n45,000\n190\n190\nMasala Chai\n22\n50,000\n204\n250\nSaffron Chai\n17\n40,000\n150\n150\n\nRequired:\n(i) Compute the costs allocated to each product from each activity on the\nbasis of Activity- Based Costing method.\n(ii) Calculate the cost of unused capacity for each activity.\n(8 Marks)",
+  "suggested_answer": "(a) Working Note:\nCost Driver Rates-\nActivity\nCost\nCost Driver Basis\nCost\nDriver\nCost Driver Rate\n\n(`)\n\n(Units)\n(`)\nSetup\n7,68,000\nNumber of setups\n64\n12,000 per setup\nProcessing\n7,00,000\nMachine Hours 1,40,000\n5 per machine hour\nInspection\n6,80,000\nNumber of inspections\n544 1,250 per inspection\nPackaging\n7,20,000\nNumber of packings\n600\n1,200 per packing\n(i) Computation of cost allocated to each product - Activity Based\nCosting\nProducts\nGinger\nChai (`)\nMasala\nChai (`)\nSaffron\nChai (`)\nSetup Costs @ ` 12,000 per setup\n(21,22,17)\n2,52,000\n2,64,000\n2,04,000\nMachine Processing Costs @ ` 5\nper hour\n(45,000, 50,000, 40,000)\n2,25,000\n2,50,000\n2,00,000\nInspection Costs @ ` 1,250 per\ninspection\n(190,204,150)\n2,37,500\n2,55,000\n1,87,500\nPackaging Costs @ ` 1,200 per\npacking\n(190,250,150)\n2,28,000\n3,00,000\n1,80,000\nTotal Costs\n9,42,500\n10,69,000\n7,71,500\n(ii) Computation of cost of unused capacity for each activity\nActivity\nUnused Capacity\nTotal Cost\n(`)\nSetup Costs @ ` 12,000 per setup\n4 setups\n48,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nMachine Processing Costs @ ` 5\nper hour\n5,000 machine hours\n25,000\nInspection Costs @ ` 1,250 per\ninspection\n-\n-\nPackaging Costs @ ` 1,200 per\npacking\n10 packings\n12,000\nTotal Costs\n\n85,000",
+  "marks": "(8 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003_A",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 21
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(a)",
+    "marks": "(8 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 18,
+    "page_end": 21,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Meri Chai Teri Chai Ltd., is engaged in manufacturing three products:\n-\nGinger Chai\n-\nMasala Chai\n-\nSaffron Chai\n\nIt calculates activity cost rates based on cost driver capacity.\nActivity\nCost driver\nCapacity\nCost (`)\nMachine Setup\nNumber of setups\n64\n7,68,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\nMachine Processing\nMachine hours\n1,40,000\n7,00,000\nQuality inspection\nNumber of inspections\n544\n6,80,000\nPackaging\nNumber of packings\n600\n7,20,000\n\nFor the year ended 31st March 2025, the following consumption of cost drivers\nwas reported:\nProduct\nNumber\nof setups\nMachine\nhours\nNumber of\ninspections\nNumber of\npackings\nGinger Chai\n21\n45,000\n190\n190\nMasala Chai\n22\n50,000\n204\n250\nSaffron Chai\n17\n40,000\n150\n150\n\nRequired:\n(i) Compute the costs allocated to each product from each activity on the\nbasis of Activity- Based Costing method.\n(ii) Calculate the cost of unused capacity for each activity.\n(8 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Working Note:\nCost Driver Rates-\nActivity\nCost\nCost Driver Basis\nCost\nDriver\nCost Driver Rate\n\n(`)\n\n(Units)\n(`)\nSetup\n7,68,000\nNumber of setups\n64\n12,000 per setup\nProcessing\n7,00,000\nMachine Hours 1,40,000\n5 per machine hour\nInspection\n6,80,000\nNumber of inspections\n544 1,250 per inspection\nPackaging\n7,20,000\nNumber of packings\n600\n1,200 per packing\n(i) Computation of cost allocated to each product - Activity Based\nCosting\nProducts\nGinger\nChai (`)\nMasala\nChai (`)\nSaffron\nChai (`)\nSetup Costs @ ` 12,000 per setup\n(21,22,17)\n2,52,000\n2,64,000\n2,04,000\nMachine Processing Costs @ ` 5\nper hour\n(45,000, 50,000, 40,000)\n2,25,000\n2,50,000\n2,00,000\nInspection Costs @ ` 1,250 per\ninspection\n(190,204,150)\n2,37,500\n2,55,000\n1,87,500\nPackaging Costs @ ` 1,200 per\npacking\n(190,250,150)\n2,28,000\n3,00,000\n1,80,000\nTotal Costs\n9,42,500\n10,69,000\n7,71,500\n(ii) Computation of cost of unused capacity for each activity\nActivity\nUnused Capacity\nTotal Cost\n(`)\nSetup Costs @ ` 12,000 per setup\n4 setups\n48,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nMachine Processing Costs @ ` 5\nper hour\n5,000 machine hours\n25,000\nInspection Costs @ ` 1,250 per\ninspection\n-\n-\nPackaging Costs @ ` 1,200 per\npacking\n10 packings\n12,000\nTotal Costs\n\n85,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

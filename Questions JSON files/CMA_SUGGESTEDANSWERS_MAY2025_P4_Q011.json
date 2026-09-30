@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11.  Healthy & Fit Ltd. manufactures & sells a single product captioned as\n'Exercise bikes'. The estimated units to be sold in the last quarter of the year\n2024-25 are as under:\nParticulars\nJanuary 2025 February 2025\nMarch 2025\nExercise bikes (in units)\n1,500\n1,800\n1,000\n\nThe company's policy is to hold closing stock of finished goods at 20% of the\nexpected sales volume of the succeeding month.\n\nEach unit of exercise bike requires one unit of main body with resistance\nsystem & two units of pedals. Calculate the number of pedals required to be\npurchased for January 2025 production.\n(A)  1,560 pedals\n(B)  1,440 pedals\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5\n(C)  3,120 pedals\n(D)  2,880 pedals",
+  "suggested_answer": "C",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q011",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11.  Healthy & Fit Ltd. manufactures & sells a single product captioned as\n'Exercise bikes'. The estimated units to be sold in the last quarter of the year\n2024-25 are as under:\nParticulars\nJanuary 2025 February 2025\nMarch 2025\nExercise bikes (in units)\n1,500\n1,800\n1,000\n\nThe company's policy is to hold closing stock of finished goods at 20% of the\nexpected sales volume of the succeeding month.\n\nEach unit of exercise bike requires one unit of main body with resistance\nsystem & two units of pedals. Calculate the number of pedals required to be\npurchased for January 2025 production.\n(A)  1,560 pedals\n(B)  1,440 pedals\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5\n(C)  3,120 pedals\n(D)  2,880 pedals"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

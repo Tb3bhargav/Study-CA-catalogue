@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  STP Ltd. has entered into lease arrangements for two different categories of\nequipment from the same lessor. The key terms of the arrangements are\nsummarised below:\nParticulars\nManufacturing\nequipment\nSpecialised\nManufacturing\nEquipment\nLease period\n5 years\n8 years\nEstimated economic life\n10 years\n8 years\nTransfer of ownership\nNO\nNO\nInsurance and major maintenance Borne by lessor\nBorne by STP Ltd.\nAlternative use after lease period\nAvailable\nNot Available\n(i)  Analyse the above arrangements and determine the appropriate\nclassification of lease in case of Manufacturing Equipment and\nSpecialised Manufacturing Equipment.\n(1 Mark)\n\n28\n(ii)  As a senior auditor of STP Ltd., suggest the accounting treatment and\nTax benefits for:\n(4 Marks)\n•\nManufacturing Equipment\n•\nSpecialised Manufacturing Equipment",
+  "suggested_answer": "(b)  (i)  In case of Manufacturing Equipment, Lease is classified as\nOperating Lease due to following reasons:\n•\nLease term extends to less than 75% of the projected useful life of\nthe leased asset. In the given case, estimated economic life is 10\nyears and lease period is 5 years which is significantly less than\n75%.\n•\nLessee pays only the monthly lease payments. Insurance and major\nmaintenance are borne by lessor.\n\nIn case of Specialised Manufacturing Equipment, Lease is classified as\nFinance Lease, due to following reasons:\n•\nLease term is equal to estimated economic life of the asset under\nthe lease arrangement.\n•\nLessee bears insurance and major maintenance.\n(ii) In case of Manufacturing Equipment: Accounting treatment:\nOperating lease is generally treated like a renting arrangement. That\nmeans, the lease payments are treated as operating expenses and the\nasset does not appear as an asset on lessee’s balance sheet.\n\nTax Benefit: Since operating lease is as good as renting, lease payment\nis considered as expense. No depreciation can be claimed by the\nlessee.\n\nIn case of Specialised Manufacturing Equipment: Accounting\ntreatment: Finance lease is treated like loan arrangement. Hence, the\n\n30\nasset ownership is considered of that of the lessee and thus appears\non the balance sheet of the lessee.\n\nTax Benefit: Lessee can claim both interest and depreciation expense\nas ﬁnancial lease is treated like a loan.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005_B",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 27,
+    "end": 30
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 27,
+    "page_end": 30,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  STP Ltd. has entered into lease arrangements for two different categories of\nequipment from the same lessor. The key terms of the arrangements are\nsummarised below:\nParticulars\nManufacturing\nequipment\nSpecialised\nManufacturing\nEquipment\nLease period\n5 years\n8 years\nEstimated economic life\n10 years\n8 years\nTransfer of ownership\nNO\nNO\nInsurance and major maintenance Borne by lessor\nBorne by STP Ltd.\nAlternative use after lease period\nAvailable\nNot Available\n(i)  Analyse the above arrangements and determine the appropriate\nclassification of lease in case of Manufacturing Equipment and\nSpecialised Manufacturing Equipment.\n(1 Mark)\n\n28\n(ii)  As a senior auditor of STP Ltd., suggest the accounting treatment and\nTax benefits for:\n(4 Marks)\n•\nManufacturing Equipment\n•\nSpecialised Manufacturing Equipment"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  In case of Manufacturing Equipment, Lease is classified as\nOperating Lease due to following reasons:\n•\nLease term extends to less than 75% of the projected useful life of\nthe leased asset. In the given case, estimated economic life is 10\nyears and lease period is 5 years which is significantly less than\n75%.\n•\nLessee pays only the monthly lease payments. Insurance and major\nmaintenance are borne by lessor.\n\nIn case of Specialised Manufacturing Equipment, Lease is classified as\nFinance Lease, due to following reasons:\n•\nLease term is equal to estimated economic life of the asset under\nthe lease arrangement.\n•\nLessee bears insurance and major maintenance.\n(ii) In case of Manufacturing Equipment: Accounting treatment:\nOperating lease is generally treated like a renting arrangement. That\nmeans, the lease payments are treated as operating expenses and the\nasset does not appear as an asset on lessee’s balance sheet.\n\nTax Benefit: Since operating lease is as good as renting, lease payment\nis considered as expense. No depreciation can be claimed by the\nlessee.\n\nIn case of Specialised Manufacturing Equipment: Accounting\ntreatment: Finance lease is treated like loan arrangement. Hence, the\n\n30\nasset ownership is considered of that of the lessee and thus appears\non the balance sheet of the lessee.\n\nTax Benefit: Lessee can claim both interest and depreciation expense\nas ﬁnancial lease is treated like a loan."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.  A company forecasts its labour costs and material cost to go up by 12% and\n8% respectively per unit in the next financial year. If the ratio between\nmaterial and labour is 5: 3, determine the increase in selling price as a\npercentage that the company shall keep to maintain its P/V of 12%,\nassuming variable overheads as nil.\n\n6\n(A)  7.45%\n(B)  8.01%\n(C)  9.95%\n(D)  9.46%",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q014",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.  A company forecasts its labour costs and material cost to go up by 12% and\n8% respectively per unit in the next financial year. If the ratio between\nmaterial and labour is 5: 3, determine the increase in selling price as a\npercentage that the company shall keep to maintain its P/V of 12%,\nassuming variable overheads as nil.\n\n6\n(A)  7.45%\n(B)  8.01%\n(C)  9.95%\n(D)  9.46%"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

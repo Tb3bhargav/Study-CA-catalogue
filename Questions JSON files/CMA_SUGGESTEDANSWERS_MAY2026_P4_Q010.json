@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. What is the machine hour rate for the month in respect of the individual jobs\n-Belting (B), Extrusion (E) and Vulcanizing (V) respectively?\n(A)  ` 45.37 (B), 68.19 (E) and ` 98.95 (V) per hour\n(B)  ` 63.14 (B), 59.79 (E) and ` 102 (V) per hour\n(C)  ` 55.25 (B), 48.33 (E) and ` 105 (V) per hour\n(D)  ` 49.41 (B), 78.54 (E) and ` 94.35 (V) per hour\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q010",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. What is the machine hour rate for the month in respect of the individual jobs\n-Belting (B), Extrusion (E) and Vulcanizing (V) respectively?\n(A)  ` 45.37 (B), 68.19 (E) and ` 98.95 (V) per hour\n(B)  ` 63.14 (B), 59.79 (E) and ` 102 (V) per hour\n(C)  ` 55.25 (B), 48.33 (E) and ` 105 (V) per hour\n(D)  ` 49.41 (B), 78.54 (E) and ` 94.35 (V) per hour\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

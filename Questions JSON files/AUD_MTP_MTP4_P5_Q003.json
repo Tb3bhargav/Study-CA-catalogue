@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q003",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3. \nIn the case scenario, the audit team identified misstatements but was unable to \ndetermine whether they arose due to fraud or error. \n \nIn light of the engagement partner’s explanation, which of the following best reflects the \nauditor’s responsibility in such a situation? \n(a)  \nAuditor must first conclusively establish fraud before evaluating materiality \n(b)  \nOnly misstatements arising from fraud affect the audit opinion \n(c)  \nMisstatements arising from error can be ignored if individually immaterial \n3 \n(d)  \nAuditor should obtain reasonable assurance that financial statements as a whole \nare free from material misstatements, whether due to fraud or error, and evaluate \ntheir impact in aggregate \nCase Scenario 2 [MCQs 4-7] \nDuring the audit of MNO Hospitality Ltd., a large chain of luxury hotels, for the financial year \n2024–25, the statutory auditor examined revenue streams from restaurants, rooms and banquet \noperations. \nWhile reviewing restaurant operations, it was noted that the entity prepares weekly trading \naccounts, however, significant fluctuations in gross profit margins were observed in two outlets. \nManagement attributed these variations to “seasonal factors,” but no supporting evidence was \nprovided. Further, Kitchen Order Tickets (KOTs) were not consistently preserved and only \nselective bills could be traced to supporting records. \nIn respect of room revenue, the auditor observed that discounted room rates were frequently \napplied without documented approval. Additionally, housekeeping occupancy reports were not \nretained and reconciliation between guest register and bills could be performed only for limited \ndates. \nDue to the absence of primary records such as Kitchen Order Tickets (KOTs), housekeeping \noccupancy reports and complete guest-wise billing trails, the audit team was unable to obtain \nsufficient appropriate audit evidence through direct verification. Consequently, the auditor was \ncompelled to place significant reliance on management-generated reports, including system-\nbased occupancy summaries, revenue analytics and consolidated outlet-wise performance \nstatements. \nHowever, it was observed that these reports were internally generated and not supported by \neffective underlying controls over their preparation and maintenance. Further, many of the \nexplanations regarding fluctuations in revenue, occupancy levels, and discounting practices \nwere obtained through oral representations from hotel staff and management personnel, without \nadequate documentary corroboration. \nIn several instances, only photocopies or system extracts of records were made available in \nplace of original documents and no alternative audit procedures could fully compensate for the \nlack of reliable primary evidence. This situation significantly impacted the reliability and \nsufficiency of audit evidence, thereby increasing audit risk and requiring the auditor to exercise \nheightened professional skepticism. \nIn the banquet segment, it was observed that several events were conducted before the year-\nend, but the related invoices were raised only after the year-end due to delays in finalising \nsettlements. The auditor noted inconsistency in accounting treatment, as in some cases revenue \nfor such events was recognised in the current year without raising invoices, raising concerns \n4 \nregarding the existence of trade receivables. In other cases, invoices raised after year-end were \nincluded in receivables as at the reporting date without adequate supporting documentation. \nFurther, proper cut-off procedures were not followed, as there was no reconciliation between \nevent records and invoicing data around year-end. This created ambiguity regarding \ncompleteness of revenue and existence of receivables, indicating a potential cut-off error and \nrisk of material misstatement in the financial statements. \nOn the basis of above, answer the following MCQs (4–7):",
+  "suggested_answer": "(D)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q003",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nIn the case scenario, the audit team identified misstatements but was unable to \ndetermine whether they arose due to fraud or error. \n \nIn light of the engagement partner’s explanation, which of the following best reflects the \nauditor’s responsibility in such a situation? \n(a)  \nAuditor must first conclusively establish fraud before evaluating materiality \n(b)  \nOnly misstatements arising from fraud affect the audit opinion \n(c)  \nMisstatements arising from error can be ignored if individually immaterial \n3 \n(d)  \nAuditor should obtain reasonable assurance that financial statements as a whole \nare free from material misstatements, whether due to fraud or error, and evaluate \ntheir impact in aggregate \nCase Scenario 2 [MCQs 4-7] \nDuring the audit of MNO Hospitality Ltd., a large chain of luxury hotels, for the financial year \n2024–25, the statutory auditor examined revenue streams from restaurants, rooms and banquet \noperations. \nWhile reviewing restaurant operations, it was noted that the entity prepares weekly trading \naccounts, however, significant fluctuations in gross profit margins were observed in two outlets. \nManagement attributed these variations to “seasonal factors,” but no supporting evidence was \nprovided. Further, Kitchen Order Tickets (KOTs) were not consistently preserved and only \nselective bills could be traced to supporting records. \nIn respect of room revenue, the auditor observed that discounted room rates were frequently \napplied without documented approval. Additionally, housekeeping occupancy reports were not \nretained and reconciliation between guest register and bills could be performed only for limited \ndates. \nDue to the absence of primary records such as Kitchen Order Tickets (KOTs), housekeeping \noccupancy reports and complete guest-wise billing trails, the audit team was unable to obtain \nsufficient appropriate audit evidence through direct verification. Consequently, the auditor was \ncompelled to place significant reliance on management-generated reports, including system-\nbased occupancy summaries, revenue analytics and consolidated outlet-wise performance \nstatements. \nHowever, it was observed that these reports were internally generated and not supported by \neffective underlying controls over their preparation and maintenance. Further, many of the \nexplanations regarding fluctuations in revenue, occupancy levels, and discounting practices \nwere obtained through oral representations from hotel staff and management personnel, without \nadequate documentary corroboration. \nIn several instances, only photocopies or system extracts of records were made available in \nplace of original documents and no alternative audit procedures could fully compensate for the \nlack of reliable primary evidence. This situation significantly impacted the reliability and \nsufficiency of audit evidence, thereby increasing audit risk and requiring the auditor to exercise \nheightened professional skepticism. \nIn the banquet segment, it was observed that several events were conducted before the year-\nend, but the related invoices were raised only after the year-end due to delays in finalising \nsettlements. The auditor noted inconsistency in accounting treatment, as in some cases revenue \nfor such events was recognised in the current year without raising invoices, raising concerns \n4 \nregarding the existence of trade receivables. In other cases, invoices raised after year-end were \nincluded in receivables as at the reporting date without adequate supporting documentation. \nFurther, proper cut-off procedures were not followed, as there was no reconciliation between \nevent records and invoicing data around year-end. This created ambiguity regarding \ncompleteness of revenue and existence of receivables, indicating a potential cut-off error and \nrisk of material misstatement in the financial statements. \nOn the basis of above, answer the following MCQs (4–7):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

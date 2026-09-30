@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q001",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \n10% increase in spare parts prices.",
+  "suggested_answer": "(i) \n(A):  ` 2,42,500 \n(ii) \n(D):  ` 5,30,000 \n(iii) (B):  ` 3,96,000 \n(iv) (C):  ` 3,60,000 \n(v) \n(B):  ` 3,17,750 \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\nWorking Note No. 1: Calculation of Sales \nCredit Sales = Twice of cash sales \nIf Cash sales = X, then Credit sales = 2X \nTotal sales = X + 2X = 3X \nCash Sales = Total Sales / 3 \nCredit Sales = 2/3 of Total Sales  \n \n \n \n \n \n \n \n(In `) \nSales \nJanuary 2025 February 2025 March 2025 April 2025 \nTotal Sales \n9,00,000 \n7,50,000 \n8,25,000 \n6,75,000 \nCash Sales \n3,00,000 \n2,50,000 \n2,75,000 \n2,25,000 \nDiscount @3% \n9,000 \n7,500 \n8,250 \n6,750 \nNet Cash Sales \n2,91,000 \n2,42,500 \n2,66,750 \n2,18,250 \nCredit Sales \n6,00,000 \n5,00,000 \n5,50,000 \n4,50,000 \nWorking Note No. 2: Collection from Debtors \n60% of credit sales are collected in the same month \n40% of credit sales are collected in the following month \n• \nCurrent Month Collection = 60% of Credit Sales \n• \nNext Month Collection = 40% of Previous Month’s Credit Sales \n(In `) \nParticulars \nJanuary 2025 February 2025 March 2025 \nCredit Sales \n6,00,000 \n5,00,000 \n5,50,000 \n60% of credit sale (same \nmonth) \n3,60,000 \n3,00,000 \n3,30,000 \n40% next month \n– \n2,40,000 \n2,00,000 \nTotal Collection \n– \n5,40,000 \n5,30,000 \nWorking Note No. 3: Calculation of Purchases \nSelling price includes a 20% profit margin on selling price. \nGoods are purchased one month before sale. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n23 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \nFor sales of February 2025, goods were purchased in January 2025. \nSales for February 2025 = ` 7,50,000 \nPurchases for January 2025 = 80% of Sales \n= ` 7,50,000 × 80% = ` 6,00,000  \n \n \n \n \n \n \n \n(In `) \nParticulars \nJanuary 2025 February 2025 \nMarch 2025 \nPurchases \n6,00,000 \n6,60,000 \n5,40,000 \nCash Purchases (40%) \n2,40,000 \n2,64,000 \n2,16,000 \nCredit Purchases \n3,60,000 \n3,96,000 \n3,24,000 \nWorking Note No. 4: Payment to Creditors  \n \n \n \n \n(In `) \nParticulars \nJanuary 2025 February 2025 March 2025 \nCredit Purchases \n3,60,000 \n3,96,000 \n3,24,000 \nPayment–Same \nMonth \n@50% \n1,80,000 \n1,98,000 \n1,62,000 \nBalance Next Month @50% \n \n1,80,000 \n1,98,000 \nPayment to Creditors \n \n3,78,000 \n3,60,000 \nWorking Note No. 5: Cash Budget  \n \n \n \n \n \n \n(In `) \nParticulars \nFebruary 2025 \nMarch 2025 \nReceipts \nOpening Cash in Hand \n60,000 \n2,00,500 \nNet Cash Sales (W.N.1) \n2,42,500 \n2,66,750 \nCollection from Debtors (W.N.2) \n 5,40,000 \n  5,30,000 \nTotal Receipts (A) \n8,42,500 \n9,97,250 \nPayments \nCash Purchases (W.N.3) \n2,64,000 \n2,16,000 \nPayment to Creditors (W.N.4) \n3,78,000 \n3,60,000 \nAdvance Income Tax \n– \n50,000 \nTotal Payments (B) \n6,42,000 \n6,26,000 \nClosing Cash in Hand (A – B) \n2,00,500 \n3,71,250 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q001",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \n10% increase in spare parts prices."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \n(A):  ` 2,42,500 \n(ii) \n(D):  ` 5,30,000 \n(iii) (B):  ` 3,96,000 \n(iv) (C):  ` 3,60,000 \n(v) \n(B):  ` 3,17,750 \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\nWorking Note No. 1: Calculation of Sales \nCredit Sales = Twice of cash sales \nIf Cash sales = X, then Credit sales = 2X \nTotal sales = X + 2X = 3X \nCash Sales = Total Sales / 3 \nCredit Sales = 2/3 of Total Sales  \n \n \n \n \n \n \n \n(In `) \nSales \nJanuary 2025 February 2025 March 2025 April 2025 \nTotal Sales \n9,00,000 \n7,50,000 \n8,25,000 \n6,75,000 \nCash Sales \n3,00,000 \n2,50,000 \n2,75,000 \n2,25,000 \nDiscount @3% \n9,000 \n7,500 \n8,250 \n6,750 \nNet Cash Sales \n2,91,000 \n2,42,500 \n2,66,750 \n2,18,250 \nCredit Sales \n6,00,000 \n5,00,000 \n5,50,000 \n4,50,000 \nWorking Note No. 2: Collection from Debtors \n60% of credit sales are collected in the same month \n40% of credit sales are collected in the following month \n• \nCurrent Month Collection = 60% of Credit Sales \n• \nNext Month Collection = 40% of Previous Month’s Credit Sales \n(In `) \nParticulars \nJanuary 2025 February 2025 March 2025 \nCredit Sales \n6,00,000 \n5,00,000 \n5,50,000 \n60% of credit sale (same \nmonth) \n3,60,000 \n3,00,000 \n3,30,000 \n40% next month \n– \n2,40,000 \n2,00,000 \nTotal Collection \n– \n5,40,000 \n5,30,000 \nWorking Note No. 3: Calculation of Purchases \nSelling price includes a 20% profit margin on selling price. \nGoods are purchased one month before sale. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n23 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \nFor sales of February 2025, goods were purchased in January 2025. \nSales for February 2025 = ` 7,50,000 \nPurchases for January 2025 = 80% of Sales \n= ` 7,50,000 × 80% = ` 6,00,000  \n \n \n \n \n \n \n \n(In `) \nParticulars \nJanuary 2025 February 2025 \nMarch 2025 \nPurchases \n6,00,000 \n6,60,000 \n5,40,000 \nCash Purchases (40%) \n2,40,000 \n2,64,000 \n2,16,000 \nCredit Purchases \n3,60,000 \n3,96,000 \n3,24,000 \nWorking Note No. 4: Payment to Creditors  \n \n \n \n \n(In `) \nParticulars \nJanuary 2025 February 2025 March 2025 \nCredit Purchases \n3,60,000 \n3,96,000 \n3,24,000 \nPayment–Same \nMonth \n@50% \n1,80,000 \n1,98,000 \n1,62,000 \nBalance Next Month @50% \n \n1,80,000 \n1,98,000 \nPayment to Creditors \n \n3,78,000 \n3,60,000 \nWorking Note No. 5: Cash Budget  \n \n \n \n \n \n \n(In `) \nParticulars \nFebruary 2025 \nMarch 2025 \nReceipts \nOpening Cash in Hand \n60,000 \n2,00,500 \nNet Cash Sales (W.N.1) \n2,42,500 \n2,66,750 \nCollection from Debtors (W.N.2) \n 5,40,000 \n  5,30,000 \nTotal Receipts (A) \n8,42,500 \n9,97,250 \nPayments \nCash Purchases (W.N.3) \n2,64,000 \n2,16,000 \nPayment to Creditors (W.N.4) \n3,78,000 \n3,60,000 \nAdvance Income Tax \n– \n50,000 \nTotal Payments (B) \n6,42,000 \n6,26,000 \nClosing Cash in Hand (A – B) \n2,00,500 \n3,71,250 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

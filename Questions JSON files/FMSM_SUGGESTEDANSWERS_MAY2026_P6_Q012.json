@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q012",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. Ajay Sharma undertook a retrenchment strategy to save his company when\nthe sales of his company declined, and his company was called outdated. The\naction plan undertaken to implement it was\n(i)  Assessing the current problem\n(ii)  Providing innovative transport service\n(iii)  Developing an action plan with specific goals\n(iv)  Restructuring organizational hierarchy\n\nWhich of the above actions does not pertain to the strategy undertaken by\nAjay Sharma?\n(A)  (ii) and (iv)\n(B)  (iii) and (iv)\n(C)  (i), (iii) and (iv)\n(D)  Only (iii)\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q012",
+  "source_filename": "92877bos-sa-int-may2026-p6.pdf",
+  "source_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "12",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+      "answer_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. Ajay Sharma undertook a retrenchment strategy to save his company when\nthe sales of his company declined, and his company was called outdated. The\naction plan undertaken to implement it was\n(i)  Assessing the current problem\n(ii)  Providing innovative transport service\n(iii)  Developing an action plan with specific goals\n(iv)  Restructuring organizational hierarchy\n\nWhich of the above actions does not pertain to the strategy undertaken by\nAjay Sharma?\n(A)  (ii) and (iv)\n(B)  (iii) and (iv)\n(C)  (i), (iii) and (iv)\n(D)  Only (iii)\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

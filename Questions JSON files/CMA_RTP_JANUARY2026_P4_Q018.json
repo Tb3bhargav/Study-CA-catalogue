@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q018",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 18,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "18.  SIAM Ltd. manufactures two products using one type of material and \none grade of labour. Shown below is an extract from the company’s \nworking papers for the next period’s budget. \nParticulars \nProduct A \nProduct B \nBudgeted Sales (Units) \n1,800 \n2,400 \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nBudgeted Material \nConsumption \nper \nProduct (Kg.) \n5 \n3 \n[Budgeted Material Cost `12 per Kg.] \n \n \nStandard Hours Allowed per product \n5 \n4 \n[Budgeted Wage Rate `8 per hour] \n \n \n \nOvertime premium is 50% and is payable, if a worker works for more \nthan 40 hours a week. There are 45 direct workers. \n \nThe target productivity ratio (or efficiency ratio) for the productive hours \nworked by the direct workers in actually manufacturing the products is \n80%; in addition the non-productive downtime is budgeted at 20% of \nthe productive hours worked. \n \nThere are twelve 5-day weeks in the budget period and it is anticipated \nthat sales and production will occur evenly throughout the whole period. \n \nIt is anticipated that stock at the beginning of the period will be: \n \nProduct A 510 units; Product B 1,200 units; Raw material 2,150 Kg. \n \nThe target closing stock, expressed in terms of anticipated activity \nduring budget period are - Product A 15 days sales; Product B 20 days \nsales; Raw material 10 days consumption. \nRequired: \n(a)  \nthe material purchases budget, and  \n(b)  \nthe wages budget for the direct workers, showing the quantities \nand values, for the next period. \nMiscellaneous",
+  "suggested_answer": "Material Purchase Budget \n(in quantities and value) \nParticulars \nTotal \nMaterial Consumption (Kg.) \n  A (1,740 units x 5 Kg. = 8,700) \n  B (2,000 units x 3 Kg. = 6,000) \n \n \n14,700 \nAdd: Closing Balance of Material (Kg.) (W.N. 3) \n2,450 \nLess: Anticipated Opening Balance of Material (Kg.) \n2,150 \nTotal Quantity of Material (kg.) to be purchased  \n15,000 \nTotal Value of Material to be purchased (`) (15,000 Kg. x \n`12) \n` 1,80,000 \nDirect Workers Wages Budget \n(showing hours required and wages paid) \nParticulars \nTotal \nStandard Hours for Budgeted Production \nA (1,740 units x 5 hrs.= 8,700) \nB (2,000 units x 4 hrs.= 8,000) \n16,700 \nStandard Hours for Budgeted Production at Targeted \nEfficiency Ratio (W.N. 4) \n20,875 \nAdd: Non Productive Downtime (20% x 20,875 hours) \n4,175 \nTotal Labour Hours Required \n25,050 \nLess: Normal Labour Hours (45 workers x 12 weeks x 5 \ndays x 8 hours) \n21,600 \nDifference (Overtime hours) \n3,450 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n53 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \nWages for normal hours (21,600 hours x ` 8) \n`1,72,800 \nOvertime Wages (3,450 x `12) \n`41,400 \nTotal Wages \n`2,14,200 \nWorking Notes:",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q018",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "18",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "18.  SIAM Ltd. manufactures two products using one type of material and \none grade of labour. Shown below is an extract from the company’s \nworking papers for the next period’s budget. \nParticulars \nProduct A \nProduct B \nBudgeted Sales (Units) \n1,800 \n2,400 \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nBudgeted Material \nConsumption \nper \nProduct (Kg.) \n5 \n3 \n[Budgeted Material Cost `12 per Kg.] \n \n \nStandard Hours Allowed per product \n5 \n4 \n[Budgeted Wage Rate `8 per hour] \n \n \n \nOvertime premium is 50% and is payable, if a worker works for more \nthan 40 hours a week. There are 45 direct workers. \n \nThe target productivity ratio (or efficiency ratio) for the productive hours \nworked by the direct workers in actually manufacturing the products is \n80%; in addition the non-productive downtime is budgeted at 20% of \nthe productive hours worked. \n \nThere are twelve 5-day weeks in the budget period and it is anticipated \nthat sales and production will occur evenly throughout the whole period. \n \nIt is anticipated that stock at the beginning of the period will be: \n \nProduct A 510 units; Product B 1,200 units; Raw material 2,150 Kg. \n \nThe target closing stock, expressed in terms of anticipated activity \nduring budget period are - Product A 15 days sales; Product B 20 days \nsales; Raw material 10 days consumption. \nRequired: \n(a)  \nthe material purchases budget, and  \n(b)  \nthe wages budget for the direct workers, showing the quantities \nand values, for the next period. \nMiscellaneous"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Material Purchase Budget \n(in quantities and value) \nParticulars \nTotal \nMaterial Consumption (Kg.) \n  A (1,740 units x 5 Kg. = 8,700) \n  B (2,000 units x 3 Kg. = 6,000) \n \n \n14,700 \nAdd: Closing Balance of Material (Kg.) (W.N. 3) \n2,450 \nLess: Anticipated Opening Balance of Material (Kg.) \n2,150 \nTotal Quantity of Material (kg.) to be purchased  \n15,000 \nTotal Value of Material to be purchased (`) (15,000 Kg. x \n`12) \n` 1,80,000 \nDirect Workers Wages Budget \n(showing hours required and wages paid) \nParticulars \nTotal \nStandard Hours for Budgeted Production \nA (1,740 units x 5 hrs.= 8,700) \nB (2,000 units x 4 hrs.= 8,000) \n16,700 \nStandard Hours for Budgeted Production at Targeted \nEfficiency Ratio (W.N. 4) \n20,875 \nAdd: Non Productive Downtime (20% x 20,875 hours) \n4,175 \nTotal Labour Hours Required \n25,050 \nLess: Normal Labour Hours (45 workers x 12 weeks x 5 \ndays x 8 hours) \n21,600 \nDifference (Overtime hours) \n3,450 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n53 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \nWages for normal hours (21,600 hours x ` 8) \n`1,72,800 \nOvertime Wages (3,450 x `12) \n`41,400 \nTotal Wages \n`2,14,200 \nWorking Notes:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

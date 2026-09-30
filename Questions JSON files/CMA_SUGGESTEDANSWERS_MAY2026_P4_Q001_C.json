@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  A manufacturing concern reported a net loss of ` 4,20,000 as per the Cost\nAccounts for the year ended 31st March, 2026. Upon scrutiny of both sets of\naccounts, the following differences were identified:\nSr.\nNo.\nParticulars\nAmount\n(`)\n(i)\nProfit on sale of investments (Financial Accounts only)\n55,000\n(ii)\nFactory overheads under-absorbed in Cost Accounts\n70,000\n(iii)\nDiscount allowed to customers (Financial Accounts only)\n30,000\n(iv)\nDepreciation overcharged in Cost Accounts\n90,000\n(v)\nSelling overheads over-absorbed in Cost Accounts\n65,000\n(vi)\nBad debts written-off (Financial Accounts only)\n1,10,000\n(vii) Over-valuation of closing stock in Cost Accounts\n40,000\nYou are required to:\n(i)  Prepare a Reconciliation Statement.\n(ii)  Ascertain the net profit / (loss) as per the Financial Accounts. (4 Marks)\n\n10",
+  "suggested_answer": "(c)\n\nReconciliation Statement\nParticulars\nAmount\n(`)\nAmount\n(`)\nNet Loss as per Cost Accounts\n4,20,000\nAdd:\nProfit on sale of investments\n55,000\nDepreciation overcharged in Cost Accounts\n90,000\n\n12\nSelling\noverheads\nover-absorbed\nin\nCost\nAccounts\n65,000\n2,10,000\n2,10,000\nLess:\nFactory overheads under-absorbed in Cost\nAccounts\n70,000\nDiscount allowed to customers\n30,000\nBad debts written-off\n1,10,000\nOver-valuation of closing stock in Cost Accounts\n40,000\n2,50,000\nNet Loss as per Financial Accounts\n4,60,000",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_C",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  A manufacturing concern reported a net loss of ` 4,20,000 as per the Cost\nAccounts for the year ended 31st March, 2026. Upon scrutiny of both sets of\naccounts, the following differences were identified:\nSr.\nNo.\nParticulars\nAmount\n(`)\n(i)\nProfit on sale of investments (Financial Accounts only)\n55,000\n(ii)\nFactory overheads under-absorbed in Cost Accounts\n70,000\n(iii)\nDiscount allowed to customers (Financial Accounts only)\n30,000\n(iv)\nDepreciation overcharged in Cost Accounts\n90,000\n(v)\nSelling overheads over-absorbed in Cost Accounts\n65,000\n(vi)\nBad debts written-off (Financial Accounts only)\n1,10,000\n(vii) Over-valuation of closing stock in Cost Accounts\n40,000\nYou are required to:\n(i)  Prepare a Reconciliation Statement.\n(ii)  Ascertain the net profit / (loss) as per the Financial Accounts. (4 Marks)\n\n10"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)\n\nReconciliation Statement\nParticulars\nAmount\n(`)\nAmount\n(`)\nNet Loss as per Cost Accounts\n4,20,000\nAdd:\nProfit on sale of investments\n55,000\nDepreciation overcharged in Cost Accounts\n90,000\n\n12\nSelling\noverheads\nover-absorbed\nin\nCost\nAccounts\n65,000\n2,10,000\n2,10,000\nLess:\nFactory overheads under-absorbed in Cost\nAccounts\n70,000\nDiscount allowed to customers\n30,000\nBad debts written-off\n1,10,000\nOver-valuation of closing stock in Cost Accounts\n40,000\n2,50,000\nNet Loss as per Financial Accounts\n4,60,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "5. \nProduct AB has a standard cost of ` 32, ` 6 of which relates to direct \nmaterials. Budgeted production for the month was 1600 units. During \nthe month, 1500 units of AB were produced and materials worth ` 9,000 \nwere purchased. There was no opening stock of materials but closing \nstock, which was valued at standard cost, amounted to ` 1,500. What is \nthe total variance for materials? \n(A) \n` 500 (F) \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n(B) \n` 500 (A) \n(C) \n` 1500 (F) \n(D) \n` 1500 (A)",
+  "suggested_answer": "(C) ` 1500 (F) Material Cost Variance = Standard cost of actual output – Actual cost of materials consumed = (1,500 x 6) – (9,000 - 1,500) = 1,500 (F) COST AND MANAGEMENT ACCOUNTING 29 JANUARY 2026 EXAMINATION REVISION TEST PAPERS",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q005",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nProduct AB has a standard cost of ` 32, ` 6 of which relates to direct \nmaterials. Budgeted production for the month was 1600 units. During \nthe month, 1500 units of AB were produced and materials worth ` 9,000 \nwere purchased. There was no opening stock of materials but closing \nstock, which was valued at standard cost, amounted to ` 1,500. What is \nthe total variance for materials? \n(A) \n` 500 (F) \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n(B) \n` 500 (A) \n(C) \n` 1500 (F) \n(D) \n` 1500 (A)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 1500 (F) Material Cost Variance = Standard cost of actual output – Actual cost of materials consumed = (1,500 x 6) – (9,000 - 1,500) = 1,500 (F) COST AND MANAGEMENT ACCOUNTING 29 JANUARY 2026 EXAMINATION REVISION TEST PAPERS"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

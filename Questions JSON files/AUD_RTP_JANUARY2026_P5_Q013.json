@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "13. \nSIME & Co., Chartered Accountants, have been appointed as statutory \nauditors of Delight & Delight, a Partnership firm, for the first time for  \nF.Y. 2024-25. The previous year’s financial statements were not subject \nto audit. During the audit, the new auditors noticed differences in some \nopening balances brought forward from previous year. With respect to \nrelevant SA, explain the objective of Auditor with respect to opening \nbalances. \nChapter 5 - Audit of Items of Financial Statements",
+  "suggested_answer": "As per SA 510, “Initial Audit Engagements – Opening Balances”, in \nconducting an initial audit engagement, the objective of the auditor with \nrespect to opening balances is to obtain sufficient appropriate audit \nevidence about whether: \n(a) \nOpening balances contain misstatements that materially affect the \ncurrent period’s financial statements; and \n(b) \nAppropriate accounting policies reflected in the opening balances \nhave been consistently applied in the current period’s financial \nstatements, or changes thereto are properly accounted for and \nadequately presented and disclosed in accordance with the \napplicable financial reporting framework.",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q013",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Nature, Objective and Scope of Audit",
+    "topic": "Nature, Objective and Scope of Audit",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nSIME & Co., Chartered Accountants, have been appointed as statutory \nauditors of Delight & Delight, a Partnership firm, for the first time for  \nF.Y. 2024-25. The previous year’s financial statements were not subject \nto audit. During the audit, the new auditors noticed differences in some \nopening balances brought forward from previous year. With respect to \nrelevant SA, explain the objective of Auditor with respect to opening \nbalances. \nChapter 5 - Audit of Items of Financial Statements"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "As per SA 510, “Initial Audit Engagements – Opening Balances”, in \nconducting an initial audit engagement, the objective of the auditor with \nrespect to opening balances is to obtain sufficient appropriate audit \nevidence about whether: \n(a) \nOpening balances contain misstatements that materially affect the \ncurrent period’s financial statements; and \n(b) \nAppropriate accounting policies reflected in the opening balances \nhave been consistently applied in the current period’s financial \nstatements, or changes thereto are properly accounted for and \nadequately presented and disclosed in accordance with the \napplicable financial reporting framework."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.\nOn 01-04-2023 number of workers employed in a factory was 150. During\nthe year 30 workers resigned and 5 workers were discharged. Due to\nresignation and discharge, 15 workers were replaced. For the year 2023-24,\nlabour turnover rate by separation method will be :\n(A)\n21.43%\n(B)\n18%\n(C)\n25%\n(D)\n30%",
+  "suggested_answer": "C",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q014",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.\nOn 01-04-2023 number of workers employed in a factory was 150. During\nthe year 30 workers resigned and 5 workers were discharged. Due to\nresignation and discharge, 15 workers were replaced. For the year 2023-24,\nlabour turnover rate by separation method will be :\n(A)\n21.43%\n(B)\n18%\n(C)\n25%\n(D)\n30%"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7.  \nThe auditor of XYZ Ltd. performed audit procedures to obtain sufficient \nappropriate audit evidence covering each and every area impacting the \nfinancial statements of the company by 20th July 2025. Before signing \nthe auditor’s report on 16th September 2025, the auditor became aware \nof a fire accident at the company’s Yarn Factory on 10th August 2025, \ndestroying a large part of inventory. Auditor’s responsibilities in such a \nsituation are: \n(i)  \nPerform \naudit \nprocedures \ndesigned \nto \nobtain \nsufficient \nappropriate audit evidence that all events occurring between the \ndate of financial statements and the date of auditor’s report that \nrequire adjustment or disclosure in the financial statements have \nbeen identified. \n(ii)  \nIf such subsequent events that require adjustment or disclosure in \nthe financial statements have been identified, it shall be \n\n \nINTERMEDIATE EXAMINATION \n \n \n64 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\ndetermined whether each such event is appropriately reflected in \nthose financial statements. \n(iii)  Obtain a written representation from management that all events \noccurring subsequent to the date of financial statements and for \nwhich appropriate adjustment has been done or required \ndisclosure has been made. \n(a) \n(i) \n(b) \n(i) and (ii) \n(c)  \n(i) and (iii) \n(d)  \n(i), (ii) and (iii)",
+  "suggested_answer": "(D)",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q007",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  \nThe auditor of XYZ Ltd. performed audit procedures to obtain sufficient \nappropriate audit evidence covering each and every area impacting the \nfinancial statements of the company by 20th July 2025. Before signing \nthe auditor’s report on 16th September 2025, the auditor became aware \nof a fire accident at the company’s Yarn Factory on 10th August 2025, \ndestroying a large part of inventory. Auditor’s responsibilities in such a \nsituation are: \n(i)  \nPerform \naudit \nprocedures \ndesigned \nto \nobtain \nsufficient \nappropriate audit evidence that all events occurring between the \ndate of financial statements and the date of auditor’s report that \nrequire adjustment or disclosure in the financial statements have \nbeen identified. \n(ii)  \nIf such subsequent events that require adjustment or disclosure in \nthe financial statements have been identified, it shall be \n\n \nINTERMEDIATE EXAMINATION \n \n \n64 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\ndetermined whether each such event is appropriately reflected in \nthose financial statements. \n(iii)  Obtain a written representation from management that all events \noccurring subsequent to the date of financial statements and for \nwhich appropriate adjustment has been done or required \ndisclosure has been made. \n(a) \n(i) \n(b) \n(i) and (ii) \n(c)  \n(i) and (iii) \n(d)  \n(i), (ii) and (iii)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q001_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  ABC & Co. are in the business of manufacturing toys. The stock taking process\nhas been done by the company as on 31.3.2024. The company has used FIFO\nmethod for valuation of its inventories. The cost of inventory as on 31.3.24 is\n` 25,25,000/- and the net realizable value of the inventory on the same date\nis ` 25,24,000/-.\n\nThe cost of inventory includes the following:\n(1)  Material purchase cost - ` 25,05,000/-\n(2)  Allocated transport cost - ` 18,000/-\n(3)  Abnormal wastage - ` 2,000/-\n\nThe management seeks your advice in arriving at the value of inventory to\nbe shown in the financial statements of the company. What should be the\nvalue of inventory in accordance with AS-2?\n(4 Marks)",
+  "suggested_answer": "(b)  Value of Inventory: Inventory to be recognized at the lower of cost and\nnet realizable value in accordance with AS 2 - Inventories.  Further, any\ncosts that could not be reasonably allocated to the cost of production (e.g.\ngeneral and administrative costs) and any abnormal wastage have been\nexcluded from the cost of inventory. An acceptable valuation basis (e.g.\nFIFO, Weighted average etc.) has been used to value inventory as at the\nperiod-end.\n\nIn the given situation, ABC & Co. is using FIFO method for valuation of its\ninventories. Further, cost of inventory as on 31.03.2024 is rupees 25,25,000\nwhich includes material purchase cost of rupees 25,05,000, allocated cost\nof transport of rupees 18,000 and abnormal wastage of rupees 2,000. Net\nrealizable value of said inventory is ` 25,24,000.  In view of provisions of AS\n2, cost allocated to transport for inventory is relating to bringing the\ninventory to the location, thus it will be added in cost of material. However,\nabnormal wastage of rupees 2000 should be excluded from cost of\ninventory.\nThus, cost of inventory will be ` 25,25,000 – ` 2,000 = 25,23,000 rupees\nand Net realizable value of inventory is ` 25,24,000.\nFor valuation in accordance with AS 2, “Inventory”, lower of cost and net\nrealizable value will be considered. Accordingly, ` 25,23,000 to be\nconsidered as value of inventory in the given situation.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q001_B",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 1,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 1,
+    "page_end": 3,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  ABC & Co. are in the business of manufacturing toys. The stock taking process\nhas been done by the company as on 31.3.2024. The company has used FIFO\nmethod for valuation of its inventories. The cost of inventory as on 31.3.24 is\n` 25,25,000/- and the net realizable value of the inventory on the same date\nis ` 25,24,000/-.\n\nThe cost of inventory includes the following:\n(1)  Material purchase cost - ` 25,05,000/-\n(2)  Allocated transport cost - ` 18,000/-\n(3)  Abnormal wastage - ` 2,000/-\n\nThe management seeks your advice in arriving at the value of inventory to\nbe shown in the financial statements of the company. What should be the\nvalue of inventory in accordance with AS-2?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Value of Inventory: Inventory to be recognized at the lower of cost and\nnet realizable value in accordance with AS 2 - Inventories.  Further, any\ncosts that could not be reasonably allocated to the cost of production (e.g.\ngeneral and administrative costs) and any abnormal wastage have been\nexcluded from the cost of inventory. An acceptable valuation basis (e.g.\nFIFO, Weighted average etc.) has been used to value inventory as at the\nperiod-end.\n\nIn the given situation, ABC & Co. is using FIFO method for valuation of its\ninventories. Further, cost of inventory as on 31.03.2024 is rupees 25,25,000\nwhich includes material purchase cost of rupees 25,05,000, allocated cost\nof transport of rupees 18,000 and abnormal wastage of rupees 2,000. Net\nrealizable value of said inventory is ` 25,24,000.  In view of provisions of AS\n2, cost allocated to transport for inventory is relating to bringing the\ninventory to the location, thus it will be added in cost of material. However,\nabnormal wastage of rupees 2000 should be excluded from cost of\ninventory.\nThus, cost of inventory will be ` 25,25,000 – ` 2,000 = 25,23,000 rupees\nand Net realizable value of inventory is ` 25,24,000.\nFor valuation in accordance with AS 2, “Inventory”, lower of cost and net\nrealizable value will be considered. Accordingly, ` 25,23,000 to be\nconsidered as value of inventory in the given situation."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

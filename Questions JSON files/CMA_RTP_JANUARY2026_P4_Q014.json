@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "14.  Following data are available for a product for the month of April, 2025: \nParticulars \nProcess- I (`) \nProcess- II (`) \nOpening work-in- progress \nNil \nNil \nCosts incurred during the month: \n \n \n- Direct materials \n6,00,000 \n \n- Labour \n1,20,000 \n1,60,000 \n- Factory overheads \n2,40,000 \n2,00,000 \nUnits of production: \n \n \nReceived in process \n40,000 \n36,000 \nCompleted and transferred \n36,000 \n32,000 \nClosing work-in-progress \n2,000 \n? \nNormal loss in process \n2,000 \n1,500 \n \nProduction remaining in process has to be valued as follows: \n \nMaterials  100% \n \nLabour 50%  \nOverheads  50% \n \nThere has been no abnormal loss in Process- II. \n \nThe company follows weighted average method for valuing inventory.  \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n19 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nPrepare Process Accounts after working out the missing figures and with \ndetailed workings. \nJoint Product and By-Product",
+  "suggested_answer": "Statement of Equivalent Units (Process- I) \nInput \n(Units) \nParticulars \nOutput \n(Units) \nEquivalent Production \nMaterials \nLabour \nand \nOverheads \nUnits \n(%) \nUnits \n(%) \n40,000 \nIntroduced \nand \ncompleted \n36,000 \n36,000 \n100 \n36,000 \n100 \n \nNormal loss \n2,000 \n- \n- \n- \n- \n \nClosing stock \n2,000 \n2,000 \n100 \n1,000 \n50 \n40,000 \n \n40,000 \n38,000 \n \n37,000 \n \n \nComputation of cost per Equivalent Unit for each element of cost \n(Process- I) \nElements of Cost \nTotal \nCost (`) \nEquivalent \nunits \nCost per Equivalent \nunits (`) \nDirect Materials \n6,00,000 \n38,000 \n15.7895 \nLabour \n1,20,000 \n37,000 \n3.2432 \nFactory Overheads \n2,40,000 \n37,000 \n6.4865 \n \nStatement of Apportionment of Cost \nItems \nElements \nEquivalent \nunits \nCost per \nunit (`) \nCost (`) \nTotal (`) \nUnits \nintroduced and \ncompleted \nMaterials \n36,000 \n15.7895 5,68,422.00 \n \nLabour \n36,000 \n3.2432 1,16,755.20 \n \nOverheads \n36,000 \n6.4865 2,33,514.00 9,18,691.20 \nClosing stock \nMaterials \n2,000 \n15.7895 \n31,579.00 \n \nLabour \n1,000 \n3.2432 \n3,243.20 \n \nOverheads \n1,000 \n6.4865 \n6,486.50 \n41,308.70 \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n \nProcess- I Account \nParticulars \nUnits \nAmount \n(`) \nParticulars \nUnits \nAmount \n(`) \nTo Materials \n40,000 \n6,00,000 \nBy Normal loss \n2,000 \n- \nTo Labour \n \n1,20,000 \nBy Process II \n36,000 \n9,18,691 \nTo Overheads \n \n2,40,000 \nBy Closing stock \n2,000 \n41,309 \n \n40,000 \n9,60,000 \n \n40,000 \n9,60,000 \n \nStatement of Equivalent Units (Process- II) \nInput \n(Units) \nParticulars \nOutput \n(Units) \nEquivalent Production \nMaterials \nLabour and \nOverheads \nUnits \n(%) \nUnits \n(%) \n36,000 \nUnits transferred from \nProcess- I \n \n \n \n \n \n \nNormal loss \n1,500 \n- \n- \n- \n- \n \nCompleted \n32,000 \n32,000 \n100 \n32,000 \n100 \n \nClosing \nstock \n(balancing figure) \n2,500 \n2,500 \n100 \n1,250 \n50 \n36,000 \n \n36,000 \n34,500 \n \n33,250 \n \n \nComputation of cost per Equivalent Unit for each element of cost \n(Process- I) \nElements of Cost \nTotal \nCost (`) \nEquivalent \nunits \nCost per \nEquivalent units \n(`) \nCost \nof \n36,000 \nunits \ntransferred from Process- I \n9,18,691 \n34,500 \n26.6287 \nLabour \n1,60,000 \n33,250 \n4.8120 \nFactory Overheads \n2,00,000 \n33,250 \n6.0150 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n43 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nStatement of Apportionment of Cost \nItems \nElements \nEquivalent \nunits \nCost per \nunit (`) \nCost (`) \nTotal (`) \nUnits \nintroduced \nand \ncompleted \nMaterials \n32,000 \n26.6287 \n8,52,118.40 \n \nLabour \n32,000 \n4.8120 \n1,53,984.00 \n \nOverheads \n32,000 \n6.0150 \n1,92,480.00 11,98,582.40 \nClosing stock \nMaterials \n2,500 \n26.6287 \n66,571.75 \n \nLabour \n1,250 \n4.8120 \n6,015.00 \n \nOverheads \n1,250 \n6.0150 \n7,518.75 \n80,105.50 \n \nProcess- II Account \nParticulars \nUnits \nAmount \n(`) \nParticulars \nUnits \nAmount \n(`) \nTo \nUnits \nintroduced \n36,000 \n9,18,691 By Normal loss \n1,500 \n- \nTo Labour \n \n1,60,000 By Finished stock \n32,000 11,98,582 \nTo Overheads \n \n2,00,000 By Closing stock \n2,500 \n80,109* \n \n36,000 12,78,691  \n36,000 12,78,691 \n \n*Difference arose due to rounding-off has been adjusted.",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q014",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.  Following data are available for a product for the month of April, 2025: \nParticulars \nProcess- I (`) \nProcess- II (`) \nOpening work-in- progress \nNil \nNil \nCosts incurred during the month: \n \n \n- Direct materials \n6,00,000 \n \n- Labour \n1,20,000 \n1,60,000 \n- Factory overheads \n2,40,000 \n2,00,000 \nUnits of production: \n \n \nReceived in process \n40,000 \n36,000 \nCompleted and transferred \n36,000 \n32,000 \nClosing work-in-progress \n2,000 \n? \nNormal loss in process \n2,000 \n1,500 \n \nProduction remaining in process has to be valued as follows: \n \nMaterials  100% \n \nLabour 50%  \nOverheads  50% \n \nThere has been no abnormal loss in Process- II. \n \nThe company follows weighted average method for valuing inventory.  \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n19 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nPrepare Process Accounts after working out the missing figures and with \ndetailed workings. \nJoint Product and By-Product"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Statement of Equivalent Units (Process- I) \nInput \n(Units) \nParticulars \nOutput \n(Units) \nEquivalent Production \nMaterials \nLabour \nand \nOverheads \nUnits \n(%) \nUnits \n(%) \n40,000 \nIntroduced \nand \ncompleted \n36,000 \n36,000 \n100 \n36,000 \n100 \n \nNormal loss \n2,000 \n- \n- \n- \n- \n \nClosing stock \n2,000 \n2,000 \n100 \n1,000 \n50 \n40,000 \n \n40,000 \n38,000 \n \n37,000 \n \n \nComputation of cost per Equivalent Unit for each element of cost \n(Process- I) \nElements of Cost \nTotal \nCost (`) \nEquivalent \nunits \nCost per Equivalent \nunits (`) \nDirect Materials \n6,00,000 \n38,000 \n15.7895 \nLabour \n1,20,000 \n37,000 \n3.2432 \nFactory Overheads \n2,40,000 \n37,000 \n6.4865 \n \nStatement of Apportionment of Cost \nItems \nElements \nEquivalent \nunits \nCost per \nunit (`) \nCost (`) \nTotal (`) \nUnits \nintroduced and \ncompleted \nMaterials \n36,000 \n15.7895 5,68,422.00 \n \nLabour \n36,000 \n3.2432 1,16,755.20 \n \nOverheads \n36,000 \n6.4865 2,33,514.00 9,18,691.20 \nClosing stock \nMaterials \n2,000 \n15.7895 \n31,579.00 \n \nLabour \n1,000 \n3.2432 \n3,243.20 \n \nOverheads \n1,000 \n6.4865 \n6,486.50 \n41,308.70 \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n \nProcess- I Account \nParticulars \nUnits \nAmount \n(`) \nParticulars \nUnits \nAmount \n(`) \nTo Materials \n40,000 \n6,00,000 \nBy Normal loss \n2,000 \n- \nTo Labour \n \n1,20,000 \nBy Process II \n36,000 \n9,18,691 \nTo Overheads \n \n2,40,000 \nBy Closing stock \n2,000 \n41,309 \n \n40,000 \n9,60,000 \n \n40,000 \n9,60,000 \n \nStatement of Equivalent Units (Process- II) \nInput \n(Units) \nParticulars \nOutput \n(Units) \nEquivalent Production \nMaterials \nLabour and \nOverheads \nUnits \n(%) \nUnits \n(%) \n36,000 \nUnits transferred from \nProcess- I \n \n \n \n \n \n \nNormal loss \n1,500 \n- \n- \n- \n- \n \nCompleted \n32,000 \n32,000 \n100 \n32,000 \n100 \n \nClosing \nstock \n(balancing figure) \n2,500 \n2,500 \n100 \n1,250 \n50 \n36,000 \n \n36,000 \n34,500 \n \n33,250 \n \n \nComputation of cost per Equivalent Unit for each element of cost \n(Process- I) \nElements of Cost \nTotal \nCost (`) \nEquivalent \nunits \nCost per \nEquivalent units \n(`) \nCost \nof \n36,000 \nunits \ntransferred from Process- I \n9,18,691 \n34,500 \n26.6287 \nLabour \n1,60,000 \n33,250 \n4.8120 \nFactory Overheads \n2,00,000 \n33,250 \n6.0150 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n43 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nStatement of Apportionment of Cost \nItems \nElements \nEquivalent \nunits \nCost per \nunit (`) \nCost (`) \nTotal (`) \nUnits \nintroduced \nand \ncompleted \nMaterials \n32,000 \n26.6287 \n8,52,118.40 \n \nLabour \n32,000 \n4.8120 \n1,53,984.00 \n \nOverheads \n32,000 \n6.0150 \n1,92,480.00 11,98,582.40 \nClosing stock \nMaterials \n2,500 \n26.6287 \n66,571.75 \n \nLabour \n1,250 \n4.8120 \n6,015.00 \n \nOverheads \n1,250 \n6.0150 \n7,518.75 \n80,105.50 \n \nProcess- II Account \nParticulars \nUnits \nAmount \n(`) \nParticulars \nUnits \nAmount \n(`) \nTo \nUnits \nintroduced \n36,000 \n9,18,691 By Normal loss \n1,500 \n- \nTo Labour \n \n1,60,000 By Finished stock \n32,000 11,98,582 \nTo Overheads \n \n2,00,000 By Closing stock \n2,500 \n80,109* \n \n36,000 12,78,691  \n36,000 12,78,691 \n \n*Difference arose due to rounding-off has been adjusted."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

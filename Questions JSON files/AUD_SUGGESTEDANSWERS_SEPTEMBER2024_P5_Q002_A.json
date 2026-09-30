@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) CA B, was the auditor of Star Limited. He wanted to ensure that the company\nhad correctly reconciled its bank accounts and also wanted to understand\nwhether and how far the internal control system was operating in the\ncompany. What kind of test of control was CA B performing? What are the\nother procedures that can be applied while undertaking test of controls?\n\n(4 Marks)",
+  "suggested_answer": "(a)  Inquiries of Management and Others Within the Entity: After\nassimilating the internal control system, the auditor needs to examine\nwhether and how far the same is actually in operation. Test of controls are\nperformed to obtain audit evidence about the effectiveness of the: -\n(i) Design of the accounting and internal control system\n\n14\n(ii) Operation of the internal control throughout the period\nIn the given case, CA B was performing Re-performance. It involves the\nauditor’s independent execution of procedures or controls that were\noriginally performed as part of the entity’s internal control, for example,\nreconciliation of bank accounts, to ensure they were correctly performed\nby the entity.\nOther procedures that can be applied while undertaking test of controls\nare:\n•\nInspection of documents supporting transactions and other events to\ngain audit evidence that internal controls have operated properly, for\nexample, verifying that a transaction has been authorised.\n•\nInquiries about, and observation of, internal controls which leave no\naudit trail, for example, determining who actually performs each\nfunction and not merely who is supposed to perform it.\n•\nTesting of internal control operating on specific computerised\napplications or over the overall information technology function, for\nexample, access or program change controls.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_A",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 14
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 13,
+    "page_end": 14,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) CA B, was the auditor of Star Limited. He wanted to ensure that the company\nhad correctly reconciled its bank accounts and also wanted to understand\nwhether and how far the internal control system was operating in the\ncompany. What kind of test of control was CA B performing? What are the\nother procedures that can be applied while undertaking test of controls?\n\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Inquiries of Management and Others Within the Entity: After\nassimilating the internal control system, the auditor needs to examine\nwhether and how far the same is actually in operation. Test of controls are\nperformed to obtain audit evidence about the effectiveness of the: -\n(i) Design of the accounting and internal control system\n\n14\n(ii) Operation of the internal control throughout the period\nIn the given case, CA B was performing Re-performance. It involves the\nauditor’s independent execution of procedures or controls that were\noriginally performed as part of the entity’s internal control, for example,\nreconciliation of bank accounts, to ensure they were correctly performed\nby the entity.\nOther procedures that can be applied while undertaking test of controls\nare:\n•\nInspection of documents supporting transactions and other events to\ngain audit evidence that internal controls have operated properly, for\nexample, verifying that a transaction has been authorised.\n•\nInquiries about, and observation of, internal controls which leave no\naudit trail, for example, determining who actually performs each\nfunction and not merely who is supposed to perform it.\n•\nTesting of internal control operating on specific computerised\napplications or over the overall information technology function, for\nexample, access or program change controls."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

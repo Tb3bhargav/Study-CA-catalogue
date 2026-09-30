@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q003_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) A factory is currently working at 60% capacity and produces 12,000 units of\na product. Management is thinking to increase the working capacity either\nto 70% or 90% level. It is estimated that at both the levels, it will be able to\nsell all the produced units. The other details are as under:\n•\nAt 70% capacity, the cost of raw materials increases by 4% and the\nselling price falls by 3%.\n•\nAt 90% capacity, the cost of raw materials increases by 5% and selling\nprice falls by 4%.\n•\nAt 60% capacity, the product cost is ` 360 per unit and it is sold at ` 400\nper unit.\n•\nThe unit cost of 360 consists of the following:\nMaterial\n` 200\nLabour\n` 60\nFactory overhead\n` 60 (50 % fixed)\nAdministrative & Selling overhead\n` 40 (60 % fixed)\n\n12\n•\nAdditional advertising cost of ` 20,000 is to be incurred for selling the\nproduct above 80% capacity.\n\nYou are required to:\n(i)  Calculate the profits of the company when the factory works at 60%,\n70% and 90% capacity level.\n(ii)  Offer your comments regarding increase in the capacity based on profit\ncalculated.",
+  "suggested_answer": "(a)  (i) Expense Budget at 60%, 70% & 90% level\n\n60% (12,000\nunits)\n70% (14,000\nunits)\n90% (18,000\nunits)\nPer\nunit\n(`)\nAmount\n(`)\nPer\nunit\n(`)\nAmount\n(`)\nPer\nunit\n(`)\nAmount\n(`)\nSales (A)\n400 48,00,000\n388 54,32,000\n384 69,12,000\nVariable Costs:\n\nDirect Material\n200 24,00,000\n208 29,12,000\n210\n\n37,80,000\nDirect Wages\n60 7,20,000\n60 8,40,000\n60 10,80,000\nVariable Factory\nOverheads\n30 3,60,000\n30 4,20,000\n30 5,40,000\nVariable\nAdministrative &\nSelling\nOverheads\n16 1,92,000\n16 2,24,000\n16 2,88,000\nTotal\nVariable\nCost (B)\n306 36,72,000\n314 43,96,000\n316 56,88,000\nContribution\n(C)=(A–B)\n94 11,28,000\n74 10,36,000\n68 12,24,000\nFixed Costs:\n\nFixed Factory\nOverheads (50%)\n-- 3,60,000\n-- 3,60,000\n-- 3,60,000\nFixed\nAdministrative &\nSelling\nOverheads (60%)\n-- 2,88,000\n-- 2,88,000\n-- 2,88,000\nAdverting Cost\n--\n--\n--\n--\n--\n20,000\nTotal Fixed Costs",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q003_A",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 11,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 11,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) A factory is currently working at 60% capacity and produces 12,000 units of\na product. Management is thinking to increase the working capacity either\nto 70% or 90% level. It is estimated that at both the levels, it will be able to\nsell all the produced units. The other details are as under:\n•\nAt 70% capacity, the cost of raw materials increases by 4% and the\nselling price falls by 3%.\n•\nAt 90% capacity, the cost of raw materials increases by 5% and selling\nprice falls by 4%.\n•\nAt 60% capacity, the product cost is ` 360 per unit and it is sold at ` 400\nper unit.\n•\nThe unit cost of 360 consists of the following:\nMaterial\n` 200\nLabour\n` 60\nFactory overhead\n` 60 (50 % fixed)\nAdministrative & Selling overhead\n` 40 (60 % fixed)\n\n12\n•\nAdditional advertising cost of ` 20,000 is to be incurred for selling the\nproduct above 80% capacity.\n\nYou are required to:\n(i)  Calculate the profits of the company when the factory works at 60%,\n70% and 90% capacity level.\n(ii)  Offer your comments regarding increase in the capacity based on profit\ncalculated."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i) Expense Budget at 60%, 70% & 90% level\n\n60% (12,000\nunits)\n70% (14,000\nunits)\n90% (18,000\nunits)\nPer\nunit\n(`)\nAmount\n(`)\nPer\nunit\n(`)\nAmount\n(`)\nPer\nunit\n(`)\nAmount\n(`)\nSales (A)\n400 48,00,000\n388 54,32,000\n384 69,12,000\nVariable Costs:\n\nDirect Material\n200 24,00,000\n208 29,12,000\n210\n\n37,80,000\nDirect Wages\n60 7,20,000\n60 8,40,000\n60 10,80,000\nVariable Factory\nOverheads\n30 3,60,000\n30 4,20,000\n30 5,40,000\nVariable\nAdministrative &\nSelling\nOverheads\n16 1,92,000\n16 2,24,000\n16 2,88,000\nTotal\nVariable\nCost (B)\n306 36,72,000\n314 43,96,000\n316 56,88,000\nContribution\n(C)=(A–B)\n94 11,28,000\n74 10,36,000\n68 12,24,000\nFixed Costs:\n\nFixed Factory\nOverheads (50%)\n-- 3,60,000\n-- 3,60,000\n-- 3,60,000\nFixed\nAdministrative &\nSelling\nOverheads (60%)\n-- 2,88,000\n-- 2,88,000\n-- 2,88,000\nAdverting Cost\n--\n--\n--\n--\n--\n20,000\nTotal Fixed Costs"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

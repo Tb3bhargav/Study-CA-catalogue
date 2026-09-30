@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP1_P6_Q003",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3. \nWhat will be the Present Value of annual after-tax cash inflows from the proposal? \n(a)  \n` 1,32,57,000 \n3 \n(b)  \n` 1,55,58,900 \n(c)  \n` 1,44,82,500 \n(d)  \n` 1,67,25,000",
+  "suggested_answer": "(B) ` 1,55,58,900 Annual After-tax Cash Inflow = ` 31,00,000 Present Value of Annual Cash Inflows = ` 31,00,000 × 5.019 = ` 1,55,58,900 2",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP1_P6_Q003",
+  "source_filename": "mtp1paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 1 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nWhat will be the Present Value of annual after-tax cash inflows from the proposal? \n(a)  \n` 1,32,57,000 \n3 \n(b)  \n` 1,55,58,900 \n(c)  \n` 1,44,82,500 \n(d)  \n` 1,67,25,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 1,55,58,900 Annual After-tax Cash Inflow = ` 31,00,000 Present Value of Annual Cash Inflows = ` 31,00,000 × 5.019 = ` 1,55,58,900 2"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

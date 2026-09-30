@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.  \nBCD Ltd. is engaged in manufacturing of electronic components. During the audit of \nfinancial statements for the year ended 31st March 2025, the auditor assessed the risk of \nmaterial misstatement at the assertion level for revenue and inventory balances. While \ndesigning further audit procedures, the auditor considered whether to perform tests of \ndetails, substantive analytical procedures, or a combination of both. \n \nThe auditor noted that reliable industry data was available and the relationship between \nsales volume and revenue had historically been predictable. However, certain unusual \nfluctuations were also observed during the current year. Accordingly, the auditor \nexercised professional judgment while deciding the nature of substantive procedures to \nbe performed to reduce audit risk at the assertion level to an acceptably low level. \n8 \n \nWhich of the following statements correctly explains the basis for the auditor’s decision \nregarding substantive procedures? \n(a)  \nSubstantive analytical procedures must always be used instead of tests of details \nwhere reliable industry data is available. \n(b)  \nThe auditor decides whether to use tests of details, substantive analytical \nprocedures, or a combination of both based on professional judgment regarding \ntheir expected effectiveness and efficiency in reducing audit risk at the assertion \nlevel to an acceptably low level. \n(c)  \nSubstantive analytical procedures can only be used when control risk is assessed \nas low. \n(d)  \nTests of details are mandatory for all material account balances irrespective of the \nauditor’s judgment.",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q013",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  \nBCD Ltd. is engaged in manufacturing of electronic components. During the audit of \nfinancial statements for the year ended 31st March 2025, the auditor assessed the risk of \nmaterial misstatement at the assertion level for revenue and inventory balances. While \ndesigning further audit procedures, the auditor considered whether to perform tests of \ndetails, substantive analytical procedures, or a combination of both. \n \nThe auditor noted that reliable industry data was available and the relationship between \nsales volume and revenue had historically been predictable. However, certain unusual \nfluctuations were also observed during the current year. Accordingly, the auditor \nexercised professional judgment while deciding the nature of substantive procedures to \nbe performed to reduce audit risk at the assertion level to an acceptably low level. \n8 \n \nWhich of the following statements correctly explains the basis for the auditor’s decision \nregarding substantive procedures? \n(a)  \nSubstantive analytical procedures must always be used instead of tests of details \nwhere reliable industry data is available. \n(b)  \nThe auditor decides whether to use tests of details, substantive analytical \nprocedures, or a combination of both based on professional judgment regarding \ntheir expected effectiveness and efficiency in reducing audit risk at the assertion \nlevel to an acceptably low level. \n(c)  \nSubstantive analytical procedures can only be used when control risk is assessed \nas low. \n(d)  \nTests of details are mandatory for all material account balances irrespective of the \nauditor’s judgment."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

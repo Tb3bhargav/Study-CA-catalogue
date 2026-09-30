@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11.  \nThe following expenditures were incurred in P.L. Ltd. for the month of March, 2025: \nParticulars \nAmount (`) \n(i) \nProduct blueprint cost \n1,90,000 \n(ii) \nPaid for power & fuel \n3,00,000 \n(iii) \nWages paid to factory workers \n80,000 \n(iv) \nHire charges paid for machinery used \n50,000 \n(v) \nCommission paid to marketing manager \n35,000 \n(vi) \nSalary to office attendants \n45,000 \n(vii) \nFee paid to technician hired in factory \n96,000 \n(viii) Administrative overheads \n89,000 \nCalculate the direct expenses for the month. \n(A)  \n` 7,16,000 \n(B)  \n` 6,36,000 \n(C)  \n` 7,40,000 \n(D)  \n` 6,71,000 \n(2 Marks) \n \n6",
+  "suggested_answer": "(B) ` 6,36,000 Calculation of Direct Expenses: Particulars Amount (`) (i) Product blueprint cost 1,90,000 (ii) Paid for power & fuel 3,00,000 (iii) Wages paid to factory workers NIL (iv) Hire charges paid for machinery used 50,000 (v) Commission paid to marketing manager NIL (vi) Salary to office attendants NIL (vii) Fee paid to technician hired in factory 96,000 (viii) Administrative overheads NIL 6,36,000 5 Notes: a. Wages paid to factory workers is direct employee cost. b. Commission paid to marketing manager come under selling expenses. c. Salary to office attendants is classified under office and administration cost. d. Administrative overhead is indirect expense.",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q011",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11.  \nThe following expenditures were incurred in P.L. Ltd. for the month of March, 2025: \nParticulars \nAmount (`) \n(i) \nProduct blueprint cost \n1,90,000 \n(ii) \nPaid for power & fuel \n3,00,000 \n(iii) \nWages paid to factory workers \n80,000 \n(iv) \nHire charges paid for machinery used \n50,000 \n(v) \nCommission paid to marketing manager \n35,000 \n(vi) \nSalary to office attendants \n45,000 \n(vii) \nFee paid to technician hired in factory \n96,000 \n(viii) Administrative overheads \n89,000 \nCalculate the direct expenses for the month. \n(A)  \n` 7,16,000 \n(B)  \n` 6,36,000 \n(C)  \n` 7,40,000 \n(D)  \n` 6,71,000 \n(2 Marks) \n \n6"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 6,36,000 Calculation of Direct Expenses: Particulars Amount (`) (i) Product blueprint cost 1,90,000 (ii) Paid for power & fuel 3,00,000 (iii) Wages paid to factory workers NIL (iv) Hire charges paid for machinery used 50,000 (v) Commission paid to marketing manager NIL (vi) Salary to office attendants NIL (vii) Fee paid to technician hired in factory 96,000 (viii) Administrative overheads NIL 6,36,000 5 Notes: a. Wages paid to factory workers is direct employee cost. b. Commission paid to marketing manager come under selling expenses. c. Salary to office attendants is classified under office and administration cost. d. Administrative overhead is indirect expense."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

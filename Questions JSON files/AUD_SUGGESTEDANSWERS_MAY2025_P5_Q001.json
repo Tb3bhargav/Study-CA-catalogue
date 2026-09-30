@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "1.\n______ is conducted to ensure that the various programmes, schemes, and\nprojects where large financial expenditure have been incurred are run\neconomically and are yielding results expected of them.\n(A)  Propriety Audit\n(B)  Audit against Rules and Orders\n(C)  Performance Audit\n(D)  Audit against Provision of funds\n(2 Marks)\n\nAUDITING AND ETHICS\n\n35",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q001",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 1,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 1,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1.\n______ is conducted to ensure that the various programmes, schemes, and\nprojects where large financial expenditure have been incurred are run\neconomically and are yielding results expected of them.\n(A)  Propriety Audit\n(B)  Audit against Rules and Orders\n(C)  Performance Audit\n(D)  Audit against Provision of funds\n(2 Marks)\n\nAUDITING AND ETHICS\n\n35"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

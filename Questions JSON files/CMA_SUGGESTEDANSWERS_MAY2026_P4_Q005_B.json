@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  The following information has been furnished by the management\naccountant of CMC Limited:\nMargin of Safety\n5600 units\nBreak even sales\n2400 units\nMargin of Safety\n` 9,80,000\nTotal Cost\n` 11, 94, 200\nYou are required to calculate:\n(i)  Profit\n(ii)  Profit Volume (P/V) Ratio\n(iii)  Break even sales value\n(iv)  Fixed Cost\n(4 Marks)",
+  "suggested_answer": "(b) Working Notes:\nTotal Sales Units\n= Margin of Safety (Units) + Break-even Sales (Units)\n\n= 5,600 + 2,400 = 8,000 units\nSelling Price per Unit  =\nMargin of Safety (MoS in Value)\nMargin of Safety (Units)\n\n= ` 9,80,000 / 5,600 = ` 175 per unit\nTotal Sales Value\n= Total Units × Selling Price = 8,000 × ` 175\n\n= ` 14,00,000\n(i)  Profit\n\n= Total Sales – Total Cost\n\n= ` 14,00,000 – ` 11,94,200 = ` 2,05,800\n(ii)  Profit Volume (P/V) Ratio\n\n=\nProfit\nMargin of Safety (Value) × 100\n\n= (` 2,05,800 / ` 9,80,000) × 100 = 21%\n(iii) Break-even Sales Value\n\n= Break-even Units × Selling Price\n\n= 2,400 units × ` 175 = ` 4,20,000\n\nAlternatively,\n\n= Total Sales × [100 – Margin of Safety %]\n\n= ` 14,00,000 × 0.30 = ` 4,20,000\n\n28\n(iv) Fixed Cost\n\n= Break-even Sales Value × P/V Ratio\n\n= ` 4,20,000 × 21% = ` 88,200",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005_B",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 28
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Marginal Costing",
+    "topic": "Marginal Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 24,
+    "page_end": 28,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  The following information has been furnished by the management\naccountant of CMC Limited:\nMargin of Safety\n5600 units\nBreak even sales\n2400 units\nMargin of Safety\n` 9,80,000\nTotal Cost\n` 11, 94, 200\nYou are required to calculate:\n(i)  Profit\n(ii)  Profit Volume (P/V) Ratio\n(iii)  Break even sales value\n(iv)  Fixed Cost\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Working Notes:\nTotal Sales Units\n= Margin of Safety (Units) + Break-even Sales (Units)\n\n= 5,600 + 2,400 = 8,000 units\nSelling Price per Unit  =\nMargin of Safety (MoS in Value)\nMargin of Safety (Units)\n\n= ` 9,80,000 / 5,600 = ` 175 per unit\nTotal Sales Value\n= Total Units × Selling Price = 8,000 × ` 175\n\n= ` 14,00,000\n(i)  Profit\n\n= Total Sales – Total Cost\n\n= ` 14,00,000 – ` 11,94,200 = ` 2,05,800\n(ii)  Profit Volume (P/V) Ratio\n\n=\nProfit\nMargin of Safety (Value) × 100\n\n= (` 2,05,800 / ` 9,80,000) × 100 = 21%\n(iii) Break-even Sales Value\n\n= Break-even Units × Selling Price\n\n= 2,400 units × ` 175 = ` 4,20,000\n\nAlternatively,\n\n= Total Sales × [100 – Margin of Safety %]\n\n= ` 14,00,000 × 0.30 = ` 4,20,000\n\n28\n(iv) Fixed Cost\n\n= Break-even Sales Value × P/V Ratio\n\n= ` 4,20,000 × 21% = ` 88,200"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

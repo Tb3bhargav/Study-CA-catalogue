@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  During the audit of STU Ltd., the auditor concludes that the financial\nstatement is true and fair, requiring no modification. However, the notes to\naccounts disclose that a major fire occurred shortly after year end causing\nsignificant effect on entity's financial position. The disclosure is complete and\nno adjustment is needed, but the auditor believes that user should be\nspecifically alerted to this important matter in his audit report.\n\nIdentify the type of paragraph the auditor should include in audit report in\nthis situation.\n(1 Mark)\n\nExplain its meaning and state other circumstances in which such a paragraph\nmay be necessary.\n(4 Marks)",
+  "suggested_answer": "(a) In the present case there is a need to add “Emphasis of Matter Paragraph\n(EOM)” in the Auditor’s Report as per SA 706 (Revised).\n\nMeaning of EOM- It is a paragraph included in the auditor’s report that\nrefers to a matter appropriately presented or disclosed in the financial\nstatements that, in the auditor’s judgment, is of such importance that it is\nfundamental to the users’ understanding of the financial statements.\n\nSome examples of circumstances where the auditor may consider it\nnecessary to include an Emphasis of Matter paragraph are:\n1\nAn uncertainty relating to the future outcome of exceptional litigation\nor regulatory action.\n2\nA significant subsequent event that occurs between the date of the\nfinancial statements and the date of the auditor’s report.\n3\nEarly application (where permitted) of a new accounting standard that\nhas a material effect on the financial statements.\n4\nA major catastrophe that has had, or continues to have, a significant\neffect on the entity’s financial position.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_A",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  During the audit of STU Ltd., the auditor concludes that the financial\nstatement is true and fair, requiring no modification. However, the notes to\naccounts disclose that a major fire occurred shortly after year end causing\nsignificant effect on entity's financial position. The disclosure is complete and\nno adjustment is needed, but the auditor believes that user should be\nspecifically alerted to this important matter in his audit report.\n\nIdentify the type of paragraph the auditor should include in audit report in\nthis situation.\n(1 Mark)\n\nExplain its meaning and state other circumstances in which such a paragraph\nmay be necessary.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) In the present case there is a need to add “Emphasis of Matter Paragraph\n(EOM)” in the Auditor’s Report as per SA 706 (Revised).\n\nMeaning of EOM- It is a paragraph included in the auditor’s report that\nrefers to a matter appropriately presented or disclosed in the financial\nstatements that, in the auditor’s judgment, is of such importance that it is\nfundamental to the users’ understanding of the financial statements.\n\nSome examples of circumstances where the auditor may consider it\nnecessary to include an Emphasis of Matter paragraph are:\n1\nAn uncertainty relating to the future outcome of exceptional litigation\nor regulatory action.\n2\nA significant subsequent event that occurs between the date of the\nfinancial statements and the date of the auditor’s report.\n3\nEarly application (where permitted) of a new accounting standard that\nhas a material effect on the financial statements.\n4\nA major catastrophe that has had, or continues to have, a significant\neffect on the entity’s financial position."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

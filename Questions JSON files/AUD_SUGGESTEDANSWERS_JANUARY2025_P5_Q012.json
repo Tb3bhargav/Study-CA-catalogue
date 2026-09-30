@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.  Whether correct classification and provisioning norms have been applied in\nthe account of Precision Engineering?\n(A)  The account is correctly classified but provision should be made for\nhundred percent of the unsecured portion besides making specified\nprovision on secured portion.\n(B)  The account should have been classified as Doubtful asset and besides\nmaking required provision on secured portion, provision should have\nbeen made for hundred percent of the unsecured portion.\n(C)  The account should have been classified as loss asset and full provision\nshould have been made in the books of accounts.\n(D)  The account should have been classified as Doubtful asset and full\nprovision should have been made in the books of accounts.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q012",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  Whether correct classification and provisioning norms have been applied in\nthe account of Precision Engineering?\n(A)  The account is correctly classified but provision should be made for\nhundred percent of the unsecured portion besides making specified\nprovision on secured portion.\n(B)  The account should have been classified as Doubtful asset and besides\nmaking required provision on secured portion, provision should have\nbeen made for hundred percent of the unsecured portion.\n(C)  The account should have been classified as loss asset and full provision\nshould have been made in the books of accounts.\n(D)  The account should have been classified as Doubtful asset and full\nprovision should have been made in the books of accounts.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

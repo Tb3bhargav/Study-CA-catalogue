@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q005_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 5,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Super Ltd, a manufacturing company is facing the problem of high labour\nturnover in the factory. Before analysing the causes and taking remedial\nsteps, the management of the company wants to ascertain the profit lost for\nthe year 2022-23 on account of labour turnover. For this purpose, it has given\nyou the following information:\n(i)  Sales for the last year 2022-23 was ` 2,16,80,000 and P/V ratio was 15%.\n(ii) The total number of actual hours worked by the direct labour force was\n5,00,000 hours. The actual direct labour hours included 60,000 hours\nattributable to training new recruits, out of which 40% of the hours were\nunproductive.\n(iii)  Due to delays by the Personnel Department in filling vacancies on\naccount of labour turnover, 95,000 potential productive hours (excluding\nunproductive training hours) were lost.\n(iv)  1,500 units of the output produced during training period were defective.\nCost of rectification of defective units was ` 40 per unit.\n(v)  Settlement cost of the workers leaving the organization was ` 2,37,880.\n(vi)  Recruitment and Selection cost was ` 1,40,000.\n(vii)\nCost of Training and Induction was ` 1,61,950.\n\nAssuming that the potential production lost as a consequence of labour\nturnover could have been sold at prevailing prices, find the profit lost for the\nyear 2022-23 on account of labour turnover.",
+  "suggested_answer": "(a)  Workings:\n(i) Computation of productive hours\nActual hours worked (given)\n\n5,00,000\nLess: Unproductive training hours\n24,000\nActual productive hours\n\n4,76,000\n(ii)  Productive hours lost:\nLoss of potential productive hours+ Unproductive training hours\n= 95,000 + 24,000 = 1,19,000 hours\n(iii) Loss of contribution due to unproductive hours :\n=\nSalesvalue\n×Total unproductive hours\nActual productive hours\n\n= ` 2,16,80,000\n4,76,000  hrs × 1,19,000 hours= ` 54,20,000\nContribution lost for 1,19,000 hours= ` 54,20,000 x 15% = `8,13,000\n\nComputation of profit forgone on account of employee turnover\n\n(`)\nContribution foregone (as calculated above)\n8,13,000\nSettlement cost due to leaving\n2,37,880\nRecruitment and Selection cost\n1,40,000\nTraining and Induction costs\n1,61,950\nCost of Rectification (1500 units x `40)\n60,000\nProfit foregone\n14,12,830\n\n22\nThe above question can also be solved in alternative way after\ntaking proper assumptions\nWorkings:\n(i) Computation of productive hours\n\nActual hours worked (given)\n\n5,00,000\n\nLess: Unproductive training hours\n\n24,000\n\nActual productive hours\n4,76,000\n(ii)  Productive hours lost:\n\nLoss of potential productive hours\n\n= 95,000 hours\n(iii) Loss of contribution due to unproductive hours :\n\n=\nSalesvalue\n×Total unproductive hours\nActual productive hours\n\n= ` 2,16,80,000\n4,76,000  hrs × 95,000 hours = ` 43,26,891\n\nContribution lost for 95,000 hours= ` 43,26,891 x 15%\n= ` 6,49,034(approx.)\n\nComputation of profit forgone on account of employee\nturnover\n\n(`)\nContribution foregone (as calculated above)\n6,49,034\nSettlement cost due to leaving\n2,37,880\nRecruitment and Selection cost\n1,40,000\nTraining and Induction costs\n1,61,950\nCost of Rectification (1500 units x `40)\n60,000\nProfit foregone\n12,48,864\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q005_A",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 20,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Super Ltd, a manufacturing company is facing the problem of high labour\nturnover in the factory. Before analysing the causes and taking remedial\nsteps, the management of the company wants to ascertain the profit lost for\nthe year 2022-23 on account of labour turnover. For this purpose, it has given\nyou the following information:\n(i)  Sales for the last year 2022-23 was ` 2,16,80,000 and P/V ratio was 15%.\n(ii) The total number of actual hours worked by the direct labour force was\n5,00,000 hours. The actual direct labour hours included 60,000 hours\nattributable to training new recruits, out of which 40% of the hours were\nunproductive.\n(iii)  Due to delays by the Personnel Department in filling vacancies on\naccount of labour turnover, 95,000 potential productive hours (excluding\nunproductive training hours) were lost.\n(iv)  1,500 units of the output produced during training period were defective.\nCost of rectification of defective units was ` 40 per unit.\n(v)  Settlement cost of the workers leaving the organization was ` 2,37,880.\n(vi)  Recruitment and Selection cost was ` 1,40,000.\n(vii)\nCost of Training and Induction was ` 1,61,950.\n\nAssuming that the potential production lost as a consequence of labour\nturnover could have been sold at prevailing prices, find the profit lost for the\nyear 2022-23 on account of labour turnover."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Workings:\n(i) Computation of productive hours\nActual hours worked (given)\n\n5,00,000\nLess: Unproductive training hours\n24,000\nActual productive hours\n\n4,76,000\n(ii)  Productive hours lost:\nLoss of potential productive hours+ Unproductive training hours\n= 95,000 + 24,000 = 1,19,000 hours\n(iii) Loss of contribution due to unproductive hours :\n=\nSalesvalue\n×Total unproductive hours\nActual productive hours\n\n= ` 2,16,80,000\n4,76,000  hrs × 1,19,000 hours= ` 54,20,000\nContribution lost for 1,19,000 hours= ` 54,20,000 x 15% = `8,13,000\n\nComputation of profit forgone on account of employee turnover\n\n(`)\nContribution foregone (as calculated above)\n8,13,000\nSettlement cost due to leaving\n2,37,880\nRecruitment and Selection cost\n1,40,000\nTraining and Induction costs\n1,61,950\nCost of Rectification (1500 units x `40)\n60,000\nProfit foregone\n14,12,830\n\n22\nThe above question can also be solved in alternative way after\ntaking proper assumptions\nWorkings:\n(i) Computation of productive hours\n\nActual hours worked (given)\n\n5,00,000\n\nLess: Unproductive training hours\n\n24,000\n\nActual productive hours\n4,76,000\n(ii)  Productive hours lost:\n\nLoss of potential productive hours\n\n= 95,000 hours\n(iii) Loss of contribution due to unproductive hours :\n\n=\nSalesvalue\n×Total unproductive hours\nActual productive hours\n\n= ` 2,16,80,000\n4,76,000  hrs × 95,000 hours = ` 43,26,891\n\nContribution lost for 95,000 hours= ` 43,26,891 x 15%\n= ` 6,49,034(approx.)\n\nComputation of profit forgone on account of employee\nturnover\n\n(`)\nContribution foregone (as calculated above)\n6,49,034\nSettlement cost due to leaving\n2,37,880\nRecruitment and Selection cost\n1,40,000\nTraining and Induction costs\n1,61,950\nCost of Rectification (1500 units x `40)\n60,000\nProfit foregone\n12,48,864\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

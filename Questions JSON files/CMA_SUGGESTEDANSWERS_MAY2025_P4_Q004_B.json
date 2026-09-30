@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  A manufacturing unit using Standard costing system and the following\ninformation was obtained from its records:\n\nStandard\nActual\nProduction\n4,800 units\n4,560 units\nWorking days\n25\n27\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nFixed overhead\n` 48,000\n` 46,800\nVariable overhead\n` 14,400\n` 14,400\n\nRequired:\n\nCalculate the following overhead variances:\n(i)  Variable overhead variance\n(ii)  Fixed overhead variance\n(iii)  Fixed overhead Expenditure variance\n(iv)  Fixed overhead Volume variance\n(v)  Fixed overhead Calendar variance\n(6 Marks)",
+  "suggested_answer": "(b)  (i)  Variable Overhead Variance:\n= Standard Overhead for Actual Production - Actual Variable Overhead\n= \n\n\n\n\n\n14,400 ×4,560 units\n4,800 units\n`\n- ` 14,400\n= ` 13,680 – ` 14,400 = ` 720 (A)\n(ii) Fixed Overhead Variance:\n\n= Absorbed Fixed Overhead – Actual Fixed Overhead\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\n\n= \n\n\n\n\n\n48,000 ×4,560 units\n4,800 units\n`\n- ` 46,800\n\n= ` 45,600 - ` 46,800 = ` 1,200 (A)\n(iii)  Fixed Overhead Expenditure Variance:\n\n= Budgeted Fixed Overhead – Actual Fixed Overhead\n\n= ` 48,000 - ` 46,800 = ` 1,200 (F)\n(iv)  Fixed Overhead Volume Variance:\n\n= Absorbed Fixed Overhead – Budgeted Fixed Overhead\n\n= \n\n\n\n\n\n48,000 ×4,560 units\n4,800 units\n`\n- ` 48,000\n\n= ` 45,600 - ` 48,000 = ` 2,400 (A)\n(v)  Fixed Overhead Calendar Variance:\n= (Actual Days - Budgeted Days) x Standard rate per day\n= (27 days – 25 days) x\n48,000\n25days\n`\n= ` 3,840 (F)",
+  "marks": "(6 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q004_B",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 22,
+    "end": 25
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": "(6 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 22,
+    "page_end": 25,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  A manufacturing unit using Standard costing system and the following\ninformation was obtained from its records:\n\nStandard\nActual\nProduction\n4,800 units\n4,560 units\nWorking days\n25\n27\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nFixed overhead\n` 48,000\n` 46,800\nVariable overhead\n` 14,400\n` 14,400\n\nRequired:\n\nCalculate the following overhead variances:\n(i)  Variable overhead variance\n(ii)  Fixed overhead variance\n(iii)  Fixed overhead Expenditure variance\n(iv)  Fixed overhead Volume variance\n(v)  Fixed overhead Calendar variance\n(6 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  Variable Overhead Variance:\n= Standard Overhead for Actual Production - Actual Variable Overhead\n= \n\n\n\n\n\n14,400 ×4,560 units\n4,800 units\n`\n- ` 14,400\n= ` 13,680 – ` 14,400 = ` 720 (A)\n(ii) Fixed Overhead Variance:\n\n= Absorbed Fixed Overhead – Actual Fixed Overhead\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\n\n= \n\n\n\n\n\n48,000 ×4,560 units\n4,800 units\n`\n- ` 46,800\n\n= ` 45,600 - ` 46,800 = ` 1,200 (A)\n(iii)  Fixed Overhead Expenditure Variance:\n\n= Budgeted Fixed Overhead – Actual Fixed Overhead\n\n= ` 48,000 - ` 46,800 = ` 1,200 (F)\n(iv)  Fixed Overhead Volume Variance:\n\n= Absorbed Fixed Overhead – Budgeted Fixed Overhead\n\n= \n\n\n\n\n\n48,000 ×4,560 units\n4,800 units\n`\n- ` 48,000\n\n= ` 45,600 - ` 48,000 = ` 2,400 (A)\n(v)  Fixed Overhead Calendar Variance:\n= (Actual Days - Budgeted Days) x Standard rate per day\n= (27 days – 25 days) x\n48,000\n25days\n`\n= ` 3,840 (F)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

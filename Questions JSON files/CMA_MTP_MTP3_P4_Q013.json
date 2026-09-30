@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.  \nBCIC Ltd. is a insurance company. It launched a new term insurance policy Names as \nProtection Plus. The total cost for the policy during the year is ` 1,60,00,000. Total \nnumber of policies sold is 410 and total insured value of policies is ` 920 crore. \nWhat is the cost per rupee of insured value? \n(A) \n` 0.0017 \n(B) \n` 0.18 \n(C) \n` 575 \n(D) \n` 2.24 \n(2 Marks)",
+  "suggested_answer": "(A) ` 0.0017 Cost per rupee of insured value = Total Cost/ Total Insured Value = 1.6 cr/920 cr = ` 0.0017",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q013",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  \nBCIC Ltd. is a insurance company. It launched a new term insurance policy Names as \nProtection Plus. The total cost for the policy during the year is ` 1,60,00,000. Total \nnumber of policies sold is 410 and total insured value of policies is ` 920 crore. \nWhat is the cost per rupee of insured value? \n(A) \n` 0.0017 \n(B) \n` 0.18 \n(C) \n` 575 \n(D) \n` 2.24 \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) ` 0.0017 Cost per rupee of insured value = Total Cost/ Total Insured Value = 1.6 cr/920 cr = ` 0.0017"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

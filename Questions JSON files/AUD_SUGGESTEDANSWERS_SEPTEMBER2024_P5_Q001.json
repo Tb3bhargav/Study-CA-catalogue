@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "1.\nSince it became impracticable for CA B, on 31 March, 2024, to attend\nphysical inventory counting at the warehouse and also became impossible to\nperform alternative audit procedures to obtain sufficient appropriate audit\nevidence regarding the existence and conditions of inventory, CA B shall:\n(A)\nTake Management Representation regarding the existence and\nvaluation of inventory and mention in Emphasis of Matter paragraph.\n(B)\nRely on GHB Ltd.'s perpetual inventory records as audit evidence and\nexpress unmodified opinion.\n(C)\nOmit altogether the audit procedure of physical inventory counting\nfrom the audit programme because of impracticability.\n(D)  Modify the opinion in the auditor's report in accordance with SA 705 as\na result of the scope limitation.",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q001",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1.\nSince it became impracticable for CA B, on 31 March, 2024, to attend\nphysical inventory counting at the warehouse and also became impossible to\nperform alternative audit procedures to obtain sufficient appropriate audit\nevidence regarding the existence and conditions of inventory, CA B shall:\n(A)\nTake Management Representation regarding the existence and\nvaluation of inventory and mention in Emphasis of Matter paragraph.\n(B)\nRely on GHB Ltd.'s perpetual inventory records as audit evidence and\nexpress unmodified opinion.\n(C)\nOmit altogether the audit procedure of physical inventory counting\nfrom the audit programme because of impracticability.\n(D)  Modify the opinion in the auditor's report in accordance with SA 705 as\na result of the scope limitation."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

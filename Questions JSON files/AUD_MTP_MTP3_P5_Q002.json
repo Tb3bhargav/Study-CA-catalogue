@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q002",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2. \nIn the planning meeting described in the case scenario, the engagement partner first \nestablished the overall audit strategy and then instructed the audit team to develop a \ndetailed audit plan after obtaining knowledge of the company’s business model and \nprocesses. \n \nIn the context of the situation described in the case scenario, the primary reason for \nobtaining such knowledge before developing the audit plan is to: \n(a)  \nEnable the auditor to design appropriate audit procedures relevant to the entity’s \noperations and risks. \n(b)  \nDetermine whether the new revenue system complies with accounting standards. \n(c)  \nReplace the need for performing risk assessment procedures later in the audit. \n(d)  \nEnsure that the audit team uses the minimum possible audit resources.",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q002",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nIn the planning meeting described in the case scenario, the engagement partner first \nestablished the overall audit strategy and then instructed the audit team to develop a \ndetailed audit plan after obtaining knowledge of the company’s business model and \nprocesses. \n \nIn the context of the situation described in the case scenario, the primary reason for \nobtaining such knowledge before developing the audit plan is to: \n(a)  \nEnable the auditor to design appropriate audit procedures relevant to the entity’s \noperations and risks. \n(b)  \nDetermine whether the new revenue system complies with accounting standards. \n(c)  \nReplace the need for performing risk assessment procedures later in the audit. \n(d)  \nEnsure that the audit team uses the minimum possible audit resources."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

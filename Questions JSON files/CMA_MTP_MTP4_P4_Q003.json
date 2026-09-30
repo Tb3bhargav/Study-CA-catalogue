@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3.  \nWhat will be the special bonus to Direct Employees? \n(A)  \n` 28,00,000 \n(B)  \n` 12,00,000 \n(C)  \n` 16,00,000 \n(D)  \n` 15,00,000 \n \n3",
+  "suggested_answer": "(C) ` 16,00,000 Special Bonus (Direct Employees) 115% of standard = 20,000 × 115% = 23,000 tonnes 2 Eligible production = 27,000 − 23,000 = 4,000 tonnes Bonus = 4,000 × 400 = ` 16,00,000",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q003",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  \nWhat will be the special bonus to Direct Employees? \n(A)  \n` 28,00,000 \n(B)  \n` 12,00,000 \n(C)  \n` 16,00,000 \n(D)  \n` 15,00,000 \n \n3"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 16,00,000 Special Bonus (Direct Employees) 115% of standard = 20,000 × 115% = 23,000 tonnes 2 Eligible production = 27,000 − 23,000 = 4,000 tonnes Bonus = 4,000 × 400 = ` 16,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

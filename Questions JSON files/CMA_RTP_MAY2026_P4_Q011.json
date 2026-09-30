@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "11. \nThe following figures have been extracted from the cost records of a \nmanufacturing unit: \n \n(`) \nStores: Opening balance \n32,000 \n            Purchases of material \n1,58,000 \nTransfer from work-in-progress \n80,000 \nIssues to work-in-progress \n1,60,000 \nIssues to repair and maintenance \n20,000 \nDeficiencies found in stock taking \n6,000 \nWork-in-progress:  Opening balance \n60,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\nDirect wages applied \n65,000 \nOverheads applied \n2,40,000 \nClosing balance of W.I.P. \n45,000 \n \nFinished products:  Entire output is sold at a profit of 10% on actual cost \nfrom work-in-progress. Wages incurred ` 70,000, overhead incurred  \n` 2,50,000. \n \nItems not included in cost records:  Income from investment ` 10,000, \nLoss on sale of capital assets ` 20,000. \n \nDraw up Store Control account, Work-in-progress Control account, \nCosting Profit and Loss account, Profit and Loss account and \nReconciliation statement.  \nJob & Batch Costing",
+  "suggested_answer": "(A) Costing books Stores Control Account Particulars (`) Particulars (`) To Balance b/d 32,000 By W.I.P. Control A/c 1,60,000 To General ledger adjustment A/c 1,58,000 By Work overhead control A/c 20,000 To Work in progress control A/c 80,000 By Costing Profit and Loss A/c 6,000 By Balance c/d 84,000 2,70,000 2,70,000 W.I.P. Control Account Particulars (`) Particulars (`) To Balance b/d 60,000 By Stores control A/c 80,000 To Stores control A/c 1,60,000 By Costing profit and loss A/c (Cost of sales) 4,00,000 To Direct wages control A/c 65,000 COST AND MANAGEMENT ACCOUNTING 41 MAY 2026 EXAMINATION REVISION TEST PAPERS To Works overhead control A/c 2,40,000 By Balance c/d 45,000 5,25,000 5,25,000 Works Overhead Control Account 0BParticulars (`) Particulars (`) To General ledger adjustment A/c 2,50,000 By W.I.P. Control A/c 2,40,000 To Store ledger control A/c 20,000 By Costing profit & loss A/c (under recovery) 30,000 2,70,000 2,70,000 Costing Profit & Loss Account Particulars (`) Particulars (`) To W.I.P. control A/c (Cost of sales) 4,00,000 By General ledger adjustment A/c To Works overhead control A/c 30,000 Cost of sales 4,00,000 To Stores control A/c (shortage) 6,000 10% profit 40,000 4,40,000 To Profit 4,000 4,40,000 4,40,000 (B) Financial Books Profit & Loss Account Particulars (`) Particulars (`) To Opening stock By Sales 4,40,000 Stores 32,000 By Closing stock: W.I.P. 60,000 92,000 Stores 84,000 W.I.P. 45,000 1,29,000 To Purchases 1,58,000 By Income from investment 10,000 To Wages incurred 70,000 By Loss 11,000 To Overheads incurred 2,50,000 INTERMEDIATE EXAMINATION 42 REVISION TEST PAPERS MAY 2026 EXAMINATION To Loss on sale of capital assets 20,000 5,90,000 5,90,000 Reconciliation statement (`) (`) Profit as per Cost Accounts 4,000 Add: Income from investment recorded in Financial accounts 10,000 14,000 Less: Under absorption of wages in Cost accounts 5,000 Loss on sales of capital asset only included in Financial accounts 20,000 25,000 Loss as per Financial accounts 11,000",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q011",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Unit & Batch Costing",
+    "topic": "Unit & Batch Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nThe following figures have been extracted from the cost records of a \nmanufacturing unit: \n \n(`) \nStores: Opening balance \n32,000 \n            Purchases of material \n1,58,000 \nTransfer from work-in-progress \n80,000 \nIssues to work-in-progress \n1,60,000 \nIssues to repair and maintenance \n20,000 \nDeficiencies found in stock taking \n6,000 \nWork-in-progress:  Opening balance \n60,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\nDirect wages applied \n65,000 \nOverheads applied \n2,40,000 \nClosing balance of W.I.P. \n45,000 \n \nFinished products:  Entire output is sold at a profit of 10% on actual cost \nfrom work-in-progress. Wages incurred ` 70,000, overhead incurred  \n` 2,50,000. \n \nItems not included in cost records:  Income from investment ` 10,000, \nLoss on sale of capital assets ` 20,000. \n \nDraw up Store Control account, Work-in-progress Control account, \nCosting Profit and Loss account, Profit and Loss account and \nReconciliation statement.  \nJob & Batch Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Costing books Stores Control Account Particulars (`) Particulars (`) To Balance b/d 32,000 By W.I.P. Control A/c 1,60,000 To General ledger adjustment A/c 1,58,000 By Work overhead control A/c 20,000 To Work in progress control A/c 80,000 By Costing Profit and Loss A/c 6,000 By Balance c/d 84,000 2,70,000 2,70,000 W.I.P. Control Account Particulars (`) Particulars (`) To Balance b/d 60,000 By Stores control A/c 80,000 To Stores control A/c 1,60,000 By Costing profit and loss A/c (Cost of sales) 4,00,000 To Direct wages control A/c 65,000 COST AND MANAGEMENT ACCOUNTING 41 MAY 2026 EXAMINATION REVISION TEST PAPERS To Works overhead control A/c 2,40,000 By Balance c/d 45,000 5,25,000 5,25,000 Works Overhead Control Account 0BParticulars (`) Particulars (`) To General ledger adjustment A/c 2,50,000 By W.I.P. Control A/c 2,40,000 To Store ledger control A/c 20,000 By Costing profit & loss A/c (under recovery) 30,000 2,70,000 2,70,000 Costing Profit & Loss Account Particulars (`) Particulars (`) To W.I.P. control A/c (Cost of sales) 4,00,000 By General ledger adjustment A/c To Works overhead control A/c 30,000 Cost of sales 4,00,000 To Stores control A/c (shortage) 6,000 10% profit 40,000 4,40,000 To Profit 4,000 4,40,000 4,40,000 (B) Financial Books Profit & Loss Account Particulars (`) Particulars (`) To Opening stock By Sales 4,40,000 Stores 32,000 By Closing stock: W.I.P. 60,000 92,000 Stores 84,000 W.I.P. 45,000 1,29,000 To Purchases 1,58,000 By Income from investment 10,000 To Wages incurred 70,000 By Loss 11,000 To Overheads incurred 2,50,000 INTERMEDIATE EXAMINATION 42 REVISION TEST PAPERS MAY 2026 EXAMINATION To Loss on sale of capital assets 20,000 5,90,000 5,90,000 Reconciliation statement (`) (`) Profit as per Cost Accounts 4,000 Add: Income from investment recorded in Financial accounts 10,000 14,000 Less: Under absorption of wages in Cost accounts 5,000 Loss on sales of capital asset only included in Financial accounts 20,000 25,000 Loss as per Financial accounts 11,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

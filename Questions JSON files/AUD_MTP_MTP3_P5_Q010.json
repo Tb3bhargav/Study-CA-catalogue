@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. \nDuring the audit, the auditor noted that a portion of the inventory considered while \ndetermining drawing power was stated to be lying at a third-party warehouse and also \nobserved differences between the stock reported to the bank and the stock appearing in \nthe audited financial statements. \n \nConsidering these facts together, which of the following audit procedures would most \neffectively address the risk arising in this situation? \n(a)  \nRely on the stock statements submitted by the borrower to the bank. \n(b)  \nAccept management representation regarding the existence of inventory held \noutside the entity’s premises. \n(c)  \nObtain confirmation from the third-party warehouse operator regarding the \ninventory held on behalf of the borrower. \n(d)  \nRestrict verification only to purchase invoices relating to inventory. \n7",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q010",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nDuring the audit, the auditor noted that a portion of the inventory considered while \ndetermining drawing power was stated to be lying at a third-party warehouse and also \nobserved differences between the stock reported to the bank and the stock appearing in \nthe audited financial statements. \n \nConsidering these facts together, which of the following audit procedures would most \neffectively address the risk arising in this situation? \n(a)  \nRely on the stock statements submitted by the borrower to the bank. \n(b)  \nAccept management representation regarding the existence of inventory held \noutside the entity’s premises. \n(c)  \nObtain confirmation from the third-party warehouse operator regarding the \ninventory held on behalf of the borrower. \n(d)  \nRestrict verification only to purchase invoices relating to inventory. \n7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

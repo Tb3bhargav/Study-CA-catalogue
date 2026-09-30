@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q006",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6.  Inventory and Receivables would be:\n(A)  ` 20 Lakh and ` 20 Lakh\n(B)  ` 10 Lakh and ` 10 Lakh\n(C)  ` 10 Lakh and ` 20 Lakh\n(D)  ` 20 Lakh and ` 10 Lakh",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q006",
+  "source_filename": "84880bos68360-p6.pdf",
+  "source_pdf": "suggested_answers/84880bos68360-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84880bos68360-p6.pdf",
+      "answer_pdf": "suggested_answers/84880bos68360-p6.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.  Inventory and Receivables would be:\n(A)  ` 20 Lakh and ` 20 Lakh\n(B)  ` 10 Lakh and ` 10 Lakh\n(C)  ` 10 Lakh and ` 20 Lakh\n(D)  ` 20 Lakh and ` 10 Lakh"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

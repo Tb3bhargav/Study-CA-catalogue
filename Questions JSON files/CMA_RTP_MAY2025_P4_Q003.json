@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3. \nMr. A works in a manufacturing company where he is paid bonus \naccording to the Halsey 50% plan, besides the normal wages. The \nrelevant data is as below: \nTime Rate (per hour) \n` 100 \nTime allowed \n \n \n10 hours \nTime taken  \n \n \n5 hours \nTime saved  \n \n \n5 hours \n \nMr. A believes that his bonus under Halsey system is getting reduced by \n50%, thus intending to shift towards Rowan Premium Plan. \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nYou are required to CALCULATE the total earnings of Mr. A as per Halsey \nplan and Rowan Premium plan & ENUMERATE the reason for difference \nin both the earnings. \n(a) \nTotal earnings as per Halsey plan- ` 500 and as per Rowan \nPremium plan- ` 750. Earnings under Halsey Plan is lower than that \nof Rowan Premium plan as the bonus is getting reduced by 50%. \n(b) \nTotal earnings as per Halsey plan- ` 750 and as per Rowan \nPremium plan- ` 500. Earnings under Rowan Premium plan is lower \nthan that of Halsey plan as the actual time taken is 50% of the time \nallowed. \n(c) \nTotal earnings as per Halsey plan- ` 750 and as per Rowan \nPremium plan- ` 750. When the actual time taken is 50% of the \ntime allowed, the earnings under Halsey and Rowan Plans are \nequal. \n(d) \nTotal earnings as per Halsey plan- ` 250 and as per Rowan \nPremium plan- ` 250.  Total earnings under both the Plans are \nequal as the time taken under both the plans are same. \nCost Accounting Systems",
+  "suggested_answer": "(C) Calculation of total earnings: As per Halsey 50% plan = Time taken × Time rate + (50% of Time saved × Time rate) = 5 hrs. × ` 100 + [1/2 × (5 hrs. × ` 100)] = ` 500 + ` 250 = ` 750 As per Rowan Premium plan =Time taken × Rate per hour +( Time Saved Time Allowed × Time taken × Rate per hour) = 5 hours × ` 100 + [ቀ 5 Hours 10 Hoursቁ × 5 hours × ` 100] = ` 500 + ` 250 = ` 750 INTERMEDIATE EXAMINATION 30 REVISION TEST PAPER MAY 2025 EXAMINATION When the actual time taken is 50% of the time allowed, the earnings under Halsey and Rowan Plans are equal.",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q003",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nMr. A works in a manufacturing company where he is paid bonus \naccording to the Halsey 50% plan, besides the normal wages. The \nrelevant data is as below: \nTime Rate (per hour) \n` 100 \nTime allowed \n \n \n10 hours \nTime taken  \n \n \n5 hours \nTime saved  \n \n \n5 hours \n \nMr. A believes that his bonus under Halsey system is getting reduced by \n50%, thus intending to shift towards Rowan Premium Plan. \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nYou are required to CALCULATE the total earnings of Mr. A as per Halsey \nplan and Rowan Premium plan & ENUMERATE the reason for difference \nin both the earnings. \n(a) \nTotal earnings as per Halsey plan- ` 500 and as per Rowan \nPremium plan- ` 750. Earnings under Halsey Plan is lower than that \nof Rowan Premium plan as the bonus is getting reduced by 50%. \n(b) \nTotal earnings as per Halsey plan- ` 750 and as per Rowan \nPremium plan- ` 500. Earnings under Rowan Premium plan is lower \nthan that of Halsey plan as the actual time taken is 50% of the time \nallowed. \n(c) \nTotal earnings as per Halsey plan- ` 750 and as per Rowan \nPremium plan- ` 750. When the actual time taken is 50% of the \ntime allowed, the earnings under Halsey and Rowan Plans are \nequal. \n(d) \nTotal earnings as per Halsey plan- ` 250 and as per Rowan \nPremium plan- ` 250.  Total earnings under both the Plans are \nequal as the time taken under both the plans are same. \nCost Accounting Systems"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) Calculation of total earnings: As per Halsey 50% plan = Time taken × Time rate + (50% of Time saved × Time rate) = 5 hrs. × ` 100 + [1/2 × (5 hrs. × ` 100)] = ` 500 + ` 250 = ` 750 As per Rowan Premium plan =Time taken × Rate per hour +( Time Saved Time Allowed × Time taken × Rate per hour) = 5 hours × ` 100 + [ቀ 5 Hours 10 Hoursቁ × 5 hours × ` 100] = ` 500 + ` 250 = ` 750 INTERMEDIATE EXAMINATION 30 REVISION TEST PAPER MAY 2025 EXAMINATION When the actual time taken is 50% of the time allowed, the earnings under Halsey and Rowan Plans are equal."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

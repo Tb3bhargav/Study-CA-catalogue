@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q003_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Gold Drive bank is having a branch which is engaged in processing of 'Gold\nLoan' and 'Car Loan' applications in addition to other services to customers.\n\nThe bank has hired three direct professional workers for processing 'Gold\nLoan' applications and four direct professional workers for processing 'Car\nLoan' applications.\n\nIn addition to above, following expenses are incurred by the branch:\n(1)  Branch manager who supervises all the activities of branch, is paid at\n` 1,10,000 per month.\n(2)  Legal charges, printing & stationery and advertising expenses are\nincurred at ` 28,000, ` 15,000 and ` 20,000 respectively for a month.\n(3)  Other expenses are ` 51,000 per quarter.\n(4)  Depreciation on building is ` 4,20,000 per annum.\n(5)  Overhead costs of the branch allocable to processing of 'Gold Loan'\napplications and to 'Car Loan' applications is 20% & 15% respectively of\ntotal overhead costs of the branch.\nNumber of applications processed:\n•\n'Gold Loan' - 400 applications per month; and\n•\n'Car Loan' - 500 applications per month.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nYou are required to:\n(i)  Compute the total salary of direct professionals for processing of 'Gold\nLoan' and 'Car Loan' applications respectively, by assuming that cost of\nprocessing a 'Car Loan' application is same as 'Gold Loan' application.\n(ii)  Find out the total cost of processing a 'Car Loan' application. (8 Marks)",
+  "suggested_answer": "(a) Let the Salary of one Direct Professional Be “x”\nParticulars\nTotal Monthly\nCost\n(`)\nGold loan\nApplications\n(`)\nCar loan\nApplication\n(`)\nEmployee Cost\n\n3x\n(` x × 3\nProfessionals)\n4x\n(` x × 4\nProfessionals)\n\n18\nApportionment\nof\nBranch\nmanager’s salary\n110000\n22,000\n16,500\nLegal charges, Printing &\nstationery\nand\nAdvertising\nexpenses\n63000\n12,600\n9,450\nOther\nexpenses\n(51,000/3\nquarters)\n17000\n3,400\n2,550\nDepreciation\n(4,20,000/12\nmonths)\n35000\n7,000\n5,250\nTotal cost per month\n\n45,000 + 3x\n33,750 + 4x\nNumber of Applications per\nmonth\n\n400\n500\n(i)  Computation of Salary of Direct Professionals\n\nCost per Car Loan application = Cost per Gold Loan application\n3x + 45,000\n400\n= 4x + 33,750\n500\n\n1,500x + 2,25,00,000 = 1,600x + 1,35,00,000\n\nSalary of Direct Professionals “x“= ` 90,000\n\nSalary of Direct Professionals for Gold Loan applications = 3x = ` 2,70,000\n\nSalary of Direct Professionals for Car Loan applications = 4x = ` 3,60,000\n(ii)  Computation of cost of processing a Car loan application:\nTotal Cost\n= 33,750 + 4x\n\n= 33,750 + 3,60,000 = ` 3,93,750\nCost per Car Loan Application\n\n= 3,93,750\n500\n= ` 787.50 per application",
+  "marks": "(8 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q003_A",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 17,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(a)",
+    "marks": "(8 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 17,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Gold Drive bank is having a branch which is engaged in processing of 'Gold\nLoan' and 'Car Loan' applications in addition to other services to customers.\n\nThe bank has hired three direct professional workers for processing 'Gold\nLoan' applications and four direct professional workers for processing 'Car\nLoan' applications.\n\nIn addition to above, following expenses are incurred by the branch:\n(1)  Branch manager who supervises all the activities of branch, is paid at\n` 1,10,000 per month.\n(2)  Legal charges, printing & stationery and advertising expenses are\nincurred at ` 28,000, ` 15,000 and ` 20,000 respectively for a month.\n(3)  Other expenses are ` 51,000 per quarter.\n(4)  Depreciation on building is ` 4,20,000 per annum.\n(5)  Overhead costs of the branch allocable to processing of 'Gold Loan'\napplications and to 'Car Loan' applications is 20% & 15% respectively of\ntotal overhead costs of the branch.\nNumber of applications processed:\n•\n'Gold Loan' - 400 applications per month; and\n•\n'Car Loan' - 500 applications per month.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nYou are required to:\n(i)  Compute the total salary of direct professionals for processing of 'Gold\nLoan' and 'Car Loan' applications respectively, by assuming that cost of\nprocessing a 'Car Loan' application is same as 'Gold Loan' application.\n(ii)  Find out the total cost of processing a 'Car Loan' application. (8 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Let the Salary of one Direct Professional Be “x”\nParticulars\nTotal Monthly\nCost\n(`)\nGold loan\nApplications\n(`)\nCar loan\nApplication\n(`)\nEmployee Cost\n\n3x\n(` x × 3\nProfessionals)\n4x\n(` x × 4\nProfessionals)\n\n18\nApportionment\nof\nBranch\nmanager’s salary\n110000\n22,000\n16,500\nLegal charges, Printing &\nstationery\nand\nAdvertising\nexpenses\n63000\n12,600\n9,450\nOther\nexpenses\n(51,000/3\nquarters)\n17000\n3,400\n2,550\nDepreciation\n(4,20,000/12\nmonths)\n35000\n7,000\n5,250\nTotal cost per month\n\n45,000 + 3x\n33,750 + 4x\nNumber of Applications per\nmonth\n\n400\n500\n(i)  Computation of Salary of Direct Professionals\n\nCost per Car Loan application = Cost per Gold Loan application\n3x + 45,000\n400\n= 4x + 33,750\n500\n\n1,500x + 2,25,00,000 = 1,600x + 1,35,00,000\n\nSalary of Direct Professionals “x“= ` 90,000\n\nSalary of Direct Professionals for Gold Loan applications = 3x = ` 2,70,000\n\nSalary of Direct Professionals for Car Loan applications = 4x = ` 3,60,000\n(ii)  Computation of cost of processing a Car loan application:\nTotal Cost\n= 33,750 + 4x\n\n= 33,750 + 3,60,000 = ` 3,93,750\nCost per Car Loan Application\n\n= 3,93,750\n500\n= ` 787.50 per application"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q015_01",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15.\n(A)\n\n9\nPAPER – 5: AUDITING AND ETHICS",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q015",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 8,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15.\n(A)\n\n9\nPAPER – 5: AUDITING AND ETHICS"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

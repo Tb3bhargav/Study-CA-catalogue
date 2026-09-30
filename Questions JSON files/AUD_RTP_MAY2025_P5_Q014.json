@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "14. \nCA Piku has prepared audit documentation of an entity describing \nnature, timing and extent of audit procedures performed during the \ncourse of audit. In documenting nature, time and extent of audit \nprocedures performed, which matters shall be recorded? He is also of \nthe view that such documentation alone as described above meets \nrequirements of Standards on Auditing. Comment upon validity of his \nviews.  \nChapter 7 - Completion and Review",
+  "suggested_answer": "In documenting the nature, timing and extent of audit procedures \nperformed, the auditor shall record:  \n(a)  \nThe identifying characteristics of the specific items or matters \ntested. \n(b)  \nWho performed the audit work and the date such work was \ncompleted; and \n(c)  \nWho reviewed the audit work performed and the date and extent \nof such review. \nThe auditor shall prepare audit documentation that is sufficient to \nenable an experienced auditor, having no previous connection with the \naudit, to understand:  \n(a)  \nThe nature, timing and extent of the audit procedures performed. \n(b)  \nThe results of the audit procedures performed, and the audit \nevidence obtained; and \n(c)  \nSignificant matters arising during the audit and the conclusions \nreached thereon and significant professional judgements made in \nreaching those conclusions. \n \nThus, all above matters shall be recorded to meet requirements of  \nSA 230. Documenting nature, time and extent of audit procedures \nperformed alone does not meet the requirements of SA 230. Therefore, \nCA Piku’s views are not valid. \n\n \nAUDITING AND ETHICS \n \n \n71 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q014",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. \nCA Piku has prepared audit documentation of an entity describing \nnature, timing and extent of audit procedures performed during the \ncourse of audit. In documenting nature, time and extent of audit \nprocedures performed, which matters shall be recorded? He is also of \nthe view that such documentation alone as described above meets \nrequirements of Standards on Auditing. Comment upon validity of his \nviews.  \nChapter 7 - Completion and Review"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "In documenting the nature, timing and extent of audit procedures \nperformed, the auditor shall record:  \n(a)  \nThe identifying characteristics of the specific items or matters \ntested. \n(b)  \nWho performed the audit work and the date such work was \ncompleted; and \n(c)  \nWho reviewed the audit work performed and the date and extent \nof such review. \nThe auditor shall prepare audit documentation that is sufficient to \nenable an experienced auditor, having no previous connection with the \naudit, to understand:  \n(a)  \nThe nature, timing and extent of the audit procedures performed. \n(b)  \nThe results of the audit procedures performed, and the audit \nevidence obtained; and \n(c)  \nSignificant matters arising during the audit and the conclusions \nreached thereon and significant professional judgements made in \nreaching those conclusions. \n \nThus, all above matters shall be recorded to meet requirements of  \nSA 230. Documenting nature, time and extent of audit procedures \nperformed alone does not meet the requirements of SA 230. Therefore, \nCA Piku’s views are not valid. \n\n \nAUDITING AND ETHICS \n \n \n71 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

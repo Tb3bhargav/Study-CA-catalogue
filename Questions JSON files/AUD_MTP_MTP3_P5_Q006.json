@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6. \nWhich of the following best describes the analytical procedure applied by the auditor to \nevaluate the reasonableness of hostel rent income? \n(a)  \nTrend analysis comparing hostel income with the previous year. \n(b)  \nReasonableness test using non-financial data to estimate expected income. \n(c)  \nVerification of hostel fee receipts with the Cash Book. \n(d)  \nTest of controls over hostel fee collection.",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q006",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Analytical Procedures",
+    "topic": "Analytical Procedures",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nWhich of the following best describes the analytical procedure applied by the auditor to \nevaluate the reasonableness of hostel rent income? \n(a)  \nTrend analysis comparing hostel income with the previous year. \n(b)  \nReasonableness test using non-financial data to estimate expected income. \n(c)  \nVerification of hostel fee receipts with the Cash Book. \n(d)  \nTest of controls over hostel fee collection."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

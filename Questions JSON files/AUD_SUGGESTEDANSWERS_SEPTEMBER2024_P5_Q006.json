@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6.\nIn case of difference of opinion between the joint auditors, what course of\naction can M/s. KRISH & Co. take while issuing the audit report?\n(A)\nThey will have to agree with the opinion formed by the majority of\nauditors.\n(B)\nThey will have to agree with the opinion formed by the majority\nauditors, but they can mention their view in the Emphasis of Matter\nParagraph.\n(C)\nThey can add a separate audit opinion paragraph in the common audit\nreport.\n(D)  They can issue a separate audit report and the audit reports issued by\nthe joint auditors shall make a reference to each other's audit report.",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q006",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.\nIn case of difference of opinion between the joint auditors, what course of\naction can M/s. KRISH & Co. take while issuing the audit report?\n(A)\nThey will have to agree with the opinion formed by the majority of\nauditors.\n(B)\nThey will have to agree with the opinion formed by the majority\nauditors, but they can mention their view in the Emphasis of Matter\nParagraph.\n(C)\nThey can add a separate audit opinion paragraph in the common audit\nreport.\n(D)  They can issue a separate audit report and the audit reports issued by\nthe joint auditors shall make a reference to each other's audit report."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

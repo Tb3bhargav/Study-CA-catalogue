@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q007",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.  The total quantity of raw material R to be purchased during the year -\n(A)  4,06,000 kgs\n(B)  4,18,000 kgs\n\n4\n(C)  3,82,000 kgs\n(D)  3,75,000 kgs\n8\nThe total cost of purchase of Raw Material Q during the year is -\n(A)  ` 6,00,000\n(B)  ` 6,06,000\n(C)  ` 5,88,000\n(D)  ` 6,12,000",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q007",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  The total quantity of raw material R to be purchased during the year -\n(A)  4,06,000 kgs\n(B)  4,18,000 kgs\n\n4\n(C)  3,82,000 kgs\n(D)  3,75,000 kgs\n8\nThe total cost of purchase of Raw Material Q during the year is -\n(A)  ` 6,00,000\n(B)  ` 6,06,000\n(C)  ` 5,88,000\n(D)  ` 6,12,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

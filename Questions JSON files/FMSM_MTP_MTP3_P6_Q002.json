@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP3_P6_Q002",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2. \nAs per Market Value: 10.5% \nThe company is considering a new project requiring an initial investment of ` 20 lakhs. The \nproject has the following additional features: \n• \nWorking Capital Requirement: ` 3 lakhs (fully recoverable at end of Year 3)  \n• \nSalvage Value: ` 2 lakhs (end of Year 3)  \n• \nDepreciation: Straight-line over 3 years. \nExpected Cash Inflows (before depreciation & tax): \nYear \nCash Inflows (` lakhs) \n1 \n8 \n2 \n9 \n3 \n10 \nAssume the tax rate is 25% and the investment rate is 2% more than the Pre tax cost of debt. \nThe project is evaluated based investment rate. \nYear 1 \nYear 2 \nYear 3 \n6% \n0.943 \n0.890 \n0.840 \n8% \n0.926 \n0.857 \n0.794 \n10% \n0.909 \n0.826 \n0.751 \n12% \n0.893 \n0.797 \n0.712 \n \n \n \n3 \nYou are required to answer the following questions (MCQs 1 to 5):",
+  "suggested_answer": "(D) Kd = 6% Working Note: Let the cost of equity be ‘X’ and cost of debt be ‘Y’ WACC under BV Item Cost Weight Product Equity X 20 Lakhs /30 Lakhs = 2/3 2X 3 Debt Y 10 Lakhs /30 Lakhs = 1/3 Y 3 1 10% 10 = 2X 3 + Y 3 30 = 2X + Y ….(1) WACC under MV Item Cost Weight Product Equity X 60 Lakhs /80 Lakhs = 3/4 3X 4 Debt Y 20 Lakhs /80 Lakhs = 1/4 Y 4 1 10.5% 2 10.5 = 3X 4 + Y 4 42 = 3X + Y ….(2) By Solving both equations 42 = 3X + Y 30 = 2X + Y Cost of equity (X) = 12% Substituting in Equation 1, 30 = 24 + Y Cost of Debt (Y) = 6%",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP3_P6_Q002",
+  "source_filename": "mtp3paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Cost of Capital",
+    "topic": "Cost of Capital",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nAs per Market Value: 10.5% \nThe company is considering a new project requiring an initial investment of ` 20 lakhs. The \nproject has the following additional features: \n• \nWorking Capital Requirement: ` 3 lakhs (fully recoverable at end of Year 3)  \n• \nSalvage Value: ` 2 lakhs (end of Year 3)  \n• \nDepreciation: Straight-line over 3 years. \nExpected Cash Inflows (before depreciation & tax): \nYear \nCash Inflows (` lakhs) \n1 \n8 \n2 \n9 \n3 \n10 \nAssume the tax rate is 25% and the investment rate is 2% more than the Pre tax cost of debt. \nThe project is evaluated based investment rate. \nYear 1 \nYear 2 \nYear 3 \n6% \n0.943 \n0.890 \n0.840 \n8% \n0.926 \n0.857 \n0.794 \n10% \n0.909 \n0.826 \n0.751 \n12% \n0.893 \n0.797 \n0.712 \n \n \n \n3 \nYou are required to answer the following questions (MCQs 1 to 5):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Kd = 6% Working Note: Let the cost of equity be ‘X’ and cost of debt be ‘Y’ WACC under BV Item Cost Weight Product Equity X 20 Lakhs /30 Lakhs = 2/3 2X 3 Debt Y 10 Lakhs /30 Lakhs = 1/3 Y 3 1 10% 10 = 2X 3 + Y 3 30 = 2X + Y ….(1) WACC under MV Item Cost Weight Product Equity X 60 Lakhs /80 Lakhs = 3/4 3X 4 Debt Y 20 Lakhs /80 Lakhs = 1/4 Y 4 1 10.5% 2 10.5 = 3X 4 + Y 4 42 = 3X + Y ….(2) By Solving both equations 42 = 3X + Y 30 = 2X + Y Cost of equity (X) = 12% Substituting in Equation 1, 30 = 24 + Y Cost of Debt (Y) = 6%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

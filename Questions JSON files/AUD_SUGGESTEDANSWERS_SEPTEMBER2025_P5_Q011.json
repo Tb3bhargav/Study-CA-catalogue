@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. CA Ravi Chopra had considered all the events that cast a doubt on the going\nconcern assumption. Consider the following examples of events or conditions\nthat may cast significant doubt on the entity's ability to continue as a going\nconcern:\n(1)  Shortage of important supplies.\n(2)  Loss of major market share.\n(3)  Inability to pay creditor on due dates.\n(4)  Non-compliance with regulatory requirements.\n(5)  Arrears or discontinuance of dividends.\n\n8\n(6)  Emergence of highly successful competitor.\n(7)  Pending legal proceedings which may result in claims which the entity\nis unlikely to be able to satisfy.\n(8)  Inability to obtain financing for essential requirements.\nChoose the correct option which suits to events or conditions.\n(A)  1, 3, 4-Financing events: 2, 5, 6-operating events: 7, 8-other events\n(B)  1, 4-Financing events: 3, 2, 5-operating events: 6, 7, 8-other events\n(C)  1, 4-Financing events: 3, 7, 6-operating events: 2, 5, 8-other events\n(D)  3, 5, 8-Financing events: 1, 2, 6-operating events: 4, 7-other events\n(2 Marks)",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q011",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Dividend Decisions",
+    "topic": "Dividend Decisions",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. CA Ravi Chopra had considered all the events that cast a doubt on the going\nconcern assumption. Consider the following examples of events or conditions\nthat may cast significant doubt on the entity's ability to continue as a going\nconcern:\n(1)  Shortage of important supplies.\n(2)  Loss of major market share.\n(3)  Inability to pay creditor on due dates.\n(4)  Non-compliance with regulatory requirements.\n(5)  Arrears or discontinuance of dividends.\n\n8\n(6)  Emergence of highly successful competitor.\n(7)  Pending legal proceedings which may result in claims which the entity\nis unlikely to be able to satisfy.\n(8)  Inability to obtain financing for essential requirements.\nChoose the correct option which suits to events or conditions.\n(A)  1, 3, 4-Financing events: 2, 5, 6-operating events: 7, 8-other events\n(B)  1, 4-Financing events: 3, 2, 5-operating events: 6, 7, 8-other events\n(C)  1, 4-Financing events: 3, 7, 6-operating events: 2, 5, 8-other events\n(D)  3, 5, 8-Financing events: 1, 2, 6-operating events: 4, 7-other events\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

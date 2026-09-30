@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15. \nCA Shilpi, the engagement partner at MN Associates, is assigned the \naudit of following two companies: \n• \nZed Ltd., a small family-run business with straightforward \noperations, minimal internal controls, and low transaction volume. \n• \nTed Ltd., a large multinational corporation with complex \noperations, multiple subsidiaries, high transaction volumes.  \n \nDuring the audit planning stage, CA Shilpi highlights that the form, \ncontent, and extent of audit documentation must be customised for \neach client based on specific factors. Discuss those factors on which \nform, content, and extent of audit documentation depends. \nChapter 7 - Completion and Review",
+  "suggested_answer": "The form, content and extent of audit documentation depend on \nfactors such as: \n(i) \nThe size and complexity of the entity. \n(ii) \nThe nature of the audit procedures to be performed. \n(iii) \nThe identiﬁed risks of material misstatement. \n(iv) \nThe signiﬁcance of the audit evidence obtained. \n(v) \nThe nature and extent of exceptions identiﬁed. \n(vi) \nThe need to document a conclusion or the basis for a conclusion \nnot readily determinable from the documentation of the work \nperformed or audit evidence obtained. \n(vii) The audit methodology and tools used.",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q015",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nCA Shilpi, the engagement partner at MN Associates, is assigned the \naudit of following two companies: \n• \nZed Ltd., a small family-run business with straightforward \noperations, minimal internal controls, and low transaction volume. \n• \nTed Ltd., a large multinational corporation with complex \noperations, multiple subsidiaries, high transaction volumes.  \n \nDuring the audit planning stage, CA Shilpi highlights that the form, \ncontent, and extent of audit documentation must be customised for \neach client based on specific factors. Discuss those factors on which \nform, content, and extent of audit documentation depends. \nChapter 7 - Completion and Review"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The form, content and extent of audit documentation depend on \nfactors such as: \n(i) \nThe size and complexity of the entity. \n(ii) \nThe nature of the audit procedures to be performed. \n(iii) \nThe identiﬁed risks of material misstatement. \n(iv) \nThe signiﬁcance of the audit evidence obtained. \n(v) \nThe nature and extent of exceptions identiﬁed. \n(vi) \nThe need to document a conclusion or the basis for a conclusion \nnot readily determinable from the documentation of the work \nperformed or audit evidence obtained. \n(vii) The audit methodology and tools used."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

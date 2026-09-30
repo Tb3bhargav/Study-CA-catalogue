@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. \nIn a workshop, there is a standard requirement of 30 labour hours for producing a wooden \ntoy. The standard wage rate is set at ` 20 per hour. In January 2025, the workshop \nsuccessfully produced 1,000 wooden toys. The payroll records show that 22,800 labour \nhours were paid including 500 idle hours caused by a temporary power outage. The \nlabour rate variance for the month was ` 15,960 (Favourable). \n \nCalculate total actual labour cost incurred in the month of January 2025. \n(A)  \n` 4,40,040 \n(B)  \n` 4,40,140 \n(C)  \n` 4,40,240 \n(D)  \n` 4,30,040 \n(2 Marks) \n6",
+  "suggested_answer": "(A) `4,40,040 Labour Rate Variance = ` 15,960 (Favourable) Labour Rate Variance = Actual Hours Paid x (Standard Rate – Actual Rate) ` 15,960 = 22,800 hrs x (` 20 – Actual Rate) (15,960/22,800) = 20 – Actual Rate 0.70 = 20 - Actual Rate Actual Rate = ` 19.30 per hour Actual Wages Paid = Actual Hours Paid x Actual Rate = 22,800 hrs. x ` 19.30 = ` 4,40,040",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q012",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nIn a workshop, there is a standard requirement of 30 labour hours for producing a wooden \ntoy. The standard wage rate is set at ` 20 per hour. In January 2025, the workshop \nsuccessfully produced 1,000 wooden toys. The payroll records show that 22,800 labour \nhours were paid including 500 idle hours caused by a temporary power outage. The \nlabour rate variance for the month was ` 15,960 (Favourable). \n \nCalculate total actual labour cost incurred in the month of January 2025. \n(A)  \n` 4,40,040 \n(B)  \n` 4,40,140 \n(C)  \n` 4,40,240 \n(D)  \n` 4,30,040 \n(2 Marks) \n6"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) `4,40,040 Labour Rate Variance = ` 15,960 (Favourable) Labour Rate Variance = Actual Hours Paid x (Standard Rate – Actual Rate) ` 15,960 = 22,800 hrs x (` 20 – Actual Rate) (15,960/22,800) = 20 – Actual Rate 0.70 = 20 - Actual Rate Actual Rate = ` 19.30 per hour Actual Wages Paid = Actual Hours Paid x Actual Rate = 22,800 hrs. x ` 19.30 = ` 4,40,040"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13.  \nGHI Ltd. is engaged in investment and manufacturing activities. During audit, the auditor \nperformed inspection procedures in the following areas: \n• \nExamined share certificates held by the company as evidence of investments. \n• \nInspected executed sales contracts to evaluate revenue recognition policies. \n• \nPhysically verified plant and machinery at the factory. \n• \nReviewed internally generated invoices to verify sales transactions. \n \n \n8 \n \nBased on above, which of the following is the most appropriate audit conclusion \nregarding inspection as an audit procedure? \n(a)  \nInspection of share certificates conclusively establishes existence, ownership, \nand valuation of investments. \n(b)  \nInspection of executed contracts provides sufficient appropriate audit evidence \nregarding revenue recognition without need for further procedures. \n(c)  \nPhysical inspection of plant and machinery provides evidence of existence, but \nadditional procedures may be required for ownership and valuation. \n(d) \nInspection of internally generated invoices provides more reliable audit evidence \nthan external confirmations.",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q013",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  \nGHI Ltd. is engaged in investment and manufacturing activities. During audit, the auditor \nperformed inspection procedures in the following areas: \n• \nExamined share certificates held by the company as evidence of investments. \n• \nInspected executed sales contracts to evaluate revenue recognition policies. \n• \nPhysically verified plant and machinery at the factory. \n• \nReviewed internally generated invoices to verify sales transactions. \n \n \n8 \n \nBased on above, which of the following is the most appropriate audit conclusion \nregarding inspection as an audit procedure? \n(a)  \nInspection of share certificates conclusively establishes existence, ownership, \nand valuation of investments. \n(b)  \nInspection of executed contracts provides sufficient appropriate audit evidence \nregarding revenue recognition without need for further procedures. \n(c)  \nPhysical inspection of plant and machinery provides evidence of existence, but \nadditional procedures may be required for ownership and valuation. \n(d) \nInspection of internally generated invoices provides more reliable audit evidence \nthan external confirmations."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

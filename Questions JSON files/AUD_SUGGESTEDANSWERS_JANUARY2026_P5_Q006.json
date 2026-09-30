@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6.\nWhich of the following best represents the three party relationship in this\nassurance engagement?\n(A)  Ravi & Mehta, internal audit staff and the CSR department.\n(B)  Ravi & Mehta, management of Fresh Farm Foods Ltd., and the intended\nusers of the report.\n\nAUDITING AND ETHICS\n\n5\n(C)  Ravi & Mehta, the company's board of directors and its external auditors\n(D)  Ravi & Mehta, employees interviewed during site visits and the intended\nusers of the report.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q006",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.\nWhich of the following best represents the three party relationship in this\nassurance engagement?\n(A)  Ravi & Mehta, internal audit staff and the CSR department.\n(B)  Ravi & Mehta, management of Fresh Farm Foods Ltd., and the intended\nusers of the report.\n\nAUDITING AND ETHICS\n\n5\n(C)  Ravi & Mehta, the company's board of directors and its external auditors\n(D)  Ravi & Mehta, employees interviewed during site visits and the intended\nusers of the report.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

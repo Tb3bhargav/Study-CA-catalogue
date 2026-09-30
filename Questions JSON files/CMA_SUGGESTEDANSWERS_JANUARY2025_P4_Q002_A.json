@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q002_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  The following information relates to a manufacturing concern A Ltd. for the\nyear ended 31stMarch, 2024.\nParticulars\nAs on 1st April,2023\nAs on 31st March,2024\nRaw Material (in `)\n3,40,000\n1,80,000\nWork in Progress (in `)\n5,50,000\n3,50,000\n\nParticulars\nAmount\nRaw Material Purchased\n[Inclusive of GST@18% (Ineligible for ITC)]\n8,00,000\nPackaging Cost (primary)\n3,00,000\nFee Paid to Independent Directors\n5,00,000\nProduction bonus paid to factory workers\n10% of Wages paid\nto factory workers\nJob charges paid to job workers\n41,000\n\n12\nSalary paid to Supervisor\n6,17,900\nWages paid to factory workers\n6,30,000\nSalary paid to Production Control Manager\n7,20,000\nSale of Scrap generated during Manufacturing\n50,000\nSelling Overheads per unit\n2\nSalary paid to General Manager\n12,40,000\nFreight Inwards\n2% on Raw\nMaterial Purchased\nExpenses Paid for Quality Control check activities\n4,30,000\n\nParticulars\nCost Price\n(`)\nWDV as on\n1st April,\n2023 (`)\nDepreciation\nRate\nInsurance\nCost per\nannum\nFactory\nBuilding\n25,00,000\n21,87,000\n10%\n2% of Cost\nPrice\nPlant\nand\nMachinery\n15,00,000\n11,56,000\n15%\n2% of Cost\nPrice\nOffice\nBuilding\n40,00,000\n36,00,000\n10%\nNil\nAdditional information:\n(i)  Depreciation is charged on the written down value method.\n(ii)  Stock of finished goods as on 1st April, 2023 was 80,000 units having a\ntotal cost of 8,00,000. The entire stock of opening finished goods is sold\nduring the year, closing stock is 70,000 units. During the period, 4,50,000\nunits were sold.\n(iii)  A Ltd. wants a profit of 20% on Total Sales.\nRequired:\nPrepare a Cost statement showing the various elements of cost and profit\nearned for the year ended 31stMarch, 2024.\n(9 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13",
+  "suggested_answer": "(a)\n\nCost Sheet\nParticulars\n(`)\n(`)\nMaterial Consumed:\n\nRaw materials purchased\n8,00,000\n\nFreight inwards (2% of Raw materials purchased)\n16,000\n\nAdd: Opening stock of raw materials\n3,40,000\n\nLess: Closing stock of raw materials\n(1,80,000)\n9,76,000\nDirect employee (labour) cost:\n\nWages paid to factory workers\n6,30,000\n\nProduction bonus paid to factory workers (10%)\n63,000\n6,93,000\nDirect expenses:\n\nJob charges paid to job workers\n41,000\n41,000\nPrime Cost\n\n17,10,000\nWorks/ Factory overheads:\n\nDepreciation on factory building (21,87,000 x 10%)\n2,18,700\n\nDepreciation on plant & machinery (11,56,000 x 15%)\n1,73,400\n\nInsurance premium paid for plant & machinery\n(15,00,000 x 2%)\n30,000\n\nInsurance premium paid for factory building\n(25,00,000 x 2%)\n50,000\n\nSalary paid to supervisors\n6,17,900\n10,90,000\n\n14\nGross factory cost\n\n28,00,000\nAdd: Opening value of W-I-P\n\n5,50,000\nLess: Closing value of W-I-P\n\n(3,50,000)\nFactory Cost\n\n30,00,000\nQuality control cost:\n\nExpenses paid for quality control check activities\n4,30,000\n4,30,000\nAdministration cost related with production:\n\nSalary paid to Production control manager\n7,20,000\n7,20,000\nLess: Realisable value on sale of scrap and waste\n\n(50,000)\nAdd: Primary packing cost\n\n3,00,000\nCost of Production\n\n44,00,000\nAdd: Opening stock of finished goods (80,000 units)\n\n8,00,000\nLess: Closing stock of finished goods (70,000 units)\n\n(7,00,000)\nCost of Goods Sold\n\n45,00,000\nAdministrative overheads:\n\nDepreciation on office building (36,00,000 x 10%)\n3,60,000\n\nSalary paid to General Manager\n12,40,000\n\nFee paid to independent directors\n5,00,000\n\nSelling Overheads (4,50,000 units x `2):\n9,00,000\n30,00,000\nCost of Sales\n\n75,00,000\nProfit (25% on cost)\n\n18,75,000\nSales\n\n93,75,000\nWorking Note: Calculation of value of closing finished goods.\nNumber of units produced\n= units sold + closing stock – opening stock\n\n= 4,50,000 + 70,000 – 80,000\n\n= 4,40,000 units\nPer unit cost\n\n=\nCost of production\nNumber of units produced\n\n=\n` 44,00,000\n4,40,000 units = ` 10 per unit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\nValue of Closing stock\n\n= ` 10 x 70,000 units = ` 7,00,000",
+  "marks": "(9 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q002_A",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 11,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(a)",
+    "marks": "(9 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 11,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  The following information relates to a manufacturing concern A Ltd. for the\nyear ended 31stMarch, 2024.\nParticulars\nAs on 1st April,2023\nAs on 31st March,2024\nRaw Material (in `)\n3,40,000\n1,80,000\nWork in Progress (in `)\n5,50,000\n3,50,000\n\nParticulars\nAmount\nRaw Material Purchased\n[Inclusive of GST@18% (Ineligible for ITC)]\n8,00,000\nPackaging Cost (primary)\n3,00,000\nFee Paid to Independent Directors\n5,00,000\nProduction bonus paid to factory workers\n10% of Wages paid\nto factory workers\nJob charges paid to job workers\n41,000\n\n12\nSalary paid to Supervisor\n6,17,900\nWages paid to factory workers\n6,30,000\nSalary paid to Production Control Manager\n7,20,000\nSale of Scrap generated during Manufacturing\n50,000\nSelling Overheads per unit\n2\nSalary paid to General Manager\n12,40,000\nFreight Inwards\n2% on Raw\nMaterial Purchased\nExpenses Paid for Quality Control check activities\n4,30,000\n\nParticulars\nCost Price\n(`)\nWDV as on\n1st April,\n2023 (`)\nDepreciation\nRate\nInsurance\nCost per\nannum\nFactory\nBuilding\n25,00,000\n21,87,000\n10%\n2% of Cost\nPrice\nPlant\nand\nMachinery\n15,00,000\n11,56,000\n15%\n2% of Cost\nPrice\nOffice\nBuilding\n40,00,000\n36,00,000\n10%\nNil\nAdditional information:\n(i)  Depreciation is charged on the written down value method.\n(ii)  Stock of finished goods as on 1st April, 2023 was 80,000 units having a\ntotal cost of 8,00,000. The entire stock of opening finished goods is sold\nduring the year, closing stock is 70,000 units. During the period, 4,50,000\nunits were sold.\n(iii)  A Ltd. wants a profit of 20% on Total Sales.\nRequired:\nPrepare a Cost statement showing the various elements of cost and profit\nearned for the year ended 31stMarch, 2024.\n(9 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nCost Sheet\nParticulars\n(`)\n(`)\nMaterial Consumed:\n\nRaw materials purchased\n8,00,000\n\nFreight inwards (2% of Raw materials purchased)\n16,000\n\nAdd: Opening stock of raw materials\n3,40,000\n\nLess: Closing stock of raw materials\n(1,80,000)\n9,76,000\nDirect employee (labour) cost:\n\nWages paid to factory workers\n6,30,000\n\nProduction bonus paid to factory workers (10%)\n63,000\n6,93,000\nDirect expenses:\n\nJob charges paid to job workers\n41,000\n41,000\nPrime Cost\n\n17,10,000\nWorks/ Factory overheads:\n\nDepreciation on factory building (21,87,000 x 10%)\n2,18,700\n\nDepreciation on plant & machinery (11,56,000 x 15%)\n1,73,400\n\nInsurance premium paid for plant & machinery\n(15,00,000 x 2%)\n30,000\n\nInsurance premium paid for factory building\n(25,00,000 x 2%)\n50,000\n\nSalary paid to supervisors\n6,17,900\n10,90,000\n\n14\nGross factory cost\n\n28,00,000\nAdd: Opening value of W-I-P\n\n5,50,000\nLess: Closing value of W-I-P\n\n(3,50,000)\nFactory Cost\n\n30,00,000\nQuality control cost:\n\nExpenses paid for quality control check activities\n4,30,000\n4,30,000\nAdministration cost related with production:\n\nSalary paid to Production control manager\n7,20,000\n7,20,000\nLess: Realisable value on sale of scrap and waste\n\n(50,000)\nAdd: Primary packing cost\n\n3,00,000\nCost of Production\n\n44,00,000\nAdd: Opening stock of finished goods (80,000 units)\n\n8,00,000\nLess: Closing stock of finished goods (70,000 units)\n\n(7,00,000)\nCost of Goods Sold\n\n45,00,000\nAdministrative overheads:\n\nDepreciation on office building (36,00,000 x 10%)\n3,60,000\n\nSalary paid to General Manager\n12,40,000\n\nFee paid to independent directors\n5,00,000\n\nSelling Overheads (4,50,000 units x `2):\n9,00,000\n30,00,000\nCost of Sales\n\n75,00,000\nProfit (25% on cost)\n\n18,75,000\nSales\n\n93,75,000\nWorking Note: Calculation of value of closing finished goods.\nNumber of units produced\n= units sold + closing stock – opening stock\n\n= 4,50,000 + 70,000 – 80,000\n\n= 4,40,000 units\nPer unit cost\n\n=\nCost of production\nNumber of units produced\n\n=\n` 44,00,000\n4,40,000 units = ` 10 per unit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\nValue of Closing stock\n\n= ` 10 x 70,000 units = ` 7,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q003_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Savi Limited is currently working at 80% of its capacity level and furnished\nthe following information for current period:\nProduction / Sales\n\n96,000 units\nDirect Variable Cost\n\n` 20 per unit\nFactory Overheads\n\n` 8,40,000\nAdministrative Overheads (Fixed)\n` 20,60,000\nSales Commission\n\n2% of Sales Value\nTransportation Expenses\n\n` 4,000 per truck\n(Loading Capacity 4,000 units)\nThe selling price of the product is ` 120 per unit and Factory Overheads are\n80% variable in nature.\nThe management of Savi Limited has come.to know that there will be high\nfluctuations in the demand of the product in upcoming year and it would not\nbe an easy task to predict the demand. Selling price per unit will not be\naffected by demand fluctuations.\nSavi Limited has decided to prepare a flexible budget for. the product at 60%,\n80% and 100% capacity level.\nYou are required to prepare the Flexible Budget showing total cost of the\nproduct at each level.\n(6 Marks)\n\n22",
+  "suggested_answer": "(b)\n\nFlexible Budget of Savi Ltd\n\n60%\n(72,000 units)\n(`)\n80%\n(96,000 units)\n(`)\n100%\n(1,20,000 units)\n(`)\nSales                                (A)\n120.00\n120.00\n120.00\nVariable Costs:\n\n-\nDirect Variable Cost\n20.00\n20.00\n20.00\n-\nVariable Factory\nOverheads (WN1)\n7.00\n7.00\n7.00\n-\nSales Commission (2%)\n2.40\n2.40\n2.40\n- Transportation Expenses\n1.00\n1.00\n1.00\nTotal Variable Cost          (B)\n30.40\n30.40\n30.40\nContribution Per Unit (C) =\n(A – B)\n89.60\n89.60\n89.60\nTotal Contribution          (D)\n64,51,200.00\n86,01,600.00\n1,07,52,000.00\nFixed Costs:\n\n-\nAdministrative\nOverheads (100%)\n20,60,000.00\n20,60,000.00\n20,60,000.00\n-\nFactory\nOverheads\n(20%)\n1,68,000.00\n1,68,000.00\n1,68,000.00\nTotal Fixed Costs            (E)\n22,28,000.00\n22,28,000.00\n22,28,000.00\nProfit                           (D-E)\n42,23,200.00\n63,73,600.00\n85,24,000.00\nTotal Cost\n44,16,800.00\n51,46,400.00\n58,76,000.00\nWN1:\nVariable factory Overheads\n\n= ` 8,40,000 x 80%\n= ` 6,72,000\nVariable factory Overheads per unit\n= ` 6,72,000/96,000 units\n= ` 7",
+  "marks": "(6 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q003_B",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(b)",
+    "marks": "(6 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 21,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Savi Limited is currently working at 80% of its capacity level and furnished\nthe following information for current period:\nProduction / Sales\n\n96,000 units\nDirect Variable Cost\n\n` 20 per unit\nFactory Overheads\n\n` 8,40,000\nAdministrative Overheads (Fixed)\n` 20,60,000\nSales Commission\n\n2% of Sales Value\nTransportation Expenses\n\n` 4,000 per truck\n(Loading Capacity 4,000 units)\nThe selling price of the product is ` 120 per unit and Factory Overheads are\n80% variable in nature.\nThe management of Savi Limited has come.to know that there will be high\nfluctuations in the demand of the product in upcoming year and it would not\nbe an easy task to predict the demand. Selling price per unit will not be\naffected by demand fluctuations.\nSavi Limited has decided to prepare a flexible budget for. the product at 60%,\n80% and 100% capacity level.\nYou are required to prepare the Flexible Budget showing total cost of the\nproduct at each level.\n(6 Marks)\n\n22"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)\n\nFlexible Budget of Savi Ltd\n\n60%\n(72,000 units)\n(`)\n80%\n(96,000 units)\n(`)\n100%\n(1,20,000 units)\n(`)\nSales                                (A)\n120.00\n120.00\n120.00\nVariable Costs:\n\n-\nDirect Variable Cost\n20.00\n20.00\n20.00\n-\nVariable Factory\nOverheads (WN1)\n7.00\n7.00\n7.00\n-\nSales Commission (2%)\n2.40\n2.40\n2.40\n- Transportation Expenses\n1.00\n1.00\n1.00\nTotal Variable Cost          (B)\n30.40\n30.40\n30.40\nContribution Per Unit (C) =\n(A – B)\n89.60\n89.60\n89.60\nTotal Contribution          (D)\n64,51,200.00\n86,01,600.00\n1,07,52,000.00\nFixed Costs:\n\n-\nAdministrative\nOverheads (100%)\n20,60,000.00\n20,60,000.00\n20,60,000.00\n-\nFactory\nOverheads\n(20%)\n1,68,000.00\n1,68,000.00\n1,68,000.00\nTotal Fixed Costs            (E)\n22,28,000.00\n22,28,000.00\n22,28,000.00\nProfit                           (D-E)\n42,23,200.00\n63,73,600.00\n85,24,000.00\nTotal Cost\n44,16,800.00\n51,46,400.00\n58,76,000.00\nWN1:\nVariable factory Overheads\n\n= ` 8,40,000 x 80%\n= ` 6,72,000\nVariable factory Overheads per unit\n= ` 6,72,000/96,000 units\n= ` 7"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

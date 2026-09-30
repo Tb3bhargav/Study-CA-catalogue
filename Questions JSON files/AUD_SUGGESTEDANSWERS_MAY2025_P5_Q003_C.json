@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) Luck Ltd., a mid-sized manufacturing company, has approached CA S, a\nqualified Chartered Accountant, to conduct the audit for the financial year\nended March 31, 2025. The company requests CA S to give acceptance for\nthe audit so that audit can be commenced within time.\n\nWith reference to SA 210, how the auditor will establish that whether the\npreconditions for an audit are present?\n(4 Marks)",
+  "suggested_answer": "(c) In order to establish whether the preconditions for an audit are\npresent, CA S shall:\n(I) Determine whether the financial reporting framework is acceptable\nand\n(II) Obtain the agreement of management that it acknowledges\nand understands its responsibility:\n(i) For the preparation of the financial statements in accordance with\nthe applicable financial reporting framework including where\nrelevant their fair representation;\n\n50\n(ii) For such internal control as management considers necessary to\nenable the preparation of financial statements that are free from\nmaterial misstatement, whether due to fraud or error; and\n(iii) To provide the auditor with:\n•\nAccess to all information of which management is aware that is\nrelevant to the preparation of the financial statements such as\nrecords, documentation and other matters;\n•\nAdditional information that the auditor may request from\nmanagement for the purpose of the audit; and\n•\nUnrestricted access to persons within the entity from whom the\nauditor determines it necessary to obtain audit evidence.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_C",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 17
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 15,
+    "page_end": 17,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Luck Ltd., a mid-sized manufacturing company, has approached CA S, a\nqualified Chartered Accountant, to conduct the audit for the financial year\nended March 31, 2025. The company requests CA S to give acceptance for\nthe audit so that audit can be commenced within time.\n\nWith reference to SA 210, how the auditor will establish that whether the\npreconditions for an audit are present?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) In order to establish whether the preconditions for an audit are\npresent, CA S shall:\n(I) Determine whether the financial reporting framework is acceptable\nand\n(II) Obtain the agreement of management that it acknowledges\nand understands its responsibility:\n(i) For the preparation of the financial statements in accordance with\nthe applicable financial reporting framework including where\nrelevant their fair representation;\n\n50\n(ii) For such internal control as management considers necessary to\nenable the preparation of financial statements that are free from\nmaterial misstatement, whether due to fraud or error; and\n(iii) To provide the auditor with:\n•\nAccess to all information of which management is aware that is\nrelevant to the preparation of the financial statements such as\nrecords, documentation and other matters;\n•\nAdditional information that the auditor may request from\nmanagement for the purpose of the audit; and\n•\nUnrestricted access to persons within the entity from whom the\nauditor determines it necessary to obtain audit evidence."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q003",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3. \nWhich sample selection methods has been opted by Rohit while \nverifying the loans and advances given by the company? \n(a) \nInterval Sampling. \n(b) \nBlock Sampling. \n(c) \nHaphazard Sampling. \n(d) \nMonetary Unit Sampling.",
+  "suggested_answer": "(C)",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q003",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nWhich sample selection methods has been opted by Rohit while \nverifying the loans and advances given by the company? \n(a) \nInterval Sampling. \n(b) \nBlock Sampling. \n(c) \nHaphazard Sampling. \n(d) \nMonetary Unit Sampling."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

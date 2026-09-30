@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.  \nGiven that discounted room rates lacked approval and occupancy records were not \nretained, what is the most critical audit concern? \n(a) \nRisk of overstatement of room revenue due to duplicate billing \n(b)  \nRisk of revenue leakage due to unauthorised discounts and inability to verify \ncompleteness and accuracy \n(c)  \nRisk of minor timing differences in recording room revenue due to delayed \nreconciliation  \n(d)  \nRisk of misclassification between room revenue and other operating income",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q005",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Cost Accounting System",
+    "topic": "Cost Accounting System",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.  \nGiven that discounted room rates lacked approval and occupancy records were not \nretained, what is the most critical audit concern? \n(a) \nRisk of overstatement of room revenue due to duplicate billing \n(b)  \nRisk of revenue leakage due to unauthorised discounts and inability to verify \ncompleteness and accuracy \n(c)  \nRisk of minor timing differences in recording room revenue due to delayed \nreconciliation  \n(d)  \nRisk of misclassification between room revenue and other operating income"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

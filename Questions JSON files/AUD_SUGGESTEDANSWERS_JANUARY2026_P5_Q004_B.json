@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  The accounts team of Infant Garments Private Ltd., while ascertaining the\ncost of Property, Plant and Equipment (PPE), included various expenses such\nas:\n•\nCost of testing a machine: ` 1,80,000\n•\nCost of inauguration of the new machine: ` 1,00,000\n\nAs a Senior auditor, guide the team regarding the recognition criteria of PPE\nand the elements of costs to be included at the time of recognition.\n\n(5 Marks)",
+  "suggested_answer": "(b) Recognition Criteria for PPE: The cost of an item of PPE should be\nrecognised as an asset if, and only if:\n(1)  It is probable that future economic benefits associated with the item\nwill flow to the enterprise, and\n(2)  The cost of the item can be measured reliably.\n\nElements of Cost to be included at the time of recognition: The cost of\nan item of property, plant and equipment comprises:\n(1)  its purchase price, including import duties and non–refundable\npurchase taxes, after deducting trade discounts and rebates.\n(2)  any costs directly attributable to bringing the asset to the location and\ncondition necessary for it to be capable of operating in the manner\nintended by management.\n(3)  the initial estimate of the costs of dismantling and removing the item\nand restoring the site on which it is located (decommissioning,\nrestoration and similar liabilities), the obligation for which is incurred\non acquisition of the asset or as a consequence of its use.\nTreatment of expenses given in the question\n•\nCost of testing the machine (` 1,80,000): Testing costs incurred to\ncheck whether the asset is functioning properly before it is put to use\nare directly attributable costs and are therefore capitalised as part of\nthe cost of PPE.\n•\nCost of inauguration of the new machine (` 1,00,000): Inauguration\nexpenses are not directly attributable to bringing the asset to the\ncondition necessary for its intended use and do not generate future\neconomic benefits. Hence, such costs are not capitalised and should\nbe charged to the Statement of Profit and Loss.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_B",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  The accounts team of Infant Garments Private Ltd., while ascertaining the\ncost of Property, Plant and Equipment (PPE), included various expenses such\nas:\n•\nCost of testing a machine: ` 1,80,000\n•\nCost of inauguration of the new machine: ` 1,00,000\n\nAs a Senior auditor, guide the team regarding the recognition criteria of PPE\nand the elements of costs to be included at the time of recognition.\n\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Recognition Criteria for PPE: The cost of an item of PPE should be\nrecognised as an asset if, and only if:\n(1)  It is probable that future economic benefits associated with the item\nwill flow to the enterprise, and\n(2)  The cost of the item can be measured reliably.\n\nElements of Cost to be included at the time of recognition: The cost of\nan item of property, plant and equipment comprises:\n(1)  its purchase price, including import duties and non–refundable\npurchase taxes, after deducting trade discounts and rebates.\n(2)  any costs directly attributable to bringing the asset to the location and\ncondition necessary for it to be capable of operating in the manner\nintended by management.\n(3)  the initial estimate of the costs of dismantling and removing the item\nand restoring the site on which it is located (decommissioning,\nrestoration and similar liabilities), the obligation for which is incurred\non acquisition of the asset or as a consequence of its use.\nTreatment of expenses given in the question\n•\nCost of testing the machine (` 1,80,000): Testing costs incurred to\ncheck whether the asset is functioning properly before it is put to use\nare directly attributable costs and are therefore capitalised as part of\nthe cost of PPE.\n•\nCost of inauguration of the new machine (` 1,00,000): Inauguration\nexpenses are not directly attributable to bringing the asset to the\ncondition necessary for its intended use and do not generate future\neconomic benefits. Hence, such costs are not capitalised and should\nbe charged to the Statement of Profit and Loss."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

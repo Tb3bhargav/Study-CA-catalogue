@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  During the audit of Zenith Appliances Ltd. for the year ended 31st March 2025,\nyou observe that expenditure on purchase of machinery parts that enhance\nthe useful life of the machine has been charged to repairs and maintenance\nin the Profit and Loss Account.\n\nAs the statutory auditor, explain whether the above situation constitute\nmisstatements in the financial statements.\n(1 Mark)\n\nExplain the meaning of Misstatement along with other examples (Any 3) that\nmay arise in financial statements.\n(4 Marks)",
+  "suggested_answer": "(a)  Charging of an item of capital expenditure to revenue: In the given\nsituation, expenditure on purchase of machinery parts that enhance the\nuseful life of the machine has been charged to repairs and maintenance in\nthe Profit and Loss Account. This situation constitutes misstatement as\nexpenditure on purchase of machinery parts that enhance the useful life of\nthe machine is a capital expenditure, but it is treated as revenue\nexpenditure. Charging of an item of capital expenditure to revenue is one\nof the examples of misstatement.\n\nMeaning of Misstatement: Misstatement refers to a difference between\nthe amounts, classification, presentation, or disclosure of a reported\nfinancial statement item and the amount, classification, presentation, or\ndisclosure that is required for the item to be in accordance with the\napplicable financial reporting framework. Misstatements can arise from\nerror or fraud.\n\nExamples of misstatements that may arise in financial statements:\nDifference in disclosure of a financial statement item vis-à-vis its\nrequirement in applicable financial reporting framework -\n1.\nSelection or application of inappropriate accounting policies\n2.\nDifference in accounting estimate of a financial statement item\nvis-à-vis its appropriateness in applicable financial reporting\nframework\n3.\nIntentional booking of fake expenses in statement of profit and loss\n4.\nOverstating receivables in financial statements by not writing off\nirrecoverable debts\n5.\nOverstating or understating inventories\n\n22",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_A",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  During the audit of Zenith Appliances Ltd. for the year ended 31st March 2025,\nyou observe that expenditure on purchase of machinery parts that enhance\nthe useful life of the machine has been charged to repairs and maintenance\nin the Profit and Loss Account.\n\nAs the statutory auditor, explain whether the above situation constitute\nmisstatements in the financial statements.\n(1 Mark)\n\nExplain the meaning of Misstatement along with other examples (Any 3) that\nmay arise in financial statements.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Charging of an item of capital expenditure to revenue: In the given\nsituation, expenditure on purchase of machinery parts that enhance the\nuseful life of the machine has been charged to repairs and maintenance in\nthe Profit and Loss Account. This situation constitutes misstatement as\nexpenditure on purchase of machinery parts that enhance the useful life of\nthe machine is a capital expenditure, but it is treated as revenue\nexpenditure. Charging of an item of capital expenditure to revenue is one\nof the examples of misstatement.\n\nMeaning of Misstatement: Misstatement refers to a difference between\nthe amounts, classification, presentation, or disclosure of a reported\nfinancial statement item and the amount, classification, presentation, or\ndisclosure that is required for the item to be in accordance with the\napplicable financial reporting framework. Misstatements can arise from\nerror or fraud.\n\nExamples of misstatements that may arise in financial statements:\nDifference in disclosure of a financial statement item vis-à-vis its\nrequirement in applicable financial reporting framework -\n1.\nSelection or application of inappropriate accounting policies\n2.\nDifference in accounting estimate of a financial statement item\nvis-à-vis its appropriateness in applicable financial reporting\nframework\n3.\nIntentional booking of fake expenses in statement of profit and loss\n4.\nOverstating receivables in financial statements by not writing off\nirrecoverable debts\n5.\nOverstating or understating inventories\n\n22"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

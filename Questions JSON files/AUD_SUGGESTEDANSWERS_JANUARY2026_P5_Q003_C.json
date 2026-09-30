@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  You are the statutory auditor of Tec Fab Industries Ltd., a company that has\nrecently shifted from manual accounting system to a fully automated ERP\n\n18\nsystem. The management informs you that all accounting records, vouchers\nand reports are now generated electronically, and manual books are no\nlonger maintained.\n\nAs the auditor, explain how you would understand and evaluate the\ncompany's automated environment for planning and performing the audit\neffectively?\n(4 Marks)",
+  "suggested_answer": "(c) Understanding and evaluating automated environment: In an audit of\nfinancial statements, an auditor is required to understand the entity and its\nbusiness, including IT. Understanding the entity and its automated\nenvironment involves understanding how the IT department is organised,\nIT activities, IT dependencies, relevant risks, and controls.\n\nGiven below are some of the points that an auditor should consider to\nobtain an understanding of the company’s automated environment:\n1.\nInformation systems being used, including one or more application\nsystems\n2.\nPurpose of the systems, whether financial or non-financial\n3.\nLocation of IT systems, whether local or global\n4.\nArchitecture, such as desktop-based, client-server, web application or\ncloud-based\n5.\nVersion of the applications, as functions and risks could vary in\ndifferent versions of the same application\n6.\nInterfaces within systems, particularly where multiple systems exist\n7.\nIn-house or packaged systems\n8.\nOutsourced activities, such as IT maintenance and support\n9.\nKey persons, such as CIO, CISO and system administrators\n\n20\n10. Documenting business processes using flowcharts or narratives.\n11. Preparing Risk and Control Matrices (RCM) to identify risks and\ncontrols.\n12. Evaluating design of controls through walkthroughs of end-to-end\nprocesses.\n13. Assessing process-wide considerations, including entity-level controls,\nsegregation of duties, and IT general and application controls.\n\nIn view of above, the understanding of a company’s IT environment that is\nobtained should be appropriately documented.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_C",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 21
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit in Automated Environment",
+    "topic": "Audit in Automated Environment",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 21,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  You are the statutory auditor of Tec Fab Industries Ltd., a company that has\nrecently shifted from manual accounting system to a fully automated ERP\n\n18\nsystem. The management informs you that all accounting records, vouchers\nand reports are now generated electronically, and manual books are no\nlonger maintained.\n\nAs the auditor, explain how you would understand and evaluate the\ncompany's automated environment for planning and performing the audit\neffectively?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Understanding and evaluating automated environment: In an audit of\nfinancial statements, an auditor is required to understand the entity and its\nbusiness, including IT. Understanding the entity and its automated\nenvironment involves understanding how the IT department is organised,\nIT activities, IT dependencies, relevant risks, and controls.\n\nGiven below are some of the points that an auditor should consider to\nobtain an understanding of the company’s automated environment:\n1.\nInformation systems being used, including one or more application\nsystems\n2.\nPurpose of the systems, whether financial or non-financial\n3.\nLocation of IT systems, whether local or global\n4.\nArchitecture, such as desktop-based, client-server, web application or\ncloud-based\n5.\nVersion of the applications, as functions and risks could vary in\ndifferent versions of the same application\n6.\nInterfaces within systems, particularly where multiple systems exist\n7.\nIn-house or packaged systems\n8.\nOutsourced activities, such as IT maintenance and support\n9.\nKey persons, such as CIO, CISO and system administrators\n\n20\n10. Documenting business processes using flowcharts or narratives.\n11. Preparing Risk and Control Matrices (RCM) to identify risks and\ncontrols.\n12. Evaluating design of controls through walkthroughs of end-to-end\nprocesses.\n13. Assessing process-wide considerations, including entity-level controls,\nsegregation of duties, and IT general and application controls.\n\nIn view of above, the understanding of a company’s IT environment that is\nobtained should be appropriately documented."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

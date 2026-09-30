@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15.  XYX Limited manufactures three different products and the following \ninformation has been collected from the books of accounts: \n \nProducts \nA \nB \nC \nSales Mix \n35% \n35% \n30% \nSelling Price \n` 30 \n`40 \n`20 \nVariable Cost \n` 15 \n` 20 \n` 12 \nTotal Fixed Costs \n` 1,80,000 \nTotal Sales \n` 6,00,000 \n \nThe company has currently under discussion, a proposal to discontinue \nthe manufacture of Product C and replace it with Product P, when the \nfollowing results are anticipated: \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n19 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nProducts \nA \nB \nC \nSales Mix \n50% \n25% \n25% \nSelling Price \n` 30 \n` 40 \n` 30 \nVariable Cost \n` 15 \n` 20 \n` 15 \nTotal Fixed Costs \n` 1,80,000 \nTotal Sales \n` 6,40,000 \n \nWill you advise the company to change over to production of P? Give \nreasons for your answer. \nMiscellaneous",
+  "suggested_answer": "XYZ Limited \nEvaluation of Change over to Product P from Product C \nExisting Production \n \nProducts \nTotal \nA \nB \nC \nSelling Price (`) \n30 \n40 \n20 \n \nLess: Variable Cost (`) \n15 \n20 \n12 \nContribution per unit (`) \n15 \n20 \n8 \nP/V Ratio \n50% \n50% \n40% \nSales Mix \n35% \n35% \n30% \nContribution per rupee of sales (P/V \nRatio × Sales Mix) \n17½% \n17½% \n12% \n47% \nPresent Total Contribution  \n(` 6,00,000 × 47%) \n \n \n` 2,82,000 \nLess: Fixed Costs \n \n \n` 1,80,000 \nPresent Profit \n \n \n` 1,02,000 \nPresent Break-Even Sales (` 1,80,000/0.47)  \n \n \n \n` 3,82,979 \nProposed Production \n \nProducts \n \nA \nB \nC \nTotal \nSelling Price (`) \n30 \n40 \n30 \n \nLess: Variable Cost (`) \n15 \n20 \n15 \nContribution per unit (`) \n15 \n20 \n15 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nP/V Ratio \n50% \n50% \n50% \nSales Mix \n50% \n25% \n25% \nContribution per rupee of sales (P/V \nRatio x Sales Mix) \n25% \n12½% \n12½% \n50% \nProposed Total Contribution (` 6,40,000 x \n50%) \n \n` 3,20,000 \nLess: Fixed Costs \n \n \n` 1,80,000 \nProposed Profit \n \n \n` 1,40,000 \nProposed Break Even Sales  \n(` 1,80,000/0.50) \n \n \n` 3,60,000",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q015",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15.  XYX Limited manufactures three different products and the following \ninformation has been collected from the books of accounts: \n \nProducts \nA \nB \nC \nSales Mix \n35% \n35% \n30% \nSelling Price \n` 30 \n`40 \n`20 \nVariable Cost \n` 15 \n` 20 \n` 12 \nTotal Fixed Costs \n` 1,80,000 \nTotal Sales \n` 6,00,000 \n \nThe company has currently under discussion, a proposal to discontinue \nthe manufacture of Product C and replace it with Product P, when the \nfollowing results are anticipated: \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n19 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nProducts \nA \nB \nC \nSales Mix \n50% \n25% \n25% \nSelling Price \n` 30 \n` 40 \n` 30 \nVariable Cost \n` 15 \n` 20 \n` 15 \nTotal Fixed Costs \n` 1,80,000 \nTotal Sales \n` 6,40,000 \n \nWill you advise the company to change over to production of P? Give \nreasons for your answer. \nMiscellaneous"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "XYZ Limited \nEvaluation of Change over to Product P from Product C \nExisting Production \n \nProducts \nTotal \nA \nB \nC \nSelling Price (`) \n30 \n40 \n20 \n \nLess: Variable Cost (`) \n15 \n20 \n12 \nContribution per unit (`) \n15 \n20 \n8 \nP/V Ratio \n50% \n50% \n40% \nSales Mix \n35% \n35% \n30% \nContribution per rupee of sales (P/V \nRatio × Sales Mix) \n17½% \n17½% \n12% \n47% \nPresent Total Contribution  \n(` 6,00,000 × 47%) \n \n \n` 2,82,000 \nLess: Fixed Costs \n \n \n` 1,80,000 \nPresent Profit \n \n \n` 1,02,000 \nPresent Break-Even Sales (` 1,80,000/0.47)  \n \n \n \n` 3,82,979 \nProposed Production \n \nProducts \n \nA \nB \nC \nTotal \nSelling Price (`) \n30 \n40 \n30 \n \nLess: Variable Cost (`) \n15 \n20 \n15 \nContribution per unit (`) \n15 \n20 \n15 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nP/V Ratio \n50% \n50% \n50% \nSales Mix \n50% \n25% \n25% \nContribution per rupee of sales (P/V \nRatio x Sales Mix) \n25% \n12½% \n12½% \n50% \nProposed Total Contribution (` 6,40,000 x \n50%) \n \n` 3,20,000 \nLess: Fixed Costs \n \n \n` 1,80,000 \nProposed Profit \n \n \n` 1,40,000 \nProposed Break Even Sales  \n(` 1,80,000/0.50) \n \n \n` 3,60,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

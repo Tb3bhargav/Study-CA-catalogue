@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. CA Student Ajay learnt the concept of classification of advances as per RBI\nprudential norms for agricultural advances. As per the prudential norms,\nagricultural advances shall be treated as NPA:\n(A)  If instalment of principal or interest thereon remains overdue for one\ncrop season in case of short duration crop and two crop seasons in case\nof long duration crops.\n(B)  If instalment of principal or interest thereon remains overdue for two\ncrop seasons in case of short duration crop and one crop season in case\nof long duration crops.\n\nAUDITING AND ETHICS\n\n9\n(C)  If instalment of principal and interest thereon remains overdue for two\ncrop seasons in case of short duration crop and one crop season in case\nof long duration crops.\n(D)  If instalment of principal and interest thereon remains overdue for one\ncrop season in case of short duration crop and two crop seasons in case\nof long duration crops.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q013",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 8,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. CA Student Ajay learnt the concept of classification of advances as per RBI\nprudential norms for agricultural advances. As per the prudential norms,\nagricultural advances shall be treated as NPA:\n(A)  If instalment of principal or interest thereon remains overdue for one\ncrop season in case of short duration crop and two crop seasons in case\nof long duration crops.\n(B)  If instalment of principal or interest thereon remains overdue for two\ncrop seasons in case of short duration crop and one crop season in case\nof long duration crops.\n\nAUDITING AND ETHICS\n\n9\n(C)  If instalment of principal and interest thereon remains overdue for two\ncrop seasons in case of short duration crop and one crop season in case\nof long duration crops.\n(D)  If instalment of principal and interest thereon remains overdue for one\ncrop season in case of short duration crop and two crop seasons in case\nof long duration crops.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

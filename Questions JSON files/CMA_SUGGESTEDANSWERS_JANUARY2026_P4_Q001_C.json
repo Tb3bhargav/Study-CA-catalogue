@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  Worker 'X' of M/s ABC Manufacturing Ltd, was assigned a Job no 101. He\nbegan the job on 1st June at 9:00 A.M. and completed on 4th June at 12:00\nP.M. There are 9 working hours in a day from 9:00 A.M. onwards. Work done\nand approved was 1,800 units.\n\nOther information:\n\nStandard quantity per hour\n\n: 45 units per hour\n\nWage rate\n\n: ` 150 per hour\n\nBonus (Halsey plan)\n\n: 50% of time saved\n\nYou are required to calculate the remuneration of worker X on the basis of\nHalsey plan and Rowan Plan.\n(4 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9",
+  "suggested_answer": "(c) Time allowed (Standard Time)\n=\n1,800 units\n45 units per hour = 40 hours\nTime taken\n\n= 30 hours (9+9+9+3)\nTime saved\n\n= 10 hour\nRate\n\n= ` 150 per hour\n\nTotal Remuneration of Worker X (under 50% Halsey Scheme)\n\n= Hours worked ×Rate per hour + ½ × time saved × Rate per hour\n\n= 30 hours ×` 150 + ½ ×10 hour ×`150\n\n= ` 5,250\n\nTotal Remuneration of Worker X (under Rowan Scheme)\n\n= Hours worked ×Rate per hour +\nTime  taken\nTime  allowed× Time saved × Rate\n\n= 30 hours ×` 150 +\n30 hours\n40 hours × 10 hour × `150\n\n= ` 5,625",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_C",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Worker 'X' of M/s ABC Manufacturing Ltd, was assigned a Job no 101. He\nbegan the job on 1st June at 9:00 A.M. and completed on 4th June at 12:00\nP.M. There are 9 working hours in a day from 9:00 A.M. onwards. Work done\nand approved was 1,800 units.\n\nOther information:\n\nStandard quantity per hour\n\n: 45 units per hour\n\nWage rate\n\n: ` 150 per hour\n\nBonus (Halsey plan)\n\n: 50% of time saved\n\nYou are required to calculate the remuneration of worker X on the basis of\nHalsey plan and Rowan Plan.\n(4 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Time allowed (Standard Time)\n=\n1,800 units\n45 units per hour = 40 hours\nTime taken\n\n= 30 hours (9+9+9+3)\nTime saved\n\n= 10 hour\nRate\n\n= ` 150 per hour\n\nTotal Remuneration of Worker X (under 50% Halsey Scheme)\n\n= Hours worked ×Rate per hour + ½ × time saved × Rate per hour\n\n= 30 hours ×` 150 + ½ ×10 hour ×`150\n\n= ` 5,250\n\nTotal Remuneration of Worker X (under Rowan Scheme)\n\n= Hours worked ×Rate per hour +\nTime  taken\nTime  allowed× Time saved × Rate\n\n= 30 hours ×` 150 +\n30 hours\n40 hours × 10 hour × `150\n\n= ` 5,625"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

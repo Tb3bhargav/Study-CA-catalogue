@@ -1,0 +1,60 @@
+{
+  "id": "FMSM_RTP_JANUARY2026_P6_Q009",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "9.  \nABC Manufacturing Ltd is a mid–sized engineering and fabrication \ncompany that supplies precision components to the automobile and \nheavy machinery sectors. In order to maintain competitiveness and \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n87 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \nexpand its market share, the company has proposed a new capital \ninvestment project involving the purchase and installation of advanced \nComputer Numerical Control (CNC) machines and automated assembly \nlines. \n \nThe estimated cost of the project is to be financed partly through \ninternal accruals and largely through term loans from XYZ Bank. ABC \nManufacturing has approached the bank requesting project financing of \nthe initial outlay, citing strong growth potential in demand for precision-\nengineered products over the next decade. \n \nFinancial Projections Provided by ABC Manufacturing Ltd. \n \nThe company’s feasibility report outlines the following: \n• \nThe simple payback period is estimated at 5 years, assuming \ncumulative cash inflows cover the initial investment within that \ntimeframe without considering the time value of money. \n• \nThe discounted payback period is calculated at 7 years, after \ndiscounting projected cash inflows at the weighted average cost of \ncapital (WACC). \n• \nThe project’s Modified Internal Rate of Return (MIRR) is projected \nat 10.9%, which is much lower than the incremental borrowing \nrate. \n• \nTerminal Value of the annual cash inflows reinvested at the rate of \n10% is ` 11,43,589. \n• \nCash inflows are expected to be received equally and steadily at \nthe end of every year over the life of the assets. However, the same \nCash inflows are expected to be received even after the simple \npayback period due to efficiency gains, market expansion, and \neconomies of scale.  \n(Note: Round off Initial investment to nearest Lakhs). \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n88 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nManagement’s Position \nABC Manufacturing argues that:",
+  "suggested_answer": "Under MIRR, if the cash flows are equal over the life of the asset \nInitial investment x (1 + MIRR)n   \n= CFAT x FVAF \nTerminal Value (CFAT x FVAF)  \n \n= ` 11,43,589 \nInitial investment x (1+10.9%)8   \n= ` 11,43,589 \n \nInitial investment = 11,43,589 / (1+10.9%)8 = 5,00,000 (rounded off to \nnearest lakh) \n \nUnder simple payback period, if the cash flows are equal over the life of \nthe asset \nPayback Period  \n \n \n=\nTotal initial capital investment\n Annual expected after-tax net cash flow \n \nInitial investment   \n \n= CFAT x Simple payback period in years  \n \n5,00,000  \n \n \n \n \n= 5 x CFAT \n \nCFAT  \n \n  \n \n \n= 1,00,000 \n \nUnder Discounted payback period, if the cash flows are equal over the \nlife of the asset \n\n \nINTERMEDIATE EXAMINATION \n \n \n100 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nPVAF   \n \n \n \n \n= \nTotal initial capital investment\n Annual expected after-tax net cash flow  \nInitial investment  \n \n \n= CFAT x PVAF @ WACC% for 7 years  \n5,00,000  \n \n \n \n \n= 1,00,000 x PVAF @ WACC% for 7 years  \nPVAF @ WACC% for 7 years = 5 \nSo, WACC   \n \n \n \n= 9% \nNPV    \n \n \n \n \n= Sum of Present Values of Cash inflows –  \n  \n \n \n \n \n    Cost of the Project  \n \n  \n \n \n \n \n= 1,00,000 x 5.535 – 5,00,000 = 53,500 \nProfitability Index      \n  \n=  Sum of present value of net cash inflow\nInitial cash outflow\n \n \n  \n \n \n \n \n= `\n`\n5,53,500\n5,00,000 = 1.107 \nPAT    \n \n \n \n \n= CFAT – Depreciation  \n \n  \n \n \n \n \n= 1,00,000 - \n5,00,000\n8\n = 37,500 \nARR    \n \n \n \n \n= \nProfit after Depreciation\nx 100\nInvestment in the begining of the year\n  \n \n  \n \n \n \n \n= \n37,500\n5,00,000= 7.5% \nAppraisal technic Acceptable \nrange \nOutcome for \nthis asset \nRecommendation \nNPV \n> 0 \n53,500 \nAccept \nMIRR \nMIRR > WACC \n10.9% > 9% \nAccept \nSimple payback \nPayback < Life \n5 < 8 \nAccept \nDiscount payback \nPayback < Life \n7 < 8 \nAccept \nARR \nARR > WACC \n7.5% < 9% \nReject \nPI \n> 1 \n1.107 \nAccept \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n101 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS",
+  "marks": null,
+  "source_id": "FMSM_RTP_JANUARY2026_P6_Q009",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Investment Decisions",
+    "topic": "Investment Decisions",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "9",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9.  \nABC Manufacturing Ltd is a mid–sized engineering and fabrication \ncompany that supplies precision components to the automobile and \nheavy machinery sectors. In order to maintain competitiveness and \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n87 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \nexpand its market share, the company has proposed a new capital \ninvestment project involving the purchase and installation of advanced \nComputer Numerical Control (CNC) machines and automated assembly \nlines. \n \nThe estimated cost of the project is to be financed partly through \ninternal accruals and largely through term loans from XYZ Bank. ABC \nManufacturing has approached the bank requesting project financing of \nthe initial outlay, citing strong growth potential in demand for precision-\nengineered products over the next decade. \n \nFinancial Projections Provided by ABC Manufacturing Ltd. \n \nThe company’s feasibility report outlines the following: \n• \nThe simple payback period is estimated at 5 years, assuming \ncumulative cash inflows cover the initial investment within that \ntimeframe without considering the time value of money. \n• \nThe discounted payback period is calculated at 7 years, after \ndiscounting projected cash inflows at the weighted average cost of \ncapital (WACC). \n• \nThe project’s Modified Internal Rate of Return (MIRR) is projected \nat 10.9%, which is much lower than the incremental borrowing \nrate. \n• \nTerminal Value of the annual cash inflows reinvested at the rate of \n10% is ` 11,43,589. \n• \nCash inflows are expected to be received equally and steadily at \nthe end of every year over the life of the assets. However, the same \nCash inflows are expected to be received even after the simple \npayback period due to efficiency gains, market expansion, and \neconomies of scale.  \n(Note: Round off Initial investment to nearest Lakhs). \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n88 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nManagement’s Position \nABC Manufacturing argues that:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Under MIRR, if the cash flows are equal over the life of the asset \nInitial investment x (1 + MIRR)n   \n= CFAT x FVAF \nTerminal Value (CFAT x FVAF)  \n \n= ` 11,43,589 \nInitial investment x (1+10.9%)8   \n= ` 11,43,589 \n \nInitial investment = 11,43,589 / (1+10.9%)8 = 5,00,000 (rounded off to \nnearest lakh) \n \nUnder simple payback period, if the cash flows are equal over the life of \nthe asset \nPayback Period  \n \n \n=\nTotal initial capital investment\n Annual expected after-tax net cash flow \n \nInitial investment   \n \n= CFAT x Simple payback period in years  \n \n5,00,000  \n \n \n \n \n= 5 x CFAT \n \nCFAT  \n \n  \n \n \n= 1,00,000 \n \nUnder Discounted payback period, if the cash flows are equal over the \nlife of the asset \n\n \nINTERMEDIATE EXAMINATION \n \n \n100 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nPVAF   \n \n \n \n \n= \nTotal initial capital investment\n Annual expected after-tax net cash flow  \nInitial investment  \n \n \n= CFAT x PVAF @ WACC% for 7 years  \n5,00,000  \n \n \n \n \n= 1,00,000 x PVAF @ WACC% for 7 years  \nPVAF @ WACC% for 7 years = 5 \nSo, WACC   \n \n \n \n= 9% \nNPV    \n \n \n \n \n= Sum of Present Values of Cash inflows –  \n  \n \n \n \n \n    Cost of the Project  \n \n  \n \n \n \n \n= 1,00,000 x 5.535 – 5,00,000 = 53,500 \nProfitability Index      \n  \n=  Sum of present value of net cash inflow\nInitial cash outflow\n \n \n  \n \n \n \n \n= `\n`\n5,53,500\n5,00,000 = 1.107 \nPAT    \n \n \n \n \n= CFAT – Depreciation  \n \n  \n \n \n \n \n= 1,00,000 - \n5,00,000\n8\n = 37,500 \nARR    \n \n \n \n \n= \nProfit after Depreciation\nx 100\nInvestment in the begining of the year\n  \n \n  \n \n \n \n \n= \n37,500\n5,00,000= 7.5% \nAppraisal technic Acceptable \nrange \nOutcome for \nthis asset \nRecommendation \nNPV \n> 0 \n53,500 \nAccept \nMIRR \nMIRR > WACC \n10.9% > 9% \nAccept \nSimple payback \nPayback < Life \n5 < 8 \nAccept \nDiscount payback \nPayback < Life \n7 < 8 \nAccept \nARR \nARR > WACC \n7.5% < 9% \nReject \nPI \n> 1 \n1.107 \nAccept \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n101 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

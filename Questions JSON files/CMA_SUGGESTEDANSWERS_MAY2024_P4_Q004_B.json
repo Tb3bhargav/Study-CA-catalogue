@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) The cost variance report was being discussed at a review meeting where in\nCost Accountant of the company reported under-absorption of production\noverheads.\n\nThe following information was available from the cost records of the\ncompany at the end of financial year 2023-24:\n•\nActual production overheads incurred were ` 4,50,000 which included\n` 42,000 on account of 'written off obsolete stores.\n•\n18,000 units were produced during the year out of which 10,000 units\nwere sold and 8,000 units of finished goods were in stock.\n•\nThere were also 5,000 units in progress which may be reckoned as 40%\ncomplete.\n•\nThe actual machine hours worked during the period were 43,000.\n\nABC Ltd. absorbs the production overheads at a predetermined rate of ` 8\nper machine hour.\n\nOn investigation, it has been found that 20% of the under-absorption of\nproduction overheads was due to defective planning and the rest was\nattributable to normal increase in costs of indirect materials and indirect\nlabour.\n\nYou are required to:\n(i)  Calculate the amount of under-absorption of production overheads\nduring the year 2023-24; and\n(ii)  Show the treatment of under-absorption of production overheads in cost\naccounts.",
+  "suggested_answer": "(b) (i) Amount of under-absorption of production overheads during the\ncurrent year\n\n(`)\nTotal production overheads actually incurred\n4,50,000\nduring the current year\nLess : ‘Written off’ obsolete stores\n42,000\nNet production overheads actually incurred : (A)\n4,08,000\nProduction overheads absorbed by 43,000 machine\nhours@ ` 8 per hour : (B)\n\n3,44,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\nAmount of under – absorption of production overheads :\n[(A) – (B)]\n\n64,000\n(ii) Accounting treatment of under absorption of production\noverheads\n\nIt is given in the statement of the question that 18,000 units were\nproduced, and 5,000 units were 40% complete, 20% of the under-\nabsorbed overheads were due to defective planning and the rest were\nattributable to normal increase in costs of indirect materials and\nindirect labour.\n1.\n(20 % of ` 64,000) i.e., ` 12,800 of under-absorbed\noverheads were due to defective planning. This\nbeing abnormal, should be debited to the Costing\nProfit and Loss A/c.\n` 12,800\n\n2.\nBalance (80%\nof\n`\n64,000) i.e.,\n`\n51,200\nof\nunder-absorbed\noverheads\nshould\nbe\ndistributed over work-in-progress, finished goods\nand cost of sales by using supplementary rate.\n` 51,200\n\nTotal under-absorbed overheads\n` 64,000\n\nApportionment of unabsorbed overheads of ` 51,200 over, work-in progress,\nfinished goods and cost of sales\n\nEquivalent\nCompleted Units\n(`)\nWork-in-Progress\n\n(5,000 units × 40%×` 2.56)\n2,000\n5,120\n(Refer to working note)\n\nFinished goods\n\n(8,000 units × ` 2.56)\n8,000\n20,480\nCost of sales\n\n(10,000 units × ` 2,56)\n10,000\n25,600\n\n20,000\n51,200\n\n20\n\nWorking Note\nSupplementary rate per unit =\n51,200\n20,000 = ` 2.56",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q004_B",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 20
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 16,
+    "page_end": 20,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) The cost variance report was being discussed at a review meeting where in\nCost Accountant of the company reported under-absorption of production\noverheads.\n\nThe following information was available from the cost records of the\ncompany at the end of financial year 2023-24:\n•\nActual production overheads incurred were ` 4,50,000 which included\n` 42,000 on account of 'written off obsolete stores.\n•\n18,000 units were produced during the year out of which 10,000 units\nwere sold and 8,000 units of finished goods were in stock.\n•\nThere were also 5,000 units in progress which may be reckoned as 40%\ncomplete.\n•\nThe actual machine hours worked during the period were 43,000.\n\nABC Ltd. absorbs the production overheads at a predetermined rate of ` 8\nper machine hour.\n\nOn investigation, it has been found that 20% of the under-absorption of\nproduction overheads was due to defective planning and the rest was\nattributable to normal increase in costs of indirect materials and indirect\nlabour.\n\nYou are required to:\n(i)  Calculate the amount of under-absorption of production overheads\nduring the year 2023-24; and\n(ii)  Show the treatment of under-absorption of production overheads in cost\naccounts."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) (i) Amount of under-absorption of production overheads during the\ncurrent year\n\n(`)\nTotal production overheads actually incurred\n4,50,000\nduring the current year\nLess : ‘Written off’ obsolete stores\n42,000\nNet production overheads actually incurred : (A)\n4,08,000\nProduction overheads absorbed by 43,000 machine\nhours@ ` 8 per hour : (B)\n\n3,44,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\nAmount of under – absorption of production overheads :\n[(A) – (B)]\n\n64,000\n(ii) Accounting treatment of under absorption of production\noverheads\n\nIt is given in the statement of the question that 18,000 units were\nproduced, and 5,000 units were 40% complete, 20% of the under-\nabsorbed overheads were due to defective planning and the rest were\nattributable to normal increase in costs of indirect materials and\nindirect labour.\n1.\n(20 % of ` 64,000) i.e., ` 12,800 of under-absorbed\noverheads were due to defective planning. This\nbeing abnormal, should be debited to the Costing\nProfit and Loss A/c.\n` 12,800\n\n2.\nBalance (80%\nof\n`\n64,000) i.e.,\n`\n51,200\nof\nunder-absorbed\noverheads\nshould\nbe\ndistributed over work-in-progress, finished goods\nand cost of sales by using supplementary rate.\n` 51,200\n\nTotal under-absorbed overheads\n` 64,000\n\nApportionment of unabsorbed overheads of ` 51,200 over, work-in progress,\nfinished goods and cost of sales\n\nEquivalent\nCompleted Units\n(`)\nWork-in-Progress\n\n(5,000 units × 40%×` 2.56)\n2,000\n5,120\n(Refer to working note)\n\nFinished goods\n\n(8,000 units × ` 2.56)\n8,000\n20,480\nCost of sales\n\n(10,000 units × ` 2,56)\n10,000\n25,600\n\n20,000\n51,200\n\n20\n\nWorking Note\nSupplementary rate per unit =\n51,200\n20,000 = ` 2.56"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

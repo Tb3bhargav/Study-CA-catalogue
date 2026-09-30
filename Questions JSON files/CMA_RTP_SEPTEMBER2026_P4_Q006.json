@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nA cost of ` 60,000 per month is incurred exclusively for this purpose \nand is included in the total selling overheads. \n \nAs a production cum finance manager of the company, you are required \nto answer the following questions: \n(i)  \nWhat is the total combined gross margin of all the products? \n(A)  \n` 6,12,000 \n(B)  \n` 6,48,500 \n(C)  \n` 6,30,000 \n(D) \n` 6,68,600 \n(ii)  \nWhat is the total prime cost excluding cost of defective for all the \nproducts? \n(A)  \n` 19,18,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n6 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(B) \n` 12,16,000 \n(C)  \n` 12,24,000 \n(D)  ` 10,10,000 \n(iii)  Ranking of Products under Conventional System is: \n(A)  \nBeta – I, Alpha – II, Gamma – III \n(B)  \nAlpha – I, Beta – II, Gamma – III \n(C)  \nBeta – I, Gamma – II, Alpha – III \n(D) \nGamma – I, Beta – II, Alpha – III \n(iv)  What is the total net profit for all the products: \n(A)  \n` 2,34,100 \n(B)  \n` 2,28,000 \n(C)  \n` 2,04,000 \n(D)  ` 1,98,000 \n(v)  \nRanking of Products under ABC System is: \n(A)  \nAlpha – I, Beta – II, Gamma – III \n(B)  \nBeta – I, Alpha – II, Gamma – III \n(C)  \nAlpha – I, Gamma – II, Beta – III \n(D)  Gamma – I, Beta – II, Alpha – III",
+  "suggested_answer": "(i)  \n(a)  Existing time rate \nWeekly wages: \nNormal shift \n \n(40 hours × ` 160): \n \n` 6,400 \nLate shift \n(9 hours × ` 225) \n` 2,025 \n \n \n` 8,425 \n(b)  Piece Rate System \n \n15 articles are produced in 2.5 hours \n \nTherefore, to produce 270 articles, hours required is \n2.5 hours × 270 articles\n15 articles\n \n \n \n \n = 45 hours. \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n29 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nCost of producing 270 articles: \n \nAt basic time rate (45 hours × `160) =  `7,200 \n \nAdd: Bonus @ 20% on basic Piece rate `1,440 \n \nEarning for the week   \n \n \n  \n `8,640 \n(c) \nRowan Premium System \n(i)  \nTime \nallowed \nfor \nproducing \n270 \narticles \n2.5hours ×270articles ×150%\n15articles\n\n\n\n\n\n\n = 67.5 hours \n(ii)  \nTime taken to produce 270 articles = 40.0 hours \n(iii)  Time Saved = 67.5 – 40 = 27.5 hours \nEarnings under Rowan Premium system:  \n=\nTimesaved\n(Timetaken×Rateperhour)+\n×Timetaken×Rateperhour\nTimeallowed\n\n\n\n\n\n\n  \n= \n27.5hours\n(40hours× 160)+\n×40hours× 160\n67.5hours\n\n\n\n\n\n\n`\n`\n= ` 9,007.41 \n(d)  Halsey Premium System \n  \n= \n1\n(Timetaken×Rateperhour)+( ×Timesaved×Rateperhour)\n2\n \n  \n= \n1\n(40hours× 160)+\n×27.5hours× 160\n2\n\n\n\n\n\n\n`\n`\n= `6,400 + `2,200  \n  \n= `8,600 \n(ii)  Statement showing hours worked, weekly earnings, number of \narticles produced and cost per article \nMethod of Payment \nHours \nworked \nWeekly \nearnings (`) \nNumber of \narticles \nproduced \nLabour cost \nper article \n(`) \nExisting time rate  \n49 \n8,425.00 \n240 \n35.10 \nStraight \npiece \nrate \nsystem  \n40 \n8,640.00 \n270 \n32.00 \n\n \nINTERMEDIATE EXAMINATION \n \n \n30 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nRowan \nPremium \nSystem  \n40 \n9,007.41 \n270 \n33.36 \nHalsey \nPremium \nSystem  \n40 \n8,600.00 \n270 \n31.85",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q006",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nA cost of ` 60,000 per month is incurred exclusively for this purpose \nand is included in the total selling overheads. \n \nAs a production cum finance manager of the company, you are required \nto answer the following questions: \n(i)  \nWhat is the total combined gross margin of all the products? \n(A)  \n` 6,12,000 \n(B)  \n` 6,48,500 \n(C)  \n` 6,30,000 \n(D) \n` 6,68,600 \n(ii)  \nWhat is the total prime cost excluding cost of defective for all the \nproducts? \n(A)  \n` 19,18,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n6 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(B) \n` 12,16,000 \n(C)  \n` 12,24,000 \n(D)  ` 10,10,000 \n(iii)  Ranking of Products under Conventional System is: \n(A)  \nBeta – I, Alpha – II, Gamma – III \n(B)  \nAlpha – I, Beta – II, Gamma – III \n(C)  \nBeta – I, Gamma – II, Alpha – III \n(D) \nGamma – I, Beta – II, Alpha – III \n(iv)  What is the total net profit for all the products: \n(A)  \n` 2,34,100 \n(B)  \n` 2,28,000 \n(C)  \n` 2,04,000 \n(D)  ` 1,98,000 \n(v)  \nRanking of Products under ABC System is: \n(A)  \nAlpha – I, Beta – II, Gamma – III \n(B)  \nBeta – I, Alpha – II, Gamma – III \n(C)  \nAlpha – I, Gamma – II, Beta – III \n(D)  Gamma – I, Beta – II, Alpha – III"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i)  \n(a)  Existing time rate \nWeekly wages: \nNormal shift \n \n(40 hours × ` 160): \n \n` 6,400 \nLate shift \n(9 hours × ` 225) \n` 2,025 \n \n \n` 8,425 \n(b)  Piece Rate System \n \n15 articles are produced in 2.5 hours \n \nTherefore, to produce 270 articles, hours required is \n2.5 hours × 270 articles\n15 articles\n \n \n \n \n = 45 hours. \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n29 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nCost of producing 270 articles: \n \nAt basic time rate (45 hours × `160) =  `7,200 \n \nAdd: Bonus @ 20% on basic Piece rate `1,440 \n \nEarning for the week   \n \n \n  \n `8,640 \n(c) \nRowan Premium System \n(i)  \nTime \nallowed \nfor \nproducing \n270 \narticles \n2.5hours ×270articles ×150%\n15articles\n\n\n\n\n\n\n = 67.5 hours \n(ii)  \nTime taken to produce 270 articles = 40.0 hours \n(iii)  Time Saved = 67.5 – 40 = 27.5 hours \nEarnings under Rowan Premium system:  \n=\nTimesaved\n(Timetaken×Rateperhour)+\n×Timetaken×Rateperhour\nTimeallowed\n\n\n\n\n\n\n  \n= \n27.5hours\n(40hours× 160)+\n×40hours× 160\n67.5hours\n\n\n\n\n\n\n`\n`\n= ` 9,007.41 \n(d)  Halsey Premium System \n  \n= \n1\n(Timetaken×Rateperhour)+( ×Timesaved×Rateperhour)\n2\n \n  \n= \n1\n(40hours× 160)+\n×27.5hours× 160\n2\n\n\n\n\n\n\n`\n`\n= `6,400 + `2,200  \n  \n= `8,600 \n(ii)  Statement showing hours worked, weekly earnings, number of \narticles produced and cost per article \nMethod of Payment \nHours \nworked \nWeekly \nearnings (`) \nNumber of \narticles \nproduced \nLabour cost \nper article \n(`) \nExisting time rate  \n49 \n8,425.00 \n240 \n35.10 \nStraight \npiece \nrate \nsystem  \n40 \n8,640.00 \n270 \n32.00 \n\n \nINTERMEDIATE EXAMINATION \n \n \n30 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nRowan \nPremium \nSystem  \n40 \n9,007.41 \n270 \n33.36 \nHalsey \nPremium \nSystem  \n40 \n8,600.00 \n270 \n31.85"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

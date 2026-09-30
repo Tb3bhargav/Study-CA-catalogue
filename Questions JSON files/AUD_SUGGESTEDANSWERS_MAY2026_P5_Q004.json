@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q004",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.\nCA Vivek requested management to furnish a written representation relating\nto valuation of Trade receivable. Management failed to provide the same. In\nthe given situation, which of the following actions should not be taken by the\nauditor referring SA 580?\n(A)  Re-evaluate the integrity of management and assess the impact of non-\navailability of written representation on the reliability of audit evidence\nas a whole.\n(B)  Take appropriate actions, including determining the possible effect on\nthe opinion in the auditor's report in accordance with SA 705 having\nregard to the requirement of disclaimer of opinion.\n\n4\n(C)  Treat the absence of written representation as a disagreement with\nmanagement and issue a qualified opinion.\n(D)  Discuss the matter with management.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q004",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.\nCA Vivek requested management to furnish a written representation relating\nto valuation of Trade receivable. Management failed to provide the same. In\nthe given situation, which of the following actions should not be taken by the\nauditor referring SA 580?\n(A)  Re-evaluate the integrity of management and assess the impact of non-\navailability of written representation on the reliability of audit evidence\nas a whole.\n(B)  Take appropriate actions, including determining the possible effect on\nthe opinion in the auditor's report in accordance with SA 705 having\nregard to the requirement of disclaimer of opinion.\n\n4\n(C)  Treat the absence of written representation as a disagreement with\nmanagement and issue a qualified opinion.\n(D)  Discuss the matter with management.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

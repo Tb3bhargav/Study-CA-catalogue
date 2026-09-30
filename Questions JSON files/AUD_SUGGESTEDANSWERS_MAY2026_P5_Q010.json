@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. Since, XYZ Bank recognised interest on advances secured by term deposits,\nNSCs, and life insurance policies and earned discount on Purchased bills\nwhere Rediscounting charges were netted off against the discount income.\n\nWhich of the following statements correctly reflects the appropriate\naccounting treatment?\n(A)  Interest on secured advances and the entire discount on bills purchased\nmay both be recognised immediately, and rediscounting charges may be\nnetted off under accrual principles.\n(B)  Interest on secured advances may be recognised on an accrual basis\nwhere an adequate margin exists; however on bills purchased only the\nportion of discount earned up to 31st March should be recognised, and\nrediscounting charges should not be netted off from the discount earned.\n(C)  Interest on secured advances may be recognised on an accrual basis\nwhere an adequate margin exists; however on bills purchased only the\nportion of discount earned up to 31st March should be recognised, and\nrediscounting charges should be netted off from the discount earned.\n(D)  Both interest and discount income should be deferred until actual\nreceipt, and rediscounting charges must be adjusted against discount\nincome.\n(2 Marks)\n\nAUDITING AND ETHICS\n\n9",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q010",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 8,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. Since, XYZ Bank recognised interest on advances secured by term deposits,\nNSCs, and life insurance policies and earned discount on Purchased bills\nwhere Rediscounting charges were netted off against the discount income.\n\nWhich of the following statements correctly reflects the appropriate\naccounting treatment?\n(A)  Interest on secured advances and the entire discount on bills purchased\nmay both be recognised immediately, and rediscounting charges may be\nnetted off under accrual principles.\n(B)  Interest on secured advances may be recognised on an accrual basis\nwhere an adequate margin exists; however on bills purchased only the\nportion of discount earned up to 31st March should be recognised, and\nrediscounting charges should not be netted off from the discount earned.\n(C)  Interest on secured advances may be recognised on an accrual basis\nwhere an adequate margin exists; however on bills purchased only the\nportion of discount earned up to 31st March should be recognised, and\nrediscounting charges should be netted off from the discount earned.\n(D)  Both interest and discount income should be deferred until actual\nreceipt, and rediscounting charges must be adjusted against discount\nincome.\n(2 Marks)\n\nAUDITING AND ETHICS\n\n9"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

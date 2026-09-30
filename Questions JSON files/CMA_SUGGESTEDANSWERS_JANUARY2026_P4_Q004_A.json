@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) The following data pertaining to a company engaged in manufacturing and\nsale of a single product during the year:\nParticulars\nBudget\nActual\nSales (in units)\n60,000\n66,000\nSales (`)\n1,80,00,000\n2,14,50,000\nDirect Materials (`)\n28,80,000\n36,30,000\nDirect labour (`)\n43,20,000\n52,80,000\nVariable Overheads (`)\n72,00,000\n81,84,000\n\n20\n\nAdditional information is given below:\n\nStandard\n(`)\nActual\n(`)\nDirect Material price per kg\n10\n8\nDirect labour rate per hour\n10\n12\n\nYou are required to calculate:\n(i)  Direct material usage variance\n(ii)  Direct material price variance\n(iii)  Direct labour efficiency variance\n(iv)  Direct labour rate variance\n(v)  Variable overhead cost variance\n(7 Marks)",
+  "suggested_answer": "(a)\n\nBudget\nRevised standard\nActual\n\nQty\nPrice\n(`)\nAmount\n(`)\nQty Price\n(`)\nAmount\n(`)\nQty\nPrice\n(`)\nAmount\n(`)\nMaterial 2,88,000\n10 28,80,000 3,16,800\n10 31,68,000 4,53,750\n8 36,30,000\n(i)\nDirect Material Usage Variance = (SQ – AQ) X SP\n\n(3,16,800 – 4,53,750) x 10\n\n= ` 13,69,500 A\n(ii)\nDirect Material Price Variance\n= (SP – AP) X AQ\n\n(10 - 8) x 4,53,750\n\n= ` 9,07,500F\n\nBudget\nRevised standard\nActual\nHrs Rate\n(`)\nAmount\n(`)\nHrs Rate\n(`)\nAmount\n(`)\nHrs Rate\n(`)\nAmount\n(`)\nLabour\n4,32,000\n10 43,20,000 4,75,200\n10 47,52,000 4,40,000\n12 52,80,000\n(iii)\nDirect Labor Efficiency Variance = (SH – AH) X SR\n\n(4,75,200 – 4,40,000) x 10\n\n= ` 3,52,000 F\n(iv)\nDirect Labor rate Variance\n= (SR – AR) X AH\n\n(10 – 12) x 4,40,000\n\n= ` 8,80,000 A\n(v)\nVariable overhead cost Variance = (Variable overhead for actual\noutput – Actual Variable overheads)\n\n(72,00,000 x 66,000\n60,000\n- 81,84,000) = ` 2,64,000 A",
+  "marks": "(7 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q004_A",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": "(7 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 20,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) The following data pertaining to a company engaged in manufacturing and\nsale of a single product during the year:\nParticulars\nBudget\nActual\nSales (in units)\n60,000\n66,000\nSales (`)\n1,80,00,000\n2,14,50,000\nDirect Materials (`)\n28,80,000\n36,30,000\nDirect labour (`)\n43,20,000\n52,80,000\nVariable Overheads (`)\n72,00,000\n81,84,000\n\n20\n\nAdditional information is given below:\n\nStandard\n(`)\nActual\n(`)\nDirect Material price per kg\n10\n8\nDirect labour rate per hour\n10\n12\n\nYou are required to calculate:\n(i)  Direct material usage variance\n(ii)  Direct material price variance\n(iii)  Direct labour efficiency variance\n(iv)  Direct labour rate variance\n(v)  Variable overhead cost variance\n(7 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nBudget\nRevised standard\nActual\n\nQty\nPrice\n(`)\nAmount\n(`)\nQty Price\n(`)\nAmount\n(`)\nQty\nPrice\n(`)\nAmount\n(`)\nMaterial 2,88,000\n10 28,80,000 3,16,800\n10 31,68,000 4,53,750\n8 36,30,000\n(i)\nDirect Material Usage Variance = (SQ – AQ) X SP\n\n(3,16,800 – 4,53,750) x 10\n\n= ` 13,69,500 A\n(ii)\nDirect Material Price Variance\n= (SP – AP) X AQ\n\n(10 - 8) x 4,53,750\n\n= ` 9,07,500F\n\nBudget\nRevised standard\nActual\nHrs Rate\n(`)\nAmount\n(`)\nHrs Rate\n(`)\nAmount\n(`)\nHrs Rate\n(`)\nAmount\n(`)\nLabour\n4,32,000\n10 43,20,000 4,75,200\n10 47,52,000 4,40,000\n12 52,80,000\n(iii)\nDirect Labor Efficiency Variance = (SH – AH) X SR\n\n(4,75,200 – 4,40,000) x 10\n\n= ` 3,52,000 F\n(iv)\nDirect Labor rate Variance\n= (SR – AR) X AH\n\n(10 – 12) x 4,40,000\n\n= ` 8,80,000 A\n(v)\nVariable overhead cost Variance = (Variable overhead for actual\noutput – Actual Variable overheads)\n\n(72,00,000 x 66,000\n60,000\n- 81,84,000) = ` 2,64,000 A"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

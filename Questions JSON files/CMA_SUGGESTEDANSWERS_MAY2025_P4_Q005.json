@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nAssuming 5% risk of out of stock what would be the total cost of ordering\nand carrying inventory for one year?\n(A)  ` 5,40,000\n(B)  ` 8,15,000\n(C)  ` 9,45,000\n(D)  ` 10,80,000\nCase Scenario - II\nAllure Metallurgy Ltd. is a stainless-steel manufacturing company which\nmanufactures two grades of stainless steel products namely SS304 & SS316 made\nof a common raw material iron procured at ` 52 per kg from the market. The\nusage of the raw material is expected to be at a constant rate over the entire\nperiod. The raw material supplier to the company charges ` 24,000 per order but\nits delivery is limited to 1200 tons per annum. There is no alternate source to\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nprocure the raw material. In consideration of the above limitations, the company\ndecided to review its inventory management policies for the forthcoming year.\nThe following forecasted information has been extracted from departmental\nestimates for the budget year ending on 31 March 2025:\n\nSS304\nSS316\nSales (units)\n56,000\n86,000\nFinished Goods stock increase by year end (units)\n1,614\n1,215\nPost Production rejection rate (%)\n3\n7\nIron usage in kg (per completed unit, net of wastage)\n5.5\n8\nIron wastage (%)\n8\n11\nYou are required to calculate the following (MCQ's 6 to 10):",
+  "suggested_answer": "None",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q005",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nAssuming 5% risk of out of stock what would be the total cost of ordering\nand carrying inventory for one year?\n(A)  ` 5,40,000\n(B)  ` 8,15,000\n(C)  ` 9,45,000\n(D)  ` 10,80,000\nCase Scenario - II\nAllure Metallurgy Ltd. is a stainless-steel manufacturing company which\nmanufactures two grades of stainless steel products namely SS304 & SS316 made\nof a common raw material iron procured at ` 52 per kg from the market. The\nusage of the raw material is expected to be at a constant rate over the entire\nperiod. The raw material supplier to the company charges ` 24,000 per order but\nits delivery is limited to 1200 tons per annum. There is no alternate source to\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nprocure the raw material. In consideration of the above limitations, the company\ndecided to review its inventory management policies for the forthcoming year.\nThe following forecasted information has been extracted from departmental\nestimates for the budget year ending on 31 March 2025:\n\nSS304\nSS316\nSales (units)\n56,000\n86,000\nFinished Goods stock increase by year end (units)\n1,614\n1,215\nPost Production rejection rate (%)\n3\n7\nIron usage in kg (per completed unit, net of wastage)\n5.5\n8\nIron wastage (%)\n8\n11\nYou are required to calculate the following (MCQ's 6 to 10):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "None"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

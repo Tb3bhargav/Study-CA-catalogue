@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q016",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16. \nA company produces a product X, using raw materials A and B. The \nstandard mix of A and B is 1: 1 and the standard loss is 10% of input. \nYou are required to COMPUTE the MISSING INFORMATION indicated by \n“?” based on the data given below: \n \nA \nB \nTotal \nStandard price of raw material (` / kg.) \n24 \n30 \n \nActual input (kg.) \n? \n70 \n \nActual output (kg.) \n \n \n? \nActual price ` / kg. \n30 \n? \n \nStandard input quantity (kg.) \n? \n? \n \nYield variance (sub usage) \n? \n? \n270(A) \nMix variance  \n? \n? \n? \nUsage variance  \n? \n? \n? \nPrice variance  \n? \n? \n? \nCost variance  \n0 \n? \n1,300(A) \nMarginal Costing",
+  "suggested_answer": "Working for Finding – Missing Figures \nCost Variance A  \n= \n0 \nCost Variance (A+B) =  ` 1,300 (A) \nYield Variance (A+B) = \n` 270 (A) \nStandard Cost and Actual Cost (Incomplete Information) \nRaw \nMaterial \nStandard Data \nActual Data \nQty.  \n(Kg.) \n[SQ] \nPrice  \n(`) \n[SP] \nAmount \n(`) \n[SQ x SP] \nQty.  \n(Kg.) \n[AQ] \nPrice  \n(`) \n[AP] \nAmount \n(`) \n[AQ x AP] \nA \n? ?? \n24 \n? ? ? \n? ? ? \n30 \n? ? ? \nB \n? ?? \n30 \n? ? ? \n70 \n? ? ? \n? ? ? \nTotal \n? ? ? \n \n? ?? \n? ?? \n \n? ? ? \nMaterial Cost Variance A \n=  Standard Cost – Actual Cost \n 0   \n \n =  (SQA × ` 24 – AQA × ` 30)  \n SQA \n \n =  1.25 AQA \n \nMaterial Yield Variance (A+B) = \nAverage Standard Price per unit of  \n \n \n \n \n \n \n \n \nStandard \nMix \n× \n[Total \nStandard  \n \n \n \n \n \n \n \n \nQuantity (units) – Total Actual Quantity  \n \n \n \n \n \n \n \n \n(units)] \n ` 270 (A) \n \n = \nA\nB\nA\nB\n 24 x SQ + 30 x SQ \nSQ + SQ \n\n\n\n\n\n\n`\n`\n × [(SQA + SQB) –  \n \n \n  \n(AQA+70)] \nSQA  \n \n \n = SQB as Standard Mix is in ratio 1:1 \n` 270 (A) \n \n = \nA\nA\nA\nA\n 24 x SQ + 30 x SQ \nSQ + SQ \n\n\n\n\n\n\n`\n`\n× [(SQA + SQA) –  \n \n \n  \n(AQA+70)] \n` 270 (A) \n \n =  27 × [2 x SQA – (AQA+70)] \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n` 270 (A) \n \n =  27 × [2 x 1.25 AQA– (AQA+70)] \nAQA \n \n =  40 Kg. \nAs SQA \n \n =  1.25 AQA \n \n \n \n =  1.25 × 40 Kg.  \n \n \n \n = \n50 Kg. \nAs SQB \n \n =  SQA \n \n \n \n =  50 Kg. \nCost Variance (A+B) \n \n =  Standard Cost – Actual Cost \n \n 1,300 (A)  \n \n =  (50 Kg. × ` 24 + 50 Kg. × ` 30) –  \n \n \n  \n(40Kg. × ` 30 +70 Kg. × APA)   \n \n APA \n \n =  ` 40 \nStandard Cost and Actual Cost (Complete Information) \nRaw Material \nStandard Data \nActual Data Std. Cost of \nActual Qty. \n(`) \n[AQ x SP] \nQty. \n(Kg.) \n[SQ] \nPrice \n(`) \n[SP] \nAmount \n(`) \n[SQ x SP] \nQty. \n(Kg.) \n[AQ] \nPrice \n(`) \n[AP] \nAmount \n(`) \n[AQ x AP] \nA \n50 \n24 \n1,200 \n40 \n30 \n1,200 \n960 \nB \n50 \n30 \n1,500 \n70 \n40 \n2,800 \n2,100 \nTotal \n100 \n \n2,700 \n110 \n \n4,000 \n3,060 \nComputation of Variances \nMaterial Cost Variance  \n= \nStandard Cost – Actual Cost \n \n  \n \n \n \n \n= \nSQ × SP – AQ × AP \n \n  \n(A)  \n \n \n=  `1,200 – `1,200 \n \n  \n \n \n \n \n=  `0 \n \n  \n(B)  \n \n \n=  `1,500 – `2,800 \n \n  \n \n \n \n \n=  `1,300 (A) \n \nTotal  \n \n \n \n \n=  `0 + `1,300 (A) \n \n \n \n \n \n \n \n \n=  `1,300 (A) \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nMaterial Price Variance \n= \nStandard Cost of Actual Quantity –  \n  \n \n \n \n \n \nActual Cost \n \n  \n \n \n \n \n= \nAQ × SP – AQ × AP \nOr \n \n  \n \n \n \n \n= \nAQ × (SP – AP) \n(A)  \n \n \n =  40 Kg. × (`24.00 – `30.00) \n \n  \n \n \n =  `240 (A) \n(B)  \n \n \n =  70 Kg. × (`30.00 – `40.00) \n \n  \n \n \n =  `700 (A) \n \nTotal  \n \n \n \n \n=  `240 (A) + `700 (A) \n \n  \n \n \n \n \n=  `940 (A) \nMaterial Usage Variance \n= \nStandard Cost of Standard Quantity for  \n  \n \n \n \n \n \nActual Output – Standard Cost of  \n  \n \n \n \n \n \nActual Quantity \n \n  \n \n \n \n \n= \nSQ × SP – AQ × SP \n \n  \n \n \n \n \n \nOr \n \n  \n \n \n \n \n= \nSP × (SQ – AQ) \n(A)  \n \n \n =  `24 × (50 Kg. – 40 Kg.) \n \n  \n \n \n =  `240 (F) \n(B)  \n \n \n =  `30 × (50 Kg. – 70 Kg.) \n \n  \n \n \n =  `600 (A) \nTotal   \n \n \n \n \n=  `240 (F) + `600 (A) \n \n  \n \n \n \n \n=  `360 (A) \nMaterial Mix Variance  \n= \nTotal Actual Quantity (units) × (Average  \n  \n \n \n \n \n \nStandard Price Per unit of Standard Mix \n- Average Standard Price per unit of \nActual Mix) \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \n \n \n \n =  110 Kg. ×\n 2,700\n3,060\n100 Kg.\n110 Kg.\n\n\n−\n\n\n\n\n`\n` \n \n \n \n \n \n =  `90 (A) \nMaterial Yield Variance  \n= \nAverage Standard Price per unit of  \n  \n \n \n \n \n \nStandard \nMix \n× \n[Total \nStandard  \n  \n \n \n \n \n \nQuantity (units) – Total Actual Quantity  \n  \n \n \n \n \n \n(units)] \n \n \n \n \n = \n2,700\n100 Kg.\n\n\n\n\n\n\n` \n × (100 Kg. – 110 Kg.) \n \n \n \n \n =  ` 270 (A) \n \nStandard Output  \n \n \n= \nStandard Input – Standard Loss  \n \n \n \n \n = \n100 Kg. – 10 Kg. \n \n \n \n \n = \n90Kg. \n \nActual Output   \n \n \n= \n90 Kg. \n \n(Actual Output and Standard Output are always equal numerically in any \nMaterial Variance Analysis)",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q016",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. \nA company produces a product X, using raw materials A and B. The \nstandard mix of A and B is 1: 1 and the standard loss is 10% of input. \nYou are required to COMPUTE the MISSING INFORMATION indicated by \n“?” based on the data given below: \n \nA \nB \nTotal \nStandard price of raw material (` / kg.) \n24 \n30 \n \nActual input (kg.) \n? \n70 \n \nActual output (kg.) \n \n \n? \nActual price ` / kg. \n30 \n? \n \nStandard input quantity (kg.) \n? \n? \n \nYield variance (sub usage) \n? \n? \n270(A) \nMix variance  \n? \n? \n? \nUsage variance  \n? \n? \n? \nPrice variance  \n? \n? \n? \nCost variance  \n0 \n? \n1,300(A) \nMarginal Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Working for Finding – Missing Figures \nCost Variance A  \n= \n0 \nCost Variance (A+B) =  ` 1,300 (A) \nYield Variance (A+B) = \n` 270 (A) \nStandard Cost and Actual Cost (Incomplete Information) \nRaw \nMaterial \nStandard Data \nActual Data \nQty.  \n(Kg.) \n[SQ] \nPrice  \n(`) \n[SP] \nAmount \n(`) \n[SQ x SP] \nQty.  \n(Kg.) \n[AQ] \nPrice  \n(`) \n[AP] \nAmount \n(`) \n[AQ x AP] \nA \n? ?? \n24 \n? ? ? \n? ? ? \n30 \n? ? ? \nB \n? ?? \n30 \n? ? ? \n70 \n? ? ? \n? ? ? \nTotal \n? ? ? \n \n? ?? \n? ?? \n \n? ? ? \nMaterial Cost Variance A \n=  Standard Cost – Actual Cost \n 0   \n \n =  (SQA × ` 24 – AQA × ` 30)  \n SQA \n \n =  1.25 AQA \n \nMaterial Yield Variance (A+B) = \nAverage Standard Price per unit of  \n \n \n \n \n \n \n \n \nStandard \nMix \n× \n[Total \nStandard  \n \n \n \n \n \n \n \n \nQuantity (units) – Total Actual Quantity  \n \n \n \n \n \n \n \n \n(units)] \n ` 270 (A) \n \n = \nA\nB\nA\nB\n 24 x SQ + 30 x SQ \nSQ + SQ \n\n\n\n\n\n\n`\n`\n × [(SQA + SQB) –  \n \n \n  \n(AQA+70)] \nSQA  \n \n \n = SQB as Standard Mix is in ratio 1:1 \n` 270 (A) \n \n = \nA\nA\nA\nA\n 24 x SQ + 30 x SQ \nSQ + SQ \n\n\n\n\n\n\n`\n`\n× [(SQA + SQA) –  \n \n \n  \n(AQA+70)] \n` 270 (A) \n \n =  27 × [2 x SQA – (AQA+70)] \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n` 270 (A) \n \n =  27 × [2 x 1.25 AQA– (AQA+70)] \nAQA \n \n =  40 Kg. \nAs SQA \n \n =  1.25 AQA \n \n \n \n =  1.25 × 40 Kg.  \n \n \n \n = \n50 Kg. \nAs SQB \n \n =  SQA \n \n \n \n =  50 Kg. \nCost Variance (A+B) \n \n =  Standard Cost – Actual Cost \n \n 1,300 (A)  \n \n =  (50 Kg. × ` 24 + 50 Kg. × ` 30) –  \n \n \n  \n(40Kg. × ` 30 +70 Kg. × APA)   \n \n APA \n \n =  ` 40 \nStandard Cost and Actual Cost (Complete Information) \nRaw Material \nStandard Data \nActual Data Std. Cost of \nActual Qty. \n(`) \n[AQ x SP] \nQty. \n(Kg.) \n[SQ] \nPrice \n(`) \n[SP] \nAmount \n(`) \n[SQ x SP] \nQty. \n(Kg.) \n[AQ] \nPrice \n(`) \n[AP] \nAmount \n(`) \n[AQ x AP] \nA \n50 \n24 \n1,200 \n40 \n30 \n1,200 \n960 \nB \n50 \n30 \n1,500 \n70 \n40 \n2,800 \n2,100 \nTotal \n100 \n \n2,700 \n110 \n \n4,000 \n3,060 \nComputation of Variances \nMaterial Cost Variance  \n= \nStandard Cost – Actual Cost \n \n  \n \n \n \n \n= \nSQ × SP – AQ × AP \n \n  \n(A)  \n \n \n=  `1,200 – `1,200 \n \n  \n \n \n \n \n=  `0 \n \n  \n(B)  \n \n \n=  `1,500 – `2,800 \n \n  \n \n \n \n \n=  `1,300 (A) \n \nTotal  \n \n \n \n \n=  `0 + `1,300 (A) \n \n \n \n \n \n \n \n \n=  `1,300 (A) \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nMaterial Price Variance \n= \nStandard Cost of Actual Quantity –  \n  \n \n \n \n \n \nActual Cost \n \n  \n \n \n \n \n= \nAQ × SP – AQ × AP \nOr \n \n  \n \n \n \n \n= \nAQ × (SP – AP) \n(A)  \n \n \n =  40 Kg. × (`24.00 – `30.00) \n \n  \n \n \n =  `240 (A) \n(B)  \n \n \n =  70 Kg. × (`30.00 – `40.00) \n \n  \n \n \n =  `700 (A) \n \nTotal  \n \n \n \n \n=  `240 (A) + `700 (A) \n \n  \n \n \n \n \n=  `940 (A) \nMaterial Usage Variance \n= \nStandard Cost of Standard Quantity for  \n  \n \n \n \n \n \nActual Output – Standard Cost of  \n  \n \n \n \n \n \nActual Quantity \n \n  \n \n \n \n \n= \nSQ × SP – AQ × SP \n \n  \n \n \n \n \n \nOr \n \n  \n \n \n \n \n= \nSP × (SQ – AQ) \n(A)  \n \n \n =  `24 × (50 Kg. – 40 Kg.) \n \n  \n \n \n =  `240 (F) \n(B)  \n \n \n =  `30 × (50 Kg. – 70 Kg.) \n \n  \n \n \n =  `600 (A) \nTotal   \n \n \n \n \n=  `240 (F) + `600 (A) \n \n  \n \n \n \n \n=  `360 (A) \nMaterial Mix Variance  \n= \nTotal Actual Quantity (units) × (Average  \n  \n \n \n \n \n \nStandard Price Per unit of Standard Mix \n- Average Standard Price per unit of \nActual Mix) \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \n \n \n \n =  110 Kg. ×\n 2,700\n3,060\n100 Kg.\n110 Kg.\n\n\n−\n\n\n\n\n`\n` \n \n \n \n \n \n =  `90 (A) \nMaterial Yield Variance  \n= \nAverage Standard Price per unit of  \n  \n \n \n \n \n \nStandard \nMix \n× \n[Total \nStandard  \n  \n \n \n \n \n \nQuantity (units) – Total Actual Quantity  \n  \n \n \n \n \n \n(units)] \n \n \n \n \n = \n2,700\n100 Kg.\n\n\n\n\n\n\n` \n × (100 Kg. – 110 Kg.) \n \n \n \n \n =  ` 270 (A) \n \nStandard Output  \n \n \n= \nStandard Input – Standard Loss  \n \n \n \n \n = \n100 Kg. – 10 Kg. \n \n \n \n \n = \n90Kg. \n \nActual Output   \n \n \n= \n90 Kg. \n \n(Actual Output and Standard Output are always equal numerically in any \nMaterial Variance Analysis)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

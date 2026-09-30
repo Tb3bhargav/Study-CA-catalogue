@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  ECO Cotton Limited manufactures two joint products Cotton Fiber, Cotton\nSeed and a by-product Cotton Linters by processing a raw cotton,\n\n8\n\nThe joint processing costs are ` 1,46,100.\n\nJoint products can be further processed and sold at a higher market price,\nwith some sales promotion efforts whereas, by-product Cotton Linters can be\nsold only after further processing.\n\nThe relevant details of three products are as follows:\nParticulars\nCotton\nFiber\nCotton\nSeed\nCotton\nLinters\nOutput (in kgs.)\n2,800\n1,800\n300\nSelling price at the split -off point (per kg.)\n` 90\n` 60\n-\nFurther processing cost (per kg.)\n` 9\n` 6\n` 2\nFurther marketing cost (per kg.)\n` 5\n` 2\n` 1\nSelling price after further processing (per kg.)\n` 110\n` 67\n` 10\n\nYou are required to: -\n(i)  Show how joint cost would be apportioned between Cotton Fiber and\nCotton Seed using the sales value at split-off, after crediting net\nrealisable value of by-product Cotton Linters.\n(ii)  Determine the total profit or loss if the joint products are sold without\nfurther processing.\n(iii)  Which of the joint products can be processed further for maximizing\nprofits using incremental analysis of profit?\n(5 Marks)",
+  "suggested_answer": "(b)  Working Note:\n\nCalculation of Net Realizable value of By-Product:\nParticulars\n\nSelling Price after further processing (`)\n10\nLess: Further Marketing Cost (`)\n1\n\n10\nLess: Further Processing Cost (`)\n2\nNet Realisable Value (` 10 - ` 3)\n7\nQuantity (Kgs)\n300\nNet Realisable Value of By-Product (300 kg@`7) (`)\n2,100\n\nCalculation of Net joint costs to be apportioned:\nParticulars\nAmount\n(₹)\nJoint Costs\n1,46,100\nLess: Net Realizable value of by-product\n2,100\nNet joint costs to be apportioned\n1,44,000\n(i) Statement showing apportionment of Joint Cost between Cotton\nfiber and Cotton Seed using sales value at split-off point\nProduct\nCotton\nFibre\nCotton\nSeeds\nQuantity (in Kgs)\n2,800\n1800\nSelling Price at Split-off point (per kg) (`)\n90\n60\nSales Value at Split off point (`)\n2,52,000\n1,08,000\nJoint Cost Apportioned (` 1,44,000)\n1,00,800\n43,200\n(ii) Statement showing Profit or loss if the Joint Products are Sold\nWithout further Processing\nProduct\nCotton\nFibre\nCotton\nSeeds\nTotal\nSales Value at Split off point\n(`)\n2,52,000\n1,08,000 3,60,000\nLess: Joint Cost Apportioned\n(`1,44,000)\n1,00,800\n43,200 1,44,000\nProfit\n1,51,200\n64,800\n2,16,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n(iii) Statement of increment profit/loss to decide further processing\nProduct\nCotton Fibre\nCotton Seeds\nIncremental Revenue\n56,000\n[(110-90) × 2,800]\n12,600\n[(67-60) × 1,800]\nLess: Further processing cost\n39,200\n(9+5) x 2800\n14,400\n(6+2) x 1800\nIncremental profit /(loss)\n16,800\n(1,800)\n\nIncrement Profit/(loos) can be presented on unit basis also.\n\nIt is advisable to further process only product Cotton Fibre and to sale\nproduct Cotton Seeds at the point of separation.",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_B",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  ECO Cotton Limited manufactures two joint products Cotton Fiber, Cotton\nSeed and a by-product Cotton Linters by processing a raw cotton,\n\n8\n\nThe joint processing costs are ` 1,46,100.\n\nJoint products can be further processed and sold at a higher market price,\nwith some sales promotion efforts whereas, by-product Cotton Linters can be\nsold only after further processing.\n\nThe relevant details of three products are as follows:\nParticulars\nCotton\nFiber\nCotton\nSeed\nCotton\nLinters\nOutput (in kgs.)\n2,800\n1,800\n300\nSelling price at the split -off point (per kg.)\n` 90\n` 60\n-\nFurther processing cost (per kg.)\n` 9\n` 6\n` 2\nFurther marketing cost (per kg.)\n` 5\n` 2\n` 1\nSelling price after further processing (per kg.)\n` 110\n` 67\n` 10\n\nYou are required to: -\n(i)  Show how joint cost would be apportioned between Cotton Fiber and\nCotton Seed using the sales value at split-off, after crediting net\nrealisable value of by-product Cotton Linters.\n(ii)  Determine the total profit or loss if the joint products are sold without\nfurther processing.\n(iii)  Which of the joint products can be processed further for maximizing\nprofits using incremental analysis of profit?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Working Note:\n\nCalculation of Net Realizable value of By-Product:\nParticulars\n\nSelling Price after further processing (`)\n10\nLess: Further Marketing Cost (`)\n1\n\n10\nLess: Further Processing Cost (`)\n2\nNet Realisable Value (` 10 - ` 3)\n7\nQuantity (Kgs)\n300\nNet Realisable Value of By-Product (300 kg@`7) (`)\n2,100\n\nCalculation of Net joint costs to be apportioned:\nParticulars\nAmount\n(₹)\nJoint Costs\n1,46,100\nLess: Net Realizable value of by-product\n2,100\nNet joint costs to be apportioned\n1,44,000\n(i) Statement showing apportionment of Joint Cost between Cotton\nfiber and Cotton Seed using sales value at split-off point\nProduct\nCotton\nFibre\nCotton\nSeeds\nQuantity (in Kgs)\n2,800\n1800\nSelling Price at Split-off point (per kg) (`)\n90\n60\nSales Value at Split off point (`)\n2,52,000\n1,08,000\nJoint Cost Apportioned (` 1,44,000)\n1,00,800\n43,200\n(ii) Statement showing Profit or loss if the Joint Products are Sold\nWithout further Processing\nProduct\nCotton\nFibre\nCotton\nSeeds\nTotal\nSales Value at Split off point\n(`)\n2,52,000\n1,08,000 3,60,000\nLess: Joint Cost Apportioned\n(`1,44,000)\n1,00,800\n43,200 1,44,000\nProfit\n1,51,200\n64,800\n2,16,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n(iii) Statement of increment profit/loss to decide further processing\nProduct\nCotton Fibre\nCotton Seeds\nIncremental Revenue\n56,000\n[(110-90) × 2,800]\n12,600\n[(67-60) × 1,800]\nLess: Further processing cost\n39,200\n(9+5) x 2800\n14,400\n(6+2) x 1800\nIncremental profit /(loss)\n16,800\n(1,800)\n\nIncrement Profit/(loos) can be presented on unit basis also.\n\nIt is advisable to further process only product Cotton Fibre and to sale\nproduct Cotton Seeds at the point of separation."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

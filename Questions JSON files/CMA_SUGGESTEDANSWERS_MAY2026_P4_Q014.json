@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. AMC Travels is running 4 luxury buses between two cities which are 60 kms.\napart. The seating capacity of each bus is 50 passengers. The actual\npassengers carried were 70% of the seating capacity. All the four buses run\nfor 30 days for the month. Each bus made one round trip per day. During the\nmonth of April 2026, AMC incurred total cost of ` 25,05,000.\n\nWhat is the cost per passenger kilometer for the month of April 2026?\n(A)  ` 7.55\n(B)  ` 3.75\n(C)  ` 6.84\n(D)  ` 4.97\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q014",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. AMC Travels is running 4 luxury buses between two cities which are 60 kms.\napart. The seating capacity of each bus is 50 passengers. The actual\npassengers carried were 70% of the seating capacity. All the four buses run\nfor 30 days for the month. Each bus made one round trip per day. During the\nmonth of April 2026, AMC incurred total cost of ` 25,05,000.\n\nWhat is the cost per passenger kilometer for the month of April 2026?\n(A)  ` 7.55\n(B)  ` 3.75\n(C)  ` 6.84\n(D)  ` 4.97\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

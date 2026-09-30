@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3.  \nIn two consecutive quarters, a company reported the following \nperformance: \n \nQuarter 1 sales were ` 2,10,000 with a profit of ` 12,000, while Quarter 2 \nsales rose to ` 2,40,000 with a profit of ` 24,000. Assume that the fixed \ncost remained constant across both quarters and that the company did \nnot introduce any new product lines. \n \nBased on the above information, the P/V ratio must be: \n(A)  20% \n(B)  \n30% \n(C)  40% \n(D)  50%",
+  "suggested_answer": "(C) 40% P/V Ratio = Contribution Sales COST AND MANAGEMENT ACCOUNTING 27 MAY 2026 EXAMINATION REVISION TEST PAPERS For Quarter I Sales = ` 2,10,000 Profit = ` 12,000 F + 12,000 = C × 2,10,000 For Quarter II Sales = ` 2,40,000 Profit = ` 24,000 F + 24,000 = C × 2,40,000 OR Change in Profit / Change in Sales gives P/V Ratio P/V Ratio = Change in Profit Change in Sales = 24,000-12,000 2,40,000-2,10,000 = 12,000 30,000 = 0.40",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q003",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Marginal Costing",
+    "topic": "Marginal Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  \nIn two consecutive quarters, a company reported the following \nperformance: \n \nQuarter 1 sales were ` 2,10,000 with a profit of ` 12,000, while Quarter 2 \nsales rose to ` 2,40,000 with a profit of ` 24,000. Assume that the fixed \ncost remained constant across both quarters and that the company did \nnot introduce any new product lines. \n \nBased on the above information, the P/V ratio must be: \n(A)  20% \n(B)  \n30% \n(C)  40% \n(D)  50%"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) 40% P/V Ratio = Contribution Sales COST AND MANAGEMENT ACCOUNTING 27 MAY 2026 EXAMINATION REVISION TEST PAPERS For Quarter I Sales = ` 2,10,000 Profit = ` 12,000 F + 12,000 = C × 2,10,000 For Quarter II Sales = ` 2,40,000 Profit = ` 24,000 F + 24,000 = C × 2,40,000 OR Change in Profit / Change in Sales gives P/V Ratio P/V Ratio = Change in Profit Change in Sales = 24,000-12,000 2,40,000-2,10,000 = 12,000 30,000 = 0.40"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

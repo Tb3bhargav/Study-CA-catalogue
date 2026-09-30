@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15. \nBabyMoon Ltd. uses standard costing system in manufacturing one of its \nproduct ‘Baby Cap’. The details are as follows: \n \nDirect Material 1 Meter @ ` 60 per meter \n \n` 60 \n \nDirect Labour 2 hour @ ` 20 per hour \n \n \n` 40 \n \nVariable overhead 2 hour @ ` 10 per hour \n \n` 20 \n \nTotal  \n \n \n \n \n \n \n \n \n     ` 120 \n \nDuring the month of August, 10,000 units of ‘Baby Cap’ were \nmanufactured. Details are as follows: \n \nDirect material consumed  11,400 meters @ ` 58 per meter \n \nDirect labour Hours  \n \n     ? \n \n   @ ? \n \n` 4,48,800 \n \nVariable overhead incurred  \n \n \n \n \n \n` 2,24,400 \n \nVariable overhead efficiency variance is ` 4,000 A. Variable overheads \nare based on Direct Labour Hours. \n \nYou are required to CALCULATE the following Variances: \n(a) \nMaterial Variances- Material Cost Variance, Material Price Variance \nand Material Usage Variance. \n(b) \nVariable Overheads variances- Variable overhead Cost Variance, \nVariable overhead Efficiency Variance and Variable overhead \nExpenditure Variance. \n(c) \nLabour variances- Labour Cost Variance, Labour Rate Variance and \nLabour Efficiency Variance. \nService Costing",
+  "suggested_answer": "(i) \nMaterial Variances \nBudget \nStd. for actual \nActual \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \n1 \n60 \n60 \n10,000 \n60 \n6,00,000 \n11,400 \n58 6,61,200 \nMaterial Cost Variance   \n= (SQ × SP – AQ × AP) \n= 6,00,000 – 6,61,200 \n \n= ` 61,200 (A) \nMaterial Price Variance   \n= (SP – AP) AQ \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n= (60 - 58) 11,400   \n \n= ` 22,800 (F) \nMaterial Usage Variance  \n= (SQ – AQ) SP \n= (10,000 – 11,400) 60   \n= ` 84,000 (A) \n(ii) \nVariable Overheads variances \n \nVariable overhead cost Variance  \n \n= Standard variable overhead – Actual Variable Overhead \n \n= (10,000 units × 2 hours × ` 10) – 2,24,400 = ` 24,400 (A) \n \nVariable overhead Efficiency Variance  \n \n= (Standard Hours – Actual Hours) × Standard Rate per Hour \n \nLet Actual Hours be ‘X’, then: \n \n(20,000 – X) × 10   \n \n \n= 4,000 (A) \n \n2,00,000 – 10X  \n \n \n \n= - 4,000 \n \n \n \n  X  \n \n \n \n= 2,04,000 ÷ 10 \n \nTherefore, Actual Hours (X)  \n= 20,400 \n \nVariable overhead Expenditure Variance  \n \n= Variable Overhead at Actual Hours - Actual Variable \nOverheads \n \n= 20,400 × ` 10 – 2,24,400 = ` 20,400 (A) \n(iii)  Labour variances \nBudget \nStd. for actual \nActual \nHours \nRate \n(`) \nAmount \n(`) \nHours \nRate \n(`) \nAmount \n(`) \nHours Rate \n(`) \nAmount \n(`) \n2 \n20 \n40 20,000 \n20 \n4,00,000 20,400 \n22* 4,48,800 \n \n*Actual Rate = ` 4,48,800 ÷ 20,400 hours = ` 22 \n \nLabour Cost Variance  \n \n= (SH × SR) – (AH × AR) \n \n= 4,00,000 – 4,48,800   \n \n= ` 48,800 (A) \n \nLabour Rate Variance  \n \n= (SR – AR) × AH \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \n= (20 – 22) × 20,400   \n \n= ` 40,800 (A) \n \nLabour Efficiency Variance  \n= (SH – AH) × SR \n \n= (20,000 – 20,400) × 20       \n= ` 8,000 (A)",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q015",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Standard Costing",
+    "topic": "Standard Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nBabyMoon Ltd. uses standard costing system in manufacturing one of its \nproduct ‘Baby Cap’. The details are as follows: \n \nDirect Material 1 Meter @ ` 60 per meter \n \n` 60 \n \nDirect Labour 2 hour @ ` 20 per hour \n \n \n` 40 \n \nVariable overhead 2 hour @ ` 10 per hour \n \n` 20 \n \nTotal  \n \n \n \n \n \n \n \n \n     ` 120 \n \nDuring the month of August, 10,000 units of ‘Baby Cap’ were \nmanufactured. Details are as follows: \n \nDirect material consumed  11,400 meters @ ` 58 per meter \n \nDirect labour Hours  \n \n     ? \n \n   @ ? \n \n` 4,48,800 \n \nVariable overhead incurred  \n \n \n \n \n \n` 2,24,400 \n \nVariable overhead efficiency variance is ` 4,000 A. Variable overheads \nare based on Direct Labour Hours. \n \nYou are required to CALCULATE the following Variances: \n(a) \nMaterial Variances- Material Cost Variance, Material Price Variance \nand Material Usage Variance. \n(b) \nVariable Overheads variances- Variable overhead Cost Variance, \nVariable overhead Efficiency Variance and Variable overhead \nExpenditure Variance. \n(c) \nLabour variances- Labour Cost Variance, Labour Rate Variance and \nLabour Efficiency Variance. \nService Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nMaterial Variances \nBudget \nStd. for actual \nActual \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \nQuantity \n(Meter) \nPrice \n(`) \nAmount \n(`) \n1 \n60 \n60 \n10,000 \n60 \n6,00,000 \n11,400 \n58 6,61,200 \nMaterial Cost Variance   \n= (SQ × SP – AQ × AP) \n= 6,00,000 – 6,61,200 \n \n= ` 61,200 (A) \nMaterial Price Variance   \n= (SP – AP) AQ \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n= (60 - 58) 11,400   \n \n= ` 22,800 (F) \nMaterial Usage Variance  \n= (SQ – AQ) SP \n= (10,000 – 11,400) 60   \n= ` 84,000 (A) \n(ii) \nVariable Overheads variances \n \nVariable overhead cost Variance  \n \n= Standard variable overhead – Actual Variable Overhead \n \n= (10,000 units × 2 hours × ` 10) – 2,24,400 = ` 24,400 (A) \n \nVariable overhead Efficiency Variance  \n \n= (Standard Hours – Actual Hours) × Standard Rate per Hour \n \nLet Actual Hours be ‘X’, then: \n \n(20,000 – X) × 10   \n \n \n= 4,000 (A) \n \n2,00,000 – 10X  \n \n \n \n= - 4,000 \n \n \n \n  X  \n \n \n \n= 2,04,000 ÷ 10 \n \nTherefore, Actual Hours (X)  \n= 20,400 \n \nVariable overhead Expenditure Variance  \n \n= Variable Overhead at Actual Hours - Actual Variable \nOverheads \n \n= 20,400 × ` 10 – 2,24,400 = ` 20,400 (A) \n(iii)  Labour variances \nBudget \nStd. for actual \nActual \nHours \nRate \n(`) \nAmount \n(`) \nHours \nRate \n(`) \nAmount \n(`) \nHours Rate \n(`) \nAmount \n(`) \n2 \n20 \n40 20,000 \n20 \n4,00,000 20,400 \n22* 4,48,800 \n \n*Actual Rate = ` 4,48,800 ÷ 20,400 hours = ` 22 \n \nLabour Cost Variance  \n \n= (SH × SR) – (AH × AR) \n \n= 4,00,000 – 4,48,800   \n \n= ` 48,800 (A) \n \nLabour Rate Variance  \n \n= (SR – AR) × AH \n\n \nINTERMEDIATE EXAMINATION \n \n \n48 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \n= (20 – 22) × 20,400   \n \n= ` 40,800 (A) \n \nLabour Efficiency Variance  \n= (SH – AH) × SR \n \n= (20,000 – 20,400) × 20       \n= ` 8,000 (A)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

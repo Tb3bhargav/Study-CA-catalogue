@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nSterling Industries manages various manufacturing processes. In process \nI, joint products P1 and P2 are produced in the ratio of 6:4 in units from \nthe raw material input. A normal loss of 2% of the raw material input is \nexpected in this process, with losses having a realizable value of ` 12.5 \nper kg. The company has no work in progress. The joint costs are \napportioned between the joint products using the physical measure \nbasis. \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n10 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nThe following information relates to process I for last month: \nRaw materials input  \n \n75,000 kg (at a cost of ` 4,76,250) \nDirect labour   \n \n \n` 2,25,000 \nDirect expenses  \n \n \n` 67,500 \nProduction Overheads  \n110% of direct labour cost \nAbnormal gain   \n \n \n1,250 kg \nYou are required to CALCULATE the number of unit and its value of the \nNormal loss, Abnormal gain and joint products P1 & P2.  \n(a) \nNormal loss: 1,500 units ` 16,964; Abnormal gain: 1,250 units  \n` 18,750; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(b) \nNormal loss: 1,250 units ` 18,750; Abnormal gain: 1,500 units  \n` 16,964; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(c) \nNormal loss: 1,500 units ` 18,750; Abnormal gain: 1,250 units  \n` 16,964; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(d) \nNormal loss: 1,500 units ` 18,750; Abnormal gain: 1,250 units  \n` 16,964; Product P1: 44,850 units ` 4,05,786 and Product P2: \n29,900 units ` 6,08,678. \nMarginal Costing",
+  "suggested_answer": "(C) Process- I Account Particulars Units (`) Particulars Units (`) To Raw material 75,000 4,76,250 By Normal loss (W.N. (ii)) 1,500 18,750 COST AND MANAGEMENT ACCOUNTING 31 MAY 2025 EXAMINATION REVISION TEST PAPER To Direct labour 2,25,000 By Output (W.N. (iii)) To Direct expenses 67,500 P1 (W.N. (iv)) 44,850 6,08,678 To Production overheads (W.N.(i)) 2,47,500 P2 (W.N. (iv)) 29,900 4,05,786 To Abnormal gain (W.N. (iv)) 1,250 16,964 76,250 10,33,214 76,250 10,33,214 Working Note Working Notes (W.N.): (i) Production overheads = 110% x 2,25,000 = ` 2,47,500 (ii) Normal loss = 2% x 75,000 = 1,500 kg at ` 12.5 = ` 18,750 (iii) Total output = 75,000 input + 1,250 abnormal gain - 1,500 normal loss = 74,750 kg P1 and P2 is produced in the ratio 6:4 P1 = ቀ 6 10ቁ x 74,750 = 44,850 kg P2 = ቀ 4 10ቁ x 74,750 = 29,900 kg (iv) Value of Abnormal Gain: = ቀ Total Cost - Realisable value of normal loss Total input units - Normal Loss units x Abnormal Gain unitsቁ = ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 1,250 unitsቁ = ` 16,964 Value of Joint Products: = ቀ Total Cost - Realisable value of normal loss Total input units - Normal Loss units x Output unitsቁ P1= ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 44,850 unitsቁ INTERMEDIATE EXAMINATION 32 REVISION TEST PAPER MAY 2025 EXAMINATION = ` 6,08,679 P2=ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 29,900 unitsቁ = ` 4,05,786",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q006",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nSterling Industries manages various manufacturing processes. In process \nI, joint products P1 and P2 are produced in the ratio of 6:4 in units from \nthe raw material input. A normal loss of 2% of the raw material input is \nexpected in this process, with losses having a realizable value of ` 12.5 \nper kg. The company has no work in progress. The joint costs are \napportioned between the joint products using the physical measure \nbasis. \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n10 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nThe following information relates to process I for last month: \nRaw materials input  \n \n75,000 kg (at a cost of ` 4,76,250) \nDirect labour   \n \n \n` 2,25,000 \nDirect expenses  \n \n \n` 67,500 \nProduction Overheads  \n110% of direct labour cost \nAbnormal gain   \n \n \n1,250 kg \nYou are required to CALCULATE the number of unit and its value of the \nNormal loss, Abnormal gain and joint products P1 & P2.  \n(a) \nNormal loss: 1,500 units ` 16,964; Abnormal gain: 1,250 units  \n` 18,750; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(b) \nNormal loss: 1,250 units ` 18,750; Abnormal gain: 1,500 units  \n` 16,964; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(c) \nNormal loss: 1,500 units ` 18,750; Abnormal gain: 1,250 units  \n` 16,964; Product P1: 44,850 units ` 6,08,678 and Product P2: \n29,900 units ` 4,05,786. \n(d) \nNormal loss: 1,500 units ` 18,750; Abnormal gain: 1,250 units  \n` 16,964; Product P1: 44,850 units ` 4,05,786 and Product P2: \n29,900 units ` 6,08,678. \nMarginal Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) Process- I Account Particulars Units (`) Particulars Units (`) To Raw material 75,000 4,76,250 By Normal loss (W.N. (ii)) 1,500 18,750 COST AND MANAGEMENT ACCOUNTING 31 MAY 2025 EXAMINATION REVISION TEST PAPER To Direct labour 2,25,000 By Output (W.N. (iii)) To Direct expenses 67,500 P1 (W.N. (iv)) 44,850 6,08,678 To Production overheads (W.N.(i)) 2,47,500 P2 (W.N. (iv)) 29,900 4,05,786 To Abnormal gain (W.N. (iv)) 1,250 16,964 76,250 10,33,214 76,250 10,33,214 Working Note Working Notes (W.N.): (i) Production overheads = 110% x 2,25,000 = ` 2,47,500 (ii) Normal loss = 2% x 75,000 = 1,500 kg at ` 12.5 = ` 18,750 (iii) Total output = 75,000 input + 1,250 abnormal gain - 1,500 normal loss = 74,750 kg P1 and P2 is produced in the ratio 6:4 P1 = ቀ 6 10ቁ x 74,750 = 44,850 kg P2 = ቀ 4 10ቁ x 74,750 = 29,900 kg (iv) Value of Abnormal Gain: = ቀ Total Cost - Realisable value of normal loss Total input units - Normal Loss units x Abnormal Gain unitsቁ = ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 1,250 unitsቁ = ` 16,964 Value of Joint Products: = ቀ Total Cost - Realisable value of normal loss Total input units - Normal Loss units x Output unitsቁ P1= ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 44,850 unitsቁ INTERMEDIATE EXAMINATION 32 REVISION TEST PAPER MAY 2025 EXAMINATION = ` 6,08,679 P2=ቀ ` 4,76,250 + ` 2,25,000 + ` 67,500 + ` 2,47,500 - ` 18,750 75,000 - 1,500 units x 29,900 unitsቁ = ` 4,05,786"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

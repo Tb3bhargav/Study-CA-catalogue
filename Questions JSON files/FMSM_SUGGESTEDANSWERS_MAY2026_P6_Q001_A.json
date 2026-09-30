@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q001_A",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  Finance manager of A Ltd. noticed that a 5% increase in sales leads to\nincrease of ` 9,000 in operating profit. The company operates with a\ncontribution margin of 40%, fixed annual operating cost of `1,35,000 and\ninterest obligation of ` 30,000.\nYou are required to calculate:\n(i)  Current level of sales of the company.\n(ii)  Operating, financial and combined leverage.\n(2 + 3 = 5 Marks)",
+  "suggested_answer": "(a) (i)  Current level of Sales:\nLet the present sales be\n= `X\nor 5% of Sales×40% = 9,000\nor 0.05X x 0.40\n\n= 9,000\nor 0.02X\n\n= 9,000\nCurrent Sales (X)\n\n= ` 4,50,000\nP/V ratio\n\n= Change in profit/ Change in sales\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n11\n0.40\n\n= 9,000/X\nX\n\n= 9,000/0.40\n\n= Rs 22,500\nHence, total sales;\n\n= Change in sales/ % change in sales\n\n= ` 22,500/0.05\n\n= ` 4,50,000\nIncome Statement\nParticulars\n(`)\nSales\n4,50,000\nContribution (40%)\n1,80,000\nLess: Fixed annual operating cost\n(1,35,000)\nEBIT (Earnings before interest and tax)\n45,000\nLess: Interest\n(30,000)\nEBT (Earnings before tax)\n15,000\n(ii) Leverage\n\nOperating Leverage\n= Contribution\nEBIT\n= 1,80,000\n45,000\n`\n`\n= 4\n\nFinancial Leverage\n= EBIT\nEBT\n=\n45,000\n15,000\n`\n`\n= 3\n\nCombined Leverage\n= Operating Leverage × Financial Leverage\n\n= 4 × 3 = 12\nOr,\n\nCombined Leverage\n= Contribution\nEBT\n= `\n`\n1,80,000\n15,000 = 12\n\n12",
+  "marks": "(2 + 3 = 5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q001_A",
+  "source_filename": "92877bos-sa-int-may2026-p6.pdf",
+  "source_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Financing Decisions — Leverages",
+    "topic": "Financing Decisions — Leverages",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "1(a)",
+    "marks": "(2 + 3 = 5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+      "answer_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Finance manager of A Ltd. noticed that a 5% increase in sales leads to\nincrease of ` 9,000 in operating profit. The company operates with a\ncontribution margin of 40%, fixed annual operating cost of `1,35,000 and\ninterest obligation of ` 30,000.\nYou are required to calculate:\n(i)  Current level of sales of the company.\n(ii)  Operating, financial and combined leverage.\n(2 + 3 = 5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)  Current level of Sales:\nLet the present sales be\n= `X\nor 5% of Sales×40% = 9,000\nor 0.05X x 0.40\n\n= 9,000\nor 0.02X\n\n= 9,000\nCurrent Sales (X)\n\n= ` 4,50,000\nP/V ratio\n\n= Change in profit/ Change in sales\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n11\n0.40\n\n= 9,000/X\nX\n\n= 9,000/0.40\n\n= Rs 22,500\nHence, total sales;\n\n= Change in sales/ % change in sales\n\n= ` 22,500/0.05\n\n= ` 4,50,000\nIncome Statement\nParticulars\n(`)\nSales\n4,50,000\nContribution (40%)\n1,80,000\nLess: Fixed annual operating cost\n(1,35,000)\nEBIT (Earnings before interest and tax)\n45,000\nLess: Interest\n(30,000)\nEBT (Earnings before tax)\n15,000\n(ii) Leverage\n\nOperating Leverage\n= Contribution\nEBIT\n= 1,80,000\n45,000\n`\n`\n= 4\n\nFinancial Leverage\n= EBIT\nEBT\n=\n45,000\n15,000\n`\n`\n= 3\n\nCombined Leverage\n= Operating Leverage × Financial Leverage\n\n= 4 × 3 = 12\nOr,\n\nCombined Leverage\n= Contribution\nEBT\n= `\n`\n1,80,000\n15,000 = 12\n\n12"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

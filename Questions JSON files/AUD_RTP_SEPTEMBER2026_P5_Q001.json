@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2026_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \nThe need for coordination and proper understanding between the \nprincipal auditor and the other auditor; and",
+  "suggested_answer": "(C)",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2026_P5_Q001",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \nThe need for coordination and proper understanding between the \nprincipal auditor and the other auditor; and"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

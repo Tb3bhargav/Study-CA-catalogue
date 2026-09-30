@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q001_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) XYZ Ltd. declared a net profit of ` 2,25,000 based on their financial accounts\nfor the year ending 31st March, 2024. The profit disclosed in cost books are\nnot matched with financial accounts. The following information were\nrevealed during the scrutiny of the figures of both the sets of books:\nSr.\nNo.\nParticulars\n`\n1.\nPreliminary expenses written off in financial accounts\n35,000\n2.\nFactory Overheads Over charged in cost accounts\n20,000\n3.\nExpenses on issue of shares in financial accounts\n30,000\n4.\nUndervaluation of closing stock in cost accounts\n65,000\n5.\nInterest on Bank Deposits in financial accounts\n60,000\n6.\nUnder recovery of administration overheads in cost\naccounts\n25,000\n7.\nNotional Rent of own premises charged in cost\naccounts\n30,000\n8.\nUnder recovery of selling overheads in cost accounts\n35,000\n9.\nBad debts recovered in financial accounts\n50,000\nRequired:\nPrepare Reconciliation Statement to arrive at net profit/loss as per Cost\nAccounts.\n(5 Marks)",
+  "suggested_answer": "(b)\n\nReconciliation Statement\n(`)\n(`)\nProfit (loss) as per Financial Accounts\n\n2,25,000\nAdd:\n\nPreliminary expenses written off\n35,000\n\nExpenses on issue of shares in financial accounts\n30,000\n\nUnder recovery of administration overheads in\ncost accounts\n25,000\n\nUnder recovery of selling overheads in cost\naccounts\n35,000\n\n1,25,000\nLess:\n\nFactory Overheads Over charged in cost accounts\n20,000\n\nUndervaluation of closing stock in cost accounts\n65,000\n\nInterest on Bank Deposits\n60,000\n\nNotional Rent of own premises charged in cost\naccounts\n30,000\n\nBad debts recovered in financial accounts\n50,000\n\n(2,25,000)\nNet Profit as per Cost Accounts\n1,25,000\n\n12",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q001_B",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) XYZ Ltd. declared a net profit of ` 2,25,000 based on their financial accounts\nfor the year ending 31st March, 2024. The profit disclosed in cost books are\nnot matched with financial accounts. The following information were\nrevealed during the scrutiny of the figures of both the sets of books:\nSr.\nNo.\nParticulars\n`\n1.\nPreliminary expenses written off in financial accounts\n35,000\n2.\nFactory Overheads Over charged in cost accounts\n20,000\n3.\nExpenses on issue of shares in financial accounts\n30,000\n4.\nUndervaluation of closing stock in cost accounts\n65,000\n5.\nInterest on Bank Deposits in financial accounts\n60,000\n6.\nUnder recovery of administration overheads in cost\naccounts\n25,000\n7.\nNotional Rent of own premises charged in cost\naccounts\n30,000\n8.\nUnder recovery of selling overheads in cost accounts\n35,000\n9.\nBad debts recovered in financial accounts\n50,000\nRequired:\nPrepare Reconciliation Statement to arrive at net profit/loss as per Cost\nAccounts.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)\n\nReconciliation Statement\n(`)\n(`)\nProfit (loss) as per Financial Accounts\n\n2,25,000\nAdd:\n\nPreliminary expenses written off\n35,000\n\nExpenses on issue of shares in financial accounts\n30,000\n\nUnder recovery of administration overheads in\ncost accounts\n25,000\n\nUnder recovery of selling overheads in cost\naccounts\n35,000\n\n1,25,000\nLess:\n\nFactory Overheads Over charged in cost accounts\n20,000\n\nUndervaluation of closing stock in cost accounts\n65,000\n\nInterest on Bank Deposits\n60,000\n\nNotional Rent of own premises charged in cost\naccounts\n30,000\n\nBad debts recovered in financial accounts\n50,000\n\n(2,25,000)\nNet Profit as per Cost Accounts\n1,25,000\n\n12"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

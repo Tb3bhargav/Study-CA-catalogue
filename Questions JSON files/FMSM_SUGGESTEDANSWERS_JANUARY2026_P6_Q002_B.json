@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q002_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Algo Steel Ltd. is a well-established company in the steel manufacturing\nsector, successfully operating for the past 20 years. The existing capital\nstructure comprises of 80% equity and 20% debt. Company's Cost of Equity\n(K) is 13.5%, reflecting the return expected by shareholders. Its debt\ncomponent comprises of a bank loan carrying an interest rate of 8% per\nannum. The company is subject to taxation and taxes are to be considered in\nproject evaluation. After preliminary evaluation, the Board of Directors has\nshortlisted a project with the following details:\nParticulars\n\nInitial Investment\n` 24,00,000\nEstimated Salvage Value\n10% of Initial Investment\nExpected Life of the Project\n4 years\nTax Savings on Depreciation\n` 1,35,000 p.a.\nMethod of Depreciation\nStraight Line Method (SLM)\n\nParticulars\nYear 1\nYear 2\nYear 3\nYear 4\nExpected Cash Flows\nbefore depreciation &\ntax (in `)\n12,00,000\n20,00,000\n18,00,000\n16,00,000\nPV Factor @ 10.00%\n0.909\n0.826\n0.751\n0.683\nPV Factor @ 12.00%\n0.893\n0.797\n0.712\n0.636\nRequired:\n(i)  Calculate Average Rate of Return (ARR) based on Average Investment.\n(ii)  Calculate Net Present Value (NPV) by using Weighted Average Cost of\nCapital (WACC).\n(5 Marks)",
+  "suggested_answer": "(b) Annual Depreciation\n=\n21,60,000 (24,00,000 - 2,40,000)\n4\n\n= ` 5,40,000\n\nTax Saving on Depreciation\n= Depreciation × Tax Rate\n\n1,35,000\n\n= 5,40,000 x Tax Rate\n\nTax Rate\n\n= 25%\n(i)  Average Rate of Return (ARR)\nStatement of Profit after Tax\nParticulars\nYear 1\n(`)\nYear 2\n(`)\nYear 3\n(`)\nYear 4\n(`)\nCash flow before\ndep. & tax\n12,00,000\n20,00,000\n18,00,000\n16,00,000\nLess: Depreciation\n5,40,000\n5,40,000\n5,40,000\n5,40,000\nProfit before tax\n6,60,000 14,60,000 12,60,000 10,60,000\nLess: Tax @ 25%\n1,65,000\n3,65,000\n3,15,000\n2,65,000\nProfit after tax\n(PAT)\n4,95,000 10,95,000\n9,45,000\n7,95,000\nAverage Rate of Return (ARR) = Average annual  net income (PAT)\nAverage Investment\n\nTotal PAT\n\n= 4,95,000 + 10,95,000 + 9,45,000 + 7,95,000\n\n= ` 33,30,000\nAverage PAT\n=\n33,30,000\n4\n= ` 8,32,500\nAverage Investment = (` 24,00,000 + ` 2,40,000)/2 = ` 13,20,000\n\nOr, Average Investment\n= ½ (Initial Investment – Salvage Value) +\n\nSalvage Value\n\n= ½ (` 24,00,000 - ` 2,40,000) + ` 2,40,000\n\n= ` 13,20,000\nARR\n8,32,500\n=\n×100\n13,20,000\n\n= 63.068% or 63.07%\n\n18\n(ii)  Calculation of WACC\nWACC\n= (0.80 x 13.5%) + {0.20 x 6% (8% x 0.75)}\n\n=10.8% + 1.2%\n\n= 12%\nStatement of Cash Flows after Tax\nParticulars\nYear 1\n(`)\nYear 2\n(`)\nYear 3\n(`)\nYear 4\n(`)\nYear 4\n(`)\nProfit after tax (PAT) 4,95,000\n10,95,000\n9,45,000 7,95,000\n\nAdd: Depreciation\n5,40,000\n5,40,000\n5,40,000 5,40,000\n\nCash Flow after Tax\n(CFAT)\n10,35,000\n16,35,000 14,85,000 13,35,000\n2,40,000\n(Salvage Value\nPV Factor @12%\n0.893\n0.797\n0.712\n0.636\n0.636\nPV\n9,24,255 13,03,095 10,57,320 8,49,060\n1,52,640\nTotal PV of Inflows = ` 42,86,370\nNPV = PV of Inflows − Initial Investment\n\n= 42,86,370 − 24,00,000\n\n= `18,86,370",
+  "marks": "(5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q002_B",
+  "source_filename": "91204bos-aps4356-sa-int-p6.pdf",
+  "source_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Cost of Capital",
+    "topic": "Cost of Capital",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "2(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+      "answer_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf"
+    },
+    "page_start": 16,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Algo Steel Ltd. is a well-established company in the steel manufacturing\nsector, successfully operating for the past 20 years. The existing capital\nstructure comprises of 80% equity and 20% debt. Company's Cost of Equity\n(K) is 13.5%, reflecting the return expected by shareholders. Its debt\ncomponent comprises of a bank loan carrying an interest rate of 8% per\nannum. The company is subject to taxation and taxes are to be considered in\nproject evaluation. After preliminary evaluation, the Board of Directors has\nshortlisted a project with the following details:\nParticulars\n\nInitial Investment\n` 24,00,000\nEstimated Salvage Value\n10% of Initial Investment\nExpected Life of the Project\n4 years\nTax Savings on Depreciation\n` 1,35,000 p.a.\nMethod of Depreciation\nStraight Line Method (SLM)\n\nParticulars\nYear 1\nYear 2\nYear 3\nYear 4\nExpected Cash Flows\nbefore depreciation &\ntax (in `)\n12,00,000\n20,00,000\n18,00,000\n16,00,000\nPV Factor @ 10.00%\n0.909\n0.826\n0.751\n0.683\nPV Factor @ 12.00%\n0.893\n0.797\n0.712\n0.636\nRequired:\n(i)  Calculate Average Rate of Return (ARR) based on Average Investment.\n(ii)  Calculate Net Present Value (NPV) by using Weighted Average Cost of\nCapital (WACC).\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Annual Depreciation\n=\n21,60,000 (24,00,000 - 2,40,000)\n4\n\n= ` 5,40,000\n\nTax Saving on Depreciation\n= Depreciation × Tax Rate\n\n1,35,000\n\n= 5,40,000 x Tax Rate\n\nTax Rate\n\n= 25%\n(i)  Average Rate of Return (ARR)\nStatement of Profit after Tax\nParticulars\nYear 1\n(`)\nYear 2\n(`)\nYear 3\n(`)\nYear 4\n(`)\nCash flow before\ndep. & tax\n12,00,000\n20,00,000\n18,00,000\n16,00,000\nLess: Depreciation\n5,40,000\n5,40,000\n5,40,000\n5,40,000\nProfit before tax\n6,60,000 14,60,000 12,60,000 10,60,000\nLess: Tax @ 25%\n1,65,000\n3,65,000\n3,15,000\n2,65,000\nProfit after tax\n(PAT)\n4,95,000 10,95,000\n9,45,000\n7,95,000\nAverage Rate of Return (ARR) = Average annual  net income (PAT)\nAverage Investment\n\nTotal PAT\n\n= 4,95,000 + 10,95,000 + 9,45,000 + 7,95,000\n\n= ` 33,30,000\nAverage PAT\n=\n33,30,000\n4\n= ` 8,32,500\nAverage Investment = (` 24,00,000 + ` 2,40,000)/2 = ` 13,20,000\n\nOr, Average Investment\n= ½ (Initial Investment – Salvage Value) +\n\nSalvage Value\n\n= ½ (` 24,00,000 - ` 2,40,000) + ` 2,40,000\n\n= ` 13,20,000\nARR\n8,32,500\n=\n×100\n13,20,000\n\n= 63.068% or 63.07%\n\n18\n(ii)  Calculation of WACC\nWACC\n= (0.80 x 13.5%) + {0.20 x 6% (8% x 0.75)}\n\n=10.8% + 1.2%\n\n= 12%\nStatement of Cash Flows after Tax\nParticulars\nYear 1\n(`)\nYear 2\n(`)\nYear 3\n(`)\nYear 4\n(`)\nYear 4\n(`)\nProfit after tax (PAT) 4,95,000\n10,95,000\n9,45,000 7,95,000\n\nAdd: Depreciation\n5,40,000\n5,40,000\n5,40,000 5,40,000\n\nCash Flow after Tax\n(CFAT)\n10,35,000\n16,35,000 14,85,000 13,35,000\n2,40,000\n(Salvage Value\nPV Factor @12%\n0.893\n0.797\n0.712\n0.636\n0.636\nPV\n9,24,255 13,03,095 10,57,320 8,49,060\n1,52,640\nTotal PV of Inflows = ` 42,86,370\nNPV = PV of Inflows − Initial Investment\n\n= 42,86,370 − 24,00,000\n\n= `18,86,370"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

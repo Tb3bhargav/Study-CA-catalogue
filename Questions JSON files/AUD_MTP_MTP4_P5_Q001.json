@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "1. \nIn the planning stage described in the case scenario, the engagement partner \nemphasised understanding regulatory frameworks, identifying significant matters, \ndetermining materiality, and considering involvement of experts. \n \nIn the context of the situation described above, the primary rationale for such an \napproach is to: \n(a)  \nRestrict planning to scheduling audit procedures and allocation of audit staff \n(b)  \nConsider regulatory framework and experts only after detection of misstatements \n(c)  \nEnsure that planning includes understanding legal and regulatory requirements, \nidentifying significant matters, determining materiality, considering use of experts \nand performing risk assessment procedures \n(d)  \nLimit regulatory understanding only to compliance audits and not financial \nstatement audits",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q001",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \nIn the planning stage described in the case scenario, the engagement partner \nemphasised understanding regulatory frameworks, identifying significant matters, \ndetermining materiality, and considering involvement of experts. \n \nIn the context of the situation described above, the primary rationale for such an \napproach is to: \n(a)  \nRestrict planning to scheduling audit procedures and allocation of audit staff \n(b)  \nConsider regulatory framework and experts only after detection of misstatements \n(c)  \nEnsure that planning includes understanding legal and regulatory requirements, \nidentifying significant matters, determining materiality, considering use of experts \nand performing risk assessment procedures \n(d)  \nLimit regulatory understanding only to compliance audits and not financial \nstatement audits"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

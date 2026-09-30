@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3.  Assuming that the company is willing to take a 15% risk of being out of stock,\nwhat would be the safety stock and the Re-order point?\n(A)  Safety stock 1050 batteries and Re-order point 2250 batteries\n(B)  Safety stock 2250 batteries and Re-order point 1050 batteries\n(C)  Safety stock 1450 batteries and Re-order point 2850 batteries\n(D)  Safety stock 1250 batteries and Re-order point 2650 batteries",
+  "suggested_answer": "None",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q003",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  Assuming that the company is willing to take a 15% risk of being out of stock,\nwhat would be the safety stock and the Re-order point?\n(A)  Safety stock 1050 batteries and Re-order point 2250 batteries\n(B)  Safety stock 2250 batteries and Re-order point 1050 batteries\n(C)  Safety stock 1450 batteries and Re-order point 2850 batteries\n(D)  Safety stock 1250 batteries and Re-order point 2650 batteries"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "None"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

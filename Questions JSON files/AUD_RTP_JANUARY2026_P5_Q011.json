@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "11. \nSPOM & Co. is a firm of Chartered Accountants established in 2010 with \nmajor focus on Audit Practice. In F.Y. 2024-25, firm has four partners and \n15 articled assistants handling various Internal audit and Statutory Audit \nassignments. Partners and articled assistants meet monthly to discuss \nvarious aspects of practical as well as academic issues. While discussing \nabout various aspects of Audit Risk, Risk of material misstatement etc., \nPartner S asks one of the articled assistants to explain the concept of \nmisstatement with the help of at least five examples.  \nChapter 4 - Audit Evidence",
+  "suggested_answer": "Misstatement refers to difference between the amount, classification, \npresentation, or disclosure of a reported financial statement item and \nthe amount, classification, presentation, or disclosure that is required for \nthe item to be in accordance with the applicable financial reporting \nframework. Misstatements can arise from error or fraud. \n \nFew examples of misstatements are:  \ni. \nCharging an item of capital expenditure to revenue or vice versa. \nii. \nDifference in disclosure of a financial statement item vis-vis its \nrequirement in applicable financial reporting framework. \niii. \nSelection or application of inappropriate accounting policies. \niv. \nDifference in accounting estimate of a financial statement item  \nvis-a-vis its appropriateness in applicable financial reporting \nframework. \nv. \nIntentional booking of fake expenses in statement of profit and \nloss. \nvi. \nOverstating receivables in financial statements by not writing off \nirrecoverable debts. \nvii. \nOverstating or understating inventories.",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q011",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nSPOM & Co. is a firm of Chartered Accountants established in 2010 with \nmajor focus on Audit Practice. In F.Y. 2024-25, firm has four partners and \n15 articled assistants handling various Internal audit and Statutory Audit \nassignments. Partners and articled assistants meet monthly to discuss \nvarious aspects of practical as well as academic issues. While discussing \nabout various aspects of Audit Risk, Risk of material misstatement etc., \nPartner S asks one of the articled assistants to explain the concept of \nmisstatement with the help of at least five examples.  \nChapter 4 - Audit Evidence"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Misstatement refers to difference between the amount, classification, \npresentation, or disclosure of a reported financial statement item and \nthe amount, classification, presentation, or disclosure that is required for \nthe item to be in accordance with the applicable financial reporting \nframework. Misstatements can arise from error or fraud. \n \nFew examples of misstatements are:  \ni. \nCharging an item of capital expenditure to revenue or vice versa. \nii. \nDifference in disclosure of a financial statement item vis-vis its \nrequirement in applicable financial reporting framework. \niii. \nSelection or application of inappropriate accounting policies. \niv. \nDifference in accounting estimate of a financial statement item  \nvis-a-vis its appropriateness in applicable financial reporting \nframework. \nv. \nIntentional booking of fake expenses in statement of profit and \nloss. \nvi. \nOverstating receivables in financial statements by not writing off \nirrecoverable debts. \nvii. \nOverstating or understating inventories."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

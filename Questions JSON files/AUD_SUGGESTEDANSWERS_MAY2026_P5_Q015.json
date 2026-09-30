@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15. While auditing the financial statements of Triveni Manufacturing Ltd. for the\nyear ended 31/03/2026, the auditor observed that the company had certain\ntransactions with MNO Trading Pvt. Ltd. During the audit, it was noted that\nMNO Trading Pvt. Ltd. had been struck off by the Registrar of Companies\n(ROC) under Sec 248 of the Companies Act, 2013. The transactions between\nTriveni Manufacturing Ltd. & MNO Trading Pvt. Ltd. included:\n-\nPurchases of IT hardware during the year amounted to ` 18.50 lakh.\n-\nAs at 31 March 2026, ` 4.20 lakh remained outstanding and payable.\n-\nOne of the directors of Triveni Manufacturing Ltd. held 15% equity in\nMNO Trading Pvt. Ltd.\n\nWhich of the following details are required to be disclosed in the financial\nstatements of Triveni Manufacturing Ltd.?\n\nAUDITING AND ETHICS\n\n11\nI.\nName of the struck-off company (MNO Trading Pvt. Ltd.)\nII.  Nature of transactions entered into with such company\nIII.  Balance outstanding on reporting date (`4.20 lakh)\nIV.  Total purchase amount from MNO Trading Pvt. Ltd. during the year\n(` 18.50 lakh)\nV.  Relationship with the Struck off company, if any\nVI.  Date on which MNO Trading Pvt. Ltd. was struck off by the ROC.\n(A)  I, II, III and IV\n(B)  I, II, IV and V\n(C)  I, II and IV\n(D)  I, II, III and V\n(2 Marks)\nAnswer Key\nMCQ No.\nCorrect Option",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q015",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 11
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 10,
+    "page_end": 11,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. While auditing the financial statements of Triveni Manufacturing Ltd. for the\nyear ended 31/03/2026, the auditor observed that the company had certain\ntransactions with MNO Trading Pvt. Ltd. During the audit, it was noted that\nMNO Trading Pvt. Ltd. had been struck off by the Registrar of Companies\n(ROC) under Sec 248 of the Companies Act, 2013. The transactions between\nTriveni Manufacturing Ltd. & MNO Trading Pvt. Ltd. included:\n-\nPurchases of IT hardware during the year amounted to ` 18.50 lakh.\n-\nAs at 31 March 2026, ` 4.20 lakh remained outstanding and payable.\n-\nOne of the directors of Triveni Manufacturing Ltd. held 15% equity in\nMNO Trading Pvt. Ltd.\n\nWhich of the following details are required to be disclosed in the financial\nstatements of Triveni Manufacturing Ltd.?\n\nAUDITING AND ETHICS\n\n11\nI.\nName of the struck-off company (MNO Trading Pvt. Ltd.)\nII.  Nature of transactions entered into with such company\nIII.  Balance outstanding on reporting date (`4.20 lakh)\nIV.  Total purchase amount from MNO Trading Pvt. Ltd. during the year\n(` 18.50 lakh)\nV.  Relationship with the Struck off company, if any\nVI.  Date on which MNO Trading Pvt. Ltd. was struck off by the ROC.\n(A)  I, II, III and IV\n(B)  I, II, IV and V\n(C)  I, II and IV\n(D)  I, II, III and V\n(2 Marks)\nAnswer Key\nMCQ No.\nCorrect Option"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

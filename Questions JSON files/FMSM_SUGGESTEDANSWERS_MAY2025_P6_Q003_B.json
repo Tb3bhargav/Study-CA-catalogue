@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2025_P6_Q003_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Z Ltd. is an unlevered company. It wants to repurchase its equity shares of\n` 300 lakhs by issue of 12% debentures of same amount. Current market\nvalue of Z Ltd. is ` 1,400 lakhs. Its cost of capital is 18%. The company will\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n19\nmaintain same level of EBIT in future years. Dividend pay-out ratio is 100%.\nCompany pays tax at a rate of 30%.\n\nAs per Modigliani and Miller approach, due to such change in capital\nstructure, what will be impact on the following?\n(i)  Market Value of Z Ltd.\n(ii)  Overall cost of capital\n(iii)  Cost of equity\n(4 Marks)",
+  "suggested_answer": "(b)  Market Value of Equity\n\n=\nNet income (NI) for equity holders\nKe\n\n` 1,400 lakhs\n\n=\nNet income (NI) for equity holders\n0.18\n\nNet Income to equity holders/EAT\n= ` 252 lakhs\nTherefore, EBIT =\nEAT\n(1-t)\n\n=\n252  lakhs\n(1 – 0.3)  = ` 360 lakhs\nIncome Statement\n\nAll Equity\n(` In lakhs)\nEquity & Debt\n(` In lakhs)\nEBIT (as calculated above)\nInterest on ` 300 lakhs @ 12%\nEBT\nTax @ 30%\nIncome available to equity holders\n360\n-\n360\n108\n252\n360\n36\n324\n97.2\n226.8\n(i) Market value of Z Ltd\n\nMarket value of levered firm = Value of unlevered firm + Tax Advantage\n\n= ` 1,400 lakhs + (` 300 lakhs x 0.3)\n\n= ` 1,490 lakhs\n\nChange in market value of the company = 1,490 lakhs – 1,400 lakhs\n\n= ` 90 lakhs\n\nThe impact is that the market value of the company has increased by ` 90\nlakhs due to replacement of equity with debt.\n\n22\n(ii)  Overall Cost of Capital\n\nMarket Value of Equity\n= Market value of levered firm - Equity\n\nrepurchased\n\n=  ` 1,490 lakhs – ` 300 lakhs = ` 1,190 lakhs\n\nCost of Equity (Ke)\n=\nNet Income to equity holders\nMarket value of equity\n× 100\n\n=\n` 226.8 lakhs\n` 1190 lakhs  × 100 =19.06% (approx.)\n\nCost of debt (Kd)\n\n= I (1 - t) = 12 (1 - 0.3) = 8.4%\nComponents\nAmount\n(` In lakhs)\nCost of\nCapital %\nWeight\nWACC\n(Ko) %\nEquity\nDebt\n1,190\n300\n19.06\n8.4\n0.80(approx.)\n0.20(approx.)\n15.25\n1.68\n\n1490\n\n1\n16.93\n\n(Note: If we take the weight of Equity as 0.7986 and weight of Debt as\n0.2013 then WACC will be 16.91%).\n\nImpact on Market value and Overall cost of capital of Z Ltd.\nParticulars\nBefore\nrestructure\nAfter\nrestructure\nImpact\nMarket value of\ncompany\n` 1,400 lakhs\n` 1,490 Lakhs\nIncrease due to\nimport of debt\nCost of equity\n18%\n19.06%\nIncrease\nOverall\ncost\nof\ncapital\n18%\n16.93%\nDecrease\n\nSo, the impact is that the Overall Cost of Capital or Ko has fallen by\n1.07% (18% - 16.93%) due to the benefit of tax relief on debt interest\npayment.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n23\n(iii) Cost of Equity\n\nThe impact is that cost of equity has risen by 1.06% (19.06% - 18%) due\nto the presence of financial risk i.e. introduction of debt in capital\nstructure.\n\nNote: Cost of Capital and Cost of equity can also be calculated with\nthe help of following formulas,\n\nCost of Capital (Ko) = Keu [1 – (t x L)]\n\nWhere,\n\nKeu  = Cost of equity in an unlevered company\n\nt\n= Tax rate\n\nL     =\nDebt\nDebt + Equity\n\nSo, Ko = 0.18 ቂ1- ቀ0.3 ×\n` 300 lakhs\n` 1490 lakhsቁቃ= 0.1691 or 16.91% (approx.)\n\nCost of Equity (Ke) = Keu + (Keu – Kd)\nDebt (1-t)\nEquity\n\nWhere,\n\nKeu\n= Cost of equity in an unlevered company\n\nKd\n= Cost of debt\n\nt\n\n= Tax rate\n\nSo, Ke\n= 0.18 + ቀ(0.18-0.12) ×\n`  300 lakhs (1-0.3)\n` 1190 lakhs\nቁ\n\n= 0.1906 or 19.06%",
+  "marks": "(4 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2025_P6_Q003_B",
+  "source_filename": "86856bos-sa-int-may2025-g2-p6.pdf",
+  "source_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "3(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf",
+      "answer_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf"
+    },
+    "page_start": 18,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Z Ltd. is an unlevered company. It wants to repurchase its equity shares of\n` 300 lakhs by issue of 12% debentures of same amount. Current market\nvalue of Z Ltd. is ` 1,400 lakhs. Its cost of capital is 18%. The company will\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n19\nmaintain same level of EBIT in future years. Dividend pay-out ratio is 100%.\nCompany pays tax at a rate of 30%.\n\nAs per Modigliani and Miller approach, due to such change in capital\nstructure, what will be impact on the following?\n(i)  Market Value of Z Ltd.\n(ii)  Overall cost of capital\n(iii)  Cost of equity\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Market Value of Equity\n\n=\nNet income (NI) for equity holders\nKe\n\n` 1,400 lakhs\n\n=\nNet income (NI) for equity holders\n0.18\n\nNet Income to equity holders/EAT\n= ` 252 lakhs\nTherefore, EBIT =\nEAT\n(1-t)\n\n=\n252  lakhs\n(1 – 0.3)  = ` 360 lakhs\nIncome Statement\n\nAll Equity\n(` In lakhs)\nEquity & Debt\n(` In lakhs)\nEBIT (as calculated above)\nInterest on ` 300 lakhs @ 12%\nEBT\nTax @ 30%\nIncome available to equity holders\n360\n-\n360\n108\n252\n360\n36\n324\n97.2\n226.8\n(i) Market value of Z Ltd\n\nMarket value of levered firm = Value of unlevered firm + Tax Advantage\n\n= ` 1,400 lakhs + (` 300 lakhs x 0.3)\n\n= ` 1,490 lakhs\n\nChange in market value of the company = 1,490 lakhs – 1,400 lakhs\n\n= ` 90 lakhs\n\nThe impact is that the market value of the company has increased by ` 90\nlakhs due to replacement of equity with debt.\n\n22\n(ii)  Overall Cost of Capital\n\nMarket Value of Equity\n= Market value of levered firm - Equity\n\nrepurchased\n\n=  ` 1,490 lakhs – ` 300 lakhs = ` 1,190 lakhs\n\nCost of Equity (Ke)\n=\nNet Income to equity holders\nMarket value of equity\n× 100\n\n=\n` 226.8 lakhs\n` 1190 lakhs  × 100 =19.06% (approx.)\n\nCost of debt (Kd)\n\n= I (1 - t) = 12 (1 - 0.3) = 8.4%\nComponents\nAmount\n(` In lakhs)\nCost of\nCapital %\nWeight\nWACC\n(Ko) %\nEquity\nDebt\n1,190\n300\n19.06\n8.4\n0.80(approx.)\n0.20(approx.)\n15.25\n1.68\n\n1490\n\n1\n16.93\n\n(Note: If we take the weight of Equity as 0.7986 and weight of Debt as\n0.2013 then WACC will be 16.91%).\n\nImpact on Market value and Overall cost of capital of Z Ltd.\nParticulars\nBefore\nrestructure\nAfter\nrestructure\nImpact\nMarket value of\ncompany\n` 1,400 lakhs\n` 1,490 Lakhs\nIncrease due to\nimport of debt\nCost of equity\n18%\n19.06%\nIncrease\nOverall\ncost\nof\ncapital\n18%\n16.93%\nDecrease\n\nSo, the impact is that the Overall Cost of Capital or Ko has fallen by\n1.07% (18% - 16.93%) due to the benefit of tax relief on debt interest\npayment.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n23\n(iii) Cost of Equity\n\nThe impact is that cost of equity has risen by 1.06% (19.06% - 18%) due\nto the presence of financial risk i.e. introduction of debt in capital\nstructure.\n\nNote: Cost of Capital and Cost of equity can also be calculated with\nthe help of following formulas,\n\nCost of Capital (Ko) = Keu [1 – (t x L)]\n\nWhere,\n\nKeu  = Cost of equity in an unlevered company\n\nt\n= Tax rate\n\nL     =\nDebt\nDebt + Equity\n\nSo, Ko = 0.18 ቂ1- ቀ0.3 ×\n` 300 lakhs\n` 1490 lakhsቁቃ= 0.1691 or 16.91% (approx.)\n\nCost of Equity (Ke) = Keu + (Keu – Kd)\nDebt (1-t)\nEquity\n\nWhere,\n\nKeu\n= Cost of equity in an unlevered company\n\nKd\n= Cost of debt\n\nt\n\n= Tax rate\n\nSo, Ke\n= 0.18 + ቀ(0.18-0.12) ×\n`  300 lakhs (1-0.3)\n` 1190 lakhs\nቁ\n\n= 0.1906 or 19.06%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. Mr. Saurabh, a Chartered Accountant, has been appointed as the Statutory\nAuditor of GM Bank, a nationalized bank, for the financial year 2024-25.\nBefore commencing the audit, Mr. Saurabh conducted an orientation session\nfor his audit team, to familiarize them with the Long Form Audit Report\n(LFAR) - its applicability, contents, and submission requirements.\n\nWhich of the following statements are correct in respect of the Long Form\nAudit Report (LFAR)?\nI.\nBesides the audit report, as per the statutory requirements, the terms of\nappointment of auditors of public sector banks, private sector banks and\nforeign banks including their branches, require the auditors to also\nfurnish a long form audit report.\nII.  The matters which the banks require their auditors to deal with in the\nlong form audit report have been specified by RBI.\nIII.  The Statutory Central Auditors are required to submit the LFAR to the\nbanks at the latest by 31st July every year.\nIV.  The format of LFAR mandatorily requires an executive summary to be\ngiven, where members must provide the same to bring out the key\nobservations from the whole document.\n(A)  I, II, III, IV\n(B)  I, IV\n(C)  I, II\n(D)  III, IV\n(2 Marks)\n\nAUDITING AND ETHICS\n\n9",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q013",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 10,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. Mr. Saurabh, a Chartered Accountant, has been appointed as the Statutory\nAuditor of GM Bank, a nationalized bank, for the financial year 2024-25.\nBefore commencing the audit, Mr. Saurabh conducted an orientation session\nfor his audit team, to familiarize them with the Long Form Audit Report\n(LFAR) - its applicability, contents, and submission requirements.\n\nWhich of the following statements are correct in respect of the Long Form\nAudit Report (LFAR)?\nI.\nBesides the audit report, as per the statutory requirements, the terms of\nappointment of auditors of public sector banks, private sector banks and\nforeign banks including their branches, require the auditors to also\nfurnish a long form audit report.\nII.  The matters which the banks require their auditors to deal with in the\nlong form audit report have been specified by RBI.\nIII.  The Statutory Central Auditors are required to submit the LFAR to the\nbanks at the latest by 31st July every year.\nIV.  The format of LFAR mandatorily requires an executive summary to be\ngiven, where members must provide the same to bring out the key\nobservations from the whole document.\n(A)  I, II, III, IV\n(B)  I, IV\n(C)  I, II\n(D)  III, IV\n(2 Marks)\n\nAUDITING AND ETHICS\n\n9"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

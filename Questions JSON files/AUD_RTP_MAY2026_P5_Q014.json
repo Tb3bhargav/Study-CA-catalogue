@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2026_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "14. \nTUV Ltd. is engaged in the business of manufacturing and sale of \nelectronic appliances. During the audit of the company for the year \nended 31st March 2025, the auditor observed a significant increase in \nrevenue in the last month of the financial year as compared to previous \nmonths. \n\n \nINTERMEDIATE EXAMINATION \n \n \n60 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nFurther, it was noticed that: \n• \nSome sales invoices near year-end were cancelled subsequently. \n• \nThe sales return ratio for the current year showed wide fluctuation \ncompared to the previous year. \n• \nManagement was under pressure to meet revenue targets to \ncomply with loan covenants. \n• \nCertain customers had not made payments even after an extended \ncredit period. \n \nThe auditor is concerned about the risk of overstatement of revenue and \nwants to verify whether the recorded sales genuinely represent goods \nshipped or services performed during the period. \n \nAs an auditor, explain the audit procedures you would perform to verify \nthe Occurrence assertion in respect of revenue transactions of TUV Ltd. \nChapter 6 - Audit Documentation",
+  "suggested_answer": "Audit Procedure – Occurrence Assertion: To verify that recorded sales \nrepresent goods actually shipped or services actually performed during \nthe period, the auditor should perform the following audit procedures to \nsatisfy the Occurrence assertion and ensure that revenue is not \noverstated:",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2026_P5_Q014",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. \nTUV Ltd. is engaged in the business of manufacturing and sale of \nelectronic appliances. During the audit of the company for the year \nended 31st March 2025, the auditor observed a significant increase in \nrevenue in the last month of the financial year as compared to previous \nmonths. \n\n \nINTERMEDIATE EXAMINATION \n \n \n60 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nFurther, it was noticed that: \n• \nSome sales invoices near year-end were cancelled subsequently. \n• \nThe sales return ratio for the current year showed wide fluctuation \ncompared to the previous year. \n• \nManagement was under pressure to meet revenue targets to \ncomply with loan covenants. \n• \nCertain customers had not made payments even after an extended \ncredit period. \n \nThe auditor is concerned about the risk of overstatement of revenue and \nwants to verify whether the recorded sales genuinely represent goods \nshipped or services performed during the period. \n \nAs an auditor, explain the audit procedures you would perform to verify \nthe Occurrence assertion in respect of revenue transactions of TUV Ltd. \nChapter 6 - Audit Documentation"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Audit Procedure – Occurrence Assertion: To verify that recorded sales \nrepresent goods actually shipped or services actually performed during \nthe period, the auditor should perform the following audit procedures to \nsatisfy the Occurrence assertion and ensure that revenue is not \noverstated:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. \nWhat will be your conclusions regarding the break-even level of participants, if the \ncompany proposes to charge `850 per participant? \n(A)  \n90 participants \n(B) \n180 participants \n(C)  \n110 participants \n(D) \n125 participants \n(5 x 2 = 10 Marks)",
+  "suggested_answer": "(B) 180 Participants Calculation of Break-even Level of Participants Collection per participant = ` 850 Variable cost per participant = ` 500 Contribution per participant = ` 350 Semi-variable & Fixed Costs at Different Levels Level of participants 50 100 150 200 Semi-variable costs (`) 12,000 24,000 36,000 44,800 Fixed costs (`) 15,000 15,000 18,000 18,000 Total Fixed Cost (`) 27,000 39,000 54,000 62,800 Break- even students [Fixed cost / Contribution per participant] 77 111 154 180 Conclusion: Break-even level of 180 participants is within the relevant capacity of 200 participants. Break-even level of 77, 111, 154 participants is outside the relevant capacity, hence ignored for decision-making. Note: Semi-variable costs are taken as fixed cost specifically for the purpose of calculating break even participants. 4",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q010",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nWhat will be your conclusions regarding the break-even level of participants, if the \ncompany proposes to charge `850 per participant? \n(A)  \n90 participants \n(B) \n180 participants \n(C)  \n110 participants \n(D) \n125 participants \n(5 x 2 = 10 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) 180 Participants Calculation of Break-even Level of Participants Collection per participant = ` 850 Variable cost per participant = ` 500 Contribution per participant = ` 350 Semi-variable & Fixed Costs at Different Levels Level of participants 50 100 150 200 Semi-variable costs (`) 12,000 24,000 36,000 44,800 Fixed costs (`) 15,000 15,000 18,000 18,000 Total Fixed Cost (`) 27,000 39,000 54,000 62,800 Break- even students [Fixed cost / Contribution per participant] 77 111 154 180 Conclusion: Break-even level of 180 participants is within the relevant capacity of 200 participants. Break-even level of 77, 111, 154 participants is outside the relevant capacity, hence ignored for decision-making. Note: Semi-variable costs are taken as fixed cost specifically for the purpose of calculating break even participants. 4"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

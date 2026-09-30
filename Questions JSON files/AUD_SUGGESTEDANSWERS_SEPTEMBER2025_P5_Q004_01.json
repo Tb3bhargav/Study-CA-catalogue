@@ -1,0 +1,64 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_01",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.\nCA Rajesh decided to go for sampling for verification of controls, transactions\nand for applying substantive procedures. In this regard, select a statement\nfrom the below options, which is not apt:\n(A)  It is possible to make 100% examination of test of controls.\n(B)  100% examination may be made of a population constituting a small\nnumber of large value items.\n(C)  100% examination is appropriate when there is a significant risk, and\nother means do not provide sufficient appropriate audit evidence.\n(D)  The repetitive nature of calculation or other process performed\nautomatically by an information system, makes a 100% examination\ncost effective.\n(2Marks)",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.\nCA Rajesh decided to go for sampling for verification of controls, transactions\nand for applying substantive procedures. In this regard, select a statement\nfrom the below options, which is not apt:\n(A)  It is possible to make 100% examination of test of controls.\n(B)  100% examination may be made of a population constituting a small\nnumber of large value items.\n(C)  100% examination is appropriate when there is a significant risk, and\nother means do not provide sufficient appropriate audit evidence.\n(D)  The repetitive nature of calculation or other process performed\nautomatically by an information system, makes a 100% examination\ncost effective.\n(2Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) CA Amit is the auditor of LMN Ltd. While conducting the audit, he wanted to\nanalyze the different components of internal control of the company. Identify\nand explain which component of internal control he is trying to understand\nin the following two cases: -\n(i) Whether controls in LMN Ltd. are operating as intended and they are\nmodified as appropriate for change in conditions.\n(ii) Whether there exists proper segregation of duties in the company and\nthe person responsible for recording a transaction is different from the\nperson authorizing it.\n(4 Marks)",
+  "suggested_answer": "(a) (i)  In this case, CA. Amit is trying to understand that whether controls in\nthe LMN Ltd. are operating as intended and they are modified as\nappropriate for change in conditions:   He is gaining the understanding\nof the Monitoring of controls component of internal control.\nMonitoring of controls is a process to assess the effectiveness of\ninternal control performance over time. It helps in assessing the\neffectiveness of controls on a timely basis and taking necessary\nremedial actions. It includes considering whether controls are\noperating as intended and that they are modified as appropriate for\nchange in conditions.\n(ii)  In the given situation, CA Amit is trying to understand that whether\nthere exists a proper system of segregation of duties in the company\nand the person responsible for recording a transaction is different from\nthe person authorising it.  He is gaining an understanding of internal\n\n18\ncontrol of the company. In particular, he is understanding “control\nactivities”. When a person recording a transaction is different from one\nauthorizing it, he gains confidence that there exists a system for\npreventing misstatements.  It helps him in gaining insight into the\ninternal control system of the company.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_A",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 16,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) CA Amit is the auditor of LMN Ltd. While conducting the audit, he wanted to\nanalyze the different components of internal control of the company. Identify\nand explain which component of internal control he is trying to understand\nin the following two cases: -\n(i) Whether controls in LMN Ltd. are operating as intended and they are\nmodified as appropriate for change in conditions.\n(ii) Whether there exists proper segregation of duties in the company and\nthe person responsible for recording a transaction is different from the\nperson authorizing it.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)  In this case, CA. Amit is trying to understand that whether controls in\nthe LMN Ltd. are operating as intended and they are modified as\nappropriate for change in conditions:   He is gaining the understanding\nof the Monitoring of controls component of internal control.\nMonitoring of controls is a process to assess the effectiveness of\ninternal control performance over time. It helps in assessing the\neffectiveness of controls on a timely basis and taking necessary\nremedial actions. It includes considering whether controls are\noperating as intended and that they are modified as appropriate for\nchange in conditions.\n(ii)  In the given situation, CA Amit is trying to understand that whether\nthere exists a proper system of segregation of duties in the company\nand the person responsible for recording a transaction is different from\nthe person authorising it.  He is gaining an understanding of internal\n\n18\ncontrol of the company. In particular, he is understanding “control\nactivities”. When a person recording a transaction is different from one\nauthorizing it, he gains confidence that there exists a system for\npreventing misstatements.  It helps him in gaining insight into the\ninternal control system of the company."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

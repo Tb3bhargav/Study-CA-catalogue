@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.  \nActual cost of 4,500 units: \n(A)  \n` 5,86,500 \n(B)  \n` 7,15,500 \n(C)  \n` 7,00,900 \n(D)  \n` 6,30,000 \n(5 x 2 = 10 Marks) \nCase Scenario 2 \nA manufacturing company is in the process of preparing its cost sheet for the financial year. The \nmanagement wants to analyze the efficiency of production operations and requires detailed \ncomputation of key cost components such as material consumed, prime cost, cost of production, \netc. \nDuring the year, the company incurred various expenditures related to raw materials, labour, \nfactory operations, and administrative activities. It also maintained records of inventory levels \nand work-in-process to ensure accurate cost determination. \nThe following information has been gathered from the company’s records: \n \n \nAmount (`) \n(i) \nRepair & maintenance paid for plant & machinery \n9,80,500 \n(ii) \nInsurance premium paid for inventories \n26,000 \n(iii) \nInsurance premium paid for plant & machinery \n96,000 \n(iv) \nRaw materials purchased \n64,00,000 \n(v) \nOpening stock of raw materials \n2,88,000 \n(vi) \nClosing stock of raw materials \n4,46,000 \n(vii) \nWages paid \n23,20,000 \n(viii) Value of opening Work-in-process \n4,06,000 \n4 \n(ix) \nValue of closing Work-in-process \n6,02,100 \n(x) \nQuality control cost for the products in manufacturing process \n86,000 \n(xi) \nResearch & development cost for improvement in production process \n92,600 \n(xii) \nAdministrative cost for: \n \n \n- \nFactory & production \n9,00,000 \n \n- \nOthers \n11,60,000 \n(xiii) Amount realised by selling scrap generated during the manufacturing \nprocess \n9,200 \n(xiv) Packing cost necessary to preserve the goods for further processing \n10,200 \n(xv) \nSalary paid to Director (Technical) \n8,90,000 \n(xvi) Television programme sponsorship cost \n5,00,000 \nAs a production manager you are required to answer the following questions (MCQs 6 to 10):",
+  "suggested_answer": "(C) `7,00,900 Completion of Opening WIP Labour: 400 × 65 = 26,000 OH: 400 × 36 = 14,400 Add: opening cost: = 1,04,000 = ` 1,44,400 Started & Completed (3,500 units) Material = 3,500 × 58 = 2,03,000 Labour = 3,500 × 65 = 2,27,500 OH = 3,500 × 36 = 1,26,000 = ` 5,56,500 Total Cost of 4,500 Units = 1,44,400 + 5,56,500 = ` 7,00,900 Case Scenario 2",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q005",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.  \nActual cost of 4,500 units: \n(A)  \n` 5,86,500 \n(B)  \n` 7,15,500 \n(C)  \n` 7,00,900 \n(D)  \n` 6,30,000 \n(5 x 2 = 10 Marks) \nCase Scenario 2 \nA manufacturing company is in the process of preparing its cost sheet for the financial year. The \nmanagement wants to analyze the efficiency of production operations and requires detailed \ncomputation of key cost components such as material consumed, prime cost, cost of production, \netc. \nDuring the year, the company incurred various expenditures related to raw materials, labour, \nfactory operations, and administrative activities. It also maintained records of inventory levels \nand work-in-process to ensure accurate cost determination. \nThe following information has been gathered from the company’s records: \n \n \nAmount (`) \n(i) \nRepair & maintenance paid for plant & machinery \n9,80,500 \n(ii) \nInsurance premium paid for inventories \n26,000 \n(iii) \nInsurance premium paid for plant & machinery \n96,000 \n(iv) \nRaw materials purchased \n64,00,000 \n(v) \nOpening stock of raw materials \n2,88,000 \n(vi) \nClosing stock of raw materials \n4,46,000 \n(vii) \nWages paid \n23,20,000 \n(viii) Value of opening Work-in-process \n4,06,000 \n4 \n(ix) \nValue of closing Work-in-process \n6,02,100 \n(x) \nQuality control cost for the products in manufacturing process \n86,000 \n(xi) \nResearch & development cost for improvement in production process \n92,600 \n(xii) \nAdministrative cost for: \n \n \n- \nFactory & production \n9,00,000 \n \n- \nOthers \n11,60,000 \n(xiii) Amount realised by selling scrap generated during the manufacturing \nprocess \n9,200 \n(xiv) Packing cost necessary to preserve the goods for further processing \n10,200 \n(xv) \nSalary paid to Director (Technical) \n8,90,000 \n(xvi) Television programme sponsorship cost \n5,00,000 \nAs a production manager you are required to answer the following questions (MCQs 6 to 10):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) `7,00,900 Completion of Opening WIP Labour: 400 × 65 = 26,000 OH: 400 × 36 = 14,400 Add: opening cost: = 1,04,000 = ` 1,44,400 Started & Completed (3,500 units) Material = 3,500 × 58 = 2,03,000 Labour = 3,500 × 65 = 2,27,500 OH = 3,500 × 36 = 1,26,000 = ` 5,56,500 Total Cost of 4,500 Units = 1,44,400 + 5,56,500 = ` 7,00,900 Case Scenario 2"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

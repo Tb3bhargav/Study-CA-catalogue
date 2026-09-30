@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q004_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 4,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) CA Ayush has recently qualified and has joined a CA Firm. On going through\nvarious audit reports, he observed that different phrases were used to express\nan unmodified opinion on the financial statements. On enquiring with a\nsenior, he got to know that all those phrases can be regarded as being\nequivalent. Which phrases are appropriate and which phrases are\ninappropriate while drafting an unmodified opinion?\n(3 Marks)",
+  "suggested_answer": "(c) Appropriate and Inappropriate Phrases while drafting an Unmodiﬁed\nOpinion: When expressing an unmodiﬁed opinion on ﬁnancial statements,\nthe auditor’s opinion shall, unless otherwise required by law or regulation,\nuse one of the following phrases, which are regarded as being equivalent:\n(i) In our opinion, the accompanying ﬁnancial statements present fairly,\nin all material respects, […] in accordance with [the applicable\nﬁnancial reporting framework]; or\n(ii) In our opinion, the accompanying ﬁnancial statements give a true and\nfair view of […] in accordance with [the applicable ﬁnancial reporting\nframework].\nThe phrases “present fairly, in all material respects,” and “give a true and fair\nview” are regarded as being equivalent.\nInappropriate Phrases: When the auditor expresses an unmodiﬁed\nopinion, it is not appropriate to use phrases such as “with the foregoing\nexplanation” or “subject to” in relation to the opinion, as these suggest a\nconditional opinion or a weakening or modiﬁcation of opinion.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q004_C",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(c)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 20,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) CA Ayush has recently qualified and has joined a CA Firm. On going through\nvarious audit reports, he observed that different phrases were used to express\nan unmodified opinion on the financial statements. On enquiring with a\nsenior, he got to know that all those phrases can be regarded as being\nequivalent. Which phrases are appropriate and which phrases are\ninappropriate while drafting an unmodified opinion?\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Appropriate and Inappropriate Phrases while drafting an Unmodiﬁed\nOpinion: When expressing an unmodiﬁed opinion on ﬁnancial statements,\nthe auditor’s opinion shall, unless otherwise required by law or regulation,\nuse one of the following phrases, which are regarded as being equivalent:\n(i) In our opinion, the accompanying ﬁnancial statements present fairly,\nin all material respects, […] in accordance with [the applicable\nﬁnancial reporting framework]; or\n(ii) In our opinion, the accompanying ﬁnancial statements give a true and\nfair view of […] in accordance with [the applicable ﬁnancial reporting\nframework].\nThe phrases “present fairly, in all material respects,” and “give a true and fair\nview” are regarded as being equivalent.\nInappropriate Phrases: When the auditor expresses an unmodiﬁed\nopinion, it is not appropriate to use phrases such as “with the foregoing\nexplanation” or “subject to” in relation to the opinion, as these suggest a\nconditional opinion or a weakening or modiﬁcation of opinion."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

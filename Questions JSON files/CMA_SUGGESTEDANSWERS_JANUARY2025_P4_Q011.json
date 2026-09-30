@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11.  AB limited has furnished the following data:\n\nBudget\nActual (for the month of March)\nProduction in units\n40,000\n48,000\nFixed overheads (`)\n78,000\n84,000\nCalculate fixed overhead volume variance.\n(A)  ` 15,600 F\n(B)  ` 15,600 A\n(C)  ` 6,000 A\n(D)  ` 14,000 A\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q011",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11.  AB limited has furnished the following data:\n\nBudget\nActual (for the month of March)\nProduction in units\n40,000\n48,000\nFixed overheads (`)\n78,000\n84,000\nCalculate fixed overhead volume variance.\n(A)  ` 15,600 F\n(B)  ` 15,600 A\n(C)  ` 6,000 A\n(D)  ` 14,000 A\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

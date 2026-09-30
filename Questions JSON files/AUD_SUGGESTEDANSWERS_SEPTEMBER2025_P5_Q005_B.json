@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q005_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Following is the extract from the Balance Sheet of Rain Pvt. Ltd.:\n(i)  Borrowings as on 31/03/2025\n\n` 10 Cr.\n(ii)  Fresh borrowings from bank during the year\n\n` 3 Cr.\n(iii)  Borrowings repaid during the year\n\n` 5Cr.\n\nParri passu charge has been created on the assets of the company. Further,\nborrowing limits have not been exceeded.\n\nFrom the above information, what audit procedures would you perform, to\nensure that all borrowings reflected in the balance sheet, are valid claims\nowed to banks or other third parties?\n(5 Marks)",
+  "suggested_answer": "(b)  Audit procedures performed to ensure that all borrowings reflected in\nthe balance sheet are valid claims owed to bank or third parties are as\nunder:\n(i) Review board minutes for approval of new lending agreements. During\nreview, ensure that new loan agreements or bond issuances were\nauthorized. Ensure that signiﬁcant debt commitments were approved\nby the board of directors.\n(ii) Agree details of loans recorded (interest rate, nature and repayment\nterms) to the loan agreement. Verify that borrowing limits, if any,\nimposed by agreements are not exceeded.\n\nAUDITING AND ETHICS\n\n25\n(iii) Roll out and obtain independent balance confirmations (SA 505) in\nrespect of all the borrowings from the lender (banks/ financial\ninstitutions etc.).\n(iv) Agree details of leases and hire purchase creditors recorded to\nunderlying contracts/agreements.\n(v) In case of Debentures, examine trust deed for terms and dates of\nredemption, borrowing restrictions and compliance with covenants.\n(vi) When debt is retired, ensure that a discharge is received on assets\nsecuring the debt.\n(vii) Obtain Written Representation that all the liabilities which have been\nrecorded represent a valid claim by the lenders.\n(viii) Auditor will ensure parri passu charge has been created on the assets\nof the company.\n(ix) Trace the fresh borrowings of ` 3 crores and repayment of ` 5 crores\nto the Company’s Bank statement and Account books to confirm the\nmovement of funds.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q005_B",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 23,
+    "end": 25
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 23,
+    "page_end": 25,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Following is the extract from the Balance Sheet of Rain Pvt. Ltd.:\n(i)  Borrowings as on 31/03/2025\n\n` 10 Cr.\n(ii)  Fresh borrowings from bank during the year\n\n` 3 Cr.\n(iii)  Borrowings repaid during the year\n\n` 5Cr.\n\nParri passu charge has been created on the assets of the company. Further,\nborrowing limits have not been exceeded.\n\nFrom the above information, what audit procedures would you perform, to\nensure that all borrowings reflected in the balance sheet, are valid claims\nowed to banks or other third parties?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Audit procedures performed to ensure that all borrowings reflected in\nthe balance sheet are valid claims owed to bank or third parties are as\nunder:\n(i) Review board minutes for approval of new lending agreements. During\nreview, ensure that new loan agreements or bond issuances were\nauthorized. Ensure that signiﬁcant debt commitments were approved\nby the board of directors.\n(ii) Agree details of loans recorded (interest rate, nature and repayment\nterms) to the loan agreement. Verify that borrowing limits, if any,\nimposed by agreements are not exceeded.\n\nAUDITING AND ETHICS\n\n25\n(iii) Roll out and obtain independent balance confirmations (SA 505) in\nrespect of all the borrowings from the lender (banks/ financial\ninstitutions etc.).\n(iv) Agree details of leases and hire purchase creditors recorded to\nunderlying contracts/agreements.\n(v) In case of Debentures, examine trust deed for terms and dates of\nredemption, borrowing restrictions and compliance with covenants.\n(vi) When debt is retired, ensure that a discharge is received on assets\nsecuring the debt.\n(vii) Obtain Written Representation that all the liabilities which have been\nrecorded represent a valid claim by the lenders.\n(viii) Auditor will ensure parri passu charge has been created on the assets\nof the company.\n(ix) Trace the fresh borrowings of ` 3 crores and repayment of ` 5 crores\nto the Company’s Bank statement and Account books to confirm the\nmovement of funds."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

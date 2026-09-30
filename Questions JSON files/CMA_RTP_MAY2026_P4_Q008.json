@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "8. \nOmega Engineering Pvt. Ltd., a company manufacturing precision \ncomponents for the automotive sector, operates three major CNC \nmachines in its machining department—Machines X, Y, and Z. Due to a \nsurge in customer demand and rising input costs, the company plans to \nrevise its predetermined machine hour rates for the next financial year. \nThe management has provided the following annual cost data for the \nthree machines: \nPreliminary Estimates of Annual Expenses \nParticulars \nTotal (`) \n \nMachines \nX (`) \nY (`) \nZ (`) \nDepreciation \n3,00,000 1,20,000 1,00,000 \n80,000 \nSpare parts \n1,50,000 \n60,000 \n50,000 \n40,000 \nPower \n5,50,000 \n— \n— \n— \nConsumable stores \n1,20,000 \n50,000 \n40,000 \n30,000 \nInsurance of machinery \n1,00,000 \n— \n— \n— \nIndirect labour \n2,40,000 \n— \n— \n— \nBuilding maintenance \n2,50,000 \n— \n— \n— \nAnnual interest on capital \noutlay \n1,20,000 \n50,000 \n40,000 \n30,000 \nAdditional monthly information: \n• \nRent & rates: ` 30,000 per month \n• \nSalary of Production Supervisor: ` 60,000 per month \n• \nSalary of Machine Operator: ` 18,000 per month \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n11 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nThe supervisor and operator oversee all three machines and spend equal \ntime on each. \n \nThe following additional information is also available: \nMachine \nEstimated Direct \nLabour Hours \nK.W. Rating \nRatio \nFloor Space (sq. ft.) \nX \n1,20,000 \n4 \n50,000 \nY \n1,60,000 \n3 \n40,000 \nZ \n1,40,000 \n2 \n30,000 \nWorking Conditions \n• \nThe plant operates 8 hours per day. \n• \nSaturdays are half-days. \n• \nThere are 15 holidays besides Sundays, of which 3 fall on \nSaturdays. \n• \nMachines run at 92% capacity. \n• \nA 3% allowance for breakdown is considered reasonable. \n \nManagement expects the following increases for the coming financial \nyear:",
+  "suggested_answer": "(A) Computation of Machine Hour Rate (A) Standing Charges Particulars Basis of Apportionment Total (`) Machine X (`) Machine Y (`) Machine Z (`) Insurance Depreciation Basis (6:5:4) 1,00,000 40,000 33,333 26,667 Indirect Labour Direct Labour Hours (6:8:7) 2,40,000 68,571 91,429 80,000 Building Maintenance Floor Space (5:4:3) 2,50,000 1,04,167 83,333 62,500 Rent & Rates Floor Space (5:4:3) 3,60,000 1,50,000 1,20,000 90,000 Salary of Supervisor Equal 7,20,000 2,40,000 2,40,000 2,40,000 Salary of Operator Equal 2,16,000 72,000 72,000 72,000 Total Standing Charges — — 6,74,738 6,40,095 5,71,167 Hourly Rate (Standing) — — 345.49 327.75 292.46 (B) Machine Expenses Particulars Basis of Apportionment Total (`) Machine X (`) Machine Y (`) Machine Z (`) Depreciation Direct — 1,20,000 1,00,000 80,000 Spare Parts Revised Estimates — 66,000 71,500 57,200 Power KW Rating (4:3:2) 5,50,000 2,44,444 1,83,333 1,22,222 Consumable Stores Direct 1,20,000 50,000 40,000 30,000 Total Machine Expenses — — 4,80,444 3,94,833 2,89,422 Hourly Rate (Machine) — — 246.00 202.17 148.19 Total (A + B) Machine Machine Hour Rate (`) X 591.49 Y 529.92 Z 440.65 INTERMEDIATE EXAMINATION 34 REVISION TEST PAPERS MAY 2026 EXAMINATION Working Notes: (i) Calculation of effective working hours: No. of full off-days = No. of Sunday + No. of holidays = 52 + 15 = 67 days No. of half working days = 52 days – 3 holidays = 49 days No. of full working days = 365 days – 67 days – 49 days = 249 days Total Working Hours = {(249 days × 8 hours) + (49 days × 4 hours)} = 1,992 + 196 = 2,188 hours Effective Working Hours = Total working hours × 92% − 3% for breakdown = 2,188 × 92% – 3% × (2,188 × 92%) = 2,012.96 – 60.39 = 1,953 hours (ii) Amount of spare parts is calculated as under: Machine X Y Z Preliminary estimates 60,000 50,000 40,000 Add: Increase in price @ 10% 6,000 5,000 4,000 66,000 55,000 44,000 Add: Increase in consumption @ 30% — 16,500 13,200 Estimated cost 66,000 71,500 57,200 (iii) Interest on capital outlay is a finance cost, therefore it has been excluded from the cost accounts. COST AND MANAGEMENT ACCOUNTING 35 MAY 2026 EXAMINATION REVISION TEST PAPERS",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q008",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8. \nOmega Engineering Pvt. Ltd., a company manufacturing precision \ncomponents for the automotive sector, operates three major CNC \nmachines in its machining department—Machines X, Y, and Z. Due to a \nsurge in customer demand and rising input costs, the company plans to \nrevise its predetermined machine hour rates for the next financial year. \nThe management has provided the following annual cost data for the \nthree machines: \nPreliminary Estimates of Annual Expenses \nParticulars \nTotal (`) \n \nMachines \nX (`) \nY (`) \nZ (`) \nDepreciation \n3,00,000 1,20,000 1,00,000 \n80,000 \nSpare parts \n1,50,000 \n60,000 \n50,000 \n40,000 \nPower \n5,50,000 \n— \n— \n— \nConsumable stores \n1,20,000 \n50,000 \n40,000 \n30,000 \nInsurance of machinery \n1,00,000 \n— \n— \n— \nIndirect labour \n2,40,000 \n— \n— \n— \nBuilding maintenance \n2,50,000 \n— \n— \n— \nAnnual interest on capital \noutlay \n1,20,000 \n50,000 \n40,000 \n30,000 \nAdditional monthly information: \n• \nRent & rates: ` 30,000 per month \n• \nSalary of Production Supervisor: ` 60,000 per month \n• \nSalary of Machine Operator: ` 18,000 per month \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n11 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nThe supervisor and operator oversee all three machines and spend equal \ntime on each. \n \nThe following additional information is also available: \nMachine \nEstimated Direct \nLabour Hours \nK.W. Rating \nRatio \nFloor Space (sq. ft.) \nX \n1,20,000 \n4 \n50,000 \nY \n1,60,000 \n3 \n40,000 \nZ \n1,40,000 \n2 \n30,000 \nWorking Conditions \n• \nThe plant operates 8 hours per day. \n• \nSaturdays are half-days. \n• \nThere are 15 holidays besides Sundays, of which 3 fall on \nSaturdays. \n• \nMachines run at 92% capacity. \n• \nA 3% allowance for breakdown is considered reasonable. \n \nManagement expects the following increases for the coming financial \nyear:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Computation of Machine Hour Rate (A) Standing Charges Particulars Basis of Apportionment Total (`) Machine X (`) Machine Y (`) Machine Z (`) Insurance Depreciation Basis (6:5:4) 1,00,000 40,000 33,333 26,667 Indirect Labour Direct Labour Hours (6:8:7) 2,40,000 68,571 91,429 80,000 Building Maintenance Floor Space (5:4:3) 2,50,000 1,04,167 83,333 62,500 Rent & Rates Floor Space (5:4:3) 3,60,000 1,50,000 1,20,000 90,000 Salary of Supervisor Equal 7,20,000 2,40,000 2,40,000 2,40,000 Salary of Operator Equal 2,16,000 72,000 72,000 72,000 Total Standing Charges — — 6,74,738 6,40,095 5,71,167 Hourly Rate (Standing) — — 345.49 327.75 292.46 (B) Machine Expenses Particulars Basis of Apportionment Total (`) Machine X (`) Machine Y (`) Machine Z (`) Depreciation Direct — 1,20,000 1,00,000 80,000 Spare Parts Revised Estimates — 66,000 71,500 57,200 Power KW Rating (4:3:2) 5,50,000 2,44,444 1,83,333 1,22,222 Consumable Stores Direct 1,20,000 50,000 40,000 30,000 Total Machine Expenses — — 4,80,444 3,94,833 2,89,422 Hourly Rate (Machine) — — 246.00 202.17 148.19 Total (A + B) Machine Machine Hour Rate (`) X 591.49 Y 529.92 Z 440.65 INTERMEDIATE EXAMINATION 34 REVISION TEST PAPERS MAY 2026 EXAMINATION Working Notes: (i) Calculation of effective working hours: No. of full off-days = No. of Sunday + No. of holidays = 52 + 15 = 67 days No. of half working days = 52 days – 3 holidays = 49 days No. of full working days = 365 days – 67 days – 49 days = 249 days Total Working Hours = {(249 days × 8 hours) + (49 days × 4 hours)} = 1,992 + 196 = 2,188 hours Effective Working Hours = Total working hours × 92% − 3% for breakdown = 2,188 × 92% – 3% × (2,188 × 92%) = 2,012.96 – 60.39 = 1,953 hours (ii) Amount of spare parts is calculated as under: Machine X Y Z Preliminary estimates 60,000 50,000 40,000 Add: Increase in price @ 10% 6,000 5,000 4,000 66,000 55,000 44,000 Add: Increase in consumption @ 30% — 16,500 13,200 Estimated cost 66,000 71,500 57,200 (iii) Interest on capital outlay is a finance cost, therefore it has been excluded from the cost accounts. COST AND MANAGEMENT ACCOUNTING 35 MAY 2026 EXAMINATION REVISION TEST PAPERS"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  ABC Ltd. is a listed company with an annual turnover of ` 1,000 crores.  The\ncompany has appointed three joint auditors, ST and Associates, TR and\nAssociates and PQ and Associates, to conduct the statutory audit for the\nfinancial year 2025-26.\n\nSince ABC Ltd. is a listed entity, the joint auditors are required to comply with\nethical requirements relating to independence. Before commencing the audit,\nthe audit firms held a meeting with the Audit Committee and submitted\nwritten communications regarding their independence. During the meeting,\nthe Audit Committee asked the auditors to clarify the specific matters that\nmust be included in such communication to ensure compliance with\nprofessional requirements.\n\nWith reference to SA 260, explain the matters that should be included in the\ncommunication regarding auditor's independence to those charged with\ngovernance in case of listed entities.\n(4 Marks)",
+  "suggested_answer": "(c)  As per SA 260 “Communication with Those Charged with Governance”, in\ncase of listed entities, the auditor shall include following matters in the\ncommunication regarding auditor’s independence to those charged with\ngovernance:\n(I)  A statement that the engagement team and others in the firm as\nappropriate, the firm and, when applicable, network firms have\ncomplied with relevant ethical requirements regarding independence\nand\n\n(II)  (i)\nAll relationships and other matters between the firm, network\nfirms, and the entity that, in the auditor’s professional judgment,\nmay reasonably be thought to bear on independence. This shall\ninclude total fees charged during the period covered by the\nfinancial statements for audit and non-audit services provided by\nthe firm and network firms to the entity and components\ncontrolled by the entity. These fees shall be allocated to\ncategories that are appropriate to assist those charged with\ngovernance in assessing the effect of services on the\nindependence of the auditor and\n(ii) The related safeguards that have been applied to eliminate\nidentified threats to independence or reduce them to an\nacceptable level.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005_C",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 28,
+    "end": 30
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 28,
+    "page_end": 30,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  ABC Ltd. is a listed company with an annual turnover of ` 1,000 crores.  The\ncompany has appointed three joint auditors, ST and Associates, TR and\nAssociates and PQ and Associates, to conduct the statutory audit for the\nfinancial year 2025-26.\n\nSince ABC Ltd. is a listed entity, the joint auditors are required to comply with\nethical requirements relating to independence. Before commencing the audit,\nthe audit firms held a meeting with the Audit Committee and submitted\nwritten communications regarding their independence. During the meeting,\nthe Audit Committee asked the auditors to clarify the specific matters that\nmust be included in such communication to ensure compliance with\nprofessional requirements.\n\nWith reference to SA 260, explain the matters that should be included in the\ncommunication regarding auditor's independence to those charged with\ngovernance in case of listed entities.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  As per SA 260 “Communication with Those Charged with Governance”, in\ncase of listed entities, the auditor shall include following matters in the\ncommunication regarding auditor’s independence to those charged with\ngovernance:\n(I)  A statement that the engagement team and others in the firm as\nappropriate, the firm and, when applicable, network firms have\ncomplied with relevant ethical requirements regarding independence\nand\n\n(II)  (i)\nAll relationships and other matters between the firm, network\nfirms, and the entity that, in the auditor’s professional judgment,\nmay reasonably be thought to bear on independence. This shall\ninclude total fees charged during the period covered by the\nfinancial statements for audit and non-audit services provided by\nthe firm and network firms to the entity and components\ncontrolled by the entity. These fees shall be allocated to\ncategories that are appropriate to assist those charged with\ngovernance in assessing the effect of services on the\nindependence of the auditor and\n(ii) The related safeguards that have been applied to eliminate\nidentified threats to independence or reduce them to an\nacceptable level."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

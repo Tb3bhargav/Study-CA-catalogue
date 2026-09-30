@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  A company can make any one of the 2 products M or S during the year. It\ncan exercise its option only at the beginning of each year.\n\nRelevant information about the products for the next year is given below:\nParticulars\nM\nS\nSelling Price (` /unit)\n75\n45\nVariable Cost (`/unit)\n45\n30\nMarket Demand (in units)\n3,000\n8,000\nProduction Capacity (in units)\n4,000\n7,000\nFixed Cost (`)\n1,20,000\n\nYou are required to compute the opportunity cost for each of the product.\n(3 Marks)",
+  "suggested_answer": "(c) Computation of opportunity cost for each product\nParticulars\nM\nS\nI.\nContribution per unit (`)\n30\n(75-45)\n15\n(45-30)\nII.\nUnits (Lower of Production/Market Demand)\n3,000\n7,000\nIII. Possible Contribution (`) {I x II}\n90,000\n1,05,000\nIV. Opportunity Cost (`)\n1,05,000\n90,000\n\n(*) Opportunity cost is the maximum possible contribution forgone by not\nproducing alternative products i.e. if product M is produced then opportunity cost\nwill be ` 1,05,000(Contribution of S).",
+  "marks": "(3 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_C",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 25,
+    "end": 28
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(c)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 25,
+    "page_end": 28,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  A company can make any one of the 2 products M or S during the year. It\ncan exercise its option only at the beginning of each year.\n\nRelevant information about the products for the next year is given below:\nParticulars\nM\nS\nSelling Price (` /unit)\n75\n45\nVariable Cost (`/unit)\n45\n30\nMarket Demand (in units)\n3,000\n8,000\nProduction Capacity (in units)\n4,000\n7,000\nFixed Cost (`)\n1,20,000\n\nYou are required to compute the opportunity cost for each of the product.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Computation of opportunity cost for each product\nParticulars\nM\nS\nI.\nContribution per unit (`)\n30\n(75-45)\n15\n(45-30)\nII.\nUnits (Lower of Production/Market Demand)\n3,000\n7,000\nIII. Possible Contribution (`) {I x II}\n90,000\n1,05,000\nIV. Opportunity Cost (`)\n1,05,000\n90,000\n\n(*) Opportunity cost is the maximum possible contribution forgone by not\nproducing alternative products i.e. if product M is produced then opportunity cost\nwill be ` 1,05,000(Contribution of S)."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

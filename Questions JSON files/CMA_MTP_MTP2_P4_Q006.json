@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6. \nThe total support cost and its percentage to the cost of goods sold would be: \n(a) \n` 3,33,69,600 and 23.17% \n(b) \n` 4,32,00,000 and 30% \n(c) \n` 3,33,69,600 and 30% \n(d) \n` 4,32,00,000 and 23.17% \n5",
+  "suggested_answer": "(B) Total support cost (`) Cartons returned 5,76,000 Delivery 1,20,96,000 Ordering 74,88,000 Shelf stocking 82,94,400 Customer support (` 49,15,200 x 3) 1,47,45,600 Total support cost 4,32,00,000 (`) Fancy fans 2,88,00,000 Home decors 7,20,00,000 Assembled furniture 4,32,00,000 Total cost of goods sold (COGS) 14,40,00,000 Percentage of support cost to the cost of goods sold (COGS): = Total support cost Total cost of goods sold (COGS) x 100 = 4,32,00,000 14,40,00,000 x 100 = 30%",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q006",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nThe total support cost and its percentage to the cost of goods sold would be: \n(a) \n` 3,33,69,600 and 23.17% \n(b) \n` 4,32,00,000 and 30% \n(c) \n` 3,33,69,600 and 30% \n(d) \n` 4,32,00,000 and 23.17% \n5"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) Total support cost (`) Cartons returned 5,76,000 Delivery 1,20,96,000 Ordering 74,88,000 Shelf stocking 82,94,400 Customer support (` 49,15,200 x 3) 1,47,45,600 Total support cost 4,32,00,000 (`) Fancy fans 2,88,00,000 Home decors 7,20,00,000 Assembled furniture 4,32,00,000 Total cost of goods sold (COGS) 14,40,00,000 Percentage of support cost to the cost of goods sold (COGS): = Total support cost Total cost of goods sold (COGS) x 100 = 4,32,00,000 14,40,00,000 x 100 = 30%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

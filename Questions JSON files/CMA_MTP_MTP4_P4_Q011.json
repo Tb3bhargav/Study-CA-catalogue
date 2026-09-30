@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. \nA manufacturer of industrial fasteners produces high-strength bolts. Last year, they sold \n35,000 bolts at a price of ` 50 each. Their total fixed cost was ` 7,50,000 (including  \n` 2,50,000 depreciation on machinery) incurred uniformly throughout the year. There was \nno inventory at the beginning and all bolts produced during the year were shipped out, \nresulting in no inventory at the end of the year. The company’s cash break-even point is \n20,000 bolts. \n \nCalculate the amount of total variable costs incurred. \n(A)  \n` 8,57,000 \n(B)  \n` 8,75,000 \n(C)  \n` 4,37,500 \n(D)  \n` 4,73,500 \n(2 Marks)",
+  "suggested_answer": "(B) ` 8,75,000 Cash Break-even Sales Quantity = Fixed Costs (excluding dep.) Contribution per unit 20,000 units = (` 7,50,000 - ` 2,50,000) Contribution per unit Contribution per unit = ` 5,00,000 /20,000 = ` 25 Variable Cost per unit = Selling Price per unit – Contribution per unit = ` 50 - ` 25 = ` 25 Total Variable cost = 25 x 35,000 = ` 8,75,000",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q011",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nA manufacturer of industrial fasteners produces high-strength bolts. Last year, they sold \n35,000 bolts at a price of ` 50 each. Their total fixed cost was ` 7,50,000 (including  \n` 2,50,000 depreciation on machinery) incurred uniformly throughout the year. There was \nno inventory at the beginning and all bolts produced during the year were shipped out, \nresulting in no inventory at the end of the year. The company’s cash break-even point is \n20,000 bolts. \n \nCalculate the amount of total variable costs incurred. \n(A)  \n` 8,57,000 \n(B)  \n` 8,75,000 \n(C)  \n` 4,37,500 \n(D)  \n` 4,73,500 \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 8,75,000 Cash Break-even Sales Quantity = Fixed Costs (excluding dep.) Contribution per unit 20,000 units = (` 7,50,000 - ` 2,50,000) Contribution per unit Contribution per unit = ` 5,00,000 /20,000 = ` 25 Variable Cost per unit = Selling Price per unit – Contribution per unit = ` 50 - ` 25 = ` 25 Total Variable cost = 25 x 35,000 = ` 8,75,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q008",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8.\nAs per the understanding of CA Verma, which of the following options, falls\noutside the scope of audit of financial statements?\n(I)  Assessing the physical condition of industrial buildings and heavy &\nsophisticated machinery.\n(II)  Examining the reliability and sufficiency of financial information for\naudit purposes.\n(III)  Determining the suitability of buildings for continued use and estimating\ntheir remaining useful life.\n(IV)  Ensuring proper disclosure of property, plant and equipment in the\nfinancial statements.\n(A)  (I) and (III)\n(B)  (II) and (IV)\n(C)  (I), (II) and (III)\n(D)  (I) and (II)\n(2 Marks)\n\nAUDITING AND ETHICS\n\n7",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q008",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Nature, Objective and Scope of Audit",
+    "topic": "Nature, Objective and Scope of Audit",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "8",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.\nAs per the understanding of CA Verma, which of the following options, falls\noutside the scope of audit of financial statements?\n(I)  Assessing the physical condition of industrial buildings and heavy &\nsophisticated machinery.\n(II)  Examining the reliability and sufficiency of financial information for\naudit purposes.\n(III)  Determining the suitability of buildings for continued use and estimating\ntheir remaining useful life.\n(IV)  Ensuring proper disclosure of property, plant and equipment in the\nfinancial statements.\n(A)  (I) and (III)\n(B)  (II) and (IV)\n(C)  (I), (II) and (III)\n(D)  (I) and (II)\n(2 Marks)\n\nAUDITING AND ETHICS\n\n7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

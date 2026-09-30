@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q008",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8. \nConsidering the facts given in the case regarding the relationship between the \noutstanding balance in the CC account and the drawing power determined by the branch, \nhow should the auditor evaluate the status of the account as on the reporting date? \n(a)  \nThe account is regular since the sanctioned limit has not been exceeded. \n(b)  \nThe account should be treated as out of order since the outstanding balance has \nremained continuously in excess of the drawing power. \n6 \n(c)  \nThe account is regular because the borrower had submitted stock statements \nearlier during the year. \n(d)  \nThe account cannot be evaluated until audited financial statements are finalized.",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q008",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "8",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8. \nConsidering the facts given in the case regarding the relationship between the \noutstanding balance in the CC account and the drawing power determined by the branch, \nhow should the auditor evaluate the status of the account as on the reporting date? \n(a)  \nThe account is regular since the sanctioned limit has not been exceeded. \n(b)  \nThe account should be treated as out of order since the outstanding balance has \nremained continuously in excess of the drawing power. \n6 \n(c)  \nThe account is regular because the borrower had submitted stock statements \nearlier during the year. \n(d)  \nThe account cannot be evaluated until audited financial statements are finalized."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

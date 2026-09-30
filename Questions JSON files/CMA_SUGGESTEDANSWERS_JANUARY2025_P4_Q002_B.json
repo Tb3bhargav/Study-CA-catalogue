@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q002_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  A skilled worker has assigned a work. The relevant data is given as follows:\nTime rate per hour\n\n` 25\nTime allowed\n\n9 hours\nTime taken\n\n6 hours\nThe worker has given an option to choose either Halsey (50% plan) or Rowan\nplan.\nYou are required to calculate earnings under both plans and which plan is\nmore beneficial for a worker.\n(5 Marks)",
+  "suggested_answer": "(b) Earning under Halsey Plan\nTotal Wages = (Time taken × Time rate) + (50% of time saved × time rate)\n\n= (6 hrs x ` 25) + ((9 hrs - 6 hrs) x 50% x ` 25)\n\n= `150 + `37.5 = `187.5\nEarning under Rowan Plan\nTotal Wages\n\n= (Time taken × Time Rate)+ (\nTime saved\nTime allowed  × Time taken  ×  Time Rate)\n\n= (6 hrs x ` 25) + (\n(9 hrs - 6 hrs)\n9 hrs\nx 6 hrs x ` 25)\n\n= `150 + `50 = `200\nNote: Rowan Plan is more beneficial for a worker since he is more earning\nunder this plan i.e. 200-187.5 = ` 12.50",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q002_B",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 13,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  A skilled worker has assigned a work. The relevant data is given as follows:\nTime rate per hour\n\n` 25\nTime allowed\n\n9 hours\nTime taken\n\n6 hours\nThe worker has given an option to choose either Halsey (50% plan) or Rowan\nplan.\nYou are required to calculate earnings under both plans and which plan is\nmore beneficial for a worker.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Earning under Halsey Plan\nTotal Wages = (Time taken × Time rate) + (50% of time saved × time rate)\n\n= (6 hrs x ` 25) + ((9 hrs - 6 hrs) x 50% x ` 25)\n\n= `150 + `37.5 = `187.5\nEarning under Rowan Plan\nTotal Wages\n\n= (Time taken × Time Rate)+ (\nTime saved\nTime allowed  × Time taken  ×  Time Rate)\n\n= (6 hrs x ` 25) + (\n(9 hrs - 6 hrs)\n9 hrs\nx 6 hrs x ` 25)\n\n= `150 + `50 = `200\nNote: Rowan Plan is more beneficial for a worker since he is more earning\nunder this plan i.e. 200-187.5 = ` 12.50"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

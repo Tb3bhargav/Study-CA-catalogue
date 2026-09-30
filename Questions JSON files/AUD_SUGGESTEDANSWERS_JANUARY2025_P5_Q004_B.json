@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q004_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Identify and explain the assertions that the auditor will check by performing\nthe following audit procedures-\n(i) Employee benefit expenses do not include the cost of any unauthorised\npersonnel.\n\n22\n(ii) All the items of inventory pertaining to the relevant year shall be\nincluded regardless of the location.\n(iii) Sales are recorded correctly in the books based on the invoices. Discounts\nhave been properly adjusted or accounted for.\n(iv) The entity owns or controls the inventory recorded in the financial\nstatements. i.e. the purchase invoices have been made in the name of\nthe client.\n(v) Inventory has been recognised at the lower of cost and net realizable\nvalue in accordance with AS 2 - Inventories.\n(5 x 1 = 5 Marks)",
+  "suggested_answer": "(b) (i)  For Employee benefit expenses do not include the cost of any\nunauthorised personnel: The auditor will check the occurrence\nassertion for the same to ensure that transactions recognised in the\nﬁnancial statements have occurred and relate to the entity.\n(ii)  All the items of inventory pertaining to the relevant year shall be\nincluded regardless of the location: The auditor will check the\ncut-off assertion to ensure that all assets and liabilities are reported in\nthe appropriate period.\n(iii)  Sales are recorded correctly in the books based on the invoices.\nDiscounts have been properly adjusted or accounted for: The auditor\nwill check measurement assertion to ensure transactions have been\nrecorded accurately at their appropriate amounts in the financial\nstatements. There have been no errors while preparing documents or\nin posting transactions to ledger. The figures and explanations are not\nmisstated.\n(iv)  The entity owns or controls the inventory recorded in the financial\nstatements. i.e., the purchase invoices have been made in the name of\nthe client: The auditor will check rights & obligations assertion to\n\n24\nensure that the entity has the right to assets (i.e. whether the entity has\nownership and legal title to assets), and the liabilities recognised in the\nfinancial statements represent all the entity’s obligations to repayment\nas at a given date.\n(v)  Inventory has been recognised at the lower of cost and net realizable\nvalue in accordance with AS 2 - Inventories: The auditor will check\nvaluation assertion to ensure assets, liabilities and equity balances have\nbeen valued appropriately i.e. the amounts at which they are recorded\nare appropriate. There has been no overstatement or understatement",
+  "marks": "1 = 5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q004_B",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(b)",
+    "marks": "1 = 5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 21,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Identify and explain the assertions that the auditor will check by performing\nthe following audit procedures-\n(i) Employee benefit expenses do not include the cost of any unauthorised\npersonnel.\n\n22\n(ii) All the items of inventory pertaining to the relevant year shall be\nincluded regardless of the location.\n(iii) Sales are recorded correctly in the books based on the invoices. Discounts\nhave been properly adjusted or accounted for.\n(iv) The entity owns or controls the inventory recorded in the financial\nstatements. i.e. the purchase invoices have been made in the name of\nthe client.\n(v) Inventory has been recognised at the lower of cost and net realizable\nvalue in accordance with AS 2 - Inventories.\n(5 x 1 = 5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) (i)  For Employee benefit expenses do not include the cost of any\nunauthorised personnel: The auditor will check the occurrence\nassertion for the same to ensure that transactions recognised in the\nﬁnancial statements have occurred and relate to the entity.\n(ii)  All the items of inventory pertaining to the relevant year shall be\nincluded regardless of the location: The auditor will check the\ncut-off assertion to ensure that all assets and liabilities are reported in\nthe appropriate period.\n(iii)  Sales are recorded correctly in the books based on the invoices.\nDiscounts have been properly adjusted or accounted for: The auditor\nwill check measurement assertion to ensure transactions have been\nrecorded accurately at their appropriate amounts in the financial\nstatements. There have been no errors while preparing documents or\nin posting transactions to ledger. The figures and explanations are not\nmisstated.\n(iv)  The entity owns or controls the inventory recorded in the financial\nstatements. i.e., the purchase invoices have been made in the name of\nthe client: The auditor will check rights & obligations assertion to\n\n24\nensure that the entity has the right to assets (i.e. whether the entity has\nownership and legal title to assets), and the liabilities recognised in the\nfinancial statements represent all the entity’s obligations to repayment\nas at a given date.\n(v)  Inventory has been recognised at the lower of cost and net realizable\nvalue in accordance with AS 2 - Inventories: The auditor will check\nvaluation assertion to ensure assets, liabilities and equity balances have\nbeen valued appropriately i.e. the amounts at which they are recorded\nare appropriate. There has been no overstatement or understatement"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

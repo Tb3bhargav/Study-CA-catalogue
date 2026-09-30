@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Mr. Uttam, an articled clerk at RQP & Associates, is auditing AB Pharma Ltd.\nand has collected various papers and documents during the course of the\naudit. However, he is unsure about which of these papers and documents\nshould be maintained as part of audit documentation and which should not\nbe included. Later, AB Pharma Ltd. has also requested certain audit\ndocumentation from RQP & Associates. Advise him –\n\nWhich items need not to be included in the audit documentation? (3 Marks)\n\nWhether RQP & Associates is obliged to provide their audit documentation\nto the client?\n(2 Marks)",
+  "suggested_answer": "(b) Items which need not be included in audit documentation: As per\nSA 230, “Audit Documentation”, the auditor need not include in audit\ndocumentation -\n1.\nsuperseded drafts of working papers and financial statements\n2.\nNotes that reflect incomplete or preliminary thinking.\n3.  Previous copies of documents corrected for typographical or other\nerrors\n4.\nDuplicates of documents.\n\nAUDITING AND ETHICS\n\n19\n\nWhether RQP & Associates is obliged to provide audit documentation\nto the client: As per Standard on Quality Control (SQC) 1, unless otherwise\nspecified by law or regulation, audit documentation is the property of the\nauditor. The auditor is not obliged to provide audit documentation to the\nclient. However, he may, at his discretion, make portions of, or extracts\nfrom, audit documentation available to clients, provided such disclosure\ndoes not undermine the validity of the work performed or, in the case of\nassurance engagements, the independence of the auditor or of his\npersonnel.\n\nThus, RQP & Associates is not obliged to provide audit documentation to\nAB Pharma Ltd., since such documentation is the property of the auditor;\nhowever, at its discretion, limited extracts may be shared provided such\ndisclosure does not impair audit validity or auditor independence.",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q003_B",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 20
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(b)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 20,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Mr. Uttam, an articled clerk at RQP & Associates, is auditing AB Pharma Ltd.\nand has collected various papers and documents during the course of the\naudit. However, he is unsure about which of these papers and documents\nshould be maintained as part of audit documentation and which should not\nbe included. Later, AB Pharma Ltd. has also requested certain audit\ndocumentation from RQP & Associates. Advise him –\n\nWhich items need not to be included in the audit documentation? (3 Marks)\n\nWhether RQP & Associates is obliged to provide their audit documentation\nto the client?\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Items which need not be included in audit documentation: As per\nSA 230, “Audit Documentation”, the auditor need not include in audit\ndocumentation -\n1.\nsuperseded drafts of working papers and financial statements\n2.\nNotes that reflect incomplete or preliminary thinking.\n3.  Previous copies of documents corrected for typographical or other\nerrors\n4.\nDuplicates of documents.\n\nAUDITING AND ETHICS\n\n19\n\nWhether RQP & Associates is obliged to provide audit documentation\nto the client: As per Standard on Quality Control (SQC) 1, unless otherwise\nspecified by law or regulation, audit documentation is the property of the\nauditor. The auditor is not obliged to provide audit documentation to the\nclient. However, he may, at his discretion, make portions of, or extracts\nfrom, audit documentation available to clients, provided such disclosure\ndoes not undermine the validity of the work performed or, in the case of\nassurance engagements, the independence of the auditor or of his\npersonnel.\n\nThus, RQP & Associates is not obliged to provide audit documentation to\nAB Pharma Ltd., since such documentation is the property of the auditor;\nhowever, at its discretion, limited extracts may be shared provided such\ndisclosure does not impair audit validity or auditor independence."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP2_P6_Q002",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2.  \nWhat are the Receivable Turnover Ratio and Inventory Turnover Ratio of Solstice Biotech \nLtd. for FY 2025–26, computed on average balances?   \n(A)  \n3.43 times and 2.13 times \n(B)  \n6.00 times and 3.88 times \n(C)  \n4.00 times and 2.56 times \n(D)  \n4.80 times and 3.11 times \n(2 Marks)",
+  "suggested_answer": "(C) Receivable Turnover Ratio = Credit Sales ÷ Average Accounts Receivable Average Accounts Receivable = (Opening + Closing) ÷ 2 = (3,000 + 4,200) ÷ 2 = ` 3,600 thousand = 14,400 ÷ 3,600 = 4.00 times Inventory Turnover Ratio = COGS ÷ Average Inventory Average Inventory = (3,000 + 4,500) ÷ 2 = ` 3,750 thousand = 9,600 ÷ 3,750 = 2.56 times",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP2_P6_Q002",
+  "source_filename": "mtp2paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2.  \nWhat are the Receivable Turnover Ratio and Inventory Turnover Ratio of Solstice Biotech \nLtd. for FY 2025–26, computed on average balances?   \n(A)  \n3.43 times and 2.13 times \n(B)  \n6.00 times and 3.88 times \n(C)  \n4.00 times and 2.56 times \n(D)  \n4.80 times and 3.11 times \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) Receivable Turnover Ratio = Credit Sales ÷ Average Accounts Receivable Average Accounts Receivable = (Opening + Closing) ÷ 2 = (3,000 + 4,200) ÷ 2 = ` 3,600 thousand = 14,400 ÷ 3,600 = 4.00 times Inventory Turnover Ratio = COGS ÷ Average Inventory Average Inventory = (3,000 + 4,500) ÷ 2 = ` 3,750 thousand = 9,600 ÷ 3,750 = 2.56 times"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

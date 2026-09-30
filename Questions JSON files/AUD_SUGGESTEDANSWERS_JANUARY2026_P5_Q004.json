@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.\nWhich of the following correctly describes the statutory framework applicable\nto Smart Trade LLP?\n(A)  An LLP must have at least two designated partners who must obtain a\nDirector Identification Number (DIN), and it is registered with the\nRegistrar of firms.\n(B)  An LLP must have at least two partners, of which one must be designated\nand it is registered with the Ministry of Corporate Affairs (MCA).\n(C)  An LLP must have at least two designated partners who must obtain a\nDesignated Partner Identification Number (DPIN), and it is registered\nwith the Registrar of Companies.\n(D)  An LLP must have a minimum of three partners, and only one is required\nto hold a Designated Partner Identification Number (DPIN) and it is\nregistered with the Registrar of Companies.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.\nWhich of the following correctly describes the statutory framework applicable\nto Smart Trade LLP?\n(A)  An LLP must have at least two designated partners who must obtain a\nDirector Identification Number (DIN), and it is registered with the\nRegistrar of firms.\n(B)  An LLP must have at least two partners, of which one must be designated\nand it is registered with the Ministry of Corporate Affairs (MCA).\n(C)  An LLP must have at least two designated partners who must obtain a\nDesignated Partner Identification Number (DPIN), and it is registered\nwith the Registrar of Companies.\n(D)  An LLP must have a minimum of three partners, and only one is required\nto hold a Designated Partner Identification Number (DPIN) and it is\nregistered with the Registrar of Companies.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

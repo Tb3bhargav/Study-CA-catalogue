@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q008",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8. \nConsidering the auditor’s responsibilities in relation to going concern as described in the \nfacts, which of the following should be the auditor’s primary focus? \n(a)  \nTo obtain sufficient appropriate audit evidence regarding appropriateness of going \nconcern basis and assess material uncertainty based on assumptions used \n(b)  \nTo conclude only on the existence of losses and loan defaults \n(c)  \nTo verify only whether management has prepared projections supporting going \nconcern \n(d)  \nTo report only if liquidation is certain",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q008",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "8",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8. \nConsidering the auditor’s responsibilities in relation to going concern as described in the \nfacts, which of the following should be the auditor’s primary focus? \n(a)  \nTo obtain sufficient appropriate audit evidence regarding appropriateness of going \nconcern basis and assess material uncertainty based on assumptions used \n(b)  \nTo conclude only on the existence of losses and loan defaults \n(c)  \nTo verify only whether management has prepared projections supporting going \nconcern \n(d)  \nTo report only if liquidation is certain"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

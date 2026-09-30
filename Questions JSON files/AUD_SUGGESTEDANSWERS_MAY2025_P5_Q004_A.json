@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  CA Pari is conducting the audit of Heavy Ltd., a company with large number\nof customers which are generally small retail shop owners. While verifying\nsundry debtors, CA Pari assesses the risk of material misstatement (ROMM)\nas low and internal control is operating effectively.\n\nWith reference to SA 505 (External Confirmations):\n(i) Which type of confirmation request is most likely to be used by CA Pari\nin this scenario?\n(1 Mark)\n(ii) What are the conditions necessary for using such a confirmation request\neffectively?\n(4 Marks)",
+  "suggested_answer": "(a) (i)  CA Pari is most likely to use Negative Confirmation Request since she\nhas assessed the risk of material misstatement as low and internal\ncontrol is operating effectively.\n(ii) The auditor shall not use negative confirmation requests as the sole\nsubstantive audit procedure to address an assessed risk of material\nmisstatement at the assertion level unless all of the following are present:\n•\nThe auditor has assessed the risk of material misstatement as low\nand has obtained sufficient appropriate audit evidence regarding\nthe operating effectiveness of controls relevant to the assertion;\n•\nThe population of items subject to negative confirmation\nprocedures comprises a large number of small, homogeneous,\naccount balances, transactions or conditions;\n•\nA very low exception rate is expected; and\n•\nThe auditor is not aware of circumstances or conditions that would\ncause recipients of negative confirmation requests to disregard\nsuch requests.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004_A",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 17,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 17,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  CA Pari is conducting the audit of Heavy Ltd., a company with large number\nof customers which are generally small retail shop owners. While verifying\nsundry debtors, CA Pari assesses the risk of material misstatement (ROMM)\nas low and internal control is operating effectively.\n\nWith reference to SA 505 (External Confirmations):\n(i) Which type of confirmation request is most likely to be used by CA Pari\nin this scenario?\n(1 Mark)\n(ii) What are the conditions necessary for using such a confirmation request\neffectively?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)  CA Pari is most likely to use Negative Confirmation Request since she\nhas assessed the risk of material misstatement as low and internal\ncontrol is operating effectively.\n(ii) The auditor shall not use negative confirmation requests as the sole\nsubstantive audit procedure to address an assessed risk of material\nmisstatement at the assertion level unless all of the following are present:\n•\nThe auditor has assessed the risk of material misstatement as low\nand has obtained sufficient appropriate audit evidence regarding\nthe operating effectiveness of controls relevant to the assertion;\n•\nThe population of items subject to negative confirmation\nprocedures comprises a large number of small, homogeneous,\naccount balances, transactions or conditions;\n•\nA very low exception rate is expected; and\n•\nThe auditor is not aware of circumstances or conditions that would\ncause recipients of negative confirmation requests to disregard\nsuch requests."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

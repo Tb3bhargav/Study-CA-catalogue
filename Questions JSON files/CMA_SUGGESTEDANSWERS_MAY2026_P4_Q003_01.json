@@ -1,0 +1,64 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q003_01",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "Question 3\n(a)  Apex Chemicals Ltd. processes a basic chemical raw material in 8\nDepartment I, which yields two joint products, A and B, at the split-off point\nin the ratio 60 40. The input-output ratio of Department I is 100: 90.\n\nProduct A can either be sold at split-off or further processed in Department\nII to produce A-Prime. Department II is used exclusively for Product A, and\nits input-output ratio is 100: 80.\n\nProduction & Cost Data\nParticulars\nDepartment I\nDepartment II\nRaw Material Input\n1,20,000 kg @ ` 7 per kg\n-\nConversion Costs:\n` 4,50,000\n\nOther Direct Material\n` 4,50,000\n` 1,00,000\nDirect Labour\n` 4,00,000\n` 1,40,000\nVariable Overhead\n` 6,00,000\n` 2,60,000\nFixed Overhead\n` 5,50,000\n` 40,000\nTotal Conversion Cost\n` 20,00,000\n` 5,40,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nOther Data:\nProduct\nSelling Price (` per kg)\nSelling Expense (`)\nA (split – off)\n45\n30,000\nB\n45\n26,000\nA - Prime\n75\n22,000\nRequired:\n(i)  Prepare a joint cost apportionment statement for Products A and B on\nthe basis of sales value at split-off point.\n(ii)  Advise whether Product A should be sold at split-off or processed into\nA-Prime, showing incremental revenue, incremental cost, and profit.\n(8 Marks)\n(b)  Alpha Limited uses Standard Costing System for manufacturing its single\nproduct 'STAR'. The following data has been gathered from the cost records\nof the company to compute various fixed overhead variances for a specific\nperiod:\nNumber of budgeted working days\n25\nBudgeted man-hours per day\n12,000\nOutput (budgeted) per man-hour (in units)\n1\nFixed overhead cost as budgeted\n` 6,00,000\nActual number of working days\n28\nActual man-hours per day\n12,500\nActual output per man-hour (in units)\n0.9\nActual fixed overhead incurred\n` 6,24,000\nYou are required to ascertain the following:\n(i)  Fixed Overhead Expenditure Variance\n(ii)  Fixed Overhead Volume Variance\n(iii)  Fixed Overhead Calendar Variance\n(iv)  Fixed Overhead Cost Variance\n(Indicate the nature of variance Favourable (F) or Adverse (A))\n(6 Marks)\n\n18",
+  "suggested_answer": "(a)\n\nCalculation of Total Joint Cost of Department I\nParticulars\nAmount (`)\nRaw material (1,20,000 kg × ` 7)\n8,40,000.00\nConversion Cost:\n\nOther direct material\n4,50,000.00\nDirect labour\n4,00,000.00\nVariable overhead\n6,00,000.00\nFixed Overheads\n5,50,000.00\nTotal Cost\n28,40,000.00\n(i) Joint Cost Apportionment Based on Sales Value at Split-off\n\nOutput total (1,20,000 x 90%)\n1,08,000 units\n\nProduct A (60%)\n64,800 units\n\nProduct B (40%)\n43,200 units\n\nSales Value at split off point:\n\nProduct A (64,800 x ` 45)\n29,16,000.00\n\nProduct B (43,200 x ` 45)\n19,44,000.00\n\nTotal Sales value\n48,60,000.00\n\nJoint Cost (28,40,000) Apportioned:\n\nProduct A (28,40,000 × 29,16,000)/48,60,000\n17,04,000.00\n\nProduct B (28,40,000 ×19,44,000)/48,60,000\n11,36,000.00\n\n(ii) If product A is processed further into A prime\nParticulars\nAmount (`)\nOutput (64,800 x 80%)\n51,840\n(A) Incremental Revenue {(` 75 x 51,840) - (` 45 x 64,800)}\n9,72,000.00\nIncrement Cost:\n\nConversion cost in Department II\n5,40,000.00\nLess: Savings on Selling Expenses (` 30,000 - ` 22,000)\n8,000.00\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\n(B)  Total Incremental Cost\n5,32,000.00\n(C)  Incremental profit (A-B)\n4,40,000.00\n\nApex Chemicals Ltd. should further process Product A into A-Prime. This\ndecision results in an incremental profit of ` 4,40,000.\n(b)\nParticulars\nBudget\nActual\nDays\n25\n28\nMan hours per day\n12,000\n12,500\nHours\n3,00,000\n3,50,000\nUnits per man hour\n1\n0.9\nUnits\n3,00,000\n3,15,000\nFixed Overheads (`)\n6,00,000\n6,24,000\n(i)   Fixed Overhead Expenditure Variance\n\n= Budgeted Fixed Overhead - Actual Fixed Overhead\n\n= (` 6,00,000 – ` 6,24,000) = ` 24,000 (A)\n(ii) Fixed Overhead Volume Variance\n= Absorbed Overhead – Budgeted Overhead\n\n= (` 2 x 3,15,000) – ` 6,00,000 = ` 30,000 (F)\n(iii) Fixed Overhead Calendar Variance\n\n= (Actual Days - Budgeted Days) x Budgeted Rate per day\n\n= (28 - 25) x ` 24,000 = ` 72,000 (F)\n(iv)  Fixed Overhead Cost Variance\n\n= Absorbed Overhead - Actual Fixed Overheads\n\n= (` 2 x 3,15,000) – ` 6,24,000 = ` 6,000 (F)\n\n20\nWorking Note:\n\nStandard fixed overhead rate per unit  =\n6,00,000\n3,00,000 units\n`\n= ` 2 per unit\n\nStandard fixed overhead per day\n=\n6,00,000\n25 days\n`\n= ` 24,000",
+  "marks": "(6 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q003",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 20
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": "(6 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 16,
+    "page_end": 20,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Question 3\n(a)  Apex Chemicals Ltd. processes a basic chemical raw material in 8\nDepartment I, which yields two joint products, A and B, at the split-off point\nin the ratio 60 40. The input-output ratio of Department I is 100: 90.\n\nProduct A can either be sold at split-off or further processed in Department\nII to produce A-Prime. Department II is used exclusively for Product A, and\nits input-output ratio is 100: 80.\n\nProduction & Cost Data\nParticulars\nDepartment I\nDepartment II\nRaw Material Input\n1,20,000 kg @ ` 7 per kg\n-\nConversion Costs:\n` 4,50,000\n\nOther Direct Material\n` 4,50,000\n` 1,00,000\nDirect Labour\n` 4,00,000\n` 1,40,000\nVariable Overhead\n` 6,00,000\n` 2,60,000\nFixed Overhead\n` 5,50,000\n` 40,000\nTotal Conversion Cost\n` 20,00,000\n` 5,40,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nOther Data:\nProduct\nSelling Price (` per kg)\nSelling Expense (`)\nA (split – off)\n45\n30,000\nB\n45\n26,000\nA - Prime\n75\n22,000\nRequired:\n(i)  Prepare a joint cost apportionment statement for Products A and B on\nthe basis of sales value at split-off point.\n(ii)  Advise whether Product A should be sold at split-off or processed into\nA-Prime, showing incremental revenue, incremental cost, and profit.\n(8 Marks)\n(b)  Alpha Limited uses Standard Costing System for manufacturing its single\nproduct 'STAR'. The following data has been gathered from the cost records\nof the company to compute various fixed overhead variances for a specific\nperiod:\nNumber of budgeted working days\n25\nBudgeted man-hours per day\n12,000\nOutput (budgeted) per man-hour (in units)\n1\nFixed overhead cost as budgeted\n` 6,00,000\nActual number of working days\n28\nActual man-hours per day\n12,500\nActual output per man-hour (in units)\n0.9\nActual fixed overhead incurred\n` 6,24,000\nYou are required to ascertain the following:\n(i)  Fixed Overhead Expenditure Variance\n(ii)  Fixed Overhead Volume Variance\n(iii)  Fixed Overhead Calendar Variance\n(iv)  Fixed Overhead Cost Variance\n(Indicate the nature of variance Favourable (F) or Adverse (A))\n(6 Marks)\n\n18"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nCalculation of Total Joint Cost of Department I\nParticulars\nAmount (`)\nRaw material (1,20,000 kg × ` 7)\n8,40,000.00\nConversion Cost:\n\nOther direct material\n4,50,000.00\nDirect labour\n4,00,000.00\nVariable overhead\n6,00,000.00\nFixed Overheads\n5,50,000.00\nTotal Cost\n28,40,000.00\n(i) Joint Cost Apportionment Based on Sales Value at Split-off\n\nOutput total (1,20,000 x 90%)\n1,08,000 units\n\nProduct A (60%)\n64,800 units\n\nProduct B (40%)\n43,200 units\n\nSales Value at split off point:\n\nProduct A (64,800 x ` 45)\n29,16,000.00\n\nProduct B (43,200 x ` 45)\n19,44,000.00\n\nTotal Sales value\n48,60,000.00\n\nJoint Cost (28,40,000) Apportioned:\n\nProduct A (28,40,000 × 29,16,000)/48,60,000\n17,04,000.00\n\nProduct B (28,40,000 ×19,44,000)/48,60,000\n11,36,000.00\n\n(ii) If product A is processed further into A prime\nParticulars\nAmount (`)\nOutput (64,800 x 80%)\n51,840\n(A) Incremental Revenue {(` 75 x 51,840) - (` 45 x 64,800)}\n9,72,000.00\nIncrement Cost:\n\nConversion cost in Department II\n5,40,000.00\nLess: Savings on Selling Expenses (` 30,000 - ` 22,000)\n8,000.00\n\nCOST AND MANAGEMENT ACCOUNTING\n\n19\n(B)  Total Incremental Cost\n5,32,000.00\n(C)  Incremental profit (A-B)\n4,40,000.00\n\nApex Chemicals Ltd. should further process Product A into A-Prime. This\ndecision results in an incremental profit of ` 4,40,000.\n(b)\nParticulars\nBudget\nActual\nDays\n25\n28\nMan hours per day\n12,000\n12,500\nHours\n3,00,000\n3,50,000\nUnits per man hour\n1\n0.9\nUnits\n3,00,000\n3,15,000\nFixed Overheads (`)\n6,00,000\n6,24,000\n(i)   Fixed Overhead Expenditure Variance\n\n= Budgeted Fixed Overhead - Actual Fixed Overhead\n\n= (` 6,00,000 – ` 6,24,000) = ` 24,000 (A)\n(ii) Fixed Overhead Volume Variance\n= Absorbed Overhead – Budgeted Overhead\n\n= (` 2 x 3,15,000) – ` 6,00,000 = ` 30,000 (F)\n(iii) Fixed Overhead Calendar Variance\n\n= (Actual Days - Budgeted Days) x Budgeted Rate per day\n\n= (28 - 25) x ` 24,000 = ` 72,000 (F)\n(iv)  Fixed Overhead Cost Variance\n\n= Absorbed Overhead - Actual Fixed Overheads\n\n= (` 2 x 3,15,000) – ` 6,24,000 = ` 6,000 (F)\n\n20\nWorking Note:\n\nStandard fixed overhead rate per unit  =\n6,00,000\n3,00,000 units\n`\n= ` 2 per unit\n\nStandard fixed overhead per day\n=\n6,00,000\n25 days\n`\n= ` 24,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7.  \nAs per SA 560, when, after the date of the auditor’s report but before \nthe date the financial statements are issued, a fact becomes known to \nthe auditor that, had it been known at the date of the auditor’s report, \nmay have caused the auditor to amend the auditor’s report, the auditor \nshall: \n(a)  \nModify the opinion in accordance with SA 705 and provide the \namended auditor’s report. \n(b)  \nDiscuss the matter with management and determine whether the \nfinancial statements need amendment. \n(c)  \nNotify shareholders directly to prevent reliance on the auditor’s \nreport. \n(d)  \nWithdraw from the engagement and disclaim an opinion.",
+  "suggested_answer": "(B)",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q007",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  \nAs per SA 560, when, after the date of the auditor’s report but before \nthe date the financial statements are issued, a fact becomes known to \nthe auditor that, had it been known at the date of the auditor’s report, \nmay have caused the auditor to amend the auditor’s report, the auditor \nshall: \n(a)  \nModify the opinion in accordance with SA 705 and provide the \namended auditor’s report. \n(b)  \nDiscuss the matter with management and determine whether the \nfinancial statements need amendment. \n(c)  \nNotify shareholders directly to prevent reliance on the auditor’s \nreport. \n(d)  \nWithdraw from the engagement and disclaim an opinion."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

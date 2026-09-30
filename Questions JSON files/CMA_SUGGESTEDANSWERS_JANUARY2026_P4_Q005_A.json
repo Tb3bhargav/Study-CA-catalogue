@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) A machine shop has 6 identical drilling machines manned by 4 operators.\n\nThe machine cannot be worked without an operator wholly engaged on it.\n\nThe original cost of all these machines works out to ` 3,00,000.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n\nThese particulars are furnished pertaining to a period of 4 months:\nNormal available hours per month\n156 hrs.\nAbsenteeism (without pay) hours\n9 hrs.\nLeave (with pay) hours\n10 hrs.\nNormal idle time unavoidable hours\n5 hrs.\nAverage rate of wages per worker for 6 hours a day\n` 450\nProduction bonus estimated\n20% on wages\nValue of power consumed\n` 20,500\nSupervision and indirect labour\n` 8,500\nLighting and electricity\n` 4,500\n\nThese particulars are furnished for a year:\n\nRepairs and maintenance including consumables - 2% per annum of value\nof machines.\n\nDepreciation - 15% per annum of original cost.\n\nOther sundry works expenses - ` 12,000 p.a.\n\nGeneral management expenses allocated - ` 24,000 р.а.\n\nThe machine shop has taken an annual insurance for all 6 machines also.\n\nGiven that the comprehensive machine hour rate for 4 months period is\n` 125 per machine hour.\n\nYou are required to find out the total amount of annual insurance premium.\n(6 Marks)",
+  "suggested_answer": "(a)  Computation of Amount of Annual Insurance Premium\nParticulars\nAmount\n(`)\nOperator’s wages (Refer Working Note 2)\n1,84,500\nProduction bonus (20% on wages)\n36,900\nPower consumed\n20,500\nSupervision and indirect labour\n8,500\nLighting and electricity\n4,500\nRepairs & maintenance (2% × ` 3,00,000 × 1/3)\n2,000\nDepreciation (15% × ` 3,00,000 × 1/3)\n15,000\nOther sundry works expenses (` 12,000 × 1/3)\n4,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nGeneral management expenses (` 24,000 × 1/3)\n8,000\nTotal Overhead of Machine shop without Insurance Premium\n2,83,900\nTotal Insurance Premium for 4 months (B.F.)\n` 16,100\nTotal Overhead of Machine shop for 4 months\n3,00,000\nMachine hour rate = Total overheads of machine shop\nHours of machines operation\n\nTotal Overhead of Machine shop = `125 x 2,400 hrs = 3,00,000\nAnnual Insurance Premium = ` 16,100 x 3 = ` 48,300\nWorking notes\n1.  Computation of hours, for which 4 operators are available for 4\nmonths.\n\nFor 4 months and\n4 operators\nNormal available hours\n(156 x 4 months x 4 operators)\n2,496\nLess: Absenteeism hours (9 x 4 operators)\n(36)\nPaid hours\n2,460\nLess: Leave hours (10 x 4 operators)\n(40)\nLess: Idle time hours (5 x 4 operators)\n(20)\nEffective working hours\n2,400\n\nAs machines cannot be worked without an operator wholly engaged\non them therefore, hours for which 4 operators are available for 4\nmonths are the hours for which machines can be used. Hence 2,400\nhours represent effective working hours.\n2.\nComputation of operator’s wages\nAverage rate of wages:\n6\n`450\nhours\n= ` 75 per hour\nTotal wages paid to 4 operators for 4 months = 2,460 hours × ` 75\n= ` 1,84,500\n\n26",
+  "marks": "(6 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_A",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 23,
+    "end": 27
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(a)",
+    "marks": "(6 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 23,
+    "page_end": 27,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) A machine shop has 6 identical drilling machines manned by 4 operators.\n\nThe machine cannot be worked without an operator wholly engaged on it.\n\nThe original cost of all these machines works out to ` 3,00,000.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n\nThese particulars are furnished pertaining to a period of 4 months:\nNormal available hours per month\n156 hrs.\nAbsenteeism (without pay) hours\n9 hrs.\nLeave (with pay) hours\n10 hrs.\nNormal idle time unavoidable hours\n5 hrs.\nAverage rate of wages per worker for 6 hours a day\n` 450\nProduction bonus estimated\n20% on wages\nValue of power consumed\n` 20,500\nSupervision and indirect labour\n` 8,500\nLighting and electricity\n` 4,500\n\nThese particulars are furnished for a year:\n\nRepairs and maintenance including consumables - 2% per annum of value\nof machines.\n\nDepreciation - 15% per annum of original cost.\n\nOther sundry works expenses - ` 12,000 p.a.\n\nGeneral management expenses allocated - ` 24,000 р.а.\n\nThe machine shop has taken an annual insurance for all 6 machines also.\n\nGiven that the comprehensive machine hour rate for 4 months period is\n` 125 per machine hour.\n\nYou are required to find out the total amount of annual insurance premium.\n(6 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Computation of Amount of Annual Insurance Premium\nParticulars\nAmount\n(`)\nOperator’s wages (Refer Working Note 2)\n1,84,500\nProduction bonus (20% on wages)\n36,900\nPower consumed\n20,500\nSupervision and indirect labour\n8,500\nLighting and electricity\n4,500\nRepairs & maintenance (2% × ` 3,00,000 × 1/3)\n2,000\nDepreciation (15% × ` 3,00,000 × 1/3)\n15,000\nOther sundry works expenses (` 12,000 × 1/3)\n4,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nGeneral management expenses (` 24,000 × 1/3)\n8,000\nTotal Overhead of Machine shop without Insurance Premium\n2,83,900\nTotal Insurance Premium for 4 months (B.F.)\n` 16,100\nTotal Overhead of Machine shop for 4 months\n3,00,000\nMachine hour rate = Total overheads of machine shop\nHours of machines operation\n\nTotal Overhead of Machine shop = `125 x 2,400 hrs = 3,00,000\nAnnual Insurance Premium = ` 16,100 x 3 = ` 48,300\nWorking notes\n1.  Computation of hours, for which 4 operators are available for 4\nmonths.\n\nFor 4 months and\n4 operators\nNormal available hours\n(156 x 4 months x 4 operators)\n2,496\nLess: Absenteeism hours (9 x 4 operators)\n(36)\nPaid hours\n2,460\nLess: Leave hours (10 x 4 operators)\n(40)\nLess: Idle time hours (5 x 4 operators)\n(20)\nEffective working hours\n2,400\n\nAs machines cannot be worked without an operator wholly engaged\non them therefore, hours for which 4 operators are available for 4\nmonths are the hours for which machines can be used. Hence 2,400\nhours represent effective working hours.\n2.\nComputation of operator’s wages\nAverage rate of wages:\n6\n`450\nhours\n= ` 75 per hour\nTotal wages paid to 4 operators for 4 months = 2,460 hours × ` 75\n= ` 1,84,500\n\n26"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

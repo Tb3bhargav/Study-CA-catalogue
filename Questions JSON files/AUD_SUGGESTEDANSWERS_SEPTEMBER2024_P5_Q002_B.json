@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Alfa Limited has availed bank overdraft facility from a nationalized bank. The\ncompany received balance confirmation certificate for bank overdraft\nbalance as on 31.03.2024 from the bank.\nParticulars\nAmount (`)\nBank overdraft balance as per Bank Certificate\n25,66,200/-\nBank overdraft balance as per Ledger\n26,45,300/-\nHow will you vouch/verify borrowings from Bank taken by Alfa Limited?\n(4 Marks)",
+  "suggested_answer": "(b) Vouching /Verification of borrowings from Bank: The auditor is required\nto roll out and obtain independent balance confirmations in respect of all\nthe borrowings from the lender (banks/ financial institutions etc.) and\nperform the following:\n•\nAscertain that the conﬁrmation asks for all information likely to be\nrelevant to the tests of debt and related interest balances (e.g.,\napplicable interest rates, due dates, collateral and security interests).\n•\nSend reminders for non-replies.\n•\nCompare the balances as per the confirmations obtained to the books\nof the accounts. Ask for reconciliations, if there are any differences and\ntest the supporting documents for the reconciling items on a test check\nbasis.\n•\nReconcile the balances in the overdrafts or loan accounts with that\nshown in the pass book(s) and conﬁrm the last-mentioned balance by\nobtaining a certiﬁcate from the bank showing the balance in the\naccounts as at the end of the year.\n\nAUDITING AND ETHICS\n\n15\n•\nObtain independent balance confirmation from the bank showing\nbalances, particulars of securities deposited with the bank as security\nfor the loans or of the charge created on an asset and conﬁrm that the\nsame has been correctly disclosed and duly registered with Registrar\nof Companies and recorded in the Register of charges.\n•\nVerify the authority under which the loan or draft has been raised. In\nthe case of a company, only the Board of Directors is authorised to\nraise a loan or borrow from a bank.\n•\nConﬁrm, in the case of a company, that the restraint contained in\nSection 180 of the Companies Act, 2013 as regards the maximum\namount of loan that the company can raise has not been contravened.\n•\nAscertain the purpose for which loan has been raised and the manner\nin which it has been utilised and that this has not prejudicially aﬀected\nthe entity.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q002_B",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 13,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Alfa Limited has availed bank overdraft facility from a nationalized bank. The\ncompany received balance confirmation certificate for bank overdraft\nbalance as on 31.03.2024 from the bank.\nParticulars\nAmount (`)\nBank overdraft balance as per Bank Certificate\n25,66,200/-\nBank overdraft balance as per Ledger\n26,45,300/-\nHow will you vouch/verify borrowings from Bank taken by Alfa Limited?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Vouching /Verification of borrowings from Bank: The auditor is required\nto roll out and obtain independent balance confirmations in respect of all\nthe borrowings from the lender (banks/ financial institutions etc.) and\nperform the following:\n•\nAscertain that the conﬁrmation asks for all information likely to be\nrelevant to the tests of debt and related interest balances (e.g.,\napplicable interest rates, due dates, collateral and security interests).\n•\nSend reminders for non-replies.\n•\nCompare the balances as per the confirmations obtained to the books\nof the accounts. Ask for reconciliations, if there are any differences and\ntest the supporting documents for the reconciling items on a test check\nbasis.\n•\nReconcile the balances in the overdrafts or loan accounts with that\nshown in the pass book(s) and conﬁrm the last-mentioned balance by\nobtaining a certiﬁcate from the bank showing the balance in the\naccounts as at the end of the year.\n\nAUDITING AND ETHICS\n\n15\n•\nObtain independent balance confirmation from the bank showing\nbalances, particulars of securities deposited with the bank as security\nfor the loans or of the charge created on an asset and conﬁrm that the\nsame has been correctly disclosed and duly registered with Registrar\nof Companies and recorded in the Register of charges.\n•\nVerify the authority under which the loan or draft has been raised. In\nthe case of a company, only the Board of Directors is authorised to\nraise a loan or borrow from a bank.\n•\nConﬁrm, in the case of a company, that the restraint contained in\nSection 180 of the Companies Act, 2013 as regards the maximum\namount of loan that the company can raise has not been contravened.\n•\nAscertain the purpose for which loan has been raised and the manner\nin which it has been utilised and that this has not prejudicially aﬀected\nthe entity."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

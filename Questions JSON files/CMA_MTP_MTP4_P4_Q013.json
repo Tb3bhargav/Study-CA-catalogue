@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. \nProduct Y yields two by-products A and B. The joint cost of manufacture is ` 2,00,000. \nSales of A and B are ` 80,000 and ` 50,000 respectively. Manufacturing expenses after \nseparation of A and B are ` 10,000 and ` 8,000 respectively while their respective \nestimated selling expenses on sales is 20% for both products. The estimated profit on \nsales of A and B is 25% and 30% respectively. What is the cost of product Y after \nadjusting joint cost apportioned to by-products A and B? \n(A)  \n` 1,50,000 \n(B)  \n` 1,49,000 \n(C)  \n` 1,82,000 \n(D)  \n` 1,20,000 \n (2 Marks)",
+  "suggested_answer": "(B) ` 1,49,000 Total Cost = Sales Revenue−Profit For A: Total Cost of A = 80,000−20,000=60,000 For B: Total Cost of B = 50,000−15,000=35,000 For A: Joint Cost Allocated to A = 60,000 − (Manufacturing Expenses + Selling Expenses = 60,000−(10,000+16,000) = 34,000 5 For B: Joint Cost Allocated to B = 35,000 − (Manufacturing Expenses + Selling Expenses = 35,000 − (8,000 + 10,000) = 17,000 Cost of Product Y = Total Joint Cost−Joint Cost Allocated to A and B = 2,00,000 − 51,000 = 1,49,000",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q013",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nProduct Y yields two by-products A and B. The joint cost of manufacture is ` 2,00,000. \nSales of A and B are ` 80,000 and ` 50,000 respectively. Manufacturing expenses after \nseparation of A and B are ` 10,000 and ` 8,000 respectively while their respective \nestimated selling expenses on sales is 20% for both products. The estimated profit on \nsales of A and B is 25% and 30% respectively. What is the cost of product Y after \nadjusting joint cost apportioned to by-products A and B? \n(A)  \n` 1,50,000 \n(B)  \n` 1,49,000 \n(C)  \n` 1,82,000 \n(D)  \n` 1,20,000 \n (2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 1,49,000 Total Cost = Sales Revenue−Profit For A: Total Cost of A = 80,000−20,000=60,000 For B: Total Cost of B = 50,000−15,000=35,000 For A: Joint Cost Allocated to A = 60,000 − (Manufacturing Expenses + Selling Expenses = 60,000−(10,000+16,000) = 34,000 5 For B: Joint Cost Allocated to B = 35,000 − (Manufacturing Expenses + Selling Expenses = 35,000 − (8,000 + 10,000) = 17,000 Cost of Product Y = Total Joint Cost−Joint Cost Allocated to A and B = 2,00,000 − 51,000 = 1,49,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q003_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Vista Limited's retained earnings per share for the year ending 31.03.2023\nbeing 40% is ` 3.60 per share. Company is foreseeing a growth rate of 10%\nper annum in the next two years. After that the growth rate is expected to\nstabilize at 8% per annum. Company will maintain its existing pay-out ratio.\nIf the investor's required rate of return is 15%, Calculate the intrinsic value\nper share as of date using Dividend Discount model.",
+  "suggested_answer": "(b) As per Dividend discount model, the price of share is calculated as\nfollows:\n\nRetained earning per share = ` 3.60\n\nDividend per share, D0 =\n` 3.60\n40% x 60%  = `5.40\n\nP=\nD1\n(1+Ke)1 +\nD2\n(1+Ke)2 +\nD3\n(Ke-g) ×\n1\n(1+Ke)2\n\nWhere,\n\nP = Price per share\n\nKe = Required rate of return on equity\n\ng = Growth rate\n\nP=\n5.4x1.1\n(1+0.15)1 +\n5.94x1.1\n(1+0.15)2 +\n6.534x1.08\n(0.15-0.08) ×\n1\n(1+0.15)2\n\nP= 5.17 + 4.94 + 76.23 = `86.33\n\nIntrinsic value of share is ` 86.33",
+  "marks": null,
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q003_B",
+  "source_filename": "81501bos65715-p6.pdf",
+  "source_pdf": "suggested_answers/81501bos65715-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Dividend Decisions",
+    "topic": "Dividend Decisions",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "3(b)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81501bos65715-p6.pdf",
+      "answer_pdf": "suggested_answers/81501bos65715-p6.pdf"
+    },
+    "page_start": 15,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Vista Limited's retained earnings per share for the year ending 31.03.2023\nbeing 40% is ` 3.60 per share. Company is foreseeing a growth rate of 10%\nper annum in the next two years. After that the growth rate is expected to\nstabilize at 8% per annum. Company will maintain its existing pay-out ratio.\nIf the investor's required rate of return is 15%, Calculate the intrinsic value\nper share as of date using Dividend Discount model."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) As per Dividend discount model, the price of share is calculated as\nfollows:\n\nRetained earning per share = ` 3.60\n\nDividend per share, D0 =\n` 3.60\n40% x 60%  = `5.40\n\nP=\nD1\n(1+Ke)1 +\nD2\n(1+Ke)2 +\nD3\n(Ke-g) ×\n1\n(1+Ke)2\n\nWhere,\n\nP = Price per share\n\nKe = Required rate of return on equity\n\ng = Growth rate\n\nP=\n5.4x1.1\n(1+0.15)1 +\n5.94x1.1\n(1+0.15)2 +\n6.534x1.08\n(0.15-0.08) ×\n1\n(1+0.15)2\n\nP= 5.17 + 4.94 + 76.23 = `86.33\n\nIntrinsic value of share is ` 86.33"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

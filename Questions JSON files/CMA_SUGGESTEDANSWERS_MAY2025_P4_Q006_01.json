@@ -1,0 +1,64 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q006_01",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": true,
+  "question_text": "Question 6\n(a) In the following independent situations, identify the type of cost and state\nwhether it is relevant/non-relevant in managerial decision making:\n(i)  A Limited owns a commercial space of 1500 square feet and uses the\nsame for its own office accommodation purposes. Similar office is\navailable nearby on rent of ` 30,000 per month.\n(ii)  MNC Limited has paid ` 1 Lakh as rent for a factory shed which is\ntemporarily closed for the last two months.\n(iii)  Beta Company has paid ` 3 Lakhs to a market research agency to find\nout the market demand of the innovative product developed by the\ncompany.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n31\n(iv)  Zen LLP has paid incentive of ` 5 Lakhs @ 1% on sales to the salesmen\nfor achieving sales beyond the expected sales of ` 25 Lakhs per month\nper salesman.\n(v)  A start-up company has invested ` 50 Lakhs in Project P. The company\ncould have earned interest of ` 3 Lakhs by investing the amount in a\nbank fixed deposit @ 6% per annum.\n(5 Marks)\n(b)  Cosmos Limited uses activity based costing and accumulates overhead costs\nin the following cost pools:\n(1)  Human Resources\n(2)  Maintenance of buildings\n(3)  Parts Management\n(4)  Plant security\n(5)  Purchasing\n(6)  Floor manager's salary\n(7)  Quality control\n(8)  Machine set-up\n(9)  Designing the product\n(10) Receiving Department\n\nClassify each cost pool as per cost hierarchy i.e. unit level, batch level, product\nlevel or facility level.\n(5 Marks)\n(c)  Describe briefly the methods for valuation of work-in-process followed in\nProcess Costing.\n(4 Marks)\nOR\n(c)  Contemplate the list of functions given below and identify each one of them\nwith the most relevant scope of Cost Accounting:\n(i)  It involves a detailed examination of each cost.\n(ii)  Helps in planning and control, performance appraisal and managerial\ndecision making.\n(iii)  Cost involved in alternative courses of action.\n\n32\n(iv)  To find out factors responsible for variance in actual costs from the\nbudgeted costs.\n(4 Marks)",
+  "suggested_answer": "(a)\nSituation\nType of Cost\nRelevant / Non-\nRelevant\n(i)\nOpportunity Cost/ Imputed Cost/\nNotional Cost\nRelevant\n(ii)\nCommitted Cost/Shut Down Cost\nNon-Relevant\n(iii)\nSunk Cost\nNon-Relevant\n(iv)\nOut of Pocket Cost\nRelevant\n(v)\nOpportunity Cost\nRelevant\n(b)\nS. No.\nCost Pool\nCost Hierarchy Level\n(1)\nHuman Resources\nFacility-level\n(2)\nMaintenance of buildings\nFacility-level\n(3)\nParts Management\nBatch-level/Product Level\n(4)\nPlant security\nFacility-level\n(5)\nPurchasing\nBatch-level\n(6)\nFloor manager’s salary\nFacility-level\n(7)\nQuality control\nBatch-level / Unit Level\n(8)\nMachine set-up\nBatch-level\n(9)\nDesigning the product\nProduct-level\n(10)\nReceiving Department\nBatch-level\n(c)  Mainly two methods for valuation of work-in-process are followed:\n(i) First-in-first-out (FIFO) method: Under this method the units\ncompleted and transferred are taken from both opening work-in-\nprocess (WIP) and freshly introduced materials/inputs. The cost to\ncomplete the opening WIP and other completed units are calculated\n\nCOST AND MANAGEMENT ACCOUNTING\n\n33\nseparately. The cost of opening WIP is added to cost incurred on\ncompleting the incomplete (WIP) units into complete one. The total\ncost of units completed and transferred is calculated by adding\nopening WIP cost to cost on freshly introduced inputs. In this method\nthe closing stock of work in process is valued at current cost.\n(ii) Weighted Average (Average) Method: Under this method, the cost\nof opening work-in-process and cost of the current period are\naggregated and the aggregate cost is divided by output in terms of\ncompleted units. The equivalent production in this case consists of\nwork-load already contained in opening work-in-process and work-\nload of current period.\n\nThe main difference between FIFO method and average method is that\nunits of opening work in process and their cost are taken in full under\naverage method while under FIFO method only the remaining work\ndone now is considered.\nOR\n(c)\nFunction\nScope of Cost Accounting\n(i)\nCost Control\n(ii)\nCost Report\n(iii)\nCost Comparison\n(iv)\nCost Analysis",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q006",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 30,
+    "end": 33
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 30,
+    "page_end": 33,
+    "question_kind": "descriptive",
+    "has_or_alternative": true
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Question 6\n(a) In the following independent situations, identify the type of cost and state\nwhether it is relevant/non-relevant in managerial decision making:\n(i)  A Limited owns a commercial space of 1500 square feet and uses the\nsame for its own office accommodation purposes. Similar office is\navailable nearby on rent of ` 30,000 per month.\n(ii)  MNC Limited has paid ` 1 Lakh as rent for a factory shed which is\ntemporarily closed for the last two months.\n(iii)  Beta Company has paid ` 3 Lakhs to a market research agency to find\nout the market demand of the innovative product developed by the\ncompany.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n31\n(iv)  Zen LLP has paid incentive of ` 5 Lakhs @ 1% on sales to the salesmen\nfor achieving sales beyond the expected sales of ` 25 Lakhs per month\nper salesman.\n(v)  A start-up company has invested ` 50 Lakhs in Project P. The company\ncould have earned interest of ` 3 Lakhs by investing the amount in a\nbank fixed deposit @ 6% per annum.\n(5 Marks)\n(b)  Cosmos Limited uses activity based costing and accumulates overhead costs\nin the following cost pools:\n(1)  Human Resources\n(2)  Maintenance of buildings\n(3)  Parts Management\n(4)  Plant security\n(5)  Purchasing\n(6)  Floor manager's salary\n(7)  Quality control\n(8)  Machine set-up\n(9)  Designing the product\n(10) Receiving Department\n\nClassify each cost pool as per cost hierarchy i.e. unit level, batch level, product\nlevel or facility level.\n(5 Marks)\n(c)  Describe briefly the methods for valuation of work-in-process followed in\nProcess Costing.\n(4 Marks)\nOR\n(c)  Contemplate the list of functions given below and identify each one of them\nwith the most relevant scope of Cost Accounting:\n(i)  It involves a detailed examination of each cost.\n(ii)  Helps in planning and control, performance appraisal and managerial\ndecision making.\n(iii)  Cost involved in alternative courses of action.\n\n32\n(iv)  To find out factors responsible for variance in actual costs from the\nbudgeted costs.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\nSituation\nType of Cost\nRelevant / Non-\nRelevant\n(i)\nOpportunity Cost/ Imputed Cost/\nNotional Cost\nRelevant\n(ii)\nCommitted Cost/Shut Down Cost\nNon-Relevant\n(iii)\nSunk Cost\nNon-Relevant\n(iv)\nOut of Pocket Cost\nRelevant\n(v)\nOpportunity Cost\nRelevant\n(b)\nS. No.\nCost Pool\nCost Hierarchy Level\n(1)\nHuman Resources\nFacility-level\n(2)\nMaintenance of buildings\nFacility-level\n(3)\nParts Management\nBatch-level/Product Level\n(4)\nPlant security\nFacility-level\n(5)\nPurchasing\nBatch-level\n(6)\nFloor manager’s salary\nFacility-level\n(7)\nQuality control\nBatch-level / Unit Level\n(8)\nMachine set-up\nBatch-level\n(9)\nDesigning the product\nProduct-level\n(10)\nReceiving Department\nBatch-level\n(c)  Mainly two methods for valuation of work-in-process are followed:\n(i) First-in-first-out (FIFO) method: Under this method the units\ncompleted and transferred are taken from both opening work-in-\nprocess (WIP) and freshly introduced materials/inputs. The cost to\ncomplete the opening WIP and other completed units are calculated\n\nCOST AND MANAGEMENT ACCOUNTING\n\n33\nseparately. The cost of opening WIP is added to cost incurred on\ncompleting the incomplete (WIP) units into complete one. The total\ncost of units completed and transferred is calculated by adding\nopening WIP cost to cost on freshly introduced inputs. In this method\nthe closing stock of work in process is valued at current cost.\n(ii) Weighted Average (Average) Method: Under this method, the cost\nof opening work-in-process and cost of the current period are\naggregated and the aggregate cost is divided by output in terms of\ncompleted units. The equivalent production in this case consists of\nwork-load already contained in opening work-in-process and work-\nload of current period.\n\nThe main difference between FIFO method and average method is that\nunits of opening work in process and their cost are taken in full under\naverage method while under FIFO method only the remaining work\ndone now is considered.\nOR\n(c)\nFunction\nScope of Cost Accounting\n(i)\nCost Control\n(ii)\nCost Report\n(iii)\nCost Comparison\n(iv)\nCost Analysis"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

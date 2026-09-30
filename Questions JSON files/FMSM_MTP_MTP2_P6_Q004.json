@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP2_P6_Q004",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.  \nWhat are the Net Profit Ratio and the Return on Total Assets of Solstice Biotech Ltd. for \nFY 2025–26?  \n(A)  \n15.00% and 9.17% \n(B)  \n18.00% and 10.00% \n(C)  \n14.00% and 12.00% \n(D)  \n10.50% and 9.17% \n(2 Marks)",
+  "suggested_answer": "(D) Net Profit Ratio = Profit After Tax ÷ Sales × 100 = 1,680 ÷ 16,000 × 100 = 10.5% Return on Total Assets = Profit After Tax ÷ Total Assets × 100 = 1,680 ÷ 18,312 × 100 = 9.17%",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP2_P6_Q004",
+  "source_filename": "mtp2paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "4",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.  \nWhat are the Net Profit Ratio and the Return on Total Assets of Solstice Biotech Ltd. for \nFY 2025–26?  \n(A)  \n15.00% and 9.17% \n(B)  \n18.00% and 10.00% \n(C)  \n14.00% and 12.00% \n(D)  \n10.50% and 9.17% \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Net Profit Ratio = Profit After Tax ÷ Sales × 100 = 1,680 ÷ 16,000 × 100 = 10.5% Return on Total Assets = Profit After Tax ÷ Total Assets × 100 = 1,680 ÷ 18,312 × 100 = 9.17%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

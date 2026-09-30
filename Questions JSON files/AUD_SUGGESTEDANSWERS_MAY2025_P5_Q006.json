@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6.\nMr. D, an Articled Clerk, was performing audit procedures related to Reserves\nand Surplus in PQ Ltd. tell him that which statement are correct in respect of\nReserves and Surplus?\n(I)  Reserves are the amounts appropriated out of profits for commitment.\n(II)  Securities premium is a capital reserve.\n(III)  A debit balance in the statement of profit and loss account shall be\nshown as a negative figure under the head 'surplus'.\n(IV)  All reserves can be used to augment the working capital of the Company.\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  II & IV above\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q006",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Management of Working Capital",
+    "topic": "Management of Working Capital",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.\nMr. D, an Articled Clerk, was performing audit procedures related to Reserves\nand Surplus in PQ Ltd. tell him that which statement are correct in respect of\nReserves and Surplus?\n(I)  Reserves are the amounts appropriated out of profits for commitment.\n(II)  Securities premium is a capital reserve.\n(III)  A debit balance in the statement of profit and loss account shall be\nshown as a negative figure under the head 'surplus'.\n(IV)  All reserves can be used to augment the working capital of the Company.\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  II & IV above\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

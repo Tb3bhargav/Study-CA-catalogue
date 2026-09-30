@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q003_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3. \nA group of investors further demanded that the auditor conduct a detailed \ninvestigation into an alleged fraud by a senior employee, including \nquestioning employees and recording statements under oath. \n \nWith reference to the above situation, explain the matters which fall outside the \nscope of an audit. Also distinguish between audit and investigation. \n (5 Marks)  \n(c)  \nXYZ Limited is engaged in manufacturing activities. As at 31st March 2025, the \nTrade Receivables balance amounted to ` 8 crores. The statutory auditor selected \n25 customer balances for external confirmation in accordance with the applicable \nStandard on Auditing relating to external confirmations. \n \nThe results of the confirmation procedure were as follows: \n• \n15 customers responded directly to the auditor indicating agreement with \nthe information requested. \n• \n3 responses were received directly to the auditor indicating disagreement \nwith the information provided in the request. These parties were supposed \nto respond only if they disagree with the information provided in the \nrequest. \n• \n5 customers did not respond despite follow-up requests. \n• \n2 customers responded stating that the balances as per their records were \nlower than those mentioned in the confirmation requests. \n \nIn the light of the relevant Standard on Auditing, explain how the auditor should \nevaluate the above responses and state whether further audit procedures are \nrequired. \n(4 Marks)",
+  "suggested_answer": "Conducting an official investigation: An audit is not an official investigation \ninto alleged wrongdoing. The auditor does not possess legal powers such \nas searching premises or recording statements of witnesses on oath, which \nare generally available to investigative authorities.",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP3_P5_Q003_02",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Fraud and Responsibilities",
+    "topic": "Fraud and Responsibilities",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 10,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nA group of investors further demanded that the auditor conduct a detailed \ninvestigation into an alleged fraud by a senior employee, including \nquestioning employees and recording statements under oath. \n \nWith reference to the above situation, explain the matters which fall outside the \nscope of an audit. Also distinguish between audit and investigation. \n (5 Marks)  \n(c)  \nXYZ Limited is engaged in manufacturing activities. As at 31st March 2025, the \nTrade Receivables balance amounted to ` 8 crores. The statutory auditor selected \n25 customer balances for external confirmation in accordance with the applicable \nStandard on Auditing relating to external confirmations. \n \nThe results of the confirmation procedure were as follows: \n• \n15 customers responded directly to the auditor indicating agreement with \nthe information requested. \n• \n3 responses were received directly to the auditor indicating disagreement \nwith the information provided in the request. These parties were supposed \nto respond only if they disagree with the information provided in the \nrequest. \n• \n5 customers did not respond despite follow-up requests. \n• \n2 customers responded stating that the balances as per their records were \nlower than those mentioned in the confirmation requests. \n \nIn the light of the relevant Standard on Auditing, explain how the auditor should \nevaluate the above responses and state whether further audit procedures are \nrequired. \n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Conducting an official investigation: An audit is not an official investigation \ninto alleged wrongdoing. The auditor does not possess legal powers such \nas searching premises or recording statements of witnesses on oath, which \nare generally available to investigative authorities."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

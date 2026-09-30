@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q016",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16. \nFit’n’fine Ltd. runs a fitness club in Delhi. It offers three types of \nmembership plans: Bronze, Silver, and Gold. \n\n \nINTERMEDIATE EXAMINATION \n \n \n20 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThe club is using a traditional costing system with the following \ninformation: \n \nCost Information \nDescription \nAmount (in `) \nRent \n1,00,000 per month \nGym equipments \n30,00,000 (service life 5 years) \nLicenses & Permits \n86,000 (renewed in every six month) \nInsurance \n12,000 per annum \nSalary to the instructors \n7,48,000 per annum \nUtilities \n75,000 per quarter \nCleaning supplies \n1,44,000 per annum \nAMC \nof \nequipments \n& \nmachinery \n1,20,000 per month \nMarketing expenses \n3,00,000 per annum \nElectricity expenses @ ` 14 per \nunit \nApril to July – 60 units per hour  \nAugust to March – 25 units per hour \n \nMembership Details \nType of \nMembers \nClub Access time \nOccupancy % \n(April to July) \nOccupancy % \n(August to March) \nGold \n5.00 AM to 9.00 AM \n100% \n80% \nSilver \n6.00 PM to 9.00 PM \n70% \n50% \nBronze \n9.00 AM to 6.00 PM \n50% \n30% \n \nThe maximum capacity of the fitness club is 200 persons in any time slot. \nThe membership fee per month for Gold members is to be fixed at 1.5 \ntimes of the Silver membership and that of Silver membership as twice \nof the Bronze membership fee after providing profit @ 25% on \nmembership fees. The club opens 25 days in a month. \n \nYou are required to calculate the membership fee per month to be \ncharged by the club for each member type. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \nMiscellaneous",
+  "suggested_answer": "Statement showing Total Cost per annum \nParticulars \nAmount (`) \nRent (1,00,000 × 12) \n12,00,000 \nDepreciation on Gym Equipment (30,00,000 / 5) \n6,00,000 \nLicenses & Permits (86,000 × 2) \n1,72,000 \nInsurance \n12,000 \nSalary to the instructors \n7,48,000 \nUtilities (75,000 × 4) \n3,00,000 \nCleaning supplies \n1,44,000 \nAMC of Equipment & Machinery (1,20,000 × 12) \n14,40,000 \nMarketing expenses \n3,00,000 \nElectricity Expenses April to July  \n(25 days × 16 Hrs × 4 Month × 60 units × 14) \n13,44,000 \nElectricity Expenses August to March  \n(25 days × 16 Hrs × 8 Month × 25 units × 14) \n11,20,000 \nTotal cost per annum \n73,80,000 \nAdd: Profit 25% on sale or 1/3 on cost \n24,60,000 \nTotal amount to be charged \n98,40,000 \nCalculation of per member per month Subscription charges: \nTotal amount to be charged = ` 98,40,000 \nEquivalent Bronze membership = 9,840 \nRate per Bronze membership per month \n= 98,40,000 / 9,840 = ` 1,000 \nRate per Silver membership per month \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n= 1,000 × 2 = ` 2,000 \nRate per Gold membership per month \n= 2,000 × 1.5 = ` 3,000 \nWorking note: \nCalculation of equivalent Bronze membership: \nType of Membership \nApril to July \nAugust to March \nGold \n200 x 100% = 200 \n200 x 80% = 160 \nSilver \n200 x 70% = 140 \n200 x 50% = 100 \nBronze \n200 x 50% = 100 \n200 x 30% = 60 \nEquivalent membership: \nType of Membership \nApril to July \nAugust to March \nGold \n3 x 200 = 600 \n3 x 160 = 480 \nSilver \n2 x 140 = 280 \n2 x 100 = 200 \nBronze \n1 x 100 = 100 \n1 x 60 = 60 \nTotal \n980 x 4 = 3,920 \n740 x 8 = 5,920 \nTotal = 3,920 + 5,920 = 9,840",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q016",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. \nFit’n’fine Ltd. runs a fitness club in Delhi. It offers three types of \nmembership plans: Bronze, Silver, and Gold. \n\n \nINTERMEDIATE EXAMINATION \n \n \n20 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThe club is using a traditional costing system with the following \ninformation: \n \nCost Information \nDescription \nAmount (in `) \nRent \n1,00,000 per month \nGym equipments \n30,00,000 (service life 5 years) \nLicenses & Permits \n86,000 (renewed in every six month) \nInsurance \n12,000 per annum \nSalary to the instructors \n7,48,000 per annum \nUtilities \n75,000 per quarter \nCleaning supplies \n1,44,000 per annum \nAMC \nof \nequipments \n& \nmachinery \n1,20,000 per month \nMarketing expenses \n3,00,000 per annum \nElectricity expenses @ ` 14 per \nunit \nApril to July – 60 units per hour  \nAugust to March – 25 units per hour \n \nMembership Details \nType of \nMembers \nClub Access time \nOccupancy % \n(April to July) \nOccupancy % \n(August to March) \nGold \n5.00 AM to 9.00 AM \n100% \n80% \nSilver \n6.00 PM to 9.00 PM \n70% \n50% \nBronze \n9.00 AM to 6.00 PM \n50% \n30% \n \nThe maximum capacity of the fitness club is 200 persons in any time slot. \nThe membership fee per month for Gold members is to be fixed at 1.5 \ntimes of the Silver membership and that of Silver membership as twice \nof the Bronze membership fee after providing profit @ 25% on \nmembership fees. The club opens 25 days in a month. \n \nYou are required to calculate the membership fee per month to be \ncharged by the club for each member type. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \nMiscellaneous"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Statement showing Total Cost per annum \nParticulars \nAmount (`) \nRent (1,00,000 × 12) \n12,00,000 \nDepreciation on Gym Equipment (30,00,000 / 5) \n6,00,000 \nLicenses & Permits (86,000 × 2) \n1,72,000 \nInsurance \n12,000 \nSalary to the instructors \n7,48,000 \nUtilities (75,000 × 4) \n3,00,000 \nCleaning supplies \n1,44,000 \nAMC of Equipment & Machinery (1,20,000 × 12) \n14,40,000 \nMarketing expenses \n3,00,000 \nElectricity Expenses April to July  \n(25 days × 16 Hrs × 4 Month × 60 units × 14) \n13,44,000 \nElectricity Expenses August to March  \n(25 days × 16 Hrs × 8 Month × 25 units × 14) \n11,20,000 \nTotal cost per annum \n73,80,000 \nAdd: Profit 25% on sale or 1/3 on cost \n24,60,000 \nTotal amount to be charged \n98,40,000 \nCalculation of per member per month Subscription charges: \nTotal amount to be charged = ` 98,40,000 \nEquivalent Bronze membership = 9,840 \nRate per Bronze membership per month \n= 98,40,000 / 9,840 = ` 1,000 \nRate per Silver membership per month \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n= 1,000 × 2 = ` 2,000 \nRate per Gold membership per month \n= 2,000 × 1.5 = ` 3,000 \nWorking note: \nCalculation of equivalent Bronze membership: \nType of Membership \nApril to July \nAugust to March \nGold \n200 x 100% = 200 \n200 x 80% = 160 \nSilver \n200 x 70% = 140 \n200 x 50% = 100 \nBronze \n200 x 50% = 100 \n200 x 30% = 60 \nEquivalent membership: \nType of Membership \nApril to July \nAugust to March \nGold \n3 x 200 = 600 \n3 x 160 = 480 \nSilver \n2 x 140 = 280 \n2 x 100 = 200 \nBronze \n1 x 100 = 100 \n1 x 60 = 60 \nTotal \n980 x 4 = 3,920 \n740 x 8 = 5,920 \nTotal = 3,920 + 5,920 = 9,840"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

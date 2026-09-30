@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q002",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2. \nIn the case scenario, the audit team identified that revenue recognition in X Ltd. and loan \nloss provisioning in Y Bank Ltd. involve significant judgment and are susceptible to \nmisstatement even before considering internal controls. \nBased on the facts described above, such risks are most appropriately classified as: \n(a)  \nRisks that can be ignored until effectiveness of internal controls is tested \n(b)  \nInherent risks requiring greater auditor attention during planning and risk \nassessment \n(c)  \nRisks arising only due to failure of internal controls \n(d)  \nDetection risks arising from audit procedures",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q002",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nIn the case scenario, the audit team identified that revenue recognition in X Ltd. and loan \nloss provisioning in Y Bank Ltd. involve significant judgment and are susceptible to \nmisstatement even before considering internal controls. \nBased on the facts described above, such risks are most appropriately classified as: \n(a)  \nRisks that can be ignored until effectiveness of internal controls is tested \n(b)  \nInherent risks requiring greater auditor attention during planning and risk \nassessment \n(c)  \nRisks arising only due to failure of internal controls \n(d)  \nDetection risks arising from audit procedures"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

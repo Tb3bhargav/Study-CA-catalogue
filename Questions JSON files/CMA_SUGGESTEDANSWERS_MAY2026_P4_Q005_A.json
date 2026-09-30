@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  XYZ Private Limited manufactures two products, Mini and Maxi, utilising the\nsame production methods. The company operates under the Absorption\nCosting System. The details of the products for financial year 2025-26 are\nprovided below:\nParticulars\nProducts\n\nMini\nMaxi\nNumber of units produced\n8000 units\n10000 units\nNumber of units sold\n6400 units\n8000 units\nDirect Material Cost per unit\n` 250\n`400\nDirect Labour Hours per unit\n4 Hours\n5 Hours\nSelling price per unit sold during the year\n` 950\n` 1180\n\nUsing the traditional method, all the Production overheads were of\n` 54,00,000, which were directly distributed on the basis of units produced.\nDirect labour hour rate is ` 50 per hour.\n\nFurther, the Board of Directors is considering transitioning to an Activity -\nBased Costing (ABC) system to determine the production overheads.\n\nThe total production overheads are analyzed into the following:\nParticulars\nAmount (`)\nSet -up costs\n9,00,000\nMachine Running costs\n18,00,000\nInspection costs\n27,00,000\nTotal\n54,00,000\n\n24\n\nThe following data on cost drivers was provided by the production manager\nrelating to the bifurcation of production overheads:\nParticulars\nMini\nMaxi\nNumber of Setups\n100\n200\nNumber of Machine Runs\n750\n1,050\nNumber of Inspections\n60\n210\nYou are required to calculate:\n(i)  Total Sales and Total Profit earned for each product as per Absorption\nCosting System.\n(ii)  Total Sales and Total Profit earned for each product as per Activity -\nBased Costing System.\n(10 Marks)",
+  "suggested_answer": "(a) (i)  Total sales and total profit for each product under absorption\ncosting system\n\nFactory overhead rate per unit = ` 54,00,000/18,000 units = ` 300 per\nunit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nParticulars\nMini\nMaxi\nNo. of units produced\n8000 units\n10000 units\nNo. of units sold\n6400 units\n8000 units\n\n`\n`\nDirect Material Cost per unit\n250\n400\nDirect Labour Cost per unit\n(4 hours per unit @ ` 50 per hour)\n(5 hours per unit @ ` 50 per hour)\n\n200\n\n250\nFactory overheads @ ` 300 per unit*\n300\n300\nCost per unit\n750\n950\nTotal Cost of Production\n(Cost per unit x No. of units produced)\n60,00,000\n95,00,000\nLess: Closing stock of finished goods\n(Cost per unit x no. of units of closing\nstock)\n12,00,000\n19,00,000\nCost of Goods sold\n48,00,000\n76,00,000\nProfit (Balancing figure)\n12,80,000\n18,40,000\nTotal Sales\n(Selling price per unit x No. of units sold)\n60,80,000\n94,40,000\n\n*Overhead rate = Budgeted  overheads\nUnits  Produced\n\n=\n18\n\n,\n54\n00\n,00,\n0 u\n0 0\ns\n0\nnit\n`\n= ` 300\n(ii)  Activity cost-Driver rates\nActivity\nActivity\nCosts (`)\nCost-driver\nCost-driver\nrate\nSet-up cost\n9,00,000\n300 set-ups\n` 3,000 per\nset-up\nMachine\nrunning\ncosts\n18,00,000\n1,800 machine\nruns\n` 1000 per\nmachine run\nInspection costs\n27,00,000\n270\ninspections\n` 10,000 per\ninspection\n\n26\n\nTotal sales and total profit for each product as per Activity Based\nCosting Method\nParticulars\nMini\nMaxi\nNo. of units produced\n8,000 units\n10,000 units\nNo. of units sold\n6,400 units\n8,000 units\n\n`\n`\nDirect Material Cost per unit\n250\n400\nDirect Labour Cost per unit\n(4 hours per unit @ ` 50 per hour)\n(5 hours per unit @ ` 50 per hour)\n\n200\n\n250\nPrime cost per unit\n450\n650\nTotal Prime Cost\n36,00,000\n65,00,000\nActivity Costs:\n\nSet-up cost (` 3,000 per set-up)\n3,00,000\n(3,000 x 100\nset-ups)\n6,00,000\n(3,000 x 200\nset-ups)\nMachine running costs (` 1,000 per\nmachine run)\n7,50,000\n(1,000 x 750\nmachine runs)\n10,50,000\n(1,000 x 1050\nmachine runs)\nInspection\ncosts\n(`\n10,000\nper\ninspection)\n6,00,000\n(10,000 x 60\ninspections)\n21,00,000\n(10,000 x 210\ninspections)\nTotal Overhead Cost\n16,50,000\n37,50,000\nOverhead per unit\n206.25\n375\nCost per unit\n656.25\n1,025\nTotal Cost of Production\n(Cost per unit x No. of units produced)\n52,50,000\n1,02,50,000\nLess: Closing stock of finished goods\n10,50,000\n20,50,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27\n(Cost per unit x no. of units of closing\nstock)\nCost of Goods sold\n42,00,000\n82,00,000\nProfit (Balancing figure)\n18,80,000\n12,40,000\nTotal Sales\n(Selling price per unit x No. of units\nsold)\n60,80,000\n94,40,000",
+  "marks": "(10 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005_A",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 23,
+    "end": 27
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(a)",
+    "marks": "(10 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 23,
+    "page_end": 27,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  XYZ Private Limited manufactures two products, Mini and Maxi, utilising the\nsame production methods. The company operates under the Absorption\nCosting System. The details of the products for financial year 2025-26 are\nprovided below:\nParticulars\nProducts\n\nMini\nMaxi\nNumber of units produced\n8000 units\n10000 units\nNumber of units sold\n6400 units\n8000 units\nDirect Material Cost per unit\n` 250\n`400\nDirect Labour Hours per unit\n4 Hours\n5 Hours\nSelling price per unit sold during the year\n` 950\n` 1180\n\nUsing the traditional method, all the Production overheads were of\n` 54,00,000, which were directly distributed on the basis of units produced.\nDirect labour hour rate is ` 50 per hour.\n\nFurther, the Board of Directors is considering transitioning to an Activity -\nBased Costing (ABC) system to determine the production overheads.\n\nThe total production overheads are analyzed into the following:\nParticulars\nAmount (`)\nSet -up costs\n9,00,000\nMachine Running costs\n18,00,000\nInspection costs\n27,00,000\nTotal\n54,00,000\n\n24\n\nThe following data on cost drivers was provided by the production manager\nrelating to the bifurcation of production overheads:\nParticulars\nMini\nMaxi\nNumber of Setups\n100\n200\nNumber of Machine Runs\n750\n1,050\nNumber of Inspections\n60\n210\nYou are required to calculate:\n(i)  Total Sales and Total Profit earned for each product as per Absorption\nCosting System.\n(ii)  Total Sales and Total Profit earned for each product as per Activity -\nBased Costing System.\n(10 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)  Total sales and total profit for each product under absorption\ncosting system\n\nFactory overhead rate per unit = ` 54,00,000/18,000 units = ` 300 per\nunit\n\nCOST AND MANAGEMENT ACCOUNTING\n\n25\nParticulars\nMini\nMaxi\nNo. of units produced\n8000 units\n10000 units\nNo. of units sold\n6400 units\n8000 units\n\n`\n`\nDirect Material Cost per unit\n250\n400\nDirect Labour Cost per unit\n(4 hours per unit @ ` 50 per hour)\n(5 hours per unit @ ` 50 per hour)\n\n200\n\n250\nFactory overheads @ ` 300 per unit*\n300\n300\nCost per unit\n750\n950\nTotal Cost of Production\n(Cost per unit x No. of units produced)\n60,00,000\n95,00,000\nLess: Closing stock of finished goods\n(Cost per unit x no. of units of closing\nstock)\n12,00,000\n19,00,000\nCost of Goods sold\n48,00,000\n76,00,000\nProfit (Balancing figure)\n12,80,000\n18,40,000\nTotal Sales\n(Selling price per unit x No. of units sold)\n60,80,000\n94,40,000\n\n*Overhead rate = Budgeted  overheads\nUnits  Produced\n\n=\n18\n\n,\n54\n00\n,00,\n0 u\n0 0\ns\n0\nnit\n`\n= ` 300\n(ii)  Activity cost-Driver rates\nActivity\nActivity\nCosts (`)\nCost-driver\nCost-driver\nrate\nSet-up cost\n9,00,000\n300 set-ups\n` 3,000 per\nset-up\nMachine\nrunning\ncosts\n18,00,000\n1,800 machine\nruns\n` 1000 per\nmachine run\nInspection costs\n27,00,000\n270\ninspections\n` 10,000 per\ninspection\n\n26\n\nTotal sales and total profit for each product as per Activity Based\nCosting Method\nParticulars\nMini\nMaxi\nNo. of units produced\n8,000 units\n10,000 units\nNo. of units sold\n6,400 units\n8,000 units\n\n`\n`\nDirect Material Cost per unit\n250\n400\nDirect Labour Cost per unit\n(4 hours per unit @ ` 50 per hour)\n(5 hours per unit @ ` 50 per hour)\n\n200\n\n250\nPrime cost per unit\n450\n650\nTotal Prime Cost\n36,00,000\n65,00,000\nActivity Costs:\n\nSet-up cost (` 3,000 per set-up)\n3,00,000\n(3,000 x 100\nset-ups)\n6,00,000\n(3,000 x 200\nset-ups)\nMachine running costs (` 1,000 per\nmachine run)\n7,50,000\n(1,000 x 750\nmachine runs)\n10,50,000\n(1,000 x 1050\nmachine runs)\nInspection\ncosts\n(`\n10,000\nper\ninspection)\n6,00,000\n(10,000 x 60\ninspections)\n21,00,000\n(10,000 x 210\ninspections)\nTotal Overhead Cost\n16,50,000\n37,50,000\nOverhead per unit\n206.25\n375\nCost per unit\n656.25\n1,025\nTotal Cost of Production\n(Cost per unit x No. of units produced)\n52,50,000\n1,02,50,000\nLess: Closing stock of finished goods\n10,50,000\n20,50,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27\n(Cost per unit x no. of units of closing\nstock)\nCost of Goods sold\n42,00,000\n82,00,000\nProfit (Balancing figure)\n18,80,000\n12,40,000\nTotal Sales\n(Selling price per unit x No. of units\nsold)\n60,80,000\n94,40,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q001_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  While auditing the trade receivables of Ocean Limited, CA R plans to select\n100 customer balances from a population of 1000 receivables accounts\nappearing in the trade receivables ledger. For this purpose, he decides to\nselect customer account number 5th as the starting point and thereafter select\nevery 10th account from the ledger until the required sample size is obtained.\n\nBased on the above:\n(i)  Identify and briefly explain the sampling method being used by CA R in\nthe above situation.\n(2 Marks)\n(ii)  State the important consideration that an auditor should keep in mind\nwhile using this method and how the risk arising from such sampling\ncan be minimized?\n(2 Marks)\n\nAUDITING AND ETHICS\n\n13\n(iii)  Further, the audit partner suggests that instead of this approach, CA R\nshould verify the first 150 customer accounts appearing in the\nreceivables ledger for the last month. State the sampling method\nsuggested by the partner.\n(1 Mark)",
+  "suggested_answer": "(b) (i)  Interval Sampling or Systematic Sampling: Systematic selection is a\nselection method in which the number of sampling units in the\npopulation is divided by the sample size to give a sampling interval,\nfor example; 10 is the sampling interval in given situation (1000/100)\nand having determined starting point with customer number 5, each\n10th sampling thereafter is selected until the required sample size is\nobtained. Although the starting point may be determined haphazardly,\nthe sample is more likely to be truly random if it is determined by use\nof a computerized random number generator or random number\ntables.\n(ii) Important considerations an auditor should keep in mind while\nusing this method and how the risk arising from such sampling can\nbe minimised: When using systematic selection, the auditor would\nneed to determine that sampling units within the population are not\nstructured in such a way that the sampling interval corresponds with a\nparticular pattern in the population. Therefore, systematic sampling\nwhen chosen as a method should be carefully applied to bring together\nevery type of transaction within its purview.\n\nTo minimise the eﬀect of the possible known buyers through a pattern\nin the population, more than one starting point may be taken. The\nmultiple random starting point is taken because it minimises the risk\nof interval sampling pattern with that of the population being sampled.\n\nAUDITING AND ETHICS\n\n15\n(iii) The method selected by the partner is Block Sampling: This method\ninvolves selection of a block(s) of contiguous items from within the\npopulation.",
+  "marks": "(1 Mark)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q001_B",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 12,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Items of Financial Statements",
+    "topic": "Audit of Items of Financial Statements",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(b)",
+    "marks": "(1 Mark)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 12,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  While auditing the trade receivables of Ocean Limited, CA R plans to select\n100 customer balances from a population of 1000 receivables accounts\nappearing in the trade receivables ledger. For this purpose, he decides to\nselect customer account number 5th as the starting point and thereafter select\nevery 10th account from the ledger until the required sample size is obtained.\n\nBased on the above:\n(i)  Identify and briefly explain the sampling method being used by CA R in\nthe above situation.\n(2 Marks)\n(ii)  State the important consideration that an auditor should keep in mind\nwhile using this method and how the risk arising from such sampling\ncan be minimized?\n(2 Marks)\n\nAUDITING AND ETHICS\n\n13\n(iii)  Further, the audit partner suggests that instead of this approach, CA R\nshould verify the first 150 customer accounts appearing in the\nreceivables ledger for the last month. State the sampling method\nsuggested by the partner.\n(1 Mark)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) (i)  Interval Sampling or Systematic Sampling: Systematic selection is a\nselection method in which the number of sampling units in the\npopulation is divided by the sample size to give a sampling interval,\nfor example; 10 is the sampling interval in given situation (1000/100)\nand having determined starting point with customer number 5, each\n10th sampling thereafter is selected until the required sample size is\nobtained. Although the starting point may be determined haphazardly,\nthe sample is more likely to be truly random if it is determined by use\nof a computerized random number generator or random number\ntables.\n(ii) Important considerations an auditor should keep in mind while\nusing this method and how the risk arising from such sampling can\nbe minimised: When using systematic selection, the auditor would\nneed to determine that sampling units within the population are not\nstructured in such a way that the sampling interval corresponds with a\nparticular pattern in the population. Therefore, systematic sampling\nwhen chosen as a method should be carefully applied to bring together\nevery type of transaction within its purview.\n\nTo minimise the eﬀect of the possible known buyers through a pattern\nin the population, more than one starting point may be taken. The\nmultiple random starting point is taken because it minimises the risk\nof interval sampling pattern with that of the population being sampled.\n\nAUDITING AND ETHICS\n\n15\n(iii) The method selected by the partner is Block Sampling: This method\ninvolves selection of a block(s) of contiguous items from within the\npopulation."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) While auditing the accounts of PQR Ltd., a member of the audit team wants\nto carry out test of controls for checking the effectiveness of internal control\nover sales as a part of debtor's audit procedure. State any four points that\nneed to be considered in respect of trade receivables.\n(4 Marks)",
+  "suggested_answer": "(c) To carry out test of controls for checking the effectiveness of internal control\nover sales as a part of the debtors’ audit procedure, following points need\nto be considered in respect of trade receivables by audit team of PQR Ltd:\n•\nOnly bona fide sales lead to trade receivables.\n•\nAll such sales are made to approved customers.\n•\nAll such sales are properly recorded in the books of accounts.\n•\nOnce recorded, the debtors can be settled only by receipt of cash or\non the authority of a responsible official.\n•\nSegregation of duties at every point in sales transaction. (accounting\nfor debtors, collecting the payments, sending reminders etc.)\n•\nDebtors are collected on time.\n•\nIn case debtors are not collected in time, sending reminders and taking\nlegal actions if required.\n•\nBalances are regularly reviewed.\n•\nA proper system of follow up exists and if necessary, adequate\nprovision for bad debt should be made by preparing adequate ageing\nschedule of the debtors.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004_C",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) While auditing the accounts of PQR Ltd., a member of the audit team wants\nto carry out test of controls for checking the effectiveness of internal control\nover sales as a part of debtor's audit procedure. State any four points that\nneed to be considered in respect of trade receivables.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) To carry out test of controls for checking the effectiveness of internal control\nover sales as a part of the debtors’ audit procedure, following points need\nto be considered in respect of trade receivables by audit team of PQR Ltd:\n•\nOnly bona fide sales lead to trade receivables.\n•\nAll such sales are made to approved customers.\n•\nAll such sales are properly recorded in the books of accounts.\n•\nOnce recorded, the debtors can be settled only by receipt of cash or\non the authority of a responsible official.\n•\nSegregation of duties at every point in sales transaction. (accounting\nfor debtors, collecting the payments, sending reminders etc.)\n•\nDebtors are collected on time.\n•\nIn case debtors are not collected in time, sending reminders and taking\nlegal actions if required.\n•\nBalances are regularly reviewed.\n•\nA proper system of follow up exists and if necessary, adequate\nprovision for bad debt should be made by preparing adequate ageing\nschedule of the debtors."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

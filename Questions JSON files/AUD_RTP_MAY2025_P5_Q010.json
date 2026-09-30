@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "10. \nATL Pvt. Ltd., a leading manufacturing company, appointed CA Atul as \nan auditor for the year 2023-24. Given the complexity of the company's \noperations and the need for a systematic approach, he plans to design a \ndetailed audit programme to ensure the accuracy of financial assertions. \nAs a CA student, if you were assisting CA Atul in constructing this audit \nprogramme, what are the points you will keep in mind?  \nChapter 3 - Risk Assessment and Internal Control",
+  "suggested_answer": "For the purpose of programme construction, the following points should \nbe kept in mind: \n(i)  \nStay within the scope and limitation of the assignment. \n(ii)  \nPrepare a written audit programme setting forth the procedures \nthat are needed to implement the audit plan. \n\n \nINTERMEDIATE EXAMINATION \n \n \n68 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n(iii)  Determine the evidence reasonably available and identify the best \nevidence for deriving the necessary satisfaction. \n(iv)  Apply only those steps and procedures which are useful in \naccomplishing the verification purpose in the specific situation. \n(v)  \nInclude the audit objectives for each area and sufficient details \nwhich serve as a set of instructions for the assistants involved in \naudit and help in controlling the proper execution of the work. \n(vi)  Consider all possibilities of error.  \n(vii)  Co-ordinate the procedures to be applied to related items.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q010",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nATL Pvt. Ltd., a leading manufacturing company, appointed CA Atul as \nan auditor for the year 2023-24. Given the complexity of the company's \noperations and the need for a systematic approach, he plans to design a \ndetailed audit programme to ensure the accuracy of financial assertions. \nAs a CA student, if you were assisting CA Atul in constructing this audit \nprogramme, what are the points you will keep in mind?  \nChapter 3 - Risk Assessment and Internal Control"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "For the purpose of programme construction, the following points should \nbe kept in mind: \n(i)  \nStay within the scope and limitation of the assignment. \n(ii)  \nPrepare a written audit programme setting forth the procedures \nthat are needed to implement the audit plan. \n\n \nINTERMEDIATE EXAMINATION \n \n \n68 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n(iii)  Determine the evidence reasonably available and identify the best \nevidence for deriving the necessary satisfaction. \n(iv)  Apply only those steps and procedures which are useful in \naccomplishing the verification purpose in the specific situation. \n(v)  \nInclude the audit objectives for each area and sufficient details \nwhich serve as a set of instructions for the assistants involved in \naudit and help in controlling the proper execution of the work. \n(vi)  Consider all possibilities of error.  \n(vii)  Co-ordinate the procedures to be applied to related items."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

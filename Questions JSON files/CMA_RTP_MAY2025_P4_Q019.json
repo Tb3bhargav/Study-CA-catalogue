@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q019",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 19,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "19.  The budgets for activity and cost of PQR Ltd. for the first three quarters \nof operation are shown below: \nPeriod Covered \nBudgets Quarters I – III \nQ – I \nQ – II \nQ – III \nMonths \n1 – 3 \n4 – 6 \n7 – 9 \n \n(‘000) \n(‘000) \n(‘000) \nActivity : \n \n \n \nSales (Units) \n9 \n17 \n15 \nProduction (Units) \n10 \n20 \n15 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nCosts (`) : \n \n \n \nDirect Material \n \n \n \nA \n60 \n120 \n90 \nB \n50 \n100 \n75 \nProduction Labour \n180 \n285 \n230 \nManufacturing \nOverheads \nExcluding Depreciation \n90 \n120 \n105 \nDepreciation \nof \nProduction \nMachinery \n20 \n20 \n20 \nAdministration Expenses \n25 \n25 \n25 \nSelling & Distribution Expenses \n38 \n54 \n50 \nThe figures shown above represent the costs structure of PQR Ltd., \nwhich have the following major features: \n(i) \nFixed element of any cost is completely independent of activity \nlevels. \n(ii) \nAny variable element of each cost displays a linear relationship \nwith activity level, except that the variable labour cost become \n50% higher for activity in excess of 19,000 units per quarter due to \nthe necessity for overtime working. \n(iii) \nThe variable element of selling and distribution expenses is a \nfunction of sales.  All other costs with a variable element are a \nfunction of production volume. \nActivity for each quarter is spread evenly throughout that quarter. \nIn Quarter IV Production level will be set equal to sales level. Production \nand sales in this quarter is expected to range between 15,000 units and \n21,000 units. The most likely volume is 18,000 units.  In month 9 it will \nbe possible to accurately estimate the sales for Quarter IV. \nCost structure will remain the same as in Quarters I to III except the \nfollowing:  \n(i) \nLabour cost will rise by 12½%. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n25 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nVariable labour input per unit of output will decrease, due to \nlearning curve effect, such that 80% of the previous labour input \nper unit of output will be required in Quarter IV.  The threshold for \novertime working remains at 19,000 units per quarter. \n(iii) \nFixed factory overheads and the fixed element of selling and \ndistribution costs will each rise by 20% (The variable element of \nselling and distribution costs will be unaltered.) \nRequired \n(i) \nPREPARE a Statement to show, under each cost classification given \nin the budgets, the variable cost per unit and fixed costs which will \nbe effective in Quarter IV.  \n(ii) \nPREPARE a flexible budget of production costs for the Quarter IV.  \nMiscellaneous",
+  "suggested_answer": "(i) \nStatement of Variable Cost per unit and Fixed Costs under Given \nCost Classification Effective for Quarter IV \nParticulars \nTotal Fixed \nCost (`) \nVariable \nCost p.u. (`) \nDirect Materials (W.N.1) \n \n \nA \n----- \n6 \nB \n----- \n5 \n\n \nINTERMEDIATE EXAMINATION \n \n \n52 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nProduction Labour (W.N.2) \n90,000 \n9 \nManufacturing \nOverhead \nEx. \nDepreciation (W.N.3) \n72,000 \n3 \nDepreciation \nof \nProduction \nMachinery \n20,000 \n----- \nAdministration Expenses \n25,000 \n----- \nSelling & Distribution Expenses \n(W.N.4) \n24,000 \n2 \n(ii) \nFlexible Budget of Production Costs for the Quarter IV \nParticulars \n15,000 units \n(`) \n18,000 units \n(`) \n21,000 units \n(`) \nDirect Material \n \n \n \nA \n90,000 \n(15,000 units × \n` 6) \n1,08,000 \n(18,000 units × ` 6) \n1,26,000 \n(21,000 × ` 6) \nB \n75,000 \n(15,000 units × \n` 5) \n90,000 \n(18,000 × ` 5) \n1,05,000 \n(21,000 units × \n` 5) \nProduction \nLabour \n2,25,000 \n(15,000 units × \n` 9 + ` 90,000) \n2,52,000 \n(18,000 units × ` 9 \n+ ` 90,000 \n2,88,000* \nManufacturing \n1,17,000 \n1,26,000 \n1,35,000 \nOverhead \n(15,000 units × \n` 3 \n(18,000 units × ` 3 \n(21,000 units × \n` 3 \n \n+ ` 72,000) \n` 72,000) \n+ ` 72,000) \nDepreciation \n20,000 \n20,000 \n20,000 \nTotal Production \nCost \n5,27,000 \n5,96,000 \n6,74,000 \n* Production Labour (21,000 units level) \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n` \n \nVariable Cost (21,000 units × ` 9) \n \n \n \n \n1,89,000 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n53 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n \nFixed Cost \n \n \n \n \n \n \n \n \n \n   90,000 \n \nOvertime (2,000 units × ` 9 × 0.50)   \n \n \n            9,000 \n \n  \n \n \n \n \n \n \n \n \n \n \n \n 2,88,000 \nWorking Notes",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q019",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "19",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "19.  The budgets for activity and cost of PQR Ltd. for the first three quarters \nof operation are shown below: \nPeriod Covered \nBudgets Quarters I – III \nQ – I \nQ – II \nQ – III \nMonths \n1 – 3 \n4 – 6 \n7 – 9 \n \n(‘000) \n(‘000) \n(‘000) \nActivity : \n \n \n \nSales (Units) \n9 \n17 \n15 \nProduction (Units) \n10 \n20 \n15 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nCosts (`) : \n \n \n \nDirect Material \n \n \n \nA \n60 \n120 \n90 \nB \n50 \n100 \n75 \nProduction Labour \n180 \n285 \n230 \nManufacturing \nOverheads \nExcluding Depreciation \n90 \n120 \n105 \nDepreciation \nof \nProduction \nMachinery \n20 \n20 \n20 \nAdministration Expenses \n25 \n25 \n25 \nSelling & Distribution Expenses \n38 \n54 \n50 \nThe figures shown above represent the costs structure of PQR Ltd., \nwhich have the following major features: \n(i) \nFixed element of any cost is completely independent of activity \nlevels. \n(ii) \nAny variable element of each cost displays a linear relationship \nwith activity level, except that the variable labour cost become \n50% higher for activity in excess of 19,000 units per quarter due to \nthe necessity for overtime working. \n(iii) \nThe variable element of selling and distribution expenses is a \nfunction of sales.  All other costs with a variable element are a \nfunction of production volume. \nActivity for each quarter is spread evenly throughout that quarter. \nIn Quarter IV Production level will be set equal to sales level. Production \nand sales in this quarter is expected to range between 15,000 units and \n21,000 units. The most likely volume is 18,000 units.  In month 9 it will \nbe possible to accurately estimate the sales for Quarter IV. \nCost structure will remain the same as in Quarters I to III except the \nfollowing:  \n(i) \nLabour cost will rise by 12½%. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n25 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nVariable labour input per unit of output will decrease, due to \nlearning curve effect, such that 80% of the previous labour input \nper unit of output will be required in Quarter IV.  The threshold for \novertime working remains at 19,000 units per quarter. \n(iii) \nFixed factory overheads and the fixed element of selling and \ndistribution costs will each rise by 20% (The variable element of \nselling and distribution costs will be unaltered.) \nRequired \n(i) \nPREPARE a Statement to show, under each cost classification given \nin the budgets, the variable cost per unit and fixed costs which will \nbe effective in Quarter IV.  \n(ii) \nPREPARE a flexible budget of production costs for the Quarter IV.  \nMiscellaneous"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nStatement of Variable Cost per unit and Fixed Costs under Given \nCost Classification Effective for Quarter IV \nParticulars \nTotal Fixed \nCost (`) \nVariable \nCost p.u. (`) \nDirect Materials (W.N.1) \n \n \nA \n----- \n6 \nB \n----- \n5 \n\n \nINTERMEDIATE EXAMINATION \n \n \n52 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nProduction Labour (W.N.2) \n90,000 \n9 \nManufacturing \nOverhead \nEx. \nDepreciation (W.N.3) \n72,000 \n3 \nDepreciation \nof \nProduction \nMachinery \n20,000 \n----- \nAdministration Expenses \n25,000 \n----- \nSelling & Distribution Expenses \n(W.N.4) \n24,000 \n2 \n(ii) \nFlexible Budget of Production Costs for the Quarter IV \nParticulars \n15,000 units \n(`) \n18,000 units \n(`) \n21,000 units \n(`) \nDirect Material \n \n \n \nA \n90,000 \n(15,000 units × \n` 6) \n1,08,000 \n(18,000 units × ` 6) \n1,26,000 \n(21,000 × ` 6) \nB \n75,000 \n(15,000 units × \n` 5) \n90,000 \n(18,000 × ` 5) \n1,05,000 \n(21,000 units × \n` 5) \nProduction \nLabour \n2,25,000 \n(15,000 units × \n` 9 + ` 90,000) \n2,52,000 \n(18,000 units × ` 9 \n+ ` 90,000 \n2,88,000* \nManufacturing \n1,17,000 \n1,26,000 \n1,35,000 \nOverhead \n(15,000 units × \n` 3 \n(18,000 units × ` 3 \n(21,000 units × \n` 3 \n \n+ ` 72,000) \n` 72,000) \n+ ` 72,000) \nDepreciation \n20,000 \n20,000 \n20,000 \nTotal Production \nCost \n5,27,000 \n5,96,000 \n6,74,000 \n* Production Labour (21,000 units level) \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n` \n \nVariable Cost (21,000 units × ` 9) \n \n \n \n \n1,89,000 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n53 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n \nFixed Cost \n \n \n \n \n \n \n \n \n \n   90,000 \n \nOvertime (2,000 units × ` 9 × 0.50)   \n \n \n            9,000 \n \n  \n \n \n \n \n \n \n \n \n \n \n \n 2,88,000 \nWorking Notes"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

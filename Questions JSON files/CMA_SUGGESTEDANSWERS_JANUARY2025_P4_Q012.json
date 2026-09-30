@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.  Two products Y and Z are obtained in a crude form and require further\nprocessing at a cost of ` 6 for Y and ` 5 for Z per litre before the products\ncan be sold in the market. The final prices of product Y and Z are ` 15 and `\n8.75 per litre respectively. The company earns a net margin of 25% on Cost.\nThe following data is available for output of both the products for the year\nY 8,000 Litres\nZ 6,000 Litres\nA joint cost of ` 60,000 was incurred for the year and company apportions\nthe joint costs on the basis of net realisable value after further processing.\nCalculate the joint cost per unit of product Y.\n(A)  ` 4.74\n(B)  ` 5.00\n(C)  ` 5.625\n(D)  ` 6.00",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q012",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  Two products Y and Z are obtained in a crude form and require further\nprocessing at a cost of ` 6 for Y and ` 5 for Z per litre before the products\ncan be sold in the market. The final prices of product Y and Z are ` 15 and `\n8.75 per litre respectively. The company earns a net margin of 25% on Cost.\nThe following data is available for output of both the products for the year\nY 8,000 Litres\nZ 6,000 Litres\nA joint cost of ` 60,000 was incurred for the year and company apportions\nthe joint costs on the basis of net realisable value after further processing.\nCalculate the joint cost per unit of product Y.\n(A)  ` 4.74\n(B)  ` 5.00\n(C)  ` 5.625\n(D)  ` 6.00"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

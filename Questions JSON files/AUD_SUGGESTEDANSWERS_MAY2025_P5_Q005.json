@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nMr. C, an Articled Clerk responsible for the audit procedures regarding the\nshare capital, found that during the year under audit, PQ Ltd. had issued\nsweat equity shares amounting to ` 10 Lakhs. Which of the following\nstatements regarding the issue of sweat equity shares are correct?\n(I)  It can be issued to employees.\n(II)  It can be issued to directors.\n(III)  It can be issued at a discount.\n(IV)  It should be of a class of shares already issued by PQ Ltd.\n(A)  I & III above\n(B)  I, II & III above\n\nAUDITING AND ETHICS\n\n37\n(C)  I, II & IV above\n(D)  I, II, III & IV above\n(2 Marks)",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q005",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nMr. C, an Articled Clerk responsible for the audit procedures regarding the\nshare capital, found that during the year under audit, PQ Ltd. had issued\nsweat equity shares amounting to ` 10 Lakhs. Which of the following\nstatements regarding the issue of sweat equity shares are correct?\n(I)  It can be issued to employees.\n(II)  It can be issued to directors.\n(III)  It can be issued at a discount.\n(IV)  It should be of a class of shares already issued by PQ Ltd.\n(A)  I & III above\n(B)  I, II & III above\n\nAUDITING AND ETHICS\n\n37\n(C)  I, II & IV above\n(D)  I, II, III & IV above\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

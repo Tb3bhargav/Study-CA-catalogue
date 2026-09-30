@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nBased on the other audit procedures performed by CA Vivek in relation to\ntrade receivables in the above case study, match the audit procedures with\nthe relevant audit assertions:\nAudit Procedures\n\nAssertions\na\ni.\nExistence\nb\nii.\nCompleteness\nc\niii. Cut-off\nd\niv. Valuation\nOptions:\n(A)  a-ii, b-iii, c-i, d-iv\n(B)  a-iv, b-iii, c-i, d-ii\n(C)  a-i, b-ii, c-iv, d-iii\n(D)  a-ii, b-iii, c-iv, d-i\n(2 Marks)\nCase Scenario - II\nGreen Peak Ltd., a leading producer of sustainable packaging material\nmanufactures a range of products including corrugated boxes and paper\nproducts.\nFor the financial year 2025-26, LMN & Co., Chartered Accountants, were\nappointed as the statutory auditors of the company. The audit was led by\nCA Aman Verma. The engagement partner CA Verma ensures that the audit team\nfollows the firm's policies, supervises audit work, and ensures compliance with\nprofessional standards.\nCA Verma obtained an understanding of the company's operations and\ndocumented audit plan activities including matters relevant to the overall audit\nstrategy and audit programme.\nDuring the audit, the audit team performed procedures relating to property, plant\nand equipment, including examination of accounting records, supporting\n\nAUDITING AND ETHICS\n\n5\ndocuments, fixed asset register, and depreciation calculations in the financial\nstatements.\nAdditionally the auditor carried out the following substantive analytical\nprocedures to collect various other evidences-\n(i)  The auditor compares the current year's administrative expenses with the\nexpenses of the previous four years and analysed the fluctuations.\n(ii)  He noticed, that the company pays sales commission at 4% of total sales.\nBased on total sales recorded during the year, the auditor estimates the\nexpected commission and compares it with the commission expense recorded\nin the books.\n(iii)  He compared the inventory turnover ratio of the current year with that of\nprevious years.\n(iv)  Using historical data of production volume and power consumption, the\nauditor develops a statistical model to estimate expected electricity expenses\nfor the current year.\nBased on the above facts, answer the following: (6 to 9)",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q005",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nBased on the other audit procedures performed by CA Vivek in relation to\ntrade receivables in the above case study, match the audit procedures with\nthe relevant audit assertions:\nAudit Procedures\n\nAssertions\na\ni.\nExistence\nb\nii.\nCompleteness\nc\niii. Cut-off\nd\niv. Valuation\nOptions:\n(A)  a-ii, b-iii, c-i, d-iv\n(B)  a-iv, b-iii, c-i, d-ii\n(C)  a-i, b-ii, c-iv, d-iii\n(D)  a-ii, b-iii, c-iv, d-i\n(2 Marks)\nCase Scenario - II\nGreen Peak Ltd., a leading producer of sustainable packaging material\nmanufactures a range of products including corrugated boxes and paper\nproducts.\nFor the financial year 2025-26, LMN & Co., Chartered Accountants, were\nappointed as the statutory auditors of the company. The audit was led by\nCA Aman Verma. The engagement partner CA Verma ensures that the audit team\nfollows the firm's policies, supervises audit work, and ensures compliance with\nprofessional standards.\nCA Verma obtained an understanding of the company's operations and\ndocumented audit plan activities including matters relevant to the overall audit\nstrategy and audit programme.\nDuring the audit, the audit team performed procedures relating to property, plant\nand equipment, including examination of accounting records, supporting\n\nAUDITING AND ETHICS\n\n5\ndocuments, fixed asset register, and depreciation calculations in the financial\nstatements.\nAdditionally the auditor carried out the following substantive analytical\nprocedures to collect various other evidences-\n(i)  The auditor compares the current year's administrative expenses with the\nexpenses of the previous four years and analysed the fluctuations.\n(ii)  He noticed, that the company pays sales commission at 4% of total sales.\nBased on total sales recorded during the year, the auditor estimates the\nexpected commission and compares it with the commission expense recorded\nin the books.\n(iii)  He compared the inventory turnover ratio of the current year with that of\nprevious years.\n(iv)  Using historical data of production volume and power consumption, the\nauditor develops a statistical model to estimate expected electricity expenses\nfor the current year.\nBased on the above facts, answer the following: (6 to 9)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

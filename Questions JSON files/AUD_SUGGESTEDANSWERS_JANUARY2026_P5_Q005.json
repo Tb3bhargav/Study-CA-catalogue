@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nIf Piyush approaches CA S in August 2025 for the audit and filings of FY\n2024-25, which outcome is correct?\n(A)  Annual Return filing will be delayed as every LLP would be required to\nfile annual return in FORM 11 with ROC within 60 days of closure of\nfinancial year.\n(B)  Annual Return filing will be delayed as every LLP would be required to\nfile annual return in FORM 11 with ROC within 30 days of closure of\nfinancial year.\n(C)  Annual Return filing will not be delayed as every LLP would be required\nto file annual return in FORM 11 with ROC within 6 months of closure\nof financial year.\n(D)  No delay since filings can be done anytime.\n(2 Marks)\n\n4\nCase Scenario - II\nFresh Farm Foods Ltd., a reputed food processing company, engaged\nRavi & Mehta Chartered Accountants, to provide limited assurance on its Social\nResponsibility Report for the year ended 31st March 2025.\nThe report prepared covered the company's initiatives on waste reduction, water\nconservation and community welfare. As part of the engagement, the assurance\nteam visited multiple factory locations, reviewed internal sustainability data and\ninterviewed employees and local community representatives. The engagement\nwas carried out in accordance with the Standard on Assurance Engagements\n(SAEs) to evaluate whether the report was free from material misstatement.\nWhile reviewing team behaviour during the engagement, the partner noted\nconcerns regarding ethical and independence compliance, one team member had\naccepted significant gift and hospitality from the client and another had taken\nloan from the client. The partner decided to assess these matters in light of the\nethical requirements.\nSimultaneously, Ravi and Mehta were conducting the statutory audit of Fresh\nFarm Foods Ltd. for the same year. The company has finalized its financial\nstatements for the year ended 31-03-2025, and in the board meeting held on 15th\nApril 2025, the directors declared a dividend for the financial year 2024-25.\nDuring the audit, it was noted that the accountant had recognized the dividend\nas a liability as at 31st March 2025, on the reasoning that the dividend belongs to\nthe year 2024-25.\nThe auditor must now determine whether recording such a dividend as a liability\nin the financial statement for the year ended 31st March 2025 is appropriate.\nBased on the case study, answer the following questions: (6 to 9)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q005",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nIf Piyush approaches CA S in August 2025 for the audit and filings of FY\n2024-25, which outcome is correct?\n(A)  Annual Return filing will be delayed as every LLP would be required to\nfile annual return in FORM 11 with ROC within 60 days of closure of\nfinancial year.\n(B)  Annual Return filing will be delayed as every LLP would be required to\nfile annual return in FORM 11 with ROC within 30 days of closure of\nfinancial year.\n(C)  Annual Return filing will not be delayed as every LLP would be required\nto file annual return in FORM 11 with ROC within 6 months of closure\nof financial year.\n(D)  No delay since filings can be done anytime.\n(2 Marks)\n\n4\nCase Scenario - II\nFresh Farm Foods Ltd., a reputed food processing company, engaged\nRavi & Mehta Chartered Accountants, to provide limited assurance on its Social\nResponsibility Report for the year ended 31st March 2025.\nThe report prepared covered the company's initiatives on waste reduction, water\nconservation and community welfare. As part of the engagement, the assurance\nteam visited multiple factory locations, reviewed internal sustainability data and\ninterviewed employees and local community representatives. The engagement\nwas carried out in accordance with the Standard on Assurance Engagements\n(SAEs) to evaluate whether the report was free from material misstatement.\nWhile reviewing team behaviour during the engagement, the partner noted\nconcerns regarding ethical and independence compliance, one team member had\naccepted significant gift and hospitality from the client and another had taken\nloan from the client. The partner decided to assess these matters in light of the\nethical requirements.\nSimultaneously, Ravi and Mehta were conducting the statutory audit of Fresh\nFarm Foods Ltd. for the same year. The company has finalized its financial\nstatements for the year ended 31-03-2025, and in the board meeting held on 15th\nApril 2025, the directors declared a dividend for the financial year 2024-25.\nDuring the audit, it was noted that the accountant had recognized the dividend\nas a liability as at 31st March 2025, on the reasoning that the dividend belongs to\nthe year 2024-25.\nThe auditor must now determine whether recording such a dividend as a liability\nin the financial statement for the year ended 31st March 2025 is appropriate.\nBased on the case study, answer the following questions: (6 to 9)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

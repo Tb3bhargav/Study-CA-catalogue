@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q016",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16. \nDuring the audit of Cryst Ltd. for the financial year ended  \n31st March 2025, the auditor, CA Z was in the process of finalising the \naudit report dated 30th May 2025. The engagement partner emphasised \nthat CA Z shall perform audit procedure designed to obtain sufficient \nappropriate audit evidence that all events occurring between the date of \nthe financial statements and the date of the auditor’s report, that \nrequires adjustment of, or disclosure in, the financial statements have \nbeen identified. What audit procedures, in accordance with SA 560, \nshould the auditor CA. Z perform based on risk assessment to identify \nevents occurring between the date of the financial statements and the \ndate of the auditor’s report that require adjustment or disclosure?  \nChapter 8 - Audit Report",
+  "suggested_answer": "Audit procedures relating to events occurring between the date of \nthe financial statements and the date of the auditor’s report: \n \nThe auditor shall perform audit procedures designed to obtain sufficient \nappropriate audit evidence that all events occurring between the date of \nthe financial statements and the date of the auditor’s report that require \nadjustment of, or disclosure in, the financial statements have been \nidentified. The auditor is not, however, expected to perform additional \naudit procedures on matters to which previously applied audit \nprocedures have provided satisfactory conclusions.  \n \nThe auditor shall perform the procedures required above so that they \ncover the period from the date of the financial statements to the date of \nthe auditor’s report, or as near as practicable thereto. The auditor shall \ntake into account the auditor’s risk assessment in determining the \nnature and extent of such audit procedures, which shall include the \nfollowing: - \n(i)  \nObtaining an understanding of any procedures management has \nestablished to ensure that subsequent events are identified.  \n(ii)  \nInquiring of management and, where appropriate, those charged \nwith governance as to whether any subsequent events have \noccurred which might affect the financial statements.  \n© The Institute of Chartered Accountants of India\n\n \nAUDITING AND ETHICS \n \n \n71 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(iii)  Reading minutes, if any, of the meetings, of the entity’s owners, \nmanagement and those charged with governance, that have been \nheld after the date of the financial statements and inquiring about \nmatters discussed at any such meetings for which minutes are not \nyet available.  \n(iv)  Reading the entity’s latest subsequent interim financial statements, \nif any.",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q016",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. \nDuring the audit of Cryst Ltd. for the financial year ended  \n31st March 2025, the auditor, CA Z was in the process of finalising the \naudit report dated 30th May 2025. The engagement partner emphasised \nthat CA Z shall perform audit procedure designed to obtain sufficient \nappropriate audit evidence that all events occurring between the date of \nthe financial statements and the date of the auditor’s report, that \nrequires adjustment of, or disclosure in, the financial statements have \nbeen identified. What audit procedures, in accordance with SA 560, \nshould the auditor CA. Z perform based on risk assessment to identify \nevents occurring between the date of the financial statements and the \ndate of the auditor’s report that require adjustment or disclosure?  \nChapter 8 - Audit Report"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Audit procedures relating to events occurring between the date of \nthe financial statements and the date of the auditor’s report: \n \nThe auditor shall perform audit procedures designed to obtain sufficient \nappropriate audit evidence that all events occurring between the date of \nthe financial statements and the date of the auditor’s report that require \nadjustment of, or disclosure in, the financial statements have been \nidentified. The auditor is not, however, expected to perform additional \naudit procedures on matters to which previously applied audit \nprocedures have provided satisfactory conclusions.  \n \nThe auditor shall perform the procedures required above so that they \ncover the period from the date of the financial statements to the date of \nthe auditor’s report, or as near as practicable thereto. The auditor shall \ntake into account the auditor’s risk assessment in determining the \nnature and extent of such audit procedures, which shall include the \nfollowing: - \n(i)  \nObtaining an understanding of any procedures management has \nestablished to ensure that subsequent events are identified.  \n(ii)  \nInquiring of management and, where appropriate, those charged \nwith governance as to whether any subsequent events have \noccurred which might affect the financial statements.  \n© The Institute of Chartered Accountants of India\n\n \nAUDITING AND ETHICS \n \n \n71 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(iii)  Reading minutes, if any, of the meetings, of the entity’s owners, \nmanagement and those charged with governance, that have been \nheld after the date of the financial statements and inquiring about \nmatters discussed at any such meetings for which minutes are not \nyet available.  \n(iv)  Reading the entity’s latest subsequent interim financial statements, \nif any."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

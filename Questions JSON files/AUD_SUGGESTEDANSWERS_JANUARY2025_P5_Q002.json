@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q002",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2.  Which of the statements included by Rahul in revised draft engagement letter\nis incorrect?\n(A)  Statement 1\n\nAUDITING AND ETHICS\n\n3\n(B)  Statement II\n(C)  Statement III\n(D)  Statement IV\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q002",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2.  Which of the statements included by Rahul in revised draft engagement letter\nis incorrect?\n(A)  Statement 1\n\nAUDITING AND ETHICS\n\n3\n(B)  Statement II\n(C)  Statement III\n(D)  Statement IV\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

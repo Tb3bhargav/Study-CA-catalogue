@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q001",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "1.  \nWhat is the percentage of excess production to standard production? \n(A)  \n20% \n(B)  \n15% \n(C)  \n35% \n(D)  \n45%",
+  "suggested_answer": "(C) 35% Working Notes Standard production for 28 days = 22,400 tonnes Standard production Per day = 22,400 ÷ 28 = 800 tonnes For 25 days: Standard = 800 × 25 = 20,000 tonnes Actual production = 27,000 tonnes Excess production = 27,000 − 20,000 = 7,000 tonnes % Excess Production = 7,000 20,000 × 100 = 35%",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q001",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "1",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1.  \nWhat is the percentage of excess production to standard production? \n(A)  \n20% \n(B)  \n15% \n(C)  \n35% \n(D)  \n45%"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) 35% Working Notes Standard production for 28 days = 22,400 tonnes Standard production Per day = 22,400 ÷ 28 = 800 tonnes For 25 days: Standard = 800 × 25 = 20,000 tonnes Actual production = 27,000 tonnes Excess production = 27,000 − 20,000 = 7,000 tonnes % Excess Production = 7,000 20,000 × 100 = 35%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

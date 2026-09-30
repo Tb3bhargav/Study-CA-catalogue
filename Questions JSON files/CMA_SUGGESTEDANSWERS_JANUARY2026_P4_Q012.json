@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. T Ltd., a textile manufacturing company, recovers factory overheads on a\nfixed percentage basis on direct wages and administrative overheads at 25%\non factory cost.\n\nThe company has furnished the following data for Job 201:\n\nDirect materials are ` 56,350, Direct wages are ` 45,000, Sales are ` 1,90,000\nand profit is 25% on total cost.\n\nWhat is the percentage recovery rate for factory overheads for Job 201?\n(A)  35%\n(B)  40%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5\n(C)  45%\n(D)  50%\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q012",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. T Ltd., a textile manufacturing company, recovers factory overheads on a\nfixed percentage basis on direct wages and administrative overheads at 25%\non factory cost.\n\nThe company has furnished the following data for Job 201:\n\nDirect materials are ` 56,350, Direct wages are ` 45,000, Sales are ` 1,90,000\nand profit is 25% on total cost.\n\nWhat is the percentage recovery rate for factory overheads for Job 201?\n(A)  35%\n(B)  40%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5\n(C)  45%\n(D)  50%\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q006_01",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": true,
+  "question_text": "Question 6\n(a)  Which system of inventory management is known as 'Demand Pull' or 'Pull\nthrough' system of production? Explain. Also, specify the two principles on\nwhich this system is based.\n(5 Marks)\n(b)  Distinguish between cost control and cost reduction.\n(5 Marks)\n(c)  A factory employing 3000 workers faces issues of proxy attendance and\npayroll errors under the manual system. The Plant Head has recommended\nusing an automated method, the Bio-Metric Attendance system. Discuss\nbriefly the features of this Bio-Metric Attendance System.\n(4 Marks)\nOR\n(c) Explain the meaning of spoiled work and defective work. Discuss the\ntreatment of defective work under the following circumstances:\n(i)  Where a percentage of defective work is allowed in a particular batch,\nas it cannot be avoided.\n(ii)  Where the defect is due to bad workmanship.\n(iii)  Where the defect is due to the Inspection Department wrongly accepting\nincoming material of poor quality.\n(4 Marks)",
+  "suggested_answer": "(a) Just In Time (JIT) Inventory Management is also known as ‘Demand pull’ or\n‘Pull through’ system of production. JIT is a system of inventory\nmanagement with an approach to have zero inventories in stores.\nAccording to this approach material should only be purchased when it is\nactually required for production.\n\nIn this system, production process actually starts after the order for the\nproducts is received. Based on the demand, production process starts and\n\nCOST AND MANAGEMENT ACCOUNTING\n\n29\nthe requirement for raw materials is sent to the purchase department for\npurchase.\n\nJIT is based on two principles\n(i)  Produce goods only when it is required and\n(ii)  the products should be delivered to customers at the time only when they\nwant.\n(b)  Difference between Cost Control and Cost Reduction\nCost Control\nCost Reduction\n1.\nCost\ncontrol\naims\nat\nmaintaining\nthe\ncosts\nin\naccordance\nwith\nthe\nestablished standards.\n1.\nCost reduction is concerned\nwith\nreducing\ncosts.\nIt\nchallenges all standards and\nendeavours to improvise them\ncontinuously\n2.  Cost control seeks to attain\nlowest possible cost under\nexisting conditions.\n2.\nCost reduction recognises no\ncondition as permanent, since\na change will result in lower\ncost.\n3.  In\ncase\nof\ncost\ncontrol,\nemphasis is on past and\npresent\n3.\nIn case of cost reduction, it is\non present and future.\n4.  Cost control is a preventive\nfunction\n4.\nCost reduction is a corrective\nfunction. It operates even\nwhen an efficient cost control\nsystem exists.\n5.  Cost\ncontrol\nends\nwhen\ntargets are achieved.\n5.\nCost reduction has no visible\nend and is a continuous\nprocess.\n\n30\n(c)  Bio-Metric Attendance system-\n1.\nUnder bio-metric attendance system attendance is marked by\nrecognizing an employee on the basis of physical and behavioural\ntraits.\n2.\nAn employee’s unique identity like finger print, face and retina image\netc. are kept in a database which is matched at the time of marking of\nattendance before the attendance device for this purpose.\n3.\nBio-metric attendance system includes fingerprint recognition system,\nface recognition system, Time and attendance tracking technology etc.\n4.\nThis system reduces the risk of time manipulation and proxy\nattendance. However, it may not be suitable for small organisations\ndue to cost associated with set-up and maintenance.\nOR\n(c)  Spoiled work is the quantity of production that has been totally rejected\nand cannot be rectified.\n\nDefective work refers to production that is not as perfect as the saleable\nproduct but is capable of being rectified and brought to the required\ndegree of perfection provided some additional expenditure is incurred.\n\nTreatment of Defects arise in the following circumstances:\nCircumstances\nTreatment\nWhere\na\npercentage\nof\ndefective work is allowed in a\nparticular batch as it cannot be\navoided.\nIf the actual number of defectives is within\nthe normal limit or is near thereto the cost\nof rectification will be charged to the\nwhole job and spread over the entire\noutput of the batch. If, on the other hand,\nthe\nnumber\nof\ndefective\nunits\nsubstantially exceeds the normal, the cost\nof rectification of the number which\nexceeds the normal will be written off as a\nloss in the Costing Profit and Loss\nAccount.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n31\nWhere the defect is due to bad\nworkmanship.\nIn this case cost of rectification will be\nabnormal cost and shall be written off as\na loss. However, if the management did\nprovide for a certain proportion of\ndefectives\non\naccount\nof\nbad\nworkmanship as an unavoidable feature\nof production, the cost of rectifying to the\nextent provided for by the management\nwill be treated as a normal cost and\ncharged to the batch.\nWhere defect is due to the\nInspection\nDepartment\nwrongly accepting incoming\nmaterial of poor quality.\nIn this case the cost of rectification will be\ncharged to the department and will not\nbe considered as cost of manufacture of\nthe batch. Being an abnormal cost, it will\nbe written off to the Costing Profit and\nLoss Account.",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q006",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 28,
+    "end": 31
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 28,
+    "page_end": 31,
+    "question_kind": "descriptive",
+    "has_or_alternative": true
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Question 6\n(a)  Which system of inventory management is known as 'Demand Pull' or 'Pull\nthrough' system of production? Explain. Also, specify the two principles on\nwhich this system is based.\n(5 Marks)\n(b)  Distinguish between cost control and cost reduction.\n(5 Marks)\n(c)  A factory employing 3000 workers faces issues of proxy attendance and\npayroll errors under the manual system. The Plant Head has recommended\nusing an automated method, the Bio-Metric Attendance system. Discuss\nbriefly the features of this Bio-Metric Attendance System.\n(4 Marks)\nOR\n(c) Explain the meaning of spoiled work and defective work. Discuss the\ntreatment of defective work under the following circumstances:\n(i)  Where a percentage of defective work is allowed in a particular batch,\nas it cannot be avoided.\n(ii)  Where the defect is due to bad workmanship.\n(iii)  Where the defect is due to the Inspection Department wrongly accepting\nincoming material of poor quality.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Just In Time (JIT) Inventory Management is also known as ‘Demand pull’ or\n‘Pull through’ system of production. JIT is a system of inventory\nmanagement with an approach to have zero inventories in stores.\nAccording to this approach material should only be purchased when it is\nactually required for production.\n\nIn this system, production process actually starts after the order for the\nproducts is received. Based on the demand, production process starts and\n\nCOST AND MANAGEMENT ACCOUNTING\n\n29\nthe requirement for raw materials is sent to the purchase department for\npurchase.\n\nJIT is based on two principles\n(i)  Produce goods only when it is required and\n(ii)  the products should be delivered to customers at the time only when they\nwant.\n(b)  Difference between Cost Control and Cost Reduction\nCost Control\nCost Reduction\n1.\nCost\ncontrol\naims\nat\nmaintaining\nthe\ncosts\nin\naccordance\nwith\nthe\nestablished standards.\n1.\nCost reduction is concerned\nwith\nreducing\ncosts.\nIt\nchallenges all standards and\nendeavours to improvise them\ncontinuously\n2.  Cost control seeks to attain\nlowest possible cost under\nexisting conditions.\n2.\nCost reduction recognises no\ncondition as permanent, since\na change will result in lower\ncost.\n3.  In\ncase\nof\ncost\ncontrol,\nemphasis is on past and\npresent\n3.\nIn case of cost reduction, it is\non present and future.\n4.  Cost control is a preventive\nfunction\n4.\nCost reduction is a corrective\nfunction. It operates even\nwhen an efficient cost control\nsystem exists.\n5.  Cost\ncontrol\nends\nwhen\ntargets are achieved.\n5.\nCost reduction has no visible\nend and is a continuous\nprocess.\n\n30\n(c)  Bio-Metric Attendance system-\n1.\nUnder bio-metric attendance system attendance is marked by\nrecognizing an employee on the basis of physical and behavioural\ntraits.\n2.\nAn employee’s unique identity like finger print, face and retina image\netc. are kept in a database which is matched at the time of marking of\nattendance before the attendance device for this purpose.\n3.\nBio-metric attendance system includes fingerprint recognition system,\nface recognition system, Time and attendance tracking technology etc.\n4.\nThis system reduces the risk of time manipulation and proxy\nattendance. However, it may not be suitable for small organisations\ndue to cost associated with set-up and maintenance.\nOR\n(c)  Spoiled work is the quantity of production that has been totally rejected\nand cannot be rectified.\n\nDefective work refers to production that is not as perfect as the saleable\nproduct but is capable of being rectified and brought to the required\ndegree of perfection provided some additional expenditure is incurred.\n\nTreatment of Defects arise in the following circumstances:\nCircumstances\nTreatment\nWhere\na\npercentage\nof\ndefective work is allowed in a\nparticular batch as it cannot be\navoided.\nIf the actual number of defectives is within\nthe normal limit or is near thereto the cost\nof rectification will be charged to the\nwhole job and spread over the entire\noutput of the batch. If, on the other hand,\nthe\nnumber\nof\ndefective\nunits\nsubstantially exceeds the normal, the cost\nof rectification of the number which\nexceeds the normal will be written off as a\nloss in the Costing Profit and Loss\nAccount.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n31\nWhere the defect is due to bad\nworkmanship.\nIn this case cost of rectification will be\nabnormal cost and shall be written off as\na loss. However, if the management did\nprovide for a certain proportion of\ndefectives\non\naccount\nof\nbad\nworkmanship as an unavoidable feature\nof production, the cost of rectifying to the\nextent provided for by the management\nwill be treated as a normal cost and\ncharged to the batch.\nWhere defect is due to the\nInspection\nDepartment\nwrongly accepting incoming\nmaterial of poor quality.\nIn this case the cost of rectification will be\ncharged to the department and will not\nbe considered as cost of manufacture of\nthe batch. Being an abnormal cost, it will\nbe written off to the Costing Profit and\nLoss Account."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

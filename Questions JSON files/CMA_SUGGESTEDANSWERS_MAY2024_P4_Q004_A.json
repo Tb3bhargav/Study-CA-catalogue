@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  Meta Company Ltd. is engaged in the production of product ‘Trio' which\npasses through two different processes Process P and Process Q. Other\ninformation obtained from books of account for the year is as follows:\nParticulars\nProcess P\nProcess Q\nRaw material used\n10,000\n---\nRaw material cost per unit\n` 80\n---\nDirect wages\n` 52,000\n` 78,000\nDirect Expenses\n` 8,600\n` 11,100\nSelling price per unit of output\n` 130\n` 190\n\nProduction overheads of ` 3,00,000 are recovered as percentage of direct\nwages.\n\nActual output of the two processes was:\n\nP-9,200 units and Q-6,400 units. 3/4thof the output of Process P was passed\non to the Process Q and the balance was sold. The entire output of process Q\nwas sold.\n\nManagement & Selling expenses during the year were ` 1,70,000.\n\nThese are not allocable to the processes.\n\nThe normal loss of the two processes, calculated on the input of every process\nwas:\n\nProcess P- 6% and Process Q-10%\n\nThe Loss of Process P was sold at ` 5 per unit and that of Q at ` 8 per unit.\nAssume that Process P and Process Q are not the responsibility centres.\n\nYou are required to prepare:\n(i)  Process P Account\n(ii)  Process Q Account\n(iii)  Abnormal Loss and Abnormal Gain Account\n\n16\n(iv)  Costing Profit & Loss Account.",
+  "suggested_answer": "(a)\n\nProcess- P Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Material\n10,000\n8,00,000 By\nNormal\nLoss\n600\n3,000\nTo Wages\n\n52,000 By Process Q\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nTo Direct Exp.\n\n8,600 (9,200 × 3/4)\n6,900\n7,17,600\nTo\nProduction\nOverheads\n(3,00,000 × 2/5)\n\n1,20,000 By\nCosting\nProfit and Loss\n(P&L) (9,200 ×\n1/4)\n2,300\n2,39,200\n\nBy Abnormal\nLoss\n200\n20,800\n\n10,000\n9,80,600\n10,000\n9,80,600\nCost per unit =\n9,80,600-3,000\n10,000-600 = ` 104 per unit\nProcess- Q Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Process P\n6,900\n7,17,600 By Normal\nLoss\n690\n5,520\nTo Wages\n\n78,000\n\nTo Direct Exp.\n\n11,100 By Costing\nP&L\n6,400\n10,11,200\nTo\nProduction\nOverheads\n(3,00,000 × 3/5)\n\n180,000\n\nTo Abnormal Gain\n190\n30,020\n\n7,090\n10,16,720\n7,090\n10,16,720\nCost per unit =\n9,86,700-5,520\n6900-690 = `158 per unit\nAbnormal Loss Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Process- P\n200\n20,800 By Bank\n200\n1,000\n\nBy Costing P&L\n\n19,800\n\n200\n20,800\n200\n20,800\n\n18\nAbnormal Gain Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Normal Loss\n190\n1,520 By Process\nQ\n190\n30,020\nTo Costing Profit and\nLoss\n\n28,500\n\n190\n30,020\n190\n30,020\nCosting Profit & Loss Account for the year\nDr.\nCr.\nParticulars\nAmount\n(`)\nParticulars\nAmount\n(`)\nTo Cost of Sales\n\nP  -   2,39,200\n\nQ -  10,11,200\n12,50,400\nBy Sales\n\nP 2300 @ 130\n\nQ 6400 @ 190\n15,15,000\nTo Abnormal Loss\n19,800 By Abnormal Gain\n28,500\nTo Selling Expense\n1,70,000\n\nTo Net Profit\n1,03,300\n\n15,43,500\n15,43,500",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q004_A",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 15,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Meta Company Ltd. is engaged in the production of product ‘Trio' which\npasses through two different processes Process P and Process Q. Other\ninformation obtained from books of account for the year is as follows:\nParticulars\nProcess P\nProcess Q\nRaw material used\n10,000\n---\nRaw material cost per unit\n` 80\n---\nDirect wages\n` 52,000\n` 78,000\nDirect Expenses\n` 8,600\n` 11,100\nSelling price per unit of output\n` 130\n` 190\n\nProduction overheads of ` 3,00,000 are recovered as percentage of direct\nwages.\n\nActual output of the two processes was:\n\nP-9,200 units and Q-6,400 units. 3/4thof the output of Process P was passed\non to the Process Q and the balance was sold. The entire output of process Q\nwas sold.\n\nManagement & Selling expenses during the year were ` 1,70,000.\n\nThese are not allocable to the processes.\n\nThe normal loss of the two processes, calculated on the input of every process\nwas:\n\nProcess P- 6% and Process Q-10%\n\nThe Loss of Process P was sold at ` 5 per unit and that of Q at ` 8 per unit.\nAssume that Process P and Process Q are not the responsibility centres.\n\nYou are required to prepare:\n(i)  Process P Account\n(ii)  Process Q Account\n(iii)  Abnormal Loss and Abnormal Gain Account\n\n16\n(iv)  Costing Profit & Loss Account."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nProcess- P Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Material\n10,000\n8,00,000 By\nNormal\nLoss\n600\n3,000\nTo Wages\n\n52,000 By Process Q\n\nCOST AND MANAGEMENT ACCOUNTING\n\n17\nTo Direct Exp.\n\n8,600 (9,200 × 3/4)\n6,900\n7,17,600\nTo\nProduction\nOverheads\n(3,00,000 × 2/5)\n\n1,20,000 By\nCosting\nProfit and Loss\n(P&L) (9,200 ×\n1/4)\n2,300\n2,39,200\n\nBy Abnormal\nLoss\n200\n20,800\n\n10,000\n9,80,600\n10,000\n9,80,600\nCost per unit =\n9,80,600-3,000\n10,000-600 = ` 104 per unit\nProcess- Q Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Process P\n6,900\n7,17,600 By Normal\nLoss\n690\n5,520\nTo Wages\n\n78,000\n\nTo Direct Exp.\n\n11,100 By Costing\nP&L\n6,400\n10,11,200\nTo\nProduction\nOverheads\n(3,00,000 × 3/5)\n\n180,000\n\nTo Abnormal Gain\n190\n30,020\n\n7,090\n10,16,720\n7,090\n10,16,720\nCost per unit =\n9,86,700-5,520\n6900-690 = `158 per unit\nAbnormal Loss Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Process- P\n200\n20,800 By Bank\n200\n1,000\n\nBy Costing P&L\n\n19,800\n\n200\n20,800\n200\n20,800\n\n18\nAbnormal Gain Account\nParticulars\nUnits\nAmount\n(`)\nParticulars\nUnits\nAmount\n(`)\nTo Normal Loss\n190\n1,520 By Process\nQ\n190\n30,020\nTo Costing Profit and\nLoss\n\n28,500\n\n190\n30,020\n190\n30,020\nCosting Profit & Loss Account for the year\nDr.\nCr.\nParticulars\nAmount\n(`)\nParticulars\nAmount\n(`)\nTo Cost of Sales\n\nP  -   2,39,200\n\nQ -  10,11,200\n12,50,400\nBy Sales\n\nP 2300 @ 130\n\nQ 6400 @ 190\n15,15,000\nTo Abnormal Loss\n19,800 By Abnormal Gain\n28,500\nTo Selling Expense\n1,70,000\n\nTo Net Profit\n1,03,300\n\n15,43,500\n15,43,500"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

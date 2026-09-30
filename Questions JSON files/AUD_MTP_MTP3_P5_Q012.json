@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. \nDuring discussions on the above matters, the branch manager suggested that the auditor \nshould avoid reporting the irregularities so that the borrower’s banking relationship is not \naffected. \n \nConsidering this situation described in the case, which of the following ethical principles \nshould primarily guide the auditor’s response? \n(a)  \nIntegrity and Objectivity. \n(b)  \nConfidentiality. \n(c)  \nProfessional Behaviour. \n(d)  \nProfessional Competence and Due Care.",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q012",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Investment Decisions",
+    "topic": "Investment Decisions",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nDuring discussions on the above matters, the branch manager suggested that the auditor \nshould avoid reporting the irregularities so that the borrower’s banking relationship is not \naffected. \n \nConsidering this situation described in the case, which of the following ethical principles \nshould primarily guide the auditor’s response? \n(a)  \nIntegrity and Objectivity. \n(b)  \nConfidentiality. \n(c)  \nProfessional Behaviour. \n(d)  \nProfessional Competence and Due Care."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

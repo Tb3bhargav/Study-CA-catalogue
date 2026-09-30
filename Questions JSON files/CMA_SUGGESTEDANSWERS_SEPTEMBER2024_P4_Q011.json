@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11.\nPS Limited is facing downfall in its demand. Marketing team has suggested\nto reduce the selling price by 5% to compete in the market. Variable cost is\n76% of the current selling price.\nYou are required to find out the PN Ratio after reducing the price by 5%\n(A)\n20%\n(B)\n24%\n(C)\n25.26%\n(D)\n19%",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q011",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11.\nPS Limited is facing downfall in its demand. Marketing team has suggested\nto reduce the selling price by 5% to compete in the market. Variable cost is\n76% of the current selling price.\nYou are required to find out the PN Ratio after reducing the price by 5%\n(A)\n20%\n(B)\n24%\n(C)\n25.26%\n(D)\n19%"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

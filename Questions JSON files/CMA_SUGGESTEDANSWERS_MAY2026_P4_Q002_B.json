@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q002_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  PQR Ltd is a manufacturing company that operates at 80% capacity,\ngenerating a profit of ` 7,50,000 by selling 36000 units. The cost details are\nas follows:\nParticulars\nAmount\n(in `)\nMaterial Cost per unit\n25\nLabour Cost per unit\n15\nSemi Variable Cost (Variable Component = 10 per unit)\n8,20,000\nContribution per unit\n50\nMargin of Safety Sales at the current level of sales\n15,00,000\nFixed Cost upto 80% Capacity (Including depreciation of\n` 1,90,000)\n5,90,000\nAdditional Fixed Cost (Beyond 80% Capacity)\n1,50,000\nYou are required to ascertain:\n(i)  Break Even Point in units at current Capacity utilisation.\n(ii)  Total Sales value and Cash Break Even Sales Quantity at current capacity\nutilization.\n(iii)  Capacity utilisation & Margin of safety sales, if the company wants to\nearn a profit of ` 9,37,500. (Assume selling price per unit and variable\ncost per unit remain unchanged.)\n(7 Marks)\n\n14",
+  "suggested_answer": "(b) Workings:\n1.  No. of units at 80% level  = 36,000 units.\nNo. of units at 100% level = 36,000\n80%\n= 45,000 units.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\n2.\nContribution per unit\n= ` 50\n\nVariable cost per unit  = Direct Material + Direct wages +Variable cost in\nsemi\n\nvariable component\n\n= (25 + 15 + 10) = ` 50 per unit\n\nSelling Price (SP)\n= Variable cost per unit+ Contribution per unit\n\n= ` 50 + ` 50 = ` 100 per unit.\n3.   Calculation of Total fixed cost:\n\n= Fixed cost part of semi-variable cost + Fixed overheads\n\n= (Total Semi-variable cost at 80% level – Variable cost part) + Fixed\nCost (at 80% capacity)\n\n= {` 8,20,000 – (` 10 × 36,000 units)} + ` 5,90,000\n\n= ` 4,60,000 + ` 5,90,000 = ` 10,50,000\n(i)   Calculation of Break-even point at 80% Capacity:\n=\nTotal fixed cost\nContribution per unit\n\n=  10,50,000\n50\n`\n`\n= 21,000 units\n(ii)  Total Sales Value & Cash BEP at 80% Capacity\nTotal Sales Value\n\n= 36,000 units × ` 100 = ` 36,00,000\nNow, Cash Fixed Cost\n= Total Fixed Cost - Depreciation\nOr Cash Fixed Cost\n= `10,50,000 - ` 1,90,000 = ` 8,60,000\nCash BEP (units)\n\n= Total\nfixed cost\nContribution per unit\ncash\n\n= 8,60,000\n50\n`\n\n= 17,200 units\n(iii) Capacity utilisation & Margin of safety (MOS) sales to earn a\nprofit of ` 9,37,500\n\nTo earn a profit of ` 9,37,500, the company must exceed 80%\ncapacity, requiring additional fixed costs.\n\n16\n\nSo, New Fixed Cost (>80%) = ` 10,50,000 + ` 1,50,000\n= ` 12,00,000.\n\nRequired Units =\n\nFixed cost + Target  profit\nContribution per unit\n\n= `\n`\n`\n12,00,000 +  9,37,500\n50\n\n= 42,750 units\n\nSo, Capacity Utilisation = (42,750 / 45,000) × 100 = 95%\n\nNew BEP (units) = `\n`\n12,00,000\n50\n= 24,000 units.\n\nSo, MOS (units) = 42,750 - 24,000 = 18,750 units",
+  "marks": "(7 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q002_B",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Marginal Costing",
+    "topic": "Marginal Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(b)",
+    "marks": "(7 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 13,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  PQR Ltd is a manufacturing company that operates at 80% capacity,\ngenerating a profit of ` 7,50,000 by selling 36000 units. The cost details are\nas follows:\nParticulars\nAmount\n(in `)\nMaterial Cost per unit\n25\nLabour Cost per unit\n15\nSemi Variable Cost (Variable Component = 10 per unit)\n8,20,000\nContribution per unit\n50\nMargin of Safety Sales at the current level of sales\n15,00,000\nFixed Cost upto 80% Capacity (Including depreciation of\n` 1,90,000)\n5,90,000\nAdditional Fixed Cost (Beyond 80% Capacity)\n1,50,000\nYou are required to ascertain:\n(i)  Break Even Point in units at current Capacity utilisation.\n(ii)  Total Sales value and Cash Break Even Sales Quantity at current capacity\nutilization.\n(iii)  Capacity utilisation & Margin of safety sales, if the company wants to\nearn a profit of ` 9,37,500. (Assume selling price per unit and variable\ncost per unit remain unchanged.)\n(7 Marks)\n\n14"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Workings:\n1.  No. of units at 80% level  = 36,000 units.\nNo. of units at 100% level = 36,000\n80%\n= 45,000 units.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\n2.\nContribution per unit\n= ` 50\n\nVariable cost per unit  = Direct Material + Direct wages +Variable cost in\nsemi\n\nvariable component\n\n= (25 + 15 + 10) = ` 50 per unit\n\nSelling Price (SP)\n= Variable cost per unit+ Contribution per unit\n\n= ` 50 + ` 50 = ` 100 per unit.\n3.   Calculation of Total fixed cost:\n\n= Fixed cost part of semi-variable cost + Fixed overheads\n\n= (Total Semi-variable cost at 80% level – Variable cost part) + Fixed\nCost (at 80% capacity)\n\n= {` 8,20,000 – (` 10 × 36,000 units)} + ` 5,90,000\n\n= ` 4,60,000 + ` 5,90,000 = ` 10,50,000\n(i)   Calculation of Break-even point at 80% Capacity:\n=\nTotal fixed cost\nContribution per unit\n\n=  10,50,000\n50\n`\n`\n= 21,000 units\n(ii)  Total Sales Value & Cash BEP at 80% Capacity\nTotal Sales Value\n\n= 36,000 units × ` 100 = ` 36,00,000\nNow, Cash Fixed Cost\n= Total Fixed Cost - Depreciation\nOr Cash Fixed Cost\n= `10,50,000 - ` 1,90,000 = ` 8,60,000\nCash BEP (units)\n\n= Total\nfixed cost\nContribution per unit\ncash\n\n= 8,60,000\n50\n`\n\n= 17,200 units\n(iii) Capacity utilisation & Margin of safety (MOS) sales to earn a\nprofit of ` 9,37,500\n\nTo earn a profit of ` 9,37,500, the company must exceed 80%\ncapacity, requiring additional fixed costs.\n\n16\n\nSo, New Fixed Cost (>80%) = ` 10,50,000 + ` 1,50,000\n= ` 12,00,000.\n\nRequired Units =\n\nFixed cost + Target  profit\nContribution per unit\n\n= `\n`\n`\n12,00,000 +  9,37,500\n50\n\n= 42,750 units\n\nSo, Capacity Utilisation = (42,750 / 45,000) × 100 = 95%\n\nNew BEP (units) = `\n`\n12,00,000\n50\n= 24,000 units.\n\nSo, MOS (units) = 42,750 - 24,000 = 18,750 units"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

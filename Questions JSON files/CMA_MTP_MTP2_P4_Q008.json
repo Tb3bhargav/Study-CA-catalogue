@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8. \nThe cost driver rate relating to Delivery, Ordering, Shelf stocking and Customer support \nwould be: \n(a) \nDelivery- ` 1,920 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- Re. 1 per item sold \n(b) \nDelivery- ` 2,400 per delivery, Ordering- ` 1,920 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- Re. 1 per item sold \n(c) \nDelivery- ` 1,920 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- ` 3 per item sold \n(d) \nDelivery- ` 480 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 1,920 per stocking hour and Customer support- ` 3 per item sold",
+  "suggested_answer": "(A) Activity (1) Total cost (`) (2) Cost allocation base (3) Cost driver rate (4) = [(2) ÷ (3)] Delivery 1,20,96,000 6,300 deliveries ` 1,920 per delivery Ordering 74,88,000 3,120 purchase orders ` 2,400 per purchase order Shelf-stocking 82,94,400 17,280 hours of shelf-stocking time ` 480 per stocking hour Customer support 1,47,45,600 1,47,45,600 items sold ` 1 per item sold (given)",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q008",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8. \nThe cost driver rate relating to Delivery, Ordering, Shelf stocking and Customer support \nwould be: \n(a) \nDelivery- ` 1,920 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- Re. 1 per item sold \n(b) \nDelivery- ` 2,400 per delivery, Ordering- ` 1,920 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- Re. 1 per item sold \n(c) \nDelivery- ` 1,920 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 480 per stocking hour and Customer support- ` 3 per item sold \n(d) \nDelivery- ` 480 per delivery, Ordering- ` 2,400 per purchase order, Shelf \nstocking- ` 1,920 per stocking hour and Customer support- ` 3 per item sold"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Activity (1) Total cost (`) (2) Cost allocation base (3) Cost driver rate (4) = [(2) ÷ (3)] Delivery 1,20,96,000 6,300 deliveries ` 1,920 per delivery Ordering 74,88,000 3,120 purchase orders ` 2,400 per purchase order Shelf-stocking 82,94,400 17,280 hours of shelf-stocking time ` 480 per stocking hour Customer support 1,47,45,600 1,47,45,600 items sold ` 1 per item sold (given)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

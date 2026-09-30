@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP3_P6_Q003",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3.  \nThe Net Present Value (NPV) of the project is – \n(a)  \n` 1.35 lakhs \n(b)  \n-` 0.55 lakhs \n(c)  \n` 1.14 lakhs \n(d)  \n-` 0.95 lakhs",
+  "suggested_answer": "(C) ` 1.14 lakhs Statement Showing Calculation of Cash Inflows Particulars Year 1 Year 2 Year 3 Cash Inflows (before dep & tax) 8.00 9.00 10.00 Less: Depreciation 6.00 6.00 6.00 Profit Before Tax (PBT) 2.00 3.00 4.00 Less: Tax @ 25% 0.50 0.75 1.00 Profit After Tax (PAT) 1.50 2.25 3.00 Add: Depreciation 6.00 6.00 6.00 Operating Cash Flow 7.50 8.25 9.00 Add: Salvage Value – – 2.00 Add: Working Capital Recovery – – 3.00 Total Cash Inflow 7.50 8.25 14.00 Investment rate = (6% / 0.75) + 2% = 10% Statement showing calculation of PV Year CF PV Factor @ 10% PV (` in lakhs) 0 23 1 23 1 7.50 0.909 6.82 2 8.25 0.826 6.81 3 14.00 0.751 10.51 NPV 1.14 3",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP3_P6_Q003",
+  "source_filename": "mtp3paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Investment Decisions",
+    "topic": "Investment Decisions",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  \nThe Net Present Value (NPV) of the project is – \n(a)  \n` 1.35 lakhs \n(b)  \n-` 0.55 lakhs \n(c)  \n` 1.14 lakhs \n(d)  \n-` 0.95 lakhs"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 1.14 lakhs Statement Showing Calculation of Cash Inflows Particulars Year 1 Year 2 Year 3 Cash Inflows (before dep & tax) 8.00 9.00 10.00 Less: Depreciation 6.00 6.00 6.00 Profit Before Tax (PBT) 2.00 3.00 4.00 Less: Tax @ 25% 0.50 0.75 1.00 Profit After Tax (PAT) 1.50 2.25 3.00 Add: Depreciation 6.00 6.00 6.00 Operating Cash Flow 7.50 8.25 9.00 Add: Salvage Value – – 2.00 Add: Working Capital Recovery – – 3.00 Total Cash Inflow 7.50 8.25 14.00 Investment rate = (6% / 0.75) + 2% = 10% Statement showing calculation of PV Year CF PV Factor @ 10% PV (` in lakhs) 0 23 1 23 1 7.50 0.909 6.82 2 8.25 0.826 6.81 3 14.00 0.751 10.51 NPV 1.14 3"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

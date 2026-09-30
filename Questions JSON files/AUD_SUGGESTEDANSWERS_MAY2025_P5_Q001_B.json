@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q001_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Mention the types of control in an automated environment.\n(1 Mark)\n\nIdentify the type of control in the following table in Column B against Column\nA which contains areas where controls are to be implemented in an\nautomated environment.\n\nColumn A\n\nColumn B\nAccess security\n\n?\nSequence number checks\n\n?\nData centre and network operations\n\n?\nMandatory data fields\n?\n(4 Marks)",
+  "suggested_answer": "(b) Types of Controls in an automated environment: Controls in an\nautomated environment can be categorised as under: -\n(i) General IT controls\n(ii) Application controls\n(iii) IT-dependent controls\n\nAUDITING AND ETHICS\n\n45\nColumn A - Areas where Controls to\nbe implemented\nColumn\nB\n-\nType\nof\nControls\nAccess security\nGeneral IT controls\nSequence number checks\nApplication controls\nData centre and network operations\nGeneral IT controls\nMandatory data fields\nApplication controls",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q001_B",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit in Automated Environment",
+    "topic": "Audit in Automated Environment",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Mention the types of control in an automated environment.\n(1 Mark)\n\nIdentify the type of control in the following table in Column B against Column\nA which contains areas where controls are to be implemented in an\nautomated environment.\n\nColumn A\n\nColumn B\nAccess security\n\n?\nSequence number checks\n\n?\nData centre and network operations\n\n?\nMandatory data fields\n?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Types of Controls in an automated environment: Controls in an\nautomated environment can be categorised as under: -\n(i) General IT controls\n(ii) Application controls\n(iii) IT-dependent controls\n\nAUDITING AND ETHICS\n\n45\nColumn A - Areas where Controls to\nbe implemented\nColumn\nB\n-\nType\nof\nControls\nAccess security\nGeneral IT controls\nSequence number checks\nApplication controls\nData centre and network operations\nGeneral IT controls\nMandatory data fields\nApplication controls"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

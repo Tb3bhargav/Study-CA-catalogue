@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "5. \nA product passes through two processes. The output of Process-I is \ntreated as the raw material of Process-II. The cost incurred at Process- II \nis as follows: \nParticulars \nProcess-II (`) \nTransferred from Process-I A/c \n27,85,700 \nMaterials issued \n10,00,000 \nLabour \n2,00,000 \nManufacturing overhead \n5,00,000 \nThe output of each process is as under: \nProcess \nOutput \nNormal Loss \nProcess-I \n48,750 units \n2% \nProcess-II \n47,000 units \n5% \nNo stock of materials or of work-in-process was left at the end.  \nYou are required to CALCULATE the value of Abnormal Gain/Loss in \nProcess-II A/c. \n(a) \nAbnormal Gain of ` 66,626 \n(b) \nAbnormal Loss of ` 66,626 \n(c) \nAbnormal Gain of ` 72,776 \n(d) \nAbnormal Loss of ` 72,776 \nJoint Products and By products",
+  "suggested_answer": "(A) Dr. Process-II Account Cr. Particulars Units Total (`) Particulars Units Total (`) To Process-I A/c 48,750 27,85,700 By Normal Loss A/c (5% of 48,750 units) 2,438 -- ” Material -- 10,00,000 ” Output (` 96.858 × 47,000 units) 47,000 45,52,326 ” Labour -- 2,00,000 ” Manufacturing OH -- 5,00,000 ” Abnormal Gain A/c (` 96.858 × 688 units) 688 66,626 (round off) 49,438 45,52,326 49,438 45,52,326 Cost per unit of completed units and abnormal gain: = ቆ Total Cost Input units - Normal Lossቇ = ቀ ` 44,85,700 48,750 units - 2,438 units ቁ = ` 96.858",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q005",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nA product passes through two processes. The output of Process-I is \ntreated as the raw material of Process-II. The cost incurred at Process- II \nis as follows: \nParticulars \nProcess-II (`) \nTransferred from Process-I A/c \n27,85,700 \nMaterials issued \n10,00,000 \nLabour \n2,00,000 \nManufacturing overhead \n5,00,000 \nThe output of each process is as under: \nProcess \nOutput \nNormal Loss \nProcess-I \n48,750 units \n2% \nProcess-II \n47,000 units \n5% \nNo stock of materials or of work-in-process was left at the end.  \nYou are required to CALCULATE the value of Abnormal Gain/Loss in \nProcess-II A/c. \n(a) \nAbnormal Gain of ` 66,626 \n(b) \nAbnormal Loss of ` 66,626 \n(c) \nAbnormal Gain of ` 72,776 \n(d) \nAbnormal Loss of ` 72,776 \nJoint Products and By products"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Dr. Process-II Account Cr. Particulars Units Total (`) Particulars Units Total (`) To Process-I A/c 48,750 27,85,700 By Normal Loss A/c (5% of 48,750 units) 2,438 -- ” Material -- 10,00,000 ” Output (` 96.858 × 47,000 units) 47,000 45,52,326 ” Labour -- 2,00,000 ” Manufacturing OH -- 5,00,000 ” Abnormal Gain A/c (` 96.858 × 688 units) 688 66,626 (round off) 49,438 45,52,326 49,438 45,52,326 Cost per unit of completed units and abnormal gain: = ቆ Total Cost Input units - Normal Lossቇ = ቀ ` 44,85,700 48,750 units - 2,438 units ቁ = ` 96.858"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

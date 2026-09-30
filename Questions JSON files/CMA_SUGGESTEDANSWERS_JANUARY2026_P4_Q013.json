@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. A garment factory stitches each shirt through a single hand sewing machine\noperator. The sewing time required to stitch each shirt is 15 minutes.\nOperator is paid at ` 65 per hour. The factory works for 40 hours per week\nand the production target is 480 dozens of shirts per week.\n\nWhat is the number of hours and the number of operators required to meet\nthe shirts target?\n(A)  1,800 Hours & 45 Operators\n(B)  1,440 Hours & 36 Operators\n(C)  1,800 Hours & 36 Operators\n(D)  1,440 Hours & 40 Operators\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q013",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. A garment factory stitches each shirt through a single hand sewing machine\noperator. The sewing time required to stitch each shirt is 15 minutes.\nOperator is paid at ` 65 per hour. The factory works for 40 hours per week\nand the production target is 480 dozens of shirts per week.\n\nWhat is the number of hours and the number of operators required to meet\nthe shirts target?\n(A)  1,800 Hours & 45 Operators\n(B)  1,440 Hours & 36 Operators\n(C)  1,800 Hours & 36 Operators\n(D)  1,440 Hours & 40 Operators\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

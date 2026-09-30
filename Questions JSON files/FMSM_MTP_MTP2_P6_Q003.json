@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP2_P6_Q003",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3.  \nWhat are the Long-term Debt to Total Debt Ratio and the Debt-to-Equity Ratio of Solstice \nBiotech Ltd. for FY 2025–26?   \n(A)  \n24.00% and 35.00% \n(B)  \n27.31% and 64.50% \n(C)  \n41.70% and 46.89% \n(D)  \n47.35% and 64.50% \n(2 Marks)",
+  "suggested_answer": "(D) Long-term Debt = Non-Current Borrowings = ` 5,000 thousand Total Debt = Non-Current Borrowings + Current Liabilities = 5,000 + 5,560 = ` 10,560 thousand Long-term Debt to Total Debt = (5,000 ÷ 10,560) × 100 = 47.35% Shareholders' Equity = Equity Share Capital + Other Equity = 4,000 + 3,752 = ` 7,752 thousand 2 Debt-to-Equity Ratio = (Long-term Debt ÷ Shareholders' Equity) × 100 = (5,000 ÷ 7,752) × 100 = 64.50%",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP2_P6_Q003",
+  "source_filename": "mtp2paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  \nWhat are the Long-term Debt to Total Debt Ratio and the Debt-to-Equity Ratio of Solstice \nBiotech Ltd. for FY 2025–26?   \n(A)  \n24.00% and 35.00% \n(B)  \n27.31% and 64.50% \n(C)  \n41.70% and 46.89% \n(D)  \n47.35% and 64.50% \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Long-term Debt = Non-Current Borrowings = ` 5,000 thousand Total Debt = Non-Current Borrowings + Current Liabilities = 5,000 + 5,560 = ` 10,560 thousand Long-term Debt to Total Debt = (5,000 ÷ 10,560) × 100 = 47.35% Shareholders' Equity = Equity Share Capital + Other Equity = 4,000 + 3,752 = ` 7,752 thousand 2 Debt-to-Equity Ratio = (Long-term Debt ÷ Shareholders' Equity) × 100 = (5,000 ÷ 7,752) × 100 = 64.50%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

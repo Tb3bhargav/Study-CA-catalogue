@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q004",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4. \nBased on the given facts, which of the following best explains the implication of the \ndifference between the Class Registers (620 students) and the Students’ Fee Register \n(590 students)? \n(a)  \nFee demands may not have been raised for 30 students appearing on the rolls. \n(b)  \nHostel income of the university may be understated. \n4 \n(c)  \nThe difference indicates advance fees collected from students. \n(d)  \nThe difference represents fines for late payment of fees.",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q004",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4. \nBased on the given facts, which of the following best explains the implication of the \ndifference between the Class Registers (620 students) and the Students’ Fee Register \n(590 students)? \n(a)  \nFee demands may not have been raised for 30 students appearing on the rolls. \n(b)  \nHostel income of the university may be understated. \n4 \n(c)  \nThe difference indicates advance fees collected from students. \n(d)  \nThe difference represents fines for late payment of fees."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

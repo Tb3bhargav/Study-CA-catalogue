@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "10.  X Corp. produces two products, X and Y. The production division is \nmade up of two manufacturing departments, P1 and P2, along with two \nsupport departments, S1 and S2. \nPre-determined Overhead Rates are applied in the production \ndepartments to allocate factory overhead costs to the products. The rate \nfor Department P1 is determined by direct machine hours, while \nDepartment P2's rate is based on direct labor hours. \nA technical assessment of the apportionment of expenses of service \ndepartments is as under: \n \nProduction Department \nP1  \nP2 \nService Dept. ‘S1’ (ratio) \n3 \n3 \nService Dept. ‘S2’ (ratio) \n30 \n15 \nFollowing budgeted data is available: \nFactory overheads for the year: \nProduction Departments \nService Departments \nP1 \nP2 \nS1 \nS2 \n` 2,80,50,000 \n` 2,39,25,000 \n` 66,00,000 \n` 49,50,000 \nDetails relating to production of the Products X and Y is as follows: \n \nProducts \nX  \nY \nBudgeted \noutput \n(units) \n1,00,000 \n60,000 \nBudgeted raw-material \ncost \nper \nunit \n(All \nmaterials are used in \nDepartment P1 only.) \n` 660 \n` 825 \n\n \nINTERMEDIATE EXAMINATION \n \n \n14 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nBudgeted time required \nfor production per unit \nP1: 1.5 machine \nhours \nP2: 2 Direct labour \nhours \nP1: 1.0 machine \nhours \nP2: 2.5 Direct \nlabour hours \nAverage \nwage \nrate \nbudgeted \nin \nDepartment P2 \n` 396 per hour \n` 412.50 per \nhour \nFollowing actual data is available (for the month of December, 2024): \n \nProducts \nX \nY \nActual output (units) \n8,000 \n6,000 \nActual hours worked \nfor production \nP1: 12,200 \nmachine hours \nP2: 16,400 Direct \nlabour hours \nP1: 8,300 machine \nhours \nP2: 14,800 Direct \nlabour hours \nRaw materials cost \n` 53,79,000 \n` 50,16,000 \nWages paid \n` 65,10,900 \n` 60,72,000 \nActual factory overheads incurred is as follows: \nProduction Departments \nService Departments \nP1 \nP2 \nS1 \nS2 \n` 25,41,000 \n` 22,44,000 \n` 6,60,000 \n` 5,28,000 \nYou are required to: \n(i) \nCOMPUTE the pre-determined overhead rate for department P1 \nand P2.  \n(ii) \nPREPARE a comparative statement reflecting Budgeted cost and \nActual cost for production of the Products X and Y during the \nmonth of December, 2024.  \n(iii) \nCALCULATE the amount of under/ over-absorption of production \noverheads \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n15 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nCost Sheet",
+  "suggested_answer": "(i) \nComputation \nof \npredetermined \noverhead \nrate \nfor \neach \nproduction departments from budgeted data \n \nProduction \nDepartment \nService Department \nP1 \nP2 \nS1 \nS2 \nBudgeted \nfactory \noverheads for the year (`) \n2,80,50,000 2,39,25,000 \n66,00,000 \n49,50,000 \nAllocation \nof \nservice \ndepartment S1’s costs to \nproduction \ndepartments \nP1 and P2 equally (`) \n33,00,000 \n33,00,000 (66,00,000) \n— \nAllocation \nof \nservice \ndepartment S2’s costs to \nproduction \ndepartments \nP1 and P2 in the ratio of \n2:1 (`) \n33,00,000 \n16,50,000 \n— (49,50,000) \nTotal \n3,46,50,000 2,88,75,000 \n— \n— \nBudgeted machine hours \nin department P1 (working \nnote 1) \n2,10,000 \n— \n \n \nBudgeted labour hours in \ndepartment P2 (working \nnote 1) \n— \n3,50,000 \n \n \nBudgeted machine/ labour \nhour rate (`) \n165 \n82.50 \n \n \n(ii) \nComparative statement reflecting Budgeted cost and Actual \ncost for production of the Products X and Y during the month \nof December, 2024 \n \n(When 8,000 and 6,000 units of products X and Y respectively were \nactually produced) \n \nBudgeted (`) \nActual (`) \nRaw materials used in Dept. P1: \n \n \nX : 8,000 units × ` 660 \n52,80,000 \n53,79,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n36 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nY : 6,000 units × ` 825 \n49,50,000 \n50,16,000 \nDirect labour cost \n(on the basis of labour hours worked in \ndepartment P2) \n \n \nX : 8,000 units × 2 hrs. × ` 396 \n63,36,000 \n65,10,900 \nY : 6,000 units × 2.5 hrs. × ` 412.50 \n61,87,500 \n60,72,000 \nOverhead absorbed on machine hour \nbasis in Dept. P1: \n \n \nX : 8,000 units × 1.5 hrs. × ` 165 \n19,80,000 19,18,084* \nY : 6,000 units × 1 hr. × ` 165 \n9,90,000 13,04,926* \nOverhead absorbed on labour hour \nbasis in Dept. P2: \n \n \nX : 8,000 units × 2 hrs. × ` 82.50 \n13,20,000 14,45,496** \nY : 6,000 units × 2.5 hrs. × ` 82.50 \n12,37,500 13,04,472** \n* (Refer to working note 4)  \n**(Refer to working note 5) \n(iii) Amount of under/ over-absorption of production overheads \n \nOverhead \nabsorbed  \nOverhead \nactually \nincurred \nOverhead under/  \nover-absorbed \nOverhead in Dept. P1 \n \n \n \nProduct X  \n19,80,000 \n19,18,084 \n` 61,916  \nover-absorbed \nProduct Y  \n9,90,000 \n13,04,926 \n` 3,14,926  \nunder-absorbed  \nOverhead in Dept. P2 \n \n \n \nProduct X  \n13,20,000 \n14,45,496 \n` 1,25,496  \nunder-absorbed  \nProduct Y  \n 12,37,500 \n  13,04,472 \n` 66,972  \nunder-absorbed  \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n37 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nWorking notes:",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q010",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10.  X Corp. produces two products, X and Y. The production division is \nmade up of two manufacturing departments, P1 and P2, along with two \nsupport departments, S1 and S2. \nPre-determined Overhead Rates are applied in the production \ndepartments to allocate factory overhead costs to the products. The rate \nfor Department P1 is determined by direct machine hours, while \nDepartment P2's rate is based on direct labor hours. \nA technical assessment of the apportionment of expenses of service \ndepartments is as under: \n \nProduction Department \nP1  \nP2 \nService Dept. ‘S1’ (ratio) \n3 \n3 \nService Dept. ‘S2’ (ratio) \n30 \n15 \nFollowing budgeted data is available: \nFactory overheads for the year: \nProduction Departments \nService Departments \nP1 \nP2 \nS1 \nS2 \n` 2,80,50,000 \n` 2,39,25,000 \n` 66,00,000 \n` 49,50,000 \nDetails relating to production of the Products X and Y is as follows: \n \nProducts \nX  \nY \nBudgeted \noutput \n(units) \n1,00,000 \n60,000 \nBudgeted raw-material \ncost \nper \nunit \n(All \nmaterials are used in \nDepartment P1 only.) \n` 660 \n` 825 \n\n \nINTERMEDIATE EXAMINATION \n \n \n14 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nBudgeted time required \nfor production per unit \nP1: 1.5 machine \nhours \nP2: 2 Direct labour \nhours \nP1: 1.0 machine \nhours \nP2: 2.5 Direct \nlabour hours \nAverage \nwage \nrate \nbudgeted \nin \nDepartment P2 \n` 396 per hour \n` 412.50 per \nhour \nFollowing actual data is available (for the month of December, 2024): \n \nProducts \nX \nY \nActual output (units) \n8,000 \n6,000 \nActual hours worked \nfor production \nP1: 12,200 \nmachine hours \nP2: 16,400 Direct \nlabour hours \nP1: 8,300 machine \nhours \nP2: 14,800 Direct \nlabour hours \nRaw materials cost \n` 53,79,000 \n` 50,16,000 \nWages paid \n` 65,10,900 \n` 60,72,000 \nActual factory overheads incurred is as follows: \nProduction Departments \nService Departments \nP1 \nP2 \nS1 \nS2 \n` 25,41,000 \n` 22,44,000 \n` 6,60,000 \n` 5,28,000 \nYou are required to: \n(i) \nCOMPUTE the pre-determined overhead rate for department P1 \nand P2.  \n(ii) \nPREPARE a comparative statement reflecting Budgeted cost and \nActual cost for production of the Products X and Y during the \nmonth of December, 2024.  \n(iii) \nCALCULATE the amount of under/ over-absorption of production \noverheads \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n15 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nCost Sheet"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nComputation \nof \npredetermined \noverhead \nrate \nfor \neach \nproduction departments from budgeted data \n \nProduction \nDepartment \nService Department \nP1 \nP2 \nS1 \nS2 \nBudgeted \nfactory \noverheads for the year (`) \n2,80,50,000 2,39,25,000 \n66,00,000 \n49,50,000 \nAllocation \nof \nservice \ndepartment S1’s costs to \nproduction \ndepartments \nP1 and P2 equally (`) \n33,00,000 \n33,00,000 (66,00,000) \n— \nAllocation \nof \nservice \ndepartment S2’s costs to \nproduction \ndepartments \nP1 and P2 in the ratio of \n2:1 (`) \n33,00,000 \n16,50,000 \n— (49,50,000) \nTotal \n3,46,50,000 2,88,75,000 \n— \n— \nBudgeted machine hours \nin department P1 (working \nnote 1) \n2,10,000 \n— \n \n \nBudgeted labour hours in \ndepartment P2 (working \nnote 1) \n— \n3,50,000 \n \n \nBudgeted machine/ labour \nhour rate (`) \n165 \n82.50 \n \n \n(ii) \nComparative statement reflecting Budgeted cost and Actual \ncost for production of the Products X and Y during the month \nof December, 2024 \n \n(When 8,000 and 6,000 units of products X and Y respectively were \nactually produced) \n \nBudgeted (`) \nActual (`) \nRaw materials used in Dept. P1: \n \n \nX : 8,000 units × ` 660 \n52,80,000 \n53,79,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n36 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nY : 6,000 units × ` 825 \n49,50,000 \n50,16,000 \nDirect labour cost \n(on the basis of labour hours worked in \ndepartment P2) \n \n \nX : 8,000 units × 2 hrs. × ` 396 \n63,36,000 \n65,10,900 \nY : 6,000 units × 2.5 hrs. × ` 412.50 \n61,87,500 \n60,72,000 \nOverhead absorbed on machine hour \nbasis in Dept. P1: \n \n \nX : 8,000 units × 1.5 hrs. × ` 165 \n19,80,000 19,18,084* \nY : 6,000 units × 1 hr. × ` 165 \n9,90,000 13,04,926* \nOverhead absorbed on labour hour \nbasis in Dept. P2: \n \n \nX : 8,000 units × 2 hrs. × ` 82.50 \n13,20,000 14,45,496** \nY : 6,000 units × 2.5 hrs. × ` 82.50 \n12,37,500 13,04,472** \n* (Refer to working note 4)  \n**(Refer to working note 5) \n(iii) Amount of under/ over-absorption of production overheads \n \nOverhead \nabsorbed  \nOverhead \nactually \nincurred \nOverhead under/  \nover-absorbed \nOverhead in Dept. P1 \n \n \n \nProduct X  \n19,80,000 \n19,18,084 \n` 61,916  \nover-absorbed \nProduct Y  \n9,90,000 \n13,04,926 \n` 3,14,926  \nunder-absorbed  \nOverhead in Dept. P2 \n \n \n \nProduct X  \n13,20,000 \n14,45,496 \n` 1,25,496  \nunder-absorbed  \nProduct Y  \n 12,37,500 \n  13,04,472 \n` 66,972  \nunder-absorbed  \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n37 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nWorking notes:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "FMSM_RTP_SEPTEMBER2026_P6_Q008",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "8.  \nA firm has total annual sales of ` 200 lakhs, of which 80% are made on \ncredit. The company offers credit terms of 2/40, net 120. Out of the total \ncredit customers, 50% avail themselves of the cash discount, while the \nremaining customers settle their accounts after 120 days. \n \nBased on past experience, bad debt losses amount to approximately 1% \nof credit sales. In addition, the firm incurs ` 2,40,000 per annum in \nadministering its credit sales. These costs can be avoided because a \nfactor is willing to purchase the firm's receivables. \n \nThe factor will charge a 2% commission and provide advances against \nreceivables at an interest rate of 18%, while retaining 10% of the \nreceivables as a reserve. \n \nRequired: \n(i)  \nDetermine the effective cost of factoring. Assume a 360-day year. \n(ii)  \nIf bank finance for working capital is available at an interest rate of \n14%, advise whether the firm should avail itself of the factoring \nservice.",
+  "suggested_answer": "Particulars \n(`)  \nTotal Sales \n` 200 lakhs \nCredit Sales (80%) \n` 160 lakhs \nReceivables for 40 days \n \n` 80 lakhs \nReceivables for 120 days \n` 80 lakhs \nAverage collection period [(40 x 0.5) + (120 ×0.5)] \n80 days \nAverage level of Receivables (` 1,60,00,000 × 80/360) \n` 35,55,556 \nFactoring Commission (` 35,55,556 × 2/100) \n` 71,111 \nFactoring Reserve (` 35,55,556 × 10/100) \n` 3,55,556 \nAmount available for advance {` 35,55,556 - (3,55,556 \n+ 71,111)} \n` 31,28,889 \n• \nFactor will deduct his interest @ 18% : \n• \nInterest = \n31,28,889 ×18×80\n100 ×360\n` \n \n \n \n` 1,25,156 \n• \nAdvance to be paid (` 31,28,889 – ` 1,25,156) \n` 30,03,733 \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n94 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(i)  \nStatement Showing Evaluation of Factoring Proposal \n \n \n` \nA. \nAnnual Cost of Factoring to the Firm: \n \n \nFactoring commission (` 71,111 × 360/80) \n3,20,000 \n \nInterest charges (` 1,25,156 × 360/80) \n5,63,200 \n \nTotal  \n8,83,200 \nB. \nFirm’s Savings on taking Factoring Service: \n` \n \nCost of credit administration saved \n2,40,000 \n \nBad Debts (` 160,00,000 x 1/100) avoided \n1,60,000 \n \nTotal  \n4,00,000 \nC. \nNet Cost to the firm (A – B) (` 8,83,200 –  \n` 4,00,000) \n4,83,200 \nEffective cost of factoring  = \n 4,83,200 ×100\n30,03,733\n`\n`\n = 16.09*%  \n* If cost of factoring is calculated on the basis of total amount \navailable for advance, then, it will be \n \n \n \n \n \n \n \n \n \n=\n4,83,200 ×100\n31,28,889\n`\n`\n = 15.44% \n(ii)  If Bank finance for working capital is available at 14%, firm will not \navail factoring service as 14 % is less than 16.08% (or 15.44%)",
+  "marks": null,
+  "source_id": "FMSM_RTP_SEPTEMBER2026_P6_Q008",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Audit of Items of Financial Statements",
+    "topic": "Audit of Items of Financial Statements",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "8",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.  \nA firm has total annual sales of ` 200 lakhs, of which 80% are made on \ncredit. The company offers credit terms of 2/40, net 120. Out of the total \ncredit customers, 50% avail themselves of the cash discount, while the \nremaining customers settle their accounts after 120 days. \n \nBased on past experience, bad debt losses amount to approximately 1% \nof credit sales. In addition, the firm incurs ` 2,40,000 per annum in \nadministering its credit sales. These costs can be avoided because a \nfactor is willing to purchase the firm's receivables. \n \nThe factor will charge a 2% commission and provide advances against \nreceivables at an interest rate of 18%, while retaining 10% of the \nreceivables as a reserve. \n \nRequired: \n(i)  \nDetermine the effective cost of factoring. Assume a 360-day year. \n(ii)  \nIf bank finance for working capital is available at an interest rate of \n14%, advise whether the firm should avail itself of the factoring \nservice."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Particulars \n(`)  \nTotal Sales \n` 200 lakhs \nCredit Sales (80%) \n` 160 lakhs \nReceivables for 40 days \n \n` 80 lakhs \nReceivables for 120 days \n` 80 lakhs \nAverage collection period [(40 x 0.5) + (120 ×0.5)] \n80 days \nAverage level of Receivables (` 1,60,00,000 × 80/360) \n` 35,55,556 \nFactoring Commission (` 35,55,556 × 2/100) \n` 71,111 \nFactoring Reserve (` 35,55,556 × 10/100) \n` 3,55,556 \nAmount available for advance {` 35,55,556 - (3,55,556 \n+ 71,111)} \n` 31,28,889 \n• \nFactor will deduct his interest @ 18% : \n• \nInterest = \n31,28,889 ×18×80\n100 ×360\n` \n \n \n \n` 1,25,156 \n• \nAdvance to be paid (` 31,28,889 – ` 1,25,156) \n` 30,03,733 \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n94 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(i)  \nStatement Showing Evaluation of Factoring Proposal \n \n \n` \nA. \nAnnual Cost of Factoring to the Firm: \n \n \nFactoring commission (` 71,111 × 360/80) \n3,20,000 \n \nInterest charges (` 1,25,156 × 360/80) \n5,63,200 \n \nTotal  \n8,83,200 \nB. \nFirm’s Savings on taking Factoring Service: \n` \n \nCost of credit administration saved \n2,40,000 \n \nBad Debts (` 160,00,000 x 1/100) avoided \n1,60,000 \n \nTotal  \n4,00,000 \nC. \nNet Cost to the firm (A – B) (` 8,83,200 –  \n` 4,00,000) \n4,83,200 \nEffective cost of factoring  = \n 4,83,200 ×100\n30,03,733\n`\n`\n = 16.09*%  \n* If cost of factoring is calculated on the basis of total amount \navailable for advance, then, it will be \n \n \n \n \n \n \n \n \n \n=\n4,83,200 ×100\n31,28,889\n`\n`\n = 15.44% \n(ii)  If Bank finance for working capital is available at 14%, firm will not \navail factoring service as 14 % is less than 16.08% (or 15.44%)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

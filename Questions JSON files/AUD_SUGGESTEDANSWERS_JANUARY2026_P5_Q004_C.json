@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  Ms. Shalini, an articled clerk in Namrata & Co. LLP, has the following\nquestions while going through SQC-1. Guide her on the following:\n(i)  Can the firm have a mechanism to ensure compliance with\nindependence requirements?\n(2 Marks)\n\nAUDITING AND ETHICS\n\n21\n(ii)  Is engagement quality review mandatory for all engagements?\n(1 Mark)\n(iii)  Can the firm obtain from Ms. Shalini a written confirmation of\ncompliance with the firm's policies and procedures on independence?\n(1 Mark)",
+  "suggested_answer": "(c) (i) There should exist a mechanism in the firm by which engagement\npartners provide the firm with relevant information about client\nengagements and personnel of firm promptly notify firm of\ncircumstances and relationships that create a threat to independence.\nAll breaches of independence should be promptly notified to firm for\nappropriate action. Its objective is to ensure that independence\nrequirements are satisfied.\n\nAUDITING AND ETHICS\n\n23\n(ii) Engagement quality control review is mandatory for all audits of\nfinancial statements of listed entities. In respect of other engagements,\nfirm should devise criteria to determine cases requiring performance\nof engagement quality control review.\n(iii) At least annually, the firm should obtain written confirmation of\ncompliance with its policies and procedures on independence from all\nfirm personnel required to be independent in terms of the\nrequirements of the Code.",
+  "marks": "(1 Mark)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q004_C",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(c)",
+    "marks": "(1 Mark)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 21,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Ms. Shalini, an articled clerk in Namrata & Co. LLP, has the following\nquestions while going through SQC-1. Guide her on the following:\n(i)  Can the firm have a mechanism to ensure compliance with\nindependence requirements?\n(2 Marks)\n\nAUDITING AND ETHICS\n\n21\n(ii)  Is engagement quality review mandatory for all engagements?\n(1 Mark)\n(iii)  Can the firm obtain from Ms. Shalini a written confirmation of\ncompliance with the firm's policies and procedures on independence?\n(1 Mark)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) (i) There should exist a mechanism in the firm by which engagement\npartners provide the firm with relevant information about client\nengagements and personnel of firm promptly notify firm of\ncircumstances and relationships that create a threat to independence.\nAll breaches of independence should be promptly notified to firm for\nappropriate action. Its objective is to ensure that independence\nrequirements are satisfied.\n\nAUDITING AND ETHICS\n\n23\n(ii) Engagement quality control review is mandatory for all audits of\nfinancial statements of listed entities. In respect of other engagements,\nfirm should devise criteria to determine cases requiring performance\nof engagement quality control review.\n(iii) At least annually, the firm should obtain written confirmation of\ncompliance with its policies and procedures on independence from all\nfirm personnel required to be independent in terms of the\nrequirements of the Code."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

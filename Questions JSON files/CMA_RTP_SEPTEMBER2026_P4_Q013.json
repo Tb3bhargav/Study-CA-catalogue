@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "13. \nRoyal Transport Services runs fleet of buses within the limits of Jaipur \ncity. The following are the details which were incurred by the company \nduring October, 2025: \n \n \n \n     (`) \nCost of each Bus  \n \n \n \n24,00,000 \nGarage Rent  \n \n \n \n \n1,00,000 \nInsurance  \n \n \n \n \n25,000 \nRoad tax \n \n \n \n \n \n20,000 \nManager’s Salary \n \n \n \n60,000 \nAssistant’s Salary (Two)  \n \n32,000 each \nSupervisor’s Salary (Three)  \n24,000 each \nDriver’s Salary (Twenty-Five)  \n20,000 each \nCleaner’s Salary (Twenty) \n \n5,000 each \nOffice Staff’s Salary  \n \n \n1,00,000 \nConsumables \n \n \n \n \n1,20,000 \nRepairs & Maintenance  \n \n90,000 \nOther Fixed Expenses \n \n \n72,000 \nDiesel (10 Kms per Litre) \n \n80 per litre \nOils & Lubricants   \n \n \n1,45,000 \nTyres and tubes   \n \n \n \n35,000 \nDepreciation \n \n \n \n \n10% p.a. on Cost \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nOther details are as below: \nCapacity  \n12 Buses  60 Passengers \n13 Buses  50 Passengers \nEach bus makes 4 round trips a day covering a distance of 10 Kilometers \nin each trip (One Way) on an average. During the trips 80% of the seats \nare occupied. The annual records show that 5 buses are generally \nrequired to be kept away from roods each day for repairs.  \nYou are required to CALCULATE cost per passenger-km.  \nCost sheet to be prepared on the basis of 25 buses. \nStandard Costing and Budget & Budgetary Control",
+  "suggested_answer": "Operating Cost Sheet \nParticulars \nAmount \n(`) \nAmount \n(`) \nStanding Charges: \nDepreciation (` 24,00,000 x 10% x 1/12 x 25) \nGarage Rent \nInsurance \nRoad Tax \n \n5,00,000 \n1,00,000 \n25,000 \n20,000 \n \n \n \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nManager’s Salary \nAssistant’s Salary (` 32,000 x 2) \nSupervisor’s Salary (` 24,000 x 3) \nDriver’s Salary (` 20,000 x 25) \nCleaner’s Salary (` 5,000 x 20) \nOffice Staff’s Salary \nConsumables \nRepairs & Maintenance \nOther Fixed Expenses \nRunning Charges \nDiesel (49,600 Kms / 10 Kms x ` 80 per unit) \nOils & Lubricants \nTyres and tubes  \nTotal Operating Cost \n60,000 \n64,000 \n72,000 \n5,00,000 \n1,00,000 \n1,00,000 \n1,20,000 \n90,000 \n    72,000 \n \n3,96,800 \n1,45,000 \n    35,000 \n \n \n \n \n \n \n \n \n18,23,000 \n \n \n \n   5,76,800 \n23,99,800 \n \nCost per passenger-km  = \nTotal Operating Cost\nPassenger –kms\n \n \n \n= \n23,99,800 \n27,18,080 \n \n \n= 0.883 \nWorking Note:  \nCalculation of Total Kilometers and Passenger Kilometers   \nSpecification \nTotal Km. \nPassenger–Km. \n12 Buses (60 Passengers) \n29,760 Kms \n(10 Kms × 4 x 2 \ntrips × 31 days x 12 \nBuses) \n14,28,480 \n(29760 Kms x 60 Pass. \nx 80%) \n13 Buses (50 Passengers) \n32,240 Kms \n(10 Kms × 4 x 2 \ntrips × 31 days x 13 \nBuses) \n12,89,600 \n(32240 Kms x 50 Pass. \nx 80%) \nTotal \n62,000 \n27,18,080 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n43 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nSince 5 buses out of 25 buses are kept for repairs every day  \n \nActual total Km.  \n \n62,000 × 20/25 = 49,600",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q013",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nRoyal Transport Services runs fleet of buses within the limits of Jaipur \ncity. The following are the details which were incurred by the company \nduring October, 2025: \n \n \n \n     (`) \nCost of each Bus  \n \n \n \n24,00,000 \nGarage Rent  \n \n \n \n \n1,00,000 \nInsurance  \n \n \n \n \n25,000 \nRoad tax \n \n \n \n \n \n20,000 \nManager’s Salary \n \n \n \n60,000 \nAssistant’s Salary (Two)  \n \n32,000 each \nSupervisor’s Salary (Three)  \n24,000 each \nDriver’s Salary (Twenty-Five)  \n20,000 each \nCleaner’s Salary (Twenty) \n \n5,000 each \nOffice Staff’s Salary  \n \n \n1,00,000 \nConsumables \n \n \n \n \n1,20,000 \nRepairs & Maintenance  \n \n90,000 \nOther Fixed Expenses \n \n \n72,000 \nDiesel (10 Kms per Litre) \n \n80 per litre \nOils & Lubricants   \n \n \n1,45,000 \nTyres and tubes   \n \n \n \n35,000 \nDepreciation \n \n \n \n \n10% p.a. on Cost \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nOther details are as below: \nCapacity  \n12 Buses  60 Passengers \n13 Buses  50 Passengers \nEach bus makes 4 round trips a day covering a distance of 10 Kilometers \nin each trip (One Way) on an average. During the trips 80% of the seats \nare occupied. The annual records show that 5 buses are generally \nrequired to be kept away from roods each day for repairs.  \nYou are required to CALCULATE cost per passenger-km.  \nCost sheet to be prepared on the basis of 25 buses. \nStandard Costing and Budget & Budgetary Control"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Operating Cost Sheet \nParticulars \nAmount \n(`) \nAmount \n(`) \nStanding Charges: \nDepreciation (` 24,00,000 x 10% x 1/12 x 25) \nGarage Rent \nInsurance \nRoad Tax \n \n5,00,000 \n1,00,000 \n25,000 \n20,000 \n \n \n \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nManager’s Salary \nAssistant’s Salary (` 32,000 x 2) \nSupervisor’s Salary (` 24,000 x 3) \nDriver’s Salary (` 20,000 x 25) \nCleaner’s Salary (` 5,000 x 20) \nOffice Staff’s Salary \nConsumables \nRepairs & Maintenance \nOther Fixed Expenses \nRunning Charges \nDiesel (49,600 Kms / 10 Kms x ` 80 per unit) \nOils & Lubricants \nTyres and tubes  \nTotal Operating Cost \n60,000 \n64,000 \n72,000 \n5,00,000 \n1,00,000 \n1,00,000 \n1,20,000 \n90,000 \n    72,000 \n \n3,96,800 \n1,45,000 \n    35,000 \n \n \n \n \n \n \n \n \n18,23,000 \n \n \n \n   5,76,800 \n23,99,800 \n \nCost per passenger-km  = \nTotal Operating Cost\nPassenger –kms\n \n \n \n= \n23,99,800 \n27,18,080 \n \n \n= 0.883 \nWorking Note:  \nCalculation of Total Kilometers and Passenger Kilometers   \nSpecification \nTotal Km. \nPassenger–Km. \n12 Buses (60 Passengers) \n29,760 Kms \n(10 Kms × 4 x 2 \ntrips × 31 days x 12 \nBuses) \n14,28,480 \n(29760 Kms x 60 Pass. \nx 80%) \n13 Buses (50 Passengers) \n32,240 Kms \n(10 Kms × 4 x 2 \ntrips × 31 days x 13 \nBuses) \n12,89,600 \n(32240 Kms x 50 Pass. \nx 80%) \nTotal \n62,000 \n27,18,080 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n43 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nSince 5 buses out of 25 buses are kept for repairs every day  \n \nActual total Km.  \n \n62,000 × 20/25 = 49,600"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

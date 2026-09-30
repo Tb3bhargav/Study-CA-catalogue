@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15. Which of the following statements is inappropriate?\n(A)  Once the overall audit strategy is established, an audit plan can be\ndeveloped to address the various matters identified in the overall audit\nstrategy.\n(B)  The establishment of an overall audit strategy as well as detailed audit\nplan are not necessarily discrete or sequential process.\n(C)  Audit Strategy and Audit plan are not inter-related as changes in one\nmay not result in consequential changes to the other.\n(D)  The Audit plan is more detailed than the Audit Strategy that includes the\nnature, timing and extent of audit procedures to be performed by\nengagement team members.\n(2 Marks)\nAnswer Key\nMCQ No.\nCorrect Option",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q015",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. Which of the following statements is inappropriate?\n(A)  Once the overall audit strategy is established, an audit plan can be\ndeveloped to address the various matters identified in the overall audit\nstrategy.\n(B)  The establishment of an overall audit strategy as well as detailed audit\nplan are not necessarily discrete or sequential process.\n(C)  Audit Strategy and Audit plan are not inter-related as changes in one\nmay not result in consequential changes to the other.\n(D)  The Audit plan is more detailed than the Audit Strategy that includes the\nnature, timing and extent of audit procedures to be performed by\nengagement team members.\n(2 Marks)\nAnswer Key\nMCQ No.\nCorrect Option"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

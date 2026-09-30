@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "source_catalog": "Question-Answer main data",
+  "authoritative_document_type": "unified",
+  "question_count": 885,
+  "attempts": [
+    "January 2025",
+    "January 2026",
+    "May 2024",
+    "May 2025",
+    "May 2026",
+    "September 2024",
+    "September 2025",
+    "September 2026"
+  ],
+  "papers": [
+    4,
+    5,
+    6
+  ],
+  "sources": [
+    "MTP",
+    "RTP",
+    "Suggested Answers"
+  ]
+}

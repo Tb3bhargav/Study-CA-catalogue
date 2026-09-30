@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15.  \nA Ltd. is engaged in manufacturing operations and has significant Work-in-Progress \n(WIP) inventory at year end. During the audit, the auditor evaluates measurement of \nstages of production, basis of estimates, inclusion of cost elements, allocation of \noverheads, and treatment of abnormal wastage. \n9 \n \nWhich of the following audit observations indicates inappropriate valuation of  \nWork-in-Progress? \n(a)  \nVarious stages of production/value additions are measured and where estimates \nare made, the basis for such estimates is understood. \n(b)  \nOverheads included in WIP are based on a method consistent with costing and \nfinancial data maintained by the entity. \n(c)  \nAuditor has ascertained what elements of cost are included in WIP. \n(d)  \nMaterial costs included in WIP include abnormal wastage factors. \nPART II - Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions from the Rest.",
+  "suggested_answer": "(D) Part II - Descriptive Answers",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q015",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 8,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15.  \nA Ltd. is engaged in manufacturing operations and has significant Work-in-Progress \n(WIP) inventory at year end. During the audit, the auditor evaluates measurement of \nstages of production, basis of estimates, inclusion of cost elements, allocation of \noverheads, and treatment of abnormal wastage. \n9 \n \nWhich of the following audit observations indicates inappropriate valuation of  \nWork-in-Progress? \n(a)  \nVarious stages of production/value additions are measured and where estimates \nare made, the basis for such estimates is understood. \n(b)  \nOverheads included in WIP are based on a method consistent with costing and \nfinancial data maintained by the entity. \n(c)  \nAuditor has ascertained what elements of cost are included in WIP. \n(d)  \nMaterial costs included in WIP include abnormal wastage factors. \nPART II - Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions from the Rest."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Part II - Descriptive Answers"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

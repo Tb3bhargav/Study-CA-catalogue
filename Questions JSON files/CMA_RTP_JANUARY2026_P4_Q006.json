@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6.  \nRinki Ltd. has two divisions, A and B. Target profit of A is ` 100 lakh. A \nhas capacity to produce 20,000 units of product P but only 15,000 units \nare produced and sold in the market at ` 3,000 per unit. B received an \norder for which P would be required as input. B approaches A for \npurchase of 5000 units of P. What price should A charge from B per unit \nof P so as to meet its target profit? (Other details of A are: Fixed cost is  \n` 90 lakh; Variable cost per unit of P is ` 2,000)  \n(A)  ` 3,000  \n(B)  \n` 2,800  \n(C)  ` 2,500  \n(D)  ` 2,000",
+  "suggested_answer": "(B) ` 2,800 Revenue = 15,000 × 3,000 = 450,00,000 (` 450 lakh) Variable cost = 15,000 × 2,000 = 300,00,000 (` 300 lakh) Contribution = 450 - 300 = ` 150 lakh Profit = Contribution - Fixed cost = 150 - 90 = ` 60 lakh Target Profit = 100 - 60 = ` 40 lakh Required contribution per unit = 40,00,000/5,000 = ` 800/unit Transfer price = Variable cost + 800 = 2,000 + 800 = ` 2,800/unit",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q006",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.  \nRinki Ltd. has two divisions, A and B. Target profit of A is ` 100 lakh. A \nhas capacity to produce 20,000 units of product P but only 15,000 units \nare produced and sold in the market at ` 3,000 per unit. B received an \norder for which P would be required as input. B approaches A for \npurchase of 5000 units of P. What price should A charge from B per unit \nof P so as to meet its target profit? (Other details of A are: Fixed cost is  \n` 90 lakh; Variable cost per unit of P is ` 2,000)  \n(A)  ` 3,000  \n(B)  \n` 2,800  \n(C)  ` 2,500  \n(D)  ` 2,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 2,800 Revenue = 15,000 × 3,000 = 450,00,000 (` 450 lakh) Variable cost = 15,000 × 2,000 = 300,00,000 (` 300 lakh) Contribution = 450 - 300 = ` 150 lakh Profit = Contribution - Fixed cost = 150 - 90 = ` 60 lakh Target Profit = 100 - 60 = ` 40 lakh Required contribution per unit = 40,00,000/5,000 = ` 800/unit Transfer price = Variable cost + 800 = 2,000 + 800 = ` 2,800/unit"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

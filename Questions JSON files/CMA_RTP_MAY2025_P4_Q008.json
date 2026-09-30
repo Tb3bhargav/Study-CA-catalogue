@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "8. \nCatalist Ltd. is a distributor of industrial chemicals, providing the \nchemical in drum packaging. \nEach drum of the chemical costs ` 200 from a supplier and the company \nsells it for ` 240.  \nAnnual demand is estimated to be for 2,50,000 drums.  \nThe cost of delivery is estimated at ` 100 per order and the annual \nvariable holding cost per drum at ` 180 plus 10% of purchase cost.  \nBased on above data, the managing director calculates the economic \norder quantity and suggests that it should serve as the foundation for \npurchasing decisions in upcoming periods. \nHowever, the purchasing manager states that the managing director has \nignored his share of bonus of 10% of the amount by which total annual \ninventory holding and order costs (before such remuneration) are below \n` 2,00,000. He further points out that the suppliers also offer quantity \ndiscounts on purchase orders, i.e. if the order size is 1,000 drums or \nabove, the price per drum is only ` 199.60, compared to ` 200 when an \norder is between 500 and 999 drums. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nYou are required to: \n(i)  \nCALCULATE the economic order quantity as calculated by the \ncompany’s managing director. \n(ii)  \nCOMMENT whether Catalist Ltd. can look forward to the quantity \ndiscount offered for purchasing 1,000 drums, after CALCULATING \ntotal cost considering purchasing manager’s bonus along with \nsupplier quantity discounts. \nEmployee Cost and Direct Expenses",
+  "suggested_answer": "(i) \nEconomic order quantity (EOQ) as calculated by the company’s \nmanaging director \n \nEOQ  = \n2AO\nC\n \n \nwhere \n \nA   = annual inventory requirement, \n \n  \n \n \nO   = ordering cost per order and \n \n  \n \n \nC   = carrying cost per unit per annum \n \n \n \n=ට\n2x2,50,000 drums x ` 100\n[` 180+(10% of ` 200)]  \n \n= 500 units \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n33 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii)  Comparison of total cost considering purchasing manager’s \nbonus and supplier quantity discounts \nParticulars \nAt EOQ of \n500 units \n(`) \nIf considered \nquantity \ndiscount at \n1000 units (`) \nOrdering Cost [(2,50,000 units/500 units) × \n` 100] \n50,000 \n \n[(2,50,000 units/1000 units) \n× ` 100] \n \n25,000 \nCarrying Cost {500 units/ 2 x [(` 180 + \n(10% of ` 200)]} \n    50,000 \n \n{1,000 units/ 2 x [(` 180 + \n(10% of ` 199.60)]} \n \n99,980 \n \n \n1,00,000 \n1,24,980 \nPurchasing \nmanager’s \nbonus \n10% \nof \n(` \n2,00,000 \n- \n` 1,00,000) \n10,000 \n \n10% \nof \n(` \n2,00,000 \n- \n` 1,24,980) \n \n7,502 \nAnnual \ninventory cost \n2,50,000 units x ` 200 \n5,00,00,000 \n \n2,50,000 units x ` 199.60 \n \n4,99,00,000 \nTotal Cost \n \n5,01,10,000 \n5,00,32,482 \nIn above comparison, the potential savings from purchasing in \nbulk outweigh the higher carrying costs associated with holding \nmore inventory. Thus, Catalist Ltd. may look forward to the \nquantity discount offered at 1,000 units.",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q008",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8. \nCatalist Ltd. is a distributor of industrial chemicals, providing the \nchemical in drum packaging. \nEach drum of the chemical costs ` 200 from a supplier and the company \nsells it for ` 240.  \nAnnual demand is estimated to be for 2,50,000 drums.  \nThe cost of delivery is estimated at ` 100 per order and the annual \nvariable holding cost per drum at ` 180 plus 10% of purchase cost.  \nBased on above data, the managing director calculates the economic \norder quantity and suggests that it should serve as the foundation for \npurchasing decisions in upcoming periods. \nHowever, the purchasing manager states that the managing director has \nignored his share of bonus of 10% of the amount by which total annual \ninventory holding and order costs (before such remuneration) are below \n` 2,00,000. He further points out that the suppliers also offer quantity \ndiscounts on purchase orders, i.e. if the order size is 1,000 drums or \nabove, the price per drum is only ` 199.60, compared to ` 200 when an \norder is between 500 and 999 drums. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n12 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nYou are required to: \n(i)  \nCALCULATE the economic order quantity as calculated by the \ncompany’s managing director. \n(ii)  \nCOMMENT whether Catalist Ltd. can look forward to the quantity \ndiscount offered for purchasing 1,000 drums, after CALCULATING \ntotal cost considering purchasing manager’s bonus along with \nsupplier quantity discounts. \nEmployee Cost and Direct Expenses"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nEconomic order quantity (EOQ) as calculated by the company’s \nmanaging director \n \nEOQ  = \n2AO\nC\n \n \nwhere \n \nA   = annual inventory requirement, \n \n  \n \n \nO   = ordering cost per order and \n \n  \n \n \nC   = carrying cost per unit per annum \n \n \n \n=ට\n2x2,50,000 drums x ` 100\n[` 180+(10% of ` 200)]  \n \n= 500 units \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n33 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii)  Comparison of total cost considering purchasing manager’s \nbonus and supplier quantity discounts \nParticulars \nAt EOQ of \n500 units \n(`) \nIf considered \nquantity \ndiscount at \n1000 units (`) \nOrdering Cost [(2,50,000 units/500 units) × \n` 100] \n50,000 \n \n[(2,50,000 units/1000 units) \n× ` 100] \n \n25,000 \nCarrying Cost {500 units/ 2 x [(` 180 + \n(10% of ` 200)]} \n    50,000 \n \n{1,000 units/ 2 x [(` 180 + \n(10% of ` 199.60)]} \n \n99,980 \n \n \n1,00,000 \n1,24,980 \nPurchasing \nmanager’s \nbonus \n10% \nof \n(` \n2,00,000 \n- \n` 1,00,000) \n10,000 \n \n10% \nof \n(` \n2,00,000 \n- \n` 1,24,980) \n \n7,502 \nAnnual \ninventory cost \n2,50,000 units x ` 200 \n5,00,00,000 \n \n2,50,000 units x ` 199.60 \n \n4,99,00,000 \nTotal Cost \n \n5,01,10,000 \n5,00,32,482 \nIn above comparison, the potential savings from purchasing in \nbulk outweigh the higher carrying costs associated with holding \nmore inventory. Thus, Catalist Ltd. may look forward to the \nquantity discount offered at 1,000 units."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

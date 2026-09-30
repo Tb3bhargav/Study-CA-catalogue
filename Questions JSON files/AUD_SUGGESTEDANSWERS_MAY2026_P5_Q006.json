@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6.\nWhich of the following statements relating to the firm's system of quality\ncontrol is/are correct in accordance with SQC 1?\n(I)  The firm's system of quality control consists of policies designed to be\nestablished separately for each audit engagement.\n(II)  It is designed to provide reasonable assurance that the firm and its\npersonnel comply with professional standards and legal requirements.\n(III)  The responsibility for establishing the firm's system of quality control lies\nwith the engagement partner of each audit engagement.\n(IV)  The firm's system of quality control consists of policies designed to\nachieve its objectives.\n(A)  (I) and (II) only\n(B)  (I) and (III) only\n(C)  (II) only\n(D)  (II) and (IV) only\n(2 Marks)\n\n6",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q006",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6.\nWhich of the following statements relating to the firm's system of quality\ncontrol is/are correct in accordance with SQC 1?\n(I)  The firm's system of quality control consists of policies designed to be\nestablished separately for each audit engagement.\n(II)  It is designed to provide reasonable assurance that the firm and its\npersonnel comply with professional standards and legal requirements.\n(III)  The responsibility for establishing the firm's system of quality control lies\nwith the engagement partner of each audit engagement.\n(IV)  The firm's system of quality control consists of policies designed to\nachieve its objectives.\n(A)  (I) and (II) only\n(B)  (I) and (III) only\n(C)  (II) only\n(D)  (II) and (IV) only\n(2 Marks)\n\n6"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.\nRDB & Co. have been appointed as statutory auditors of INA Group of Hotels.\nThis is the first time the firm is auditing an industry in food & beverage. The\nengagement partner, CA R, and other key members of the engagement team\nhave undertaken the activity of development of an audit plan of INA Hotels\nafter thorough understanding the Hotel's business and its environment. As\nper SA 300, description of which of the following matters is not a part of\ndeveloping an audit plan?\n(A)\nThe nature, timing and extent of planned risk assessment procedure.\n(B)\nThe nature, timing and extent of planned further audit procedures at\nassertion level.\n(C)\nThe nature, timing and extent of resources necessary to perform the\nengagement.\n(D)\nOther planned audit procedures that are required to be carried out so\nthat the engagement complies with SAs.\n\n8",
+  "suggested_answer": "C",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q014",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.\nRDB & Co. have been appointed as statutory auditors of INA Group of Hotels.\nThis is the first time the firm is auditing an industry in food & beverage. The\nengagement partner, CA R, and other key members of the engagement team\nhave undertaken the activity of development of an audit plan of INA Hotels\nafter thorough understanding the Hotel's business and its environment. As\nper SA 300, description of which of the following matters is not a part of\ndeveloping an audit plan?\n(A)\nThe nature, timing and extent of planned risk assessment procedure.\n(B)\nThe nature, timing and extent of planned further audit procedures at\nassertion level.\n(C)\nThe nature, timing and extent of resources necessary to perform the\nengagement.\n(D)\nOther planned audit procedures that are required to be carried out so\nthat the engagement complies with SAs.\n\n8"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

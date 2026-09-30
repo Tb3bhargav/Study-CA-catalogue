@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP2_P6_Q005",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.  \nThe Interest Coverage Ratio of Solstice Biotech Ltd. fell to 4.53 times in FY 2025–26 \n(industry average 10 times) while its Debt-to-Equity Ratio rose to 64.50% (industry \naverage 35%). As the credit appraisal officer, what should be your primary concern in \nappraising this loan proposal?   \n(2 Marks) \n(A)  \nBoth figures are favourable, so the loan can be sanctioned without further scrutiny. \n4 \n(B)  \nThe falling interest coverage combined with rising leverage signals a reduced \ncushion to service debt and heightened repayment risk, warranting closer scrutiny \nbefore further lending. \n(C)  \nThe interest coverage ratio is irrelevant once the debt-to-equity ratio is known. \n(D)  \nSince sales are growing, both ratios can be ignored in the loan decision. \n(5 x 2 = 10 Marks)",
+  "suggested_answer": "(B) Interest Coverage Ratio = EBIT ÷ Interest = (PBT + Interest) ÷ Interest = (2,400 + 680) ÷ 680 = 3,080 ÷ 680 = 4.53 times. A ratio of 4.53 times, well below the industry norm of 10 times, means earnings cover interest obligations with a much thinner margin than peers. Combined with a Debt-to-Equity Ratio of 64.50% (industry average 35%), the company is both more leveraged than its peers and less able to comfortably service that debt from operating earnings. For a loan officer, this combination rising leverage and weakening debt-servicing capacity is the key red flag in the proposal, not a reason for automatic approval.",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP2_P6_Q005",
+  "source_filename": "mtp2paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "5",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.  \nThe Interest Coverage Ratio of Solstice Biotech Ltd. fell to 4.53 times in FY 2025–26 \n(industry average 10 times) while its Debt-to-Equity Ratio rose to 64.50% (industry \naverage 35%). As the credit appraisal officer, what should be your primary concern in \nappraising this loan proposal?   \n(2 Marks) \n(A)  \nBoth figures are favourable, so the loan can be sanctioned without further scrutiny. \n4 \n(B)  \nThe falling interest coverage combined with rising leverage signals a reduced \ncushion to service debt and heightened repayment risk, warranting closer scrutiny \nbefore further lending. \n(C)  \nThe interest coverage ratio is irrelevant once the debt-to-equity ratio is known. \n(D)  \nSince sales are growing, both ratios can be ignored in the loan decision. \n(5 x 2 = 10 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) Interest Coverage Ratio = EBIT ÷ Interest = (PBT + Interest) ÷ Interest = (2,400 + 680) ÷ 680 = 3,080 ÷ 680 = 4.53 times. A ratio of 4.53 times, well below the industry norm of 10 times, means earnings cover interest obligations with a much thinner margin than peers. Combined with a Debt-to-Equity Ratio of 64.50% (industry average 35%), the company is both more leveraged than its peers and less able to comfortably service that debt from operating earnings. For a loan officer, this combination rising leverage and weakening debt-servicing capacity is the key red flag in the proposal, not a reason for automatic approval."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

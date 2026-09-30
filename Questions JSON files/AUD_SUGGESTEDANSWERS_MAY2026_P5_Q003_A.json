@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  Alpha Manufacturing Ltd. and Beta Engineering Ltd. are audited for the year\nended 31 March 2026. CA Y plans to perform tests of controls over purchase\ntransactions in both companies.\n\nThe following information is available:\nParticulars\nAlpha\nManufacturing Ltd.\nBeta\nEngineering Ltd.\nPopulation\nof\npurchase\ninvoices\n12,000\n12,000\nTolerable deviation rate\n5%\n5%\nReliance the auditor places\non\nthe\noperating\neffectiveness of control\nSame\nSame\nExpected deviation rate\n2%\n6%\n(i)  Briefly explain factors to be considered by CA Y in determining the\nsample size for tests of controls.\n(4 Marks)\n\n20\n(ii)  Based on the above information, which company will require a larger\nsample size and why?\n(1 Mark)",
+  "suggested_answer": "(a)  (i) The following are factors that the auditor may consider when\ndetermining the sample size for tests of controls. These factors, which\nneed to be considered together, assume the auditor does not modify\nthe nature or timing of tests of controls or otherwise modify the\napproach to substantive procedures in response to assessed risks.\n(I) When there is an increase in the extent to which the auditor’s risk\nassessment takes into account relevant controls. The more\nassurance the auditor intends to obtain from the operating\neﬀectiveness of controls, the lower the auditor’s assessment of the\nrisk of material misstatement will be, and the larger the sample\nsize will need to be. When the auditor’s assessment of the risk of\nmaterial misstatement at the assertion level includes an\nexpectation of the operating eﬀectiveness of controls, the auditor\nis required to perform tests of controls. Other things being equal,\nthe greater the reliance the auditor places on the operating\neﬀectiveness of controls in the risk assessment, the greater is the\n\nAUDITING AND ETHICS\n\n21\nextent of the auditor’s tests of controls (and therefore, the sample\nsize is increased). Thus, sample size will increase.\n(II) If there is an increase in the tolerable rate of deviation, then sample\nsize will decrease, as lower the tolerable rate of deviation, larger the\nsample size needs to be. Tolerable error is the maximum error in the\npopulation that auditor is ready to accept in a given sample size.\nSmaller the tolerable error, larger will be the sample size.\n(III) When there is an increase in the expected rate of deviation of the\npopulation to be tested then sample size will increase, as higher the\nexpected rate of deviation, larger the sample size needs to be so that\nthe auditor is in a position to make a reasonable estimate of the\nactual rate of deviation. Factors relevant to the auditor’s\nconsideration of the expected rate of deviation include the auditor’s\nunderstanding of the business (in particular, risk assessment\nprocedures undertaken to obtain an understanding of internal\ncontrol), changes in personnel or in internal control, the results of\naudit procedures applied in prior periods and the results of other\naudit procedures. High expected control deviation rates ordinarily\nwarrant little, if any, reduction of the assessed risk of material\nmisstatement.\n(IV) An increase in the auditor’s desired level of assurance that the\ntolerable rate of deviation is not exceeded by the actual rate of\ndeviation in the population will increase the sample size. Thus, the\ngreater the level of assurance that the auditor desires that the results\nof the sample are in fact indicative of the actual incidence of deviation\nin the population, the larger the sample size needs to be.\n(V) In case of large populations, the actual size of the population has\nlittle, if any, eﬀect on sample size. For small populations however,\naudit sampling may not be as eﬃcient as alternative means of\nobtaining suﬃcient appropriate audit evidence. Therefore, there will\nbe negligible eﬀect on sample size due to increase in the number of\nsampling units in the population.\n(ii)  Alpha Manufacturing Ltd and Beta Engineering Ltd both have the same\npopulation of purchase invoices of 12,000, the same tolerable\ndeviation rate of 5%, and the same level of reliance placed by the\nauditor on the operating effectiveness of controls. The only difference\n\n22\nbetween the two companies is the expected deviation rate, which is 2%\nfor Alpha Manufacturing Ltd and 6% for Beta Engineering Ltd.\n\nAs discussed above, sample size increases when the expected rate of\ndeviation increases. A higher expected deviation rate indicates that the\nauditor expects more control failures in the population and, therefore,\nneeds to examine a larger number of items to make a reliable estimate\nof the actual deviation rate.\n\nAccordingly, Beta Engineering Ltd will require a larger sample size\nbecause its expected deviation rate of 6% is higher than the 2%\nexpected deviation rate of Alpha Manufacturing Ltd.",
+  "marks": "(1 Mark)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_A",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 19,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(a)",
+    "marks": "(1 Mark)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 19,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Alpha Manufacturing Ltd. and Beta Engineering Ltd. are audited for the year\nended 31 March 2026. CA Y plans to perform tests of controls over purchase\ntransactions in both companies.\n\nThe following information is available:\nParticulars\nAlpha\nManufacturing Ltd.\nBeta\nEngineering Ltd.\nPopulation\nof\npurchase\ninvoices\n12,000\n12,000\nTolerable deviation rate\n5%\n5%\nReliance the auditor places\non\nthe\noperating\neffectiveness of control\nSame\nSame\nExpected deviation rate\n2%\n6%\n(i)  Briefly explain factors to be considered by CA Y in determining the\nsample size for tests of controls.\n(4 Marks)\n\n20\n(ii)  Based on the above information, which company will require a larger\nsample size and why?\n(1 Mark)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i) The following are factors that the auditor may consider when\ndetermining the sample size for tests of controls. These factors, which\nneed to be considered together, assume the auditor does not modify\nthe nature or timing of tests of controls or otherwise modify the\napproach to substantive procedures in response to assessed risks.\n(I) When there is an increase in the extent to which the auditor’s risk\nassessment takes into account relevant controls. The more\nassurance the auditor intends to obtain from the operating\neﬀectiveness of controls, the lower the auditor’s assessment of the\nrisk of material misstatement will be, and the larger the sample\nsize will need to be. When the auditor’s assessment of the risk of\nmaterial misstatement at the assertion level includes an\nexpectation of the operating eﬀectiveness of controls, the auditor\nis required to perform tests of controls. Other things being equal,\nthe greater the reliance the auditor places on the operating\neﬀectiveness of controls in the risk assessment, the greater is the\n\nAUDITING AND ETHICS\n\n21\nextent of the auditor’s tests of controls (and therefore, the sample\nsize is increased). Thus, sample size will increase.\n(II) If there is an increase in the tolerable rate of deviation, then sample\nsize will decrease, as lower the tolerable rate of deviation, larger the\nsample size needs to be. Tolerable error is the maximum error in the\npopulation that auditor is ready to accept in a given sample size.\nSmaller the tolerable error, larger will be the sample size.\n(III) When there is an increase in the expected rate of deviation of the\npopulation to be tested then sample size will increase, as higher the\nexpected rate of deviation, larger the sample size needs to be so that\nthe auditor is in a position to make a reasonable estimate of the\nactual rate of deviation. Factors relevant to the auditor’s\nconsideration of the expected rate of deviation include the auditor’s\nunderstanding of the business (in particular, risk assessment\nprocedures undertaken to obtain an understanding of internal\ncontrol), changes in personnel or in internal control, the results of\naudit procedures applied in prior periods and the results of other\naudit procedures. High expected control deviation rates ordinarily\nwarrant little, if any, reduction of the assessed risk of material\nmisstatement.\n(IV) An increase in the auditor’s desired level of assurance that the\ntolerable rate of deviation is not exceeded by the actual rate of\ndeviation in the population will increase the sample size. Thus, the\ngreater the level of assurance that the auditor desires that the results\nof the sample are in fact indicative of the actual incidence of deviation\nin the population, the larger the sample size needs to be.\n(V) In case of large populations, the actual size of the population has\nlittle, if any, eﬀect on sample size. For small populations however,\naudit sampling may not be as eﬃcient as alternative means of\nobtaining suﬃcient appropriate audit evidence. Therefore, there will\nbe negligible eﬀect on sample size due to increase in the number of\nsampling units in the population.\n(ii)  Alpha Manufacturing Ltd and Beta Engineering Ltd both have the same\npopulation of purchase invoices of 12,000, the same tolerable\ndeviation rate of 5%, and the same level of reliance placed by the\nauditor on the operating effectiveness of controls. The only difference\n\n22\nbetween the two companies is the expected deviation rate, which is 2%\nfor Alpha Manufacturing Ltd and 6% for Beta Engineering Ltd.\n\nAs discussed above, sample size increases when the expected rate of\ndeviation increases. A higher expected deviation rate indicates that the\nauditor expects more control failures in the population and, therefore,\nneeds to examine a larger number of items to make a reliable estimate\nof the actual deviation rate.\n\nAccordingly, Beta Engineering Ltd will require a larger sample size\nbecause its expected deviation rate of 6% is higher than the 2%\nexpected deviation rate of Alpha Manufacturing Ltd."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

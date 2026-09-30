@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q009",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "9. \nWhat is the total cost and average cost per participant if there is 180 participants? \n(A)  \nTotal Cost ` 1,45,000; Avg ` 805.5 \n(B)  \nTotal Cost ` 1,50,000; Avg ` 833.3 \n(C)  \nTotal Cost ` 1,52,800; Avg ` 848.9 \n(D)  \nTotal Cost ` 1,38,000; Avg ` 766.7",
+  "suggested_answer": "(C) Total Cost ` 1,52,800; Avg ` 848.9 Flexible Budget Level of participants 40 80 120 180 Variable Costs (`) Breakfast @ ` 80 3,200 6,400 9,600 14,400 Lunch @ ` 200 8,000 16,000 24,000 36,000 Evening Snacks @ ` 70 2,800 5,600 8,400 12,600 Training Material Kit @ ` 150 6,000 12,000 18,000 27,000 Variable cost @ ` 500 20,000 40,000 60,000 90,000 3 Semi-variable costs (`) Hall rent 8,000 16,000 24,000 28,800 Equipment charges 2,000 4,000 6,000 8,000 Trainer honorarium 2,000 4,000 6,000 8,000 12,000 24,000 36,000 44,800 Fixed costs (`) Guest speaker fees 10,000 10,000 10,000 10,000 Event coordination charges 5,000 5,000 5,000 5,000 Additional supervision cost – – 3,000 3,000 15,000 15,000 18,000 18,000 Total Cost 47,000 79,000 1,14,000 1,52,800 Average Cost per participant (Total Cost/Number of Participants) 1,175 987.5 950 848.89",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q009",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "9",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nWhat is the total cost and average cost per participant if there is 180 participants? \n(A)  \nTotal Cost ` 1,45,000; Avg ` 805.5 \n(B)  \nTotal Cost ` 1,50,000; Avg ` 833.3 \n(C)  \nTotal Cost ` 1,52,800; Avg ` 848.9 \n(D)  \nTotal Cost ` 1,38,000; Avg ` 766.7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) Total Cost ` 1,52,800; Avg ` 848.9 Flexible Budget Level of participants 40 80 120 180 Variable Costs (`) Breakfast @ ` 80 3,200 6,400 9,600 14,400 Lunch @ ` 200 8,000 16,000 24,000 36,000 Evening Snacks @ ` 70 2,800 5,600 8,400 12,600 Training Material Kit @ ` 150 6,000 12,000 18,000 27,000 Variable cost @ ` 500 20,000 40,000 60,000 90,000 3 Semi-variable costs (`) Hall rent 8,000 16,000 24,000 28,800 Equipment charges 2,000 4,000 6,000 8,000 Trainer honorarium 2,000 4,000 6,000 8,000 12,000 24,000 36,000 44,800 Fixed costs (`) Guest speaker fees 10,000 10,000 10,000 10,000 Event coordination charges 5,000 5,000 5,000 5,000 Additional supervision cost – – 3,000 3,000 15,000 15,000 18,000 18,000 Total Cost 47,000 79,000 1,14,000 1,52,800 Average Cost per participant (Total Cost/Number of Participants) 1,175 987.5 950 848.89"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

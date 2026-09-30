@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q004_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "4. \nOn 25th May 2025, the Board approved a plan to merge with another listed \nentity, subject to regulatory approvals.",
+  "suggested_answer": "Audit is distinct from investigation: Investigation involves a critical \nexamination of accounts with a specific purpose, such as determining \nwhether fraud exists. Its scope is specific and narrow. \nOn the other hand, the objective of audit is to obtain reasonable assurance \nabout whether the financial statements as a whole are free from material \nmisstatement, whether due to fraud or error, thereby enabling the auditor \nto express an opinion. The scope of audit is general and broad, whereas \nthe scope of investigation is specific and narrow. \n4 \n \nAccordingly, in the given case, the auditor of Orion Engineering Ltd. is justified in \nclarifying that certification of technical condition of machinery, authentication of \ndocuments, and conducting a detailed fraud investigation fall outside the normal \nscope of audit and such matters may require involvement of experts or a separate \ninvestigation. \n(c)  \nAs per SA 505 relating to external confirmations, the auditor shall evaluate \nwhether the results of the external confirmation procedures provide relevant and \nreliable audit evidence or whether performing further audit procedures is \nnecessary. \n \nWhen evaluating the results of individual external confirmation requests, the \nauditor may categorise such results as follows: \n(a)  \nPositive conﬁrmation request  \n(b)  \nNegative conﬁrmation request; \n(c)  \nA non-response; or \n(d)  \nA response indicating an exception. \nApplying the above principles to the given case:",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP3_P5_Q004_02",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 13,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4. \nOn 25th May 2025, the Board approved a plan to merge with another listed \nentity, subject to regulatory approvals."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Audit is distinct from investigation: Investigation involves a critical \nexamination of accounts with a specific purpose, such as determining \nwhether fraud exists. Its scope is specific and narrow. \nOn the other hand, the objective of audit is to obtain reasonable assurance \nabout whether the financial statements as a whole are free from material \nmisstatement, whether due to fraud or error, thereby enabling the auditor \nto express an opinion. The scope of audit is general and broad, whereas \nthe scope of investigation is specific and narrow. \n4 \n \nAccordingly, in the given case, the auditor of Orion Engineering Ltd. is justified in \nclarifying that certification of technical condition of machinery, authentication of \ndocuments, and conducting a detailed fraud investigation fall outside the normal \nscope of audit and such matters may require involvement of experts or a separate \ninvestigation. \n(c)  \nAs per SA 505 relating to external confirmations, the auditor shall evaluate \nwhether the results of the external confirmation procedures provide relevant and \nreliable audit evidence or whether performing further audit procedures is \nnecessary. \n \nWhen evaluating the results of individual external confirmation requests, the \nauditor may categorise such results as follows: \n(a)  \nPositive conﬁrmation request  \n(b)  \nNegative conﬁrmation request; \n(c)  \nA non-response; or \n(d)  \nA response indicating an exception. \nApplying the above principles to the given case:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

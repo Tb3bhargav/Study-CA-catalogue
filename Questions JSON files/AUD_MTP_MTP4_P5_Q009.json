@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q009",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "9. \nIn the context of management’s assertion that no disclosure is required unless insolvency \nis certain, which of the following approaches should the auditor adopt? \n(a)  \nFollow rules strictly and avoid disclosure \n(b)  \nRely only on legal opinion \n(c)  \nAccept management’s view to maintain client relationship \n(d)  \nApply principles-based approach and exercise professional judgment considering \nsubstance over form  \n \n7",
+  "suggested_answer": "(D)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q009",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "9",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nIn the context of management’s assertion that no disclosure is required unless insolvency \nis certain, which of the following approaches should the auditor adopt? \n(a)  \nFollow rules strictly and avoid disclosure \n(b)  \nRely only on legal opinion \n(c)  \nAccept management’s view to maintain client relationship \n(d)  \nApply principles-based approach and exercise professional judgment considering \nsubstance over form  \n \n7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

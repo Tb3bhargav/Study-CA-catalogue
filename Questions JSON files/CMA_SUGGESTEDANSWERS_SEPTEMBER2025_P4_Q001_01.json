@@ -1,0 +1,64 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q001_01",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "Question 1\n(a)  RST Ltd. manufactures a standard line of office desks. The company operates\nwith a monthly manufacturing capacity of 5,000 units. The following data\nrelates to the output and cost of two consecutive months of production:\nMonth\nUnits\nManufactured\nDirect\nMaterial (`)\nDirect\nWages (`)\nFactory\nOverheads (`)\nApril\n3,000\n15,00,000\n6,00,000\n3,50,000\nMay\n3,800\n19,00,000\n7,60,000\n4,30,000\n\nIn the month of June, the number of units manufactured will be 4,000 units.\nHowever, the prices of direct material will increase by 10% and direct wages\nwill increase by 15%. The fixed factory overheads will reduce by 20%.\n\nThe company desires to earn a profit of 11% on selling price.\n\nCalculate the selling price per desk in the month of June when the monthly\noutput is 4,000 units.\n(5 Marks)\n(b)  The following information relates to two workers - Ajoy and Bijoy who are\nengaged in producing the same product by using the same material:\nTime allowed to make the product:\n40 hours\nActual time taken to complete the product\n32 hours by Ajoy\n30 hours by Bijoy\nNormal Wage Rate\nSame for both\nBonus payment plan\nHalsey 50% plan for Ajoy\nRowan plan for Bijoy\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\nFactory overhead recovered\n@` 360 per hour for actual\ntime taken by each worker.\nFactory cost for the product for each worker ` 1,24,800     Ajoy\n` 1,24,800    Bijoy\nRequired:\n(i)  Compute the normal hourly wage rate.\n(ii)  Compute the cost of material used.\n(5 Marks)\n(c)  MD Limited has furnished following information for the month of\nAugust, 2025:\nStandard Variable Overhead rate\n` 3 per hour\nStandard Hours for per unit of production\n5 hours\nActual Output\n15,560 units\nVariable Overhead Efficiency Variance\n` 11,400 (F)\nVariable Overhead Expenditure Variance\n` 37,000 (A)\nStandard Fixed Overhead rate\n` 2 per hour\nActual Fixed Overheads\n` 1,85,000\nYou are required to calculate:\n(i)  Actual Hours\n(ii)  Actual Variable Overhead rate per hour\n(iii)  Variable Overhead Cost Variance\n(iv)  Fixed Overhead Cost Variance\n(4 Marks)",
+  "suggested_answer": "(a)\n\nStatement of total cost and Sales\nParticulars\nAmount (`)\nDirect Material (\n15,00,000\n3,000  x 4,000) x 110%\n22,00,000\nDirect Labour (\n6,00,000\n3,000  x 4,000) x 115%\n9,20,000\n\n10\nFactory Overheads:\nVariable (4,000 x 100)\n4,00,000\nFixed (50,000 x 80%)\n40,000\nTotal Cost\n35,60,000\nProfit (Bal. Fig)\n4,40,000\nSales (35,60,000/89%)\n40,00,000\nNo of units\n4,000\nSelling Price per unit\n1,000\nCalculation of fixed and variable factory overhead\nVariable Factory overhead (per unit) =\n4,30,000 - 3,50,000\n3,800 - 3,000\n= ` 100\nFixed factory overheads {3,50,000 - (3,000 x 100)} = ` 50,000\n(b) Step 1: Let X be the cost of material and Y be the normal rate of wages per\nhour.\nStep 2: Factory Cost of Worker ‘Ajoy’\n\n(`)\nA.  Material Cost\nX\nB.  Wages (Halsey Plan)\n32 Y\nC.  Bonus\n= 50% of (SH - AH) × R\n4 Y\n\n= 50% of (40 - 32) × R\n\nD.  Overheads (32 hours × ` 360 per hour)\n11,520\nE.  Factory Cost\n1,24,800\nOr X + 36 Y = `1,24,800 (Given) – `11,520 = ` 1,13,280………...equation (i)\nStep 3 : Factory Cost of Worker ‘Bijoy’\n\n(`)\nA. Material Cost\nX\nB. Wages (Rowan Plan)\n30 Y\nC.  Bonus =\n30\n40 × (40 - 30) × Y\n7.5 Y\nD. Overheads (30 hours × ` 360 per hour))\n10,800\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\nE.  Factory Cost\n1,24,800\nOr X + 37.5 Y = ` 1,24,800 (Given) – ` 10,800 = ` 1,14,000……...equation (ii)\nStep 4: Subtracting equation (i) from equation (ii)\n\n1.5Y\n= ` 720\n\nY\n\n= ` 480 per hour\n(a) The normal rate of wages: ` 480 per hour\n(b) The cost of material: X + 36 × ` 480 = ` 1,13,280\n\nOr  X  = ` 1,13,280 – ` 17,280 = ` 96,000\n\nStatement of the Factory Cost of the product made by the two workers\n\n‘Ajoy’ (`)\n‘Bijoy’ (`)\nMaterial cost\n96,000\n96,000\nDirect Wages\n15,360\n(32 x ` 480)\n14,400\n(30 x ` 480)\nBonus\n1,920\n(4 x ` 480)\n3,600\n(7.5 x ` 480)\nFactory Overhead\n11,520\n10,800\nFactory Cost\n1,24,800\n1,24,800\n(c)  (i) Actual Hours\n\nVariable overhead efficiency variance:\n\n(Standard hours for Actual Production – Actual Hours) x Standard Rate\n\n{(15,560 x 5) - Actual Hours} x 3\n= ` 11,400 F\n\nActual Hours\n\n= 74,000\n(ii) Actual Variable Overhead rate per hour\n\nVariable overhead expenditure Variance:\n\nStd. overhead for Actual hours – Actual Variable Overhead\n\n(74,000 x 3) – Actual Variable overheads = ` 37,000 (A)\n\nActual Variable overhead = ` 2,59,000\n\n12\n\nActual Variable Rate per hour =\n2,59,000\n74,000 = ` 3.5 per hour\n(iii) Variable overhead Cost Variance\n\nVariable overhead Efficiency Variance + Variable overhead Expenditure\n\nVariance\n\n11,400 (F) + 37,000 (A)\n\n= ` 25,600(A)\n(iv) Fixed Overhead cost Variance\n\nFixed overhead Cost Variance:\n\n(Absorbed Fixed Overheads) - (Actual Fixed Overheads)\n\n(SH × SR) – (AH × AR)\n\n(77,800 x 2) – 1,85,000\n\n= `29,400 (A)",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q001",
+  "source_filename": "89273bos-aps3012-int-p4.pdf",
+  "source_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "answer_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 8,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Question 1\n(a)  RST Ltd. manufactures a standard line of office desks. The company operates\nwith a monthly manufacturing capacity of 5,000 units. The following data\nrelates to the output and cost of two consecutive months of production:\nMonth\nUnits\nManufactured\nDirect\nMaterial (`)\nDirect\nWages (`)\nFactory\nOverheads (`)\nApril\n3,000\n15,00,000\n6,00,000\n3,50,000\nMay\n3,800\n19,00,000\n7,60,000\n4,30,000\n\nIn the month of June, the number of units manufactured will be 4,000 units.\nHowever, the prices of direct material will increase by 10% and direct wages\nwill increase by 15%. The fixed factory overheads will reduce by 20%.\n\nThe company desires to earn a profit of 11% on selling price.\n\nCalculate the selling price per desk in the month of June when the monthly\noutput is 4,000 units.\n(5 Marks)\n(b)  The following information relates to two workers - Ajoy and Bijoy who are\nengaged in producing the same product by using the same material:\nTime allowed to make the product:\n40 hours\nActual time taken to complete the product\n32 hours by Ajoy\n30 hours by Bijoy\nNormal Wage Rate\nSame for both\nBonus payment plan\nHalsey 50% plan for Ajoy\nRowan plan for Bijoy\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\nFactory overhead recovered\n@` 360 per hour for actual\ntime taken by each worker.\nFactory cost for the product for each worker ` 1,24,800     Ajoy\n` 1,24,800    Bijoy\nRequired:\n(i)  Compute the normal hourly wage rate.\n(ii)  Compute the cost of material used.\n(5 Marks)\n(c)  MD Limited has furnished following information for the month of\nAugust, 2025:\nStandard Variable Overhead rate\n` 3 per hour\nStandard Hours for per unit of production\n5 hours\nActual Output\n15,560 units\nVariable Overhead Efficiency Variance\n` 11,400 (F)\nVariable Overhead Expenditure Variance\n` 37,000 (A)\nStandard Fixed Overhead rate\n` 2 per hour\nActual Fixed Overheads\n` 1,85,000\nYou are required to calculate:\n(i)  Actual Hours\n(ii)  Actual Variable Overhead rate per hour\n(iii)  Variable Overhead Cost Variance\n(iv)  Fixed Overhead Cost Variance\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nStatement of total cost and Sales\nParticulars\nAmount (`)\nDirect Material (\n15,00,000\n3,000  x 4,000) x 110%\n22,00,000\nDirect Labour (\n6,00,000\n3,000  x 4,000) x 115%\n9,20,000\n\n10\nFactory Overheads:\nVariable (4,000 x 100)\n4,00,000\nFixed (50,000 x 80%)\n40,000\nTotal Cost\n35,60,000\nProfit (Bal. Fig)\n4,40,000\nSales (35,60,000/89%)\n40,00,000\nNo of units\n4,000\nSelling Price per unit\n1,000\nCalculation of fixed and variable factory overhead\nVariable Factory overhead (per unit) =\n4,30,000 - 3,50,000\n3,800 - 3,000\n= ` 100\nFixed factory overheads {3,50,000 - (3,000 x 100)} = ` 50,000\n(b) Step 1: Let X be the cost of material and Y be the normal rate of wages per\nhour.\nStep 2: Factory Cost of Worker ‘Ajoy’\n\n(`)\nA.  Material Cost\nX\nB.  Wages (Halsey Plan)\n32 Y\nC.  Bonus\n= 50% of (SH - AH) × R\n4 Y\n\n= 50% of (40 - 32) × R\n\nD.  Overheads (32 hours × ` 360 per hour)\n11,520\nE.  Factory Cost\n1,24,800\nOr X + 36 Y = `1,24,800 (Given) – `11,520 = ` 1,13,280………...equation (i)\nStep 3 : Factory Cost of Worker ‘Bijoy’\n\n(`)\nA. Material Cost\nX\nB. Wages (Rowan Plan)\n30 Y\nC.  Bonus =\n30\n40 × (40 - 30) × Y\n7.5 Y\nD. Overheads (30 hours × ` 360 per hour))\n10,800\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\nE.  Factory Cost\n1,24,800\nOr X + 37.5 Y = ` 1,24,800 (Given) – ` 10,800 = ` 1,14,000……...equation (ii)\nStep 4: Subtracting equation (i) from equation (ii)\n\n1.5Y\n= ` 720\n\nY\n\n= ` 480 per hour\n(a) The normal rate of wages: ` 480 per hour\n(b) The cost of material: X + 36 × ` 480 = ` 1,13,280\n\nOr  X  = ` 1,13,280 – ` 17,280 = ` 96,000\n\nStatement of the Factory Cost of the product made by the two workers\n\n‘Ajoy’ (`)\n‘Bijoy’ (`)\nMaterial cost\n96,000\n96,000\nDirect Wages\n15,360\n(32 x ` 480)\n14,400\n(30 x ` 480)\nBonus\n1,920\n(4 x ` 480)\n3,600\n(7.5 x ` 480)\nFactory Overhead\n11,520\n10,800\nFactory Cost\n1,24,800\n1,24,800\n(c)  (i) Actual Hours\n\nVariable overhead efficiency variance:\n\n(Standard hours for Actual Production – Actual Hours) x Standard Rate\n\n{(15,560 x 5) - Actual Hours} x 3\n= ` 11,400 F\n\nActual Hours\n\n= 74,000\n(ii) Actual Variable Overhead rate per hour\n\nVariable overhead expenditure Variance:\n\nStd. overhead for Actual hours – Actual Variable Overhead\n\n(74,000 x 3) – Actual Variable overheads = ` 37,000 (A)\n\nActual Variable overhead = ` 2,59,000\n\n12\n\nActual Variable Rate per hour =\n2,59,000\n74,000 = ` 3.5 per hour\n(iii) Variable overhead Cost Variance\n\nVariable overhead Efficiency Variance + Variable overhead Expenditure\n\nVariance\n\n11,400 (F) + 37,000 (A)\n\n= ` 25,600(A)\n(iv) Fixed Overhead cost Variance\n\nFixed overhead Cost Variance:\n\n(Absorbed Fixed Overheads) - (Actual Fixed Overheads)\n\n(SH × SR) – (AH × AR)\n\n(77,800 x 2) – 1,85,000\n\n= `29,400 (A)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

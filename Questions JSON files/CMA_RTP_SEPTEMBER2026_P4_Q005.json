@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "5. \nProduct Beta requires special packaging to maintain its competitive \nposition.",
+  "suggested_answer": "As procurement time is given in days, consumption should also be \ncalculated in days: \n \nMaximum Consumption per Day:  \n \n350\n7  \n= 50 Kgs \nMinimum Consumption per Day:  \n \n210\n7  \n= 30 Kgs. \nAverage Consumption per Day:   \n \n(50+30)\n2\n = 40 Kgs \n(a) \nCalculation of Economic Order Quantity (EOQ) \n \nAnnual consumption of Raw Materials (A): 40 Kgs x 365 days = 14,600 Kgs \n \nStorage or Carrying Cost per unit per annum (C):(` 100 x 1% x 12 \nmonths) + ` 2  \n= ` 14 \n \nOrdering Cost (O): ` 200 per Order \n \nEOQ   \n= \n2× A ×O\nC\n \n  \n \n \n=   \n14\n200\n14,600\n2\n×\n×\n = 646 Kgs.  \n(b) \nRe-Order Level (ROL) = (Maximum consumption Rate × Maximum  \n  \n \n \n \n \n \nProcurement Time) \n \n  \n \n \n \n \n= \n50 kgs per day × 9 days  \n \n  \n \n \n \n \n= \n450 kgs  \n(c) \nMaximum Stock Level = Recorder Level + Recorder Quantity  \n  \n \n \n \n \n \n– \n(Minimum \nConsumption \nRate \n×  \n  \n \n \n \n \n \nMinimum Procurement Time) \n \n  \n \n \n \n \n =  450 kgs + 646 kgs - (30 kgs x 5 days) \n \n  \n \n \n \n \n = 946 kgs \n(d) \nMinimum Stock Level = Recorder Level – (Average consumption  \n  \n \n \n \n \n \nRate × Average Procurement Time) \n \n  \n \n \n \n \n=  450 kgs – (40 kgs X 7 days) \n \n  \n \n \n \n \n= \n170 kgs \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n27 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n(e) \nAverage Stock Level  = \nMaximum Stock Level + Minimum Stock Level\n2\n \n \n  \n \n \n \n \n= \n946 kgs + 170 kgs\n2\n \n \n  \n \n \n \n \n=  558 kgs \n(f) \nNumber of Orders to be placed per year \n \n= Annual Consumption of Raw Materials\nEOQ\n \n \n= \n14600 kgs\n646 kgs \n \n= 22.60 Orders or 23 Orders \n(g) \nTotal Inventory Cost \n \nCost of Materials (A x Purchase Price) (14600 kgs x ` 100)  =` 14,60,000 \n \nTotal Ordering Cost (No. of Orders x O) (23 Orders x 200)  = `      4,600 \n \nTotal Carrying Cost (EOQ / 2 x C) (646 kgs / 2 x ` 14)  \n=   `     4,522 \n \nTotal Inventory Cost \n \n \n \n \n \n \n \n ` 14,69,122 \n(h) \nIf the supplier is willing to offer 1% discount on purchase of \ntotal annual quantity in two orders: \n \nOffer Price  \n = ` 100 x 99% \n  = ` 99 \n \nRevised Carrying Cost  = (` 99 x 1% x 12 months) + ` 2 = ` 13.88 \n \nRevised Order Quantity   = 14600 kgs / 2 Orders \n     = 7300 kgs \n \nTotal Inventory Cost at Offer Price \n \nCost of Materials (A x Purchase Price) (14600 kgs x ` 99)  = ` 14,45,400 \n \nTotal Ordering Cost (No. of Orders x O) (2 Orders x 200) =  `          400 \n \nTotal Carrying Cost (EOQ / 2 x C) (7300 kgs / 2 x ` 13.88)  =  `    50,662 \n \nTotal Inventory Cost \n \n  \n \n \n \n \n \n ` 14,96,462 \n \nAdvice: As total inventory cost at offer price is ` 27,340 (14,96,462  \n– 14,69,122) higher, offer should not be accepted. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n28 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(i) \nCounter-offer: \n \nLet Discount Rate   \n= z% \n \nCounter-Offer Price  \n= ` 100 – z% = ` 100 – z \n \nRevised Carrying Cost = [(` 100 – z) x 1% x 12 months] + ` 2  \n \n  \n \n \n \n \n= ` 12 -0.12z + ` 2  \n \n  \n \n \n \n \n= ` 14 – 0.12z \n \nTotal Inventory Cost at Counter-Offer Price \n \nCost of Materials (A x Purchase Price) [14600 kgs x (` 100 – z)]  \n  \n \n \n \n \n= ` 14,60,000 – 14,600z \n \nTotal Ordering Cost (No. of Orders x O) (2 Orders x 200) \n = ` 400 \n \nTotal Carrying Cost (EOQ / 2 x C) [7300 kgs / 2 x (` 14 – 0.12z)]  \n \n  \n \n \n \n \n= ` 51,100 – 438z \n \nTotal Inventory Cost  \n= ` 15,11,500 – 15038z \n \n` 14,69,122     \n \n= ` 15,11,500 – 15038z \n \nOr 15038z  \n \n \n= 42,378 \n \nOr \n z   \n \n \n= 2.82 \n \nTherefore, discount should be at least 2.82% in offer price.",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q005",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nProduct Beta requires special packaging to maintain its competitive \nposition."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "As procurement time is given in days, consumption should also be \ncalculated in days: \n \nMaximum Consumption per Day:  \n \n350\n7  \n= 50 Kgs \nMinimum Consumption per Day:  \n \n210\n7  \n= 30 Kgs. \nAverage Consumption per Day:   \n \n(50+30)\n2\n = 40 Kgs \n(a) \nCalculation of Economic Order Quantity (EOQ) \n \nAnnual consumption of Raw Materials (A): 40 Kgs x 365 days = 14,600 Kgs \n \nStorage or Carrying Cost per unit per annum (C):(` 100 x 1% x 12 \nmonths) + ` 2  \n= ` 14 \n \nOrdering Cost (O): ` 200 per Order \n \nEOQ   \n= \n2× A ×O\nC\n \n  \n \n \n=   \n14\n200\n14,600\n2\n×\n×\n = 646 Kgs.  \n(b) \nRe-Order Level (ROL) = (Maximum consumption Rate × Maximum  \n  \n \n \n \n \n \nProcurement Time) \n \n  \n \n \n \n \n= \n50 kgs per day × 9 days  \n \n  \n \n \n \n \n= \n450 kgs  \n(c) \nMaximum Stock Level = Recorder Level + Recorder Quantity  \n  \n \n \n \n \n \n– \n(Minimum \nConsumption \nRate \n×  \n  \n \n \n \n \n \nMinimum Procurement Time) \n \n  \n \n \n \n \n =  450 kgs + 646 kgs - (30 kgs x 5 days) \n \n  \n \n \n \n \n = 946 kgs \n(d) \nMinimum Stock Level = Recorder Level – (Average consumption  \n  \n \n \n \n \n \nRate × Average Procurement Time) \n \n  \n \n \n \n \n=  450 kgs – (40 kgs X 7 days) \n \n  \n \n \n \n \n= \n170 kgs \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n27 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n(e) \nAverage Stock Level  = \nMaximum Stock Level + Minimum Stock Level\n2\n \n \n  \n \n \n \n \n= \n946 kgs + 170 kgs\n2\n \n \n  \n \n \n \n \n=  558 kgs \n(f) \nNumber of Orders to be placed per year \n \n= Annual Consumption of Raw Materials\nEOQ\n \n \n= \n14600 kgs\n646 kgs \n \n= 22.60 Orders or 23 Orders \n(g) \nTotal Inventory Cost \n \nCost of Materials (A x Purchase Price) (14600 kgs x ` 100)  =` 14,60,000 \n \nTotal Ordering Cost (No. of Orders x O) (23 Orders x 200)  = `      4,600 \n \nTotal Carrying Cost (EOQ / 2 x C) (646 kgs / 2 x ` 14)  \n=   `     4,522 \n \nTotal Inventory Cost \n \n \n \n \n \n \n \n ` 14,69,122 \n(h) \nIf the supplier is willing to offer 1% discount on purchase of \ntotal annual quantity in two orders: \n \nOffer Price  \n = ` 100 x 99% \n  = ` 99 \n \nRevised Carrying Cost  = (` 99 x 1% x 12 months) + ` 2 = ` 13.88 \n \nRevised Order Quantity   = 14600 kgs / 2 Orders \n     = 7300 kgs \n \nTotal Inventory Cost at Offer Price \n \nCost of Materials (A x Purchase Price) (14600 kgs x ` 99)  = ` 14,45,400 \n \nTotal Ordering Cost (No. of Orders x O) (2 Orders x 200) =  `          400 \n \nTotal Carrying Cost (EOQ / 2 x C) (7300 kgs / 2 x ` 13.88)  =  `    50,662 \n \nTotal Inventory Cost \n \n  \n \n \n \n \n \n ` 14,96,462 \n \nAdvice: As total inventory cost at offer price is ` 27,340 (14,96,462  \n– 14,69,122) higher, offer should not be accepted. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n28 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(i) \nCounter-offer: \n \nLet Discount Rate   \n= z% \n \nCounter-Offer Price  \n= ` 100 – z% = ` 100 – z \n \nRevised Carrying Cost = [(` 100 – z) x 1% x 12 months] + ` 2  \n \n  \n \n \n \n \n= ` 12 -0.12z + ` 2  \n \n  \n \n \n \n \n= ` 14 – 0.12z \n \nTotal Inventory Cost at Counter-Offer Price \n \nCost of Materials (A x Purchase Price) [14600 kgs x (` 100 – z)]  \n  \n \n \n \n \n= ` 14,60,000 – 14,600z \n \nTotal Ordering Cost (No. of Orders x O) (2 Orders x 200) \n = ` 400 \n \nTotal Carrying Cost (EOQ / 2 x C) [7300 kgs / 2 x (` 14 – 0.12z)]  \n \n  \n \n \n \n \n= ` 51,100 – 438z \n \nTotal Inventory Cost  \n= ` 15,11,500 – 15038z \n \n` 14,69,122     \n \n= ` 15,11,500 – 15038z \n \nOr 15038z  \n \n \n= 42,378 \n \nOr \n z   \n \n \n= 2.82 \n \nTherefore, discount should be at least 2.82% in offer price."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q002_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) What do you mean by ‘Deficiency in internal control’ and ‘Significant\ndeficiency in internal control’?\n(5 Marks)",
+  "suggested_answer": "(a) SA 265 “Communicating Deficiencies in Internal Control to Those Charged\nwith Governance and Management”, defines the deficiency in internal\ncontrol and significant deficiency in internal control.\n\n16\n\nDeficiency in internal control – This exists when: -\n(i)  A control is designed, implemented or operated in such a way that it is\nunable to prevent, or detect and correct, misstatements in the financial\nstatements on a timely basis or\n(ii)  A control necessary to prevent, or detect and correct, misstatements in\nthe financial statements on a timely basis is missing.\n\nSignificant deficiency in internal control – A deficiency or combination of\ndeficiencies in internal control that, in the auditor’s professional judgment,\nis of sufficient importance to merit the attention of those charged with\ngovernance.\n\nThe significance of a deficiency or a combination of deficiencies in internal\ncontrol depends not only on whether a misstatement has actually occurred,\nbut also on the likelihood that a misstatement could occur and the\npotential magnitude of the misstatement. Significant deficiencies may,\ntherefore, exist even though the auditor has not identified misstatements\nduring the audit.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q002_A",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 15,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) What do you mean by ‘Deficiency in internal control’ and ‘Significant\ndeficiency in internal control’?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) SA 265 “Communicating Deficiencies in Internal Control to Those Charged\nwith Governance and Management”, defines the deficiency in internal\ncontrol and significant deficiency in internal control.\n\n16\n\nDeficiency in internal control – This exists when: -\n(i)  A control is designed, implemented or operated in such a way that it is\nunable to prevent, or detect and correct, misstatements in the financial\nstatements on a timely basis or\n(ii)  A control necessary to prevent, or detect and correct, misstatements in\nthe financial statements on a timely basis is missing.\n\nSignificant deficiency in internal control – A deficiency or combination of\ndeficiencies in internal control that, in the auditor’s professional judgment,\nis of sufficient importance to merit the attention of those charged with\ngovernance.\n\nThe significance of a deficiency or a combination of deficiencies in internal\ncontrol depends not only on whether a misstatement has actually occurred,\nbut also on the likelihood that a misstatement could occur and the\npotential magnitude of the misstatement. Significant deficiencies may,\ntherefore, exist even though the auditor has not identified misstatements\nduring the audit."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "10. \nCA Rishu is appointed as an auditor of a manufacturing company with a \ncomplex supply chain, multiple inventory locations, and recently \nintroduced financial reporting requirements. Some article assistants and \nan expert assigned for inventory verification are forming part of audit \nteam of CA Rishu. To ensure that audit risk is reduced to an acceptably \nlow level, CA Rishu is focused on developing an effective and efficient \naudit plan. Explain the benefits of adequate audit planning in the audit \nof financial statements.   \nChapter 3 - Risk Assessment and Internal Control",
+  "suggested_answer": "Adequate planning benefits the audit of financial statements in the \nseveral ways, including the following:",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q010",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nCA Rishu is appointed as an auditor of a manufacturing company with a \ncomplex supply chain, multiple inventory locations, and recently \nintroduced financial reporting requirements. Some article assistants and \nan expert assigned for inventory verification are forming part of audit \nteam of CA Rishu. To ensure that audit risk is reduced to an acceptably \nlow level, CA Rishu is focused on developing an effective and efficient \naudit plan. Explain the benefits of adequate audit planning in the audit \nof financial statements.   \nChapter 3 - Risk Assessment and Internal Control"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Adequate planning benefits the audit of financial statements in the \nseveral ways, including the following:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

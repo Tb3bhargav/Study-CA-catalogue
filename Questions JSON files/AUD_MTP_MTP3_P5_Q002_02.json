@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q002_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "2. \nSome shareholders also requested the auditor to confirm the genuineness \nof certain supplier invoices and contracts, alleging that some documents \nmight be forged.",
+  "suggested_answer": "Authentication of documents: An auditor is not an expert in detecting \nforgery or verifying the genuineness of documents. While the auditor may \nexamine documents as audit evidence, he cannot guarantee their \nauthenticity because he does not possess specialised expertise in forensic \ndocument verification.",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP3_P5_Q002_02",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "2",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 10,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nSome shareholders also requested the auditor to confirm the genuineness \nof certain supplier invoices and contracts, alleging that some documents \nmight be forged."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Authentication of documents: An auditor is not an expert in detecting \nforgery or verifying the genuineness of documents. While the auditor may \nexamine documents as audit evidence, he cannot guarantee their \nauthenticity because he does not possess specialised expertise in forensic \ndocument verification."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

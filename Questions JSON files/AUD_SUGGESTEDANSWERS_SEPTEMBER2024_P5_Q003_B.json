@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) M/s. PK & Company, Chartered Accountants, are the statutory auditors of JC\nLimited. CA Tarun, partner of M/s. PK & Company, was entrusted to supervise\n\nAUDITING AND ETHICS\n\n17\nand verify the inventory items as on 31.03.2024. During the process of\nverification, a large chunk of draft inventory sheets were accumulated and\nthen a final inventory sheet was prepared. The audit assistant has kept all\nthese drafts and the final inventory sheet in the audit file. Is the approach of\nthe audit assistant correct? Which papers/ documents may not be included\nin the audit documentation?\n(4 Marks)",
+  "suggested_answer": "(b) In the given case, the audit assistant has kept a large chunk of draft\ninventory sheets and the final inventory sheet in the audit file which is not\ncorrect as the auditor is not required to document draft inventory sheets.\nAuditor should ensure that only final inventory sheets will form part of the\naudit documentation. Thus, approach of the audit assistant of filing draft\nand final inventory sheet is not correct.\nAs per SA 230, “Audit documentation”, audit documentation may be\nrecorded on paper or on electronic or other media.\nThe auditor need not include in audit documentation:\n•\nsuperseded drafts of working papers and financial statements,\n•\nnotes that reflect incomplete or preliminary thinking,\n•\nprevious copies of documents corrected for typographical or other\nerrors, and\n•\nduplicates of documents.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_B",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 16,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) M/s. PK & Company, Chartered Accountants, are the statutory auditors of JC\nLimited. CA Tarun, partner of M/s. PK & Company, was entrusted to supervise\n\nAUDITING AND ETHICS\n\n17\nand verify the inventory items as on 31.03.2024. During the process of\nverification, a large chunk of draft inventory sheets were accumulated and\nthen a final inventory sheet was prepared. The audit assistant has kept all\nthese drafts and the final inventory sheet in the audit file. Is the approach of\nthe audit assistant correct? Which papers/ documents may not be included\nin the audit documentation?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) In the given case, the audit assistant has kept a large chunk of draft\ninventory sheets and the final inventory sheet in the audit file which is not\ncorrect as the auditor is not required to document draft inventory sheets.\nAuditor should ensure that only final inventory sheets will form part of the\naudit documentation. Thus, approach of the audit assistant of filing draft\nand final inventory sheet is not correct.\nAs per SA 230, “Audit documentation”, audit documentation may be\nrecorded on paper or on electronic or other media.\nThe auditor need not include in audit documentation:\n•\nsuperseded drafts of working papers and financial statements,\n•\nnotes that reflect incomplete or preliminary thinking,\n•\nprevious copies of documents corrected for typographical or other\nerrors, and\n•\nduplicates of documents."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

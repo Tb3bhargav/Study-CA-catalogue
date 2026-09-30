@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2025_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3. \nSuppose the units of a product are produced at the rate of 4 units per \nuseful direct labour hour. Direct labour idle time is 10% of hours paid \nfor. Sales of 1,000 units are budgeted and finished goods stock is \nexpected to rise by 100 units. The budgeted direct labour hours for the \nproduction would be: \n(a) \n306 \n(b) \n250 \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n(c) \n275 \n(d) \n400 \nCost Accounting Systems",
+  "suggested_answer": "(A) 306 Total production required = Budgeted sales + Increase in finished goods stock = 1,000+100=1,100 units Production rate = 4 units per useful direct labour hour Useful hours = 1,100 units 4 units/hour = 275 hours Useful hours = 90% of paid hours: Paid hours = 275/90% = 305.55 = 306 hours",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2025_P4_Q003",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nSuppose the units of a product are produced at the rate of 4 units per \nuseful direct labour hour. Direct labour idle time is 10% of hours paid \nfor. Sales of 1,000 units are budgeted and finished goods stock is \nexpected to rise by 100 units. The budgeted direct labour hours for the \nproduction would be: \n(a) \n306 \n(b) \n250 \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n(c) \n275 \n(d) \n400 \nCost Accounting Systems"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) 306 Total production required = Budgeted sales + Increase in finished goods stock = 1,000+100=1,100 units Production rate = 4 units per useful direct labour hour Useful hours = 1,100 units 4 units/hour = 275 hours Useful hours = 90% of paid hours: Paid hours = 275/90% = 305.55 = 306 hours"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

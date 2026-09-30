@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q003_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Explain in what ways financial leverage operates as a \"double edged sword\".\n(2 Marks)",
+  "suggested_answer": "(b)  When the cost of ‘fixed cost fund’ is less than the return on investment,\nfinancial leverage will help to increase return on equity and EPS. The firm\nwill also benefit from the saving of tax on interest on debts etc. However,\nwhen cost of debt will be more than the return it will affect return of equity\nand EPS unfavourably and as a result firm can be under financial distress.\nTherefore, financial leverage is also known as “double edged sword”.",
+  "marks": "(2 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q003_B",
+  "source_filename": "91204bos-aps4356-sa-int-p6.pdf",
+  "source_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Financing Decisions — Leverages",
+    "topic": "Financing Decisions — Leverages",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "3(b)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+      "answer_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf"
+    },
+    "page_start": 20,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Explain in what ways financial leverage operates as a \"double edged sword\".\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  When the cost of ‘fixed cost fund’ is less than the return on investment,\nfinancial leverage will help to increase return on equity and EPS. The firm\nwill also benefit from the saving of tax on interest on debts etc. However,\nwhen cost of debt will be more than the return it will affect return of equity\nand EPS unfavourably and as a result firm can be under financial distress.\nTherefore, financial leverage is also known as “double edged sword”."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

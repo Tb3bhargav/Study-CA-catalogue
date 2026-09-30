@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q004",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "4.  \nWHICH of the following is the correct journal entry as would appear in \nthe cost books when Material (Direct) is issued to production? \n(a) \nStore Ledger Control A/c  \n \n \n \nDr.  \nxxx  \n \n  \nTo Work-in-Process Control A/c \n \n \n \n \n \nxxx \n(b) \nStore Ledger Control  A/c  \n \n \n \nDr.  \nxxx  \n \n  \nTo Production Overhead Control A/c  \n \n \n \nxxx \n(c) \nProduction Overhead Control A/c  \n \nDr.  \nxxx  \n \n  \nTo Store Ledger Control A/c  \n \n \n \n \n \nxxx \n(d) \nWork-in-Process Control A/c \n \n \n \nDr.  \nxxx  \n \n \n \n \nTo Store Ledger Control A/c  \n \n \n \n \n \nxxx \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n9 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nProcess & Operation Costing",
+  "suggested_answer": "(D) Work-in-Process Control A/c Dr. xxx To Store Ledger Control A/c xxx",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q004",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "4",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.  \nWHICH of the following is the correct journal entry as would appear in \nthe cost books when Material (Direct) is issued to production? \n(a) \nStore Ledger Control A/c  \n \n \n \nDr.  \nxxx  \n \n  \nTo Work-in-Process Control A/c \n \n \n \n \n \nxxx \n(b) \nStore Ledger Control  A/c  \n \n \n \nDr.  \nxxx  \n \n  \nTo Production Overhead Control A/c  \n \n \n \nxxx \n(c) \nProduction Overhead Control A/c  \n \nDr.  \nxxx  \n \n  \nTo Store Ledger Control A/c  \n \n \n \n \n \nxxx \n(d) \nWork-in-Process Control A/c \n \n \n \nDr.  \nxxx  \n \n \n \n \nTo Store Ledger Control A/c  \n \n \n \n \n \nxxx \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n9 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nProcess & Operation Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Work-in-Process Control A/c Dr. xxx To Store Ledger Control A/c xxx"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

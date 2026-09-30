@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q005_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "5. \n(a)  \nExplain the objective of the auditor to express an appropriately modified opinion \nas per SA 705 – Modifications to the Opinion in the Independent Auditor’s Report. \nAlso, discuss the circumstances under which the auditor is required to issue a \nqualified opinion. \n(5 Marks)  \n(b) \nCD Manufacturing Ltd., engaged in the production and trading of consumer goods, \nhas significant inventories comprising finished goods and goods held for resale. \nDuring the course of audit for the financial year ended 31st March 2025, the auditor \nobserved that inventory includes certain slow-moving and obsolete items. Further, \nthere were variations noted in cost allocation and selling prices in recent months. \n \nThe auditor is required to ensure that inventories are valued appropriately in \naccordance with applicable accounting standards. \n \nDiscuss the audit procedures to be performed by the auditor for verifying valuation \nof finished goods and goods for resale. \n(5 Marks)  \n \n15 \n(c)  \nYZ Limited is engaged in the business of manufacturing electrical equipment. \nDuring the course of audit for the financial year 2024–25, CA R, the auditor, \nobserved that while certain expenses like rent, power and fuel were subjected to \nmonthly trend analysis, a large number of other expenses such as travelling, \ninsurance, repairs, and miscellaneous expenses were not analysed trend-wise. \n \nThe management contended that such expenses are irregular in nature and hence \ntrend analysis may not be meaningful. The auditor decided to verify these \nexpenses through vouching and examination of supporting documents to ensure \ntheir correctness and appropriateness. \n \nIn the light of the above, mention the attributes that the auditor should verify while \nvouching such expenses. \n(4 Marks)",
+  "suggested_answer": "Reconciliation of Subscriptions: Trace all collections of subscription and \ndonations from the Cash Book to the respective Registers. Reconcile the \ntotal subscriptions due (as shown by the Subscription Register and the \namount collected and that still outstanding).",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP4_P5_Q005_02",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 14,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 14,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \n(a)  \nExplain the objective of the auditor to express an appropriately modified opinion \nas per SA 705 – Modifications to the Opinion in the Independent Auditor’s Report. \nAlso, discuss the circumstances under which the auditor is required to issue a \nqualified opinion. \n(5 Marks)  \n(b) \nCD Manufacturing Ltd., engaged in the production and trading of consumer goods, \nhas significant inventories comprising finished goods and goods held for resale. \nDuring the course of audit for the financial year ended 31st March 2025, the auditor \nobserved that inventory includes certain slow-moving and obsolete items. Further, \nthere were variations noted in cost allocation and selling prices in recent months. \n \nThe auditor is required to ensure that inventories are valued appropriately in \naccordance with applicable accounting standards. \n \nDiscuss the audit procedures to be performed by the auditor for verifying valuation \nof finished goods and goods for resale. \n(5 Marks)  \n \n15 \n(c)  \nYZ Limited is engaged in the business of manufacturing electrical equipment. \nDuring the course of audit for the financial year 2024–25, CA R, the auditor, \nobserved that while certain expenses like rent, power and fuel were subjected to \nmonthly trend analysis, a large number of other expenses such as travelling, \ninsurance, repairs, and miscellaneous expenses were not analysed trend-wise. \n \nThe management contended that such expenses are irregular in nature and hence \ntrend analysis may not be meaningful. The auditor decided to verify these \nexpenses through vouching and examination of supporting documents to ensure \ntheir correctness and appropriateness. \n \nIn the light of the above, mention the attributes that the auditor should verify while \nvouching such expenses. \n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Reconciliation of Subscriptions: Trace all collections of subscription and \ndonations from the Cash Book to the respective Registers. Reconcile the \ntotal subscriptions due (as shown by the Subscription Register and the \namount collected and that still outstanding)."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

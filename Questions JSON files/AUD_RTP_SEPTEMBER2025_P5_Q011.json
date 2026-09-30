@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "11. \nDuring the audit of Apex Ltd., the auditor plans to place reliance on the \ninternal controls related to the revenue recognition process, which \nappear well-designed based on the preliminary assessment. However, \ndue to materiality of revenue and the inherent risk of overstatement, the \nauditor concludes that more persuasive audit evidence is needed to \nevaluate the effectiveness of these controls. Discuss the matters the \nauditor may consider in determining the extent of test of controls. \nChapter 4 - Audit Evidence",
+  "suggested_answer": "When more persuasive audit evidence is needed regarding the \neﬀectiveness of a control, it may be appropriate to increase the extent of \ntesting of the control as well as the degree of reliance on controls. \nMatters the auditor may consider in determining the extent of test of \ncontrols include the following: \n• \nThe frequency of the performance of the control by the entity \nduring the period. \n• \nThe length of time during the audit period that the auditor is \nrelying on the operating effectiveness of the control.  \n• \nThe expected rate of deviation from a control.  \n• \nThe relevance and reliability of the audit evidence to be obtained \nregarding the operating effectiveness of the control at the \nassertion level.  \n• \nThe extent to which audit evidence is obtained from tests of other \ncontrols related to the assertion.",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q011",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nDuring the audit of Apex Ltd., the auditor plans to place reliance on the \ninternal controls related to the revenue recognition process, which \nappear well-designed based on the preliminary assessment. However, \ndue to materiality of revenue and the inherent risk of overstatement, the \nauditor concludes that more persuasive audit evidence is needed to \nevaluate the effectiveness of these controls. Discuss the matters the \nauditor may consider in determining the extent of test of controls. \nChapter 4 - Audit Evidence"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "When more persuasive audit evidence is needed regarding the \neﬀectiveness of a control, it may be appropriate to increase the extent of \ntesting of the control as well as the degree of reliance on controls. \nMatters the auditor may consider in determining the extent of test of \ncontrols include the following: \n• \nThe frequency of the performance of the control by the entity \nduring the period. \n• \nThe length of time during the audit period that the auditor is \nrelying on the operating effectiveness of the control.  \n• \nThe expected rate of deviation from a control.  \n• \nThe relevance and reliability of the audit evidence to be obtained \nregarding the operating effectiveness of the control at the \nassertion level.  \n• \nThe extent to which audit evidence is obtained from tests of other \ncontrols related to the assertion."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

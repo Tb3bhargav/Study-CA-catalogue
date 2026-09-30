@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3.\nCA Vivek identified misstatements in some transactions. Some misstatements\nwere anomalies. He needs to project these misstatements to the population\nto assess their overall impact.\n\nWhich of the following statement best describes the correct approach in this\nscenario?\n(A)  The auditor is required to project misstatement for the population to\nobtain a broad view of the scale of misstatement, and this projection is\nsufficient to determine the amount to be recorded.\n(B)  When a misstatement has been established as an anomaly, it may be\nexcluded when projecting misstatements to the population, however, the\neffect of any such misstatement, if uncorrected, still needs to be\nconsidered in addition to the projection of the non-anomalous\nmisstatements.\n(C)  For test of details, the auditor shall project misstatement found in the\nsample to the population, whereas for test of controls, explicit projection\nof deviation is always required.\n(D) When a misstatement has been established as an anomaly, it must\nalways be included when projecting misstatements to the population.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.\nCA Vivek identified misstatements in some transactions. Some misstatements\nwere anomalies. He needs to project these misstatements to the population\nto assess their overall impact.\n\nWhich of the following statement best describes the correct approach in this\nscenario?\n(A)  The auditor is required to project misstatement for the population to\nobtain a broad view of the scale of misstatement, and this projection is\nsufficient to determine the amount to be recorded.\n(B)  When a misstatement has been established as an anomaly, it may be\nexcluded when projecting misstatements to the population, however, the\neffect of any such misstatement, if uncorrected, still needs to be\nconsidered in addition to the projection of the non-anomalous\nmisstatements.\n(C)  For test of details, the auditor shall project misstatement found in the\nsample to the population, whereas for test of controls, explicit projection\nof deviation is always required.\n(D) When a misstatement has been established as an anomaly, it must\nalways be included when projecting misstatements to the population.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

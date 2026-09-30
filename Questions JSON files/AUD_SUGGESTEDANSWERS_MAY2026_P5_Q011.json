@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. In the consortium lending arrangement where ABC Bank Ltd. is the lead bank,\nhow should XYZ Bank classify its portion of the loan?\n(A)  Classify as standard, since the borrower has remitted payment to the\nlead bank.\n(B)  Classify as standard, provided the overall consortium exposure is being\nserviced.\n(C)  Classify as NPA until XYZ Bank actually receives its share of repayment\nfrom the lead bank.\n(D)  Recognize interest income on an accrual basis irrespective of receipt\nfrom the lead bank.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q011",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 9,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. In the consortium lending arrangement where ABC Bank Ltd. is the lead bank,\nhow should XYZ Bank classify its portion of the loan?\n(A)  Classify as standard, since the borrower has remitted payment to the\nlead bank.\n(B)  Classify as standard, provided the overall consortium exposure is being\nserviced.\n(C)  Classify as NPA until XYZ Bank actually receives its share of repayment\nfrom the lead bank.\n(D)  Recognize interest income on an accrual basis irrespective of receipt\nfrom the lead bank.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

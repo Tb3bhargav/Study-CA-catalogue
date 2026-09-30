@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. \nA company manufactures a product with a monthly demand of 2,000 units. Each unit \ncosts ` 50 to produce, and the setup cost per batch is ` 3,000. The company incurs a \nstorage cost of ` 2 per unit per month and applies an annual interest rate of 18% on \ncapital tied up in inventory. The finished goods are stored for an average of 2 months \nbefore being sold. \n \nConsidering both storage cost and opportunity cost based on the average inventory \nholding period, what is the Economic Batch Quantity (EBQ)? \n(A)  \n2,376 units \n(B)  \n1,095 units \n(C)  \n1,200 units \n(D)  \n1,400 units \n (2 Marks)",
+  "suggested_answer": "(A) 2,376 units = 2DS EBQ C Where, D = Annual demand for the product = 2,000 × 12 = 24,000 units S = Setting up cost per batch = ` 3,000 C = Carrying cost per unit of production = ` 24 (storage) + ` 1.50 (interest) = ` 25.50 Storage cost per year = ` 2 × 12 = ` 24 per unit per year Opportunity cost = 18% of ` 50 = ` 9 per unit per year Since the average inventory is held for 2 months, the effective interest cost is: = 9 x (2/12) = ` 1.5 per unit per year 2 x 24,000 x 3,000 EBQ = 25.50 = 2,376 units",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q014",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. \nA company manufactures a product with a monthly demand of 2,000 units. Each unit \ncosts ` 50 to produce, and the setup cost per batch is ` 3,000. The company incurs a \nstorage cost of ` 2 per unit per month and applies an annual interest rate of 18% on \ncapital tied up in inventory. The finished goods are stored for an average of 2 months \nbefore being sold. \n \nConsidering both storage cost and opportunity cost based on the average inventory \nholding period, what is the Economic Batch Quantity (EBQ)? \n(A)  \n2,376 units \n(B)  \n1,095 units \n(C)  \n1,200 units \n(D)  \n1,400 units \n (2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) 2,376 units = 2DS EBQ C Where, D = Annual demand for the product = 2,000 × 12 = 24,000 units S = Setting up cost per batch = ` 3,000 C = Carrying cost per unit of production = ` 24 (storage) + ` 1.50 (interest) = ` 25.50 Storage cost per year = ` 2 × 12 = ` 24 per unit per year Opportunity cost = 18% of ` 50 = ` 9 per unit per year Since the average inventory is held for 2 months, the effective interest cost is: = 9 x (2/12) = ` 1.5 per unit per year 2 x 24,000 x 3,000 EBQ = 25.50 = 2,376 units"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

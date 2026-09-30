@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q004",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.  \nConsidering the absence of KOTs, unexplained GP fluctuations and weak internal \ncontrols in restaurant operations, what is the most appropriate audit implication? \n(a)  \nIncrease substantive procedures and consider modification if discrepancies \nremain unexplained  \n(b)  \nRely on management explanations since periodic trading accounts are prepared \n(c)  \nIgnore fluctuations as hotel industry margins are inherently volatile \n(d)  \nRestrict audit scope to test checks due to practical limitations",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q004",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.  \nConsidering the absence of KOTs, unexplained GP fluctuations and weak internal \ncontrols in restaurant operations, what is the most appropriate audit implication? \n(a)  \nIncrease substantive procedures and consider modification if discrepancies \nremain unexplained  \n(b)  \nRely on management explanations since periodic trading accounts are prepared \n(c)  \nIgnore fluctuations as hotel industry margins are inherently volatile \n(d)  \nRestrict audit scope to test checks due to practical limitations"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

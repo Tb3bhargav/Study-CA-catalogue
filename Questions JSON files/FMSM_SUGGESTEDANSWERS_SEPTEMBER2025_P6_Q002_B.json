@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q002_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Saraswati Ltd. has started its business a year back with a paid-up equity\ncapital of ` 50,00,000. The other details are as under:\n\n14\nEarnings of company\n` 5,00,000\nCost of Capital\n` 159.09\nMarket price per share using Gordon’s Model\n8%\nInternal rate of return on investment\n12%\nNumber of shares\n50,000\n\nYou are required to:\n(i)  Calculate the Dividend paid per share using Gordon's Model.\n(ii)  What will be Optimum dividend pay-out ratio according to Gordon's\nModel when r = Ke?\n(2 + 1 = 3 Marks)",
+  "suggested_answer": "(b)  (i)  P0\n\n=\ne\nE(1-b)\nK -br\n\n159.09\n\n=\n10(1-b)\n0.08-0.12b\n\n159.09(0.08−0.12b)\n\n= 10(1−b)\n\n12.7272−10\n\n= 19.0908b−10b\n\n2.7272\n\n= 9.0908b\n\nB (retained earning ratio)\n= 0.30\n\nDividend payout ratio= (1-b)\n= 0.70\n\nDividend per share = EPS x (1−b) = 10×0.70 = ` 7\n(ii)  When r = Ke, There is no optimum ratio",
+  "marks": "(2 + 1 = 3 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q002_B",
+  "source_filename": "89275bos-aps3012-int-p6.pdf",
+  "source_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "2(b)",
+    "marks": "(2 + 1 = 3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+      "answer_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf"
+    },
+    "page_start": 13,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Saraswati Ltd. has started its business a year back with a paid-up equity\ncapital of ` 50,00,000. The other details are as under:\n\n14\nEarnings of company\n` 5,00,000\nCost of Capital\n` 159.09\nMarket price per share using Gordon’s Model\n8%\nInternal rate of return on investment\n12%\nNumber of shares\n50,000\n\nYou are required to:\n(i)  Calculate the Dividend paid per share using Gordon's Model.\n(ii)  What will be Optimum dividend pay-out ratio according to Gordon's\nModel when r = Ke?\n(2 + 1 = 3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  P0\n\n=\ne\nE(1-b)\nK -br\n\n159.09\n\n=\n10(1-b)\n0.08-0.12b\n\n159.09(0.08−0.12b)\n\n= 10(1−b)\n\n12.7272−10\n\n= 19.0908b−10b\n\n2.7272\n\n= 9.0908b\n\nB (retained earning ratio)\n= 0.30\n\nDividend payout ratio= (1-b)\n= 0.70\n\nDividend per share = EPS x (1−b) = 10×0.70 = ` 7\n(ii)  When r = Ke, There is no optimum ratio"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

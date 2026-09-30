@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15.  A spice is passed through two processes and the output of Process I-Grinding,\ntransferred to Process II-Packaging. The input units in Process 1 are 7,500\nkgs and the output units are 7,275 kgs, abnormal gain is 150 kgs.\n\nYou are required to calculate the normal loss percentage and value of\nabnormal gain, if the total expenses incurred in Process I are ` 1,50,750 and\nscrap has realisable value of ` 3 per unit.\n(A)  4% and ` 3,174\n(B)  5% and ` 3,200\n(C)  5% and ` 3,150\n(D)  5.10% and ` 3,015\nAnswer Key\nMCQ. No.\nCorrect Answer\n1\nC\n2\nB\n3\nNone\n4\nNone\n5\nNone\n6\nC\n7\nB\n8\nD\n9\nD\n10\nB\n11\nC\n12\nB\n13\nB\n14\nD\n15\nC\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7",
+  "suggested_answer": "C",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q015",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15.  A spice is passed through two processes and the output of Process I-Grinding,\ntransferred to Process II-Packaging. The input units in Process 1 are 7,500\nkgs and the output units are 7,275 kgs, abnormal gain is 150 kgs.\n\nYou are required to calculate the normal loss percentage and value of\nabnormal gain, if the total expenses incurred in Process I are ` 1,50,750 and\nscrap has realisable value of ` 3 per unit.\n(A)  4% and ` 3,174\n(B)  5% and ` 3,200\n(C)  5% and ` 3,150\n(D)  5.10% and ` 3,015\nAnswer Key\nMCQ. No.\nCorrect Answer\n1\nC\n2\nB\n3\nNone\n4\nNone\n5\nNone\n6\nC\n7\nB\n8\nD\n9\nD\n10\nB\n11\nC\n12\nB\n13\nB\n14\nD\n15\nC\n\nCOST AND MANAGEMENT ACCOUNTING\n\n7"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2026_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "12. \nXYZ Limited is engaged in infrastructure development and has \nsignificant balances relating to valuation of long-term assets and \nenvironmental provisions. Environmental provisions are amounts \nrecognised for future obligations like site restoration, environmental \nclean-up, or compliance with environmental laws, which also involve \ntechnical and judgmental estimates. For this purpose, the management \nhas engaged independent experts to determine fair values and technical \nestimates which have been incorporated in the financial statements. \n \nWhile conducting the statutory audit, the auditor considers whether and \nto what extent he can rely on the work performed by the management’s \nexpert for obtaining audit evidence and forming his audit opinion. \n \nState the condition and procedures to be followed by the auditor while \nrelying on the work of management’s expert. \nChapter 5 - Audit of Items of Financial Statements",
+  "suggested_answer": "If the entity has employed or engaged experts, the auditor may rely on \nthe works of experts, provided he is satisfied that sufficient and \nappropriate audit evidence is obtained with reasonable assurance to \nform an opinion on the financial statements. \n \nWhen information to be used as audit evidence has been prepared using \nthe work of a management’s expert, the auditor shall, to the extent \nnecessary, having regard to the significance of that expert’s work for the \nauditor’s purposes; \n\n \nAUDITING AND ETHICS \n \n \n67 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n(a)  \nEvaluate the competence, capabilities and objectivity of that expert; \n(b)  \nObtain an understanding of the work of that expert; and \n(c)  \nEvaluate the appropriateness of that expert’s work as audit evidence \nfor the relevant assertion. \n \nThus, reliance on the work of a management’s expert does not reduce \nthe auditor’s responsibility, and the auditor must exercise professional \njudgment to ensure that such work provides sufficient and appropriate \naudit evidence.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2026_P5_Q012",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nXYZ Limited is engaged in infrastructure development and has \nsignificant balances relating to valuation of long-term assets and \nenvironmental provisions. Environmental provisions are amounts \nrecognised for future obligations like site restoration, environmental \nclean-up, or compliance with environmental laws, which also involve \ntechnical and judgmental estimates. For this purpose, the management \nhas engaged independent experts to determine fair values and technical \nestimates which have been incorporated in the financial statements. \n \nWhile conducting the statutory audit, the auditor considers whether and \nto what extent he can rely on the work performed by the management’s \nexpert for obtaining audit evidence and forming his audit opinion. \n \nState the condition and procedures to be followed by the auditor while \nrelying on the work of management’s expert. \nChapter 5 - Audit of Items of Financial Statements"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "If the entity has employed or engaged experts, the auditor may rely on \nthe works of experts, provided he is satisfied that sufficient and \nappropriate audit evidence is obtained with reasonable assurance to \nform an opinion on the financial statements. \n \nWhen information to be used as audit evidence has been prepared using \nthe work of a management’s expert, the auditor shall, to the extent \nnecessary, having regard to the significance of that expert’s work for the \nauditor’s purposes; \n\n \nAUDITING AND ETHICS \n \n \n67 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n(a)  \nEvaluate the competence, capabilities and objectivity of that expert; \n(b)  \nObtain an understanding of the work of that expert; and \n(c)  \nEvaluate the appropriateness of that expert’s work as audit evidence \nfor the relevant assertion. \n \nThus, reliance on the work of a management’s expert does not reduce \nthe auditor’s responsibility, and the auditor must exercise professional \njudgment to ensure that such work provides sufficient and appropriate \naudit evidence."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

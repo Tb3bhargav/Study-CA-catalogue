@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q001_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Alpha Limited has provided following information:\nEquity Share Capital\n25,000 Shares @ ` 100 per Share\n15% Debentures\n10,000 Debentures@ ` 750/- per Debenture\nSales\n50 Lakhs units@ ` 20 per unit\nVariable Cost\n` 12.50 per unit\nFixed Costs\n` 175.00 Lakhs\n\nDue to recent policy changes and entry of foreign competitors in the sector,\nAlpha Limited expects the sales may decline by 15-20%, However, selling\nprice and other costs will remain the same. Corporate Taxes will\ncontinue@20%.\n\nYou are required to calculate the decrease in Earnings per share, Degree of\nOperating Leverage and Financial Leverage separately if sales are declined\nby (i) 15%; and (ii) 20%;",
+  "suggested_answer": "(b)\n\nIncome Statement with required calculations\nParticulars\n(`)\n(`)\n(`)\n\nExisting\nSales declined\nby 15%\nSales declined\nby 20%\nSales in units\n50,00,000\n42,50,000\n40,00,000\nSales price per unit\n20\n20\n20\nVariable Cost per unit\n(12.50)\n(12.50)\n(12.50)\nContribution per unit\n7.5\n7.5\n7.5\nContribution\n3,75,00,000\n3,18,75,000\n3,00,00,000\nFixed expenses\n(1,75,00,000)\n(1,75,00,000)\n(1,75,00,000)\nEBIT\n2,00,00,000\n1,43,75,000\n1,25,00,000\nDebenture Interest\n(11,25,000)\n(11,25,000)\n(11,25,000)\nEBT\n1,88,75,000\n1,32,50,000\n1,13,75,000\nTax @ 20%\n(37,75,000)\n(26,50,000)\n(22,75,000)\nProfit after tax (PAT)\n1,51,00,000\n1,06,00,000\n91,00,000\nNo. of shares\n25,000\n25,000\n25,000\nEarnings per share (EPS)\n=\nPAT\nNo. of shares\n\n1,51,00,000\n25,000\n`\n= ` 604\n1,06,00,000\n25,000\n`\n\n= `424\n\n91,00,000\n25,000\n`\n\n= `364\n(i)\nDecrease in EPS\n\n= `180\nOr\n% Decrease in\nEPS = 180\n604\n 100\n= 29.80%\n= `240\nOr\n% Decrease in\nEPS\n= 240\n604\n\n\n100\n= 39.73%\n(ii)  Operating\nleverage\n= Contribution\nEBIT\n\nOr\n\n=\n3,18,75,000\n1,43,75,000\n`\n`\n\n= 2.22\nOr\n28.125/15 =\n=\n3,00,00,000\n1,25,00,000\n`\n`\n= 2.40\nOr\n37.50/20\n1.875\n\n54\nDegree\nof\nOperating\nleverage\n=\nPercentage change in EBIT\nPercentage change in sales\n1.875\n(iii)  Financial Leverage\n\n= EBIT\nEBT\n\nOr\nDegree\nof\nFinancial\nLeverage\n=\nPercentage change in EPS\nPercentage change in EBIT\n=\n1,43,75,000\n1,32,50,000\n`\n`\n= 1.08\nOr\n29.80/28.125\n= 1.06\n=\n1,25,00,000\n1,13,75,000\n`\n`\n= 1.10\nOr\n39.735/37.50\n= 1.06",
+  "marks": null,
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q001_B",
+  "source_filename": "81501bos65715-p6.pdf",
+  "source_pdf": "suggested_answers/81501bos65715-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Financing Decisions — Leverages",
+    "topic": "Financing Decisions — Leverages",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "1(b)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81501bos65715-p6.pdf",
+      "answer_pdf": "suggested_answers/81501bos65715-p6.pdf"
+    },
+    "page_start": 2,
+    "page_end": 6,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Alpha Limited has provided following information:\nEquity Share Capital\n25,000 Shares @ ` 100 per Share\n15% Debentures\n10,000 Debentures@ ` 750/- per Debenture\nSales\n50 Lakhs units@ ` 20 per unit\nVariable Cost\n` 12.50 per unit\nFixed Costs\n` 175.00 Lakhs\n\nDue to recent policy changes and entry of foreign competitors in the sector,\nAlpha Limited expects the sales may decline by 15-20%, However, selling\nprice and other costs will remain the same. Corporate Taxes will\ncontinue@20%.\n\nYou are required to calculate the decrease in Earnings per share, Degree of\nOperating Leverage and Financial Leverage separately if sales are declined\nby (i) 15%; and (ii) 20%;"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)\n\nIncome Statement with required calculations\nParticulars\n(`)\n(`)\n(`)\n\nExisting\nSales declined\nby 15%\nSales declined\nby 20%\nSales in units\n50,00,000\n42,50,000\n40,00,000\nSales price per unit\n20\n20\n20\nVariable Cost per unit\n(12.50)\n(12.50)\n(12.50)\nContribution per unit\n7.5\n7.5\n7.5\nContribution\n3,75,00,000\n3,18,75,000\n3,00,00,000\nFixed expenses\n(1,75,00,000)\n(1,75,00,000)\n(1,75,00,000)\nEBIT\n2,00,00,000\n1,43,75,000\n1,25,00,000\nDebenture Interest\n(11,25,000)\n(11,25,000)\n(11,25,000)\nEBT\n1,88,75,000\n1,32,50,000\n1,13,75,000\nTax @ 20%\n(37,75,000)\n(26,50,000)\n(22,75,000)\nProfit after tax (PAT)\n1,51,00,000\n1,06,00,000\n91,00,000\nNo. of shares\n25,000\n25,000\n25,000\nEarnings per share (EPS)\n=\nPAT\nNo. of shares\n\n1,51,00,000\n25,000\n`\n= ` 604\n1,06,00,000\n25,000\n`\n\n= `424\n\n91,00,000\n25,000\n`\n\n= `364\n(i)\nDecrease in EPS\n\n= `180\nOr\n% Decrease in\nEPS = 180\n604\n 100\n= 29.80%\n= `240\nOr\n% Decrease in\nEPS\n= 240\n604\n\n\n100\n= 39.73%\n(ii)  Operating\nleverage\n= Contribution\nEBIT\n\nOr\n\n=\n3,18,75,000\n1,43,75,000\n`\n`\n\n= 2.22\nOr\n28.125/15 =\n=\n3,00,00,000\n1,25,00,000\n`\n`\n= 2.40\nOr\n37.50/20\n1.875\n\n54\nDegree\nof\nOperating\nleverage\n=\nPercentage change in EBIT\nPercentage change in sales\n1.875\n(iii)  Financial Leverage\n\n= EBIT\nEBT\n\nOr\nDegree\nof\nFinancial\nLeverage\n=\nPercentage change in EPS\nPercentage change in EBIT\n=\n1,43,75,000\n1,32,50,000\n`\n`\n= 1.08\nOr\n29.80/28.125\n= 1.06\n=\n1,25,00,000\n1,13,75,000\n`\n`\n= 1.10\nOr\n39.735/37.50\n= 1.06"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

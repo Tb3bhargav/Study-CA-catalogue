@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) K Ltd. is availing cash credit limit of ` 25 crores from LMN Bank Ltd. The\ndrawing power of the company range between ` 22 crores and ` 25 crores\nduring the year 2023-24. The limit availed by the company remained less\nthan ` 20 crores during all the days of the financial year 2023-24. The\ncompany has not deposited any amount in the cash credit account and there\nare no other credits to this account during the last two quarters. How will this\naccount be classified in the books of LMN Bank Ltd. as on\n31-03-2024? Explain.\n(3 Marks)",
+  "suggested_answer": "(c)  An account should be treated as ‘out of order’ if: -\n•\nthe outstanding balance remains continuously in excess of the\nsanctioned limit/drawing power or\n•\nIn cases where the outstanding balance in the principal operating\naccount is less than the sanctioned limit/drawing power, but there are\nno credits continuously for 90 days as on the date of Balance Sheet; or\n•\ncredits are there but are not enough to cover the interest debited\nduring the same period, these accounts should be treated as ‘out of\norder’.\nIn the given case, K Ltd. is availing cash credit limit of ` 25 crores from LMN\nBank Ltd and the drawing power of the company range between ` 22 crores\nand ` 25 crores during the year 2023-24. The limit availed by K Ltd.\nremained less than ` 20 crores during all the days of the financial year 2023-\n\nAUDITING AND ETHICS\n\n19\n24 and the company has not deposited any amount in the cash credit\naccount and there are no other credits to this account during the last two\nquarters.\nThus, account should be treated as out of order in the books of LMN Bank\nLtd. as the outstanding balance in the principal operating account (` 20\ncrore) is less than the sanctioned limit/drawing power (` 22 cores and ` 25\ncrores), but there are no credits continuously for 90 days as on the date of\nBalance Sheet.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_C",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 17,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 17,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) K Ltd. is availing cash credit limit of ` 25 crores from LMN Bank Ltd. The\ndrawing power of the company range between ` 22 crores and ` 25 crores\nduring the year 2023-24. The limit availed by the company remained less\nthan ` 20 crores during all the days of the financial year 2023-24. The\ncompany has not deposited any amount in the cash credit account and there\nare no other credits to this account during the last two quarters. How will this\naccount be classified in the books of LMN Bank Ltd. as on\n31-03-2024? Explain.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  An account should be treated as ‘out of order’ if: -\n•\nthe outstanding balance remains continuously in excess of the\nsanctioned limit/drawing power or\n•\nIn cases where the outstanding balance in the principal operating\naccount is less than the sanctioned limit/drawing power, but there are\nno credits continuously for 90 days as on the date of Balance Sheet; or\n•\ncredits are there but are not enough to cover the interest debited\nduring the same period, these accounts should be treated as ‘out of\norder’.\nIn the given case, K Ltd. is availing cash credit limit of ` 25 crores from LMN\nBank Ltd and the drawing power of the company range between ` 22 crores\nand ` 25 crores during the year 2023-24. The limit availed by K Ltd.\nremained less than ` 20 crores during all the days of the financial year 2023-\n\nAUDITING AND ETHICS\n\n19\n24 and the company has not deposited any amount in the cash credit\naccount and there are no other credits to this account during the last two\nquarters.\nThus, account should be treated as out of order in the books of LMN Bank\nLtd. as the outstanding balance in the principal operating account (` 20\ncrore) is less than the sanctioned limit/drawing power (` 22 cores and ` 25\ncrores), but there are no credits continuously for 90 days as on the date of\nBalance Sheet."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

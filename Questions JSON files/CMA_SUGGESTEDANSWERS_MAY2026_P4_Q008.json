@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8.\nWhat is the machine hour rate for the company as a whole for a month when\nthe Artificial Intelligence (AI) system was used?\n(A)  ` 102 per hour\n(B)  ` 122.55 per hour\n(C)  ` 130 per hour\n(D)  ` 133.75 per hour\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q008",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.\nWhat is the machine hour rate for the company as a whole for a month when\nthe Artificial Intelligence (AI) system was used?\n(A)  ` 102 per hour\n(B)  ` 122.55 per hour\n(C)  ` 130 per hour\n(D)  ` 133.75 per hour\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n5"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q008",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8.\nMr. F, an Articled Clerk, wants to know that which of the below statement is\nincorrect while auditing Depreciation and Amortization expenses in PQ Ltd.?\n(A)  Depreciation and amortization have been charged as per the useful life\nof PPE and intangible assets.\n(B)  Depreciation on the revalued amount should be accounted from the\nrevaluation reserve.\n(C)  Depreciation should be charged on assets from the date of actual usage\nand not when they are ready to use.\n(D)  Depreciation and amortization should be computed prospectively\nwhenever there is any change in useful life of PPE and intangible assets.\n\n(2 Marks)\nIntegrated Case Scenario - III\nM/s DG and Associates, Chartered Accountants, have been appointed as the\nstatutory auditor of HT Private Limited for the financial year 2024-25. CA Mr. D,\nengagement partner, and a team comprising of three articled clerks has been\nassigned the task of conducting the audit of HT Private Limited for F.Y. 2024-25.\nIn the initial stages of conducting an audit of HT Private Limited, CA Mr. D decided\nto evaluate internal control operating in the company. To gather information\nrequired for evaluation of internal control, CA Mr. D asked his team members to\nsuggest a method which would help in gathering information so that internal\ncontrol of the company can be evaluated.\nFirst team member of the team suggested that they should follow a method, in\nwhich a series of instructions and/or questions are required to be followed and/or\nanswered by the audit team and the answers to these instructions are usually Yes,\nNo or Not Applicable. These instructions are framed having regard to the\ndesirable elements of control.\nThe second team member of team suggested a method in which a complete and\nexhaustive description of the internal control system as found in operation is\nrecorded by the auditor.\n\nAUDITING AND ETHICS\n\n39\nThe third team member of team suggested a method in which comprehensive\nseries of questions concerning internal control were required to be answered\nwhich would provide information about internal control.\nBased on the above facts, answer the following Q. Nos 9 to 12:",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q008",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "8",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.\nMr. F, an Articled Clerk, wants to know that which of the below statement is\nincorrect while auditing Depreciation and Amortization expenses in PQ Ltd.?\n(A)  Depreciation and amortization have been charged as per the useful life\nof PPE and intangible assets.\n(B)  Depreciation on the revalued amount should be accounted from the\nrevaluation reserve.\n(C)  Depreciation should be charged on assets from the date of actual usage\nand not when they are ready to use.\n(D)  Depreciation and amortization should be computed prospectively\nwhenever there is any change in useful life of PPE and intangible assets.\n\n(2 Marks)\nIntegrated Case Scenario - III\nM/s DG and Associates, Chartered Accountants, have been appointed as the\nstatutory auditor of HT Private Limited for the financial year 2024-25. CA Mr. D,\nengagement partner, and a team comprising of three articled clerks has been\nassigned the task of conducting the audit of HT Private Limited for F.Y. 2024-25.\nIn the initial stages of conducting an audit of HT Private Limited, CA Mr. D decided\nto evaluate internal control operating in the company. To gather information\nrequired for evaluation of internal control, CA Mr. D asked his team members to\nsuggest a method which would help in gathering information so that internal\ncontrol of the company can be evaluated.\nFirst team member of the team suggested that they should follow a method, in\nwhich a series of instructions and/or questions are required to be followed and/or\nanswered by the audit team and the answers to these instructions are usually Yes,\nNo or Not Applicable. These instructions are framed having regard to the\ndesirable elements of control.\nThe second team member of team suggested a method in which a complete and\nexhaustive description of the internal control system as found in operation is\nrecorded by the auditor.\n\nAUDITING AND ETHICS\n\n39\nThe third team member of team suggested a method in which comprehensive\nseries of questions concerning internal control were required to be answered\nwhich would provide information about internal control.\nBased on the above facts, answer the following Q. Nos 9 to 12:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

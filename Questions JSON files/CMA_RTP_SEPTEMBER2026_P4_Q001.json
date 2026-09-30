@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q001",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \nThe company follows a just-in-time approach, meaning all non-\ndefective units produced are sold during the same month. There is no \nopening or closing inventory.",
+  "suggested_answer": "Working Note: \n \nTable of Primary Distribution of Overheads and Direct Costs \nParticulars \nBasis of \nApportion-\nment \nTotal \nAmount \nProduction \nDepartment \nService \nDepartments \n \n \n Fabrication Assembly \nStores Maintenance \nOverheads \nAllocated \nAllocation \n33,20,000 \n18,20,000 \n9,60,000 3,00,000 \n2,40,000 \nDirect Costs \nActual 1,02,00,000 \n85,00,000 17,00,000 \n--- \n--- \nTotal \n \n 1,03,20,000 26,60,000 3,00,000 \n2,40,000 \n \nOther Overheads \nParticulars \nBasis \nTotal (`) Fabrication Assembly \nStores Mainte-\nnance \nFactory Rent \nFloor Area \n(30:12:3:5) \n18,00,000 \n10,80,000 \n4,32,000 1,08,000 1,80,000 \nBuilding \nInsurance \nFloor Area \n2,00,000 \n1,20,000 \n48,000 \n12,000 \n20,000 \nPlant \nInsurance \nPlant \nValue \n(20:10:1:2) \n2,40,000 \n1,45,455 \n72,727 \n7,273 \n14,545 \nDepreciation \nPlant \nValue \n3,20,000 \n1,93,939 \n96,970 \n9,697 \n19,394 \nCanteen \nSubsidy \nEmployees \n(150:100:4\n0:20) \n5,00,000 \n2,41,935 \n1,61,290 \n64,516 \n32,258 \nTotal \n \n30,60,000 \n17,81,329 \n8,10,987 2,01,486 2,66,197 \n \nTotal after Primary Distribution \nParticulars  \nTotal (`) \nFabrication \nAssembly \nStores \nMaintenance \nTotal \nOverheads  \n63,80,000 \n36,01330 \n17,70,987 \n5,01,486 \n5,06,197 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nRe-distribution of Service Departments’ Expenses (Step Method) \nParticulars \nBasis of \nApportionment \nProduction \nDepartment \nService Departments \nFabrication Assembly \nStores Maintenance \nOverheads \nas per \nPrimary \ndistribution \nAs per Primary \ndistribution \n36,01,330 \n17,70,987 \n5,01,486 \n5,06,197 \nMaintenance \nDepartment \nCost \nMaintenance \nHours (30:25:5:-) \n2,53,099 \n2,10,915 \n42,183 \n(5,06,197) \n \n \n38,54,429 \n19,81,902 \n5,43,669 \n--- \nStores \nDepartment \nNo. of Stores \nRequisition \n(5:2:-:-) \n3,88,335 \n1,55,334 (5,43,669) \n  \n \n \n42,42,764 \n21,37,236 \n--- \n--- \n(i)  \n(B)  ` 5,43,669 \nTotal overhead allocated from Stores Department \n= ` 5,43,669  \n(ii)  (C)  ` 5,06,197 \nTotal overhead allocated from Maintenance Department \n= ` 5,06,197  \n(iii)  (A)  ` 1.21 per machine hour   \n \nOverhead Recovery Rate - Fabrication Department \n \nBasis: Machine Hours = 35,00,000 \n \nRate = 42,42,764/35,00,000 = ` 1.21 per machine hour   \n(iv)  (D)  ` 0.71 per labour hour \nOverhead Recovery Rate - Assembly Department \nBasis: Labour Hours = 30,00,000 \nRate = 21,37,236/30,00,000 = ` 0.71 per labour hour \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(v)  (C)  ` 1,60,445 \n \nCalculation of Full Production Cost (Job AMS-101) \nParticulars \nAmount (`) \nDirect Materials \n1,50,000 \nDirect Labour: \n \n- \nFabrication Deptt. (300 hours × ` 20) \n6,000 \n- \nAssembly Deptt. (200 hours × ` 20) \n4,000 \nProduction Overheads: \n \n- \nFabrication Deptt. (250 hours × ` 1.21) \n303 \n- \nAssembly Deptt. (200 hours × ` 0.71) \n142 \nTotal Production Cost \n1,60,445",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q001",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \nThe company follows a just-in-time approach, meaning all non-\ndefective units produced are sold during the same month. There is no \nopening or closing inventory."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Working Note: \n \nTable of Primary Distribution of Overheads and Direct Costs \nParticulars \nBasis of \nApportion-\nment \nTotal \nAmount \nProduction \nDepartment \nService \nDepartments \n \n \n Fabrication Assembly \nStores Maintenance \nOverheads \nAllocated \nAllocation \n33,20,000 \n18,20,000 \n9,60,000 3,00,000 \n2,40,000 \nDirect Costs \nActual 1,02,00,000 \n85,00,000 17,00,000 \n--- \n--- \nTotal \n \n 1,03,20,000 26,60,000 3,00,000 \n2,40,000 \n \nOther Overheads \nParticulars \nBasis \nTotal (`) Fabrication Assembly \nStores Mainte-\nnance \nFactory Rent \nFloor Area \n(30:12:3:5) \n18,00,000 \n10,80,000 \n4,32,000 1,08,000 1,80,000 \nBuilding \nInsurance \nFloor Area \n2,00,000 \n1,20,000 \n48,000 \n12,000 \n20,000 \nPlant \nInsurance \nPlant \nValue \n(20:10:1:2) \n2,40,000 \n1,45,455 \n72,727 \n7,273 \n14,545 \nDepreciation \nPlant \nValue \n3,20,000 \n1,93,939 \n96,970 \n9,697 \n19,394 \nCanteen \nSubsidy \nEmployees \n(150:100:4\n0:20) \n5,00,000 \n2,41,935 \n1,61,290 \n64,516 \n32,258 \nTotal \n \n30,60,000 \n17,81,329 \n8,10,987 2,01,486 2,66,197 \n \nTotal after Primary Distribution \nParticulars  \nTotal (`) \nFabrication \nAssembly \nStores \nMaintenance \nTotal \nOverheads  \n63,80,000 \n36,01330 \n17,70,987 \n5,01,486 \n5,06,197 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n \nRe-distribution of Service Departments’ Expenses (Step Method) \nParticulars \nBasis of \nApportionment \nProduction \nDepartment \nService Departments \nFabrication Assembly \nStores Maintenance \nOverheads \nas per \nPrimary \ndistribution \nAs per Primary \ndistribution \n36,01,330 \n17,70,987 \n5,01,486 \n5,06,197 \nMaintenance \nDepartment \nCost \nMaintenance \nHours (30:25:5:-) \n2,53,099 \n2,10,915 \n42,183 \n(5,06,197) \n \n \n38,54,429 \n19,81,902 \n5,43,669 \n--- \nStores \nDepartment \nNo. of Stores \nRequisition \n(5:2:-:-) \n3,88,335 \n1,55,334 (5,43,669) \n  \n \n \n42,42,764 \n21,37,236 \n--- \n--- \n(i)  \n(B)  ` 5,43,669 \nTotal overhead allocated from Stores Department \n= ` 5,43,669  \n(ii)  (C)  ` 5,06,197 \nTotal overhead allocated from Maintenance Department \n= ` 5,06,197  \n(iii)  (A)  ` 1.21 per machine hour   \n \nOverhead Recovery Rate - Fabrication Department \n \nBasis: Machine Hours = 35,00,000 \n \nRate = 42,42,764/35,00,000 = ` 1.21 per machine hour   \n(iv)  (D)  ` 0.71 per labour hour \nOverhead Recovery Rate - Assembly Department \nBasis: Labour Hours = 30,00,000 \nRate = 21,37,236/30,00,000 = ` 0.71 per labour hour \n\n \nINTERMEDIATE EXAMINATION \n \n \n22 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n(v)  (C)  ` 1,60,445 \n \nCalculation of Full Production Cost (Job AMS-101) \nParticulars \nAmount (`) \nDirect Materials \n1,50,000 \nDirect Labour: \n \n- \nFabrication Deptt. (300 hours × ` 20) \n6,000 \n- \nAssembly Deptt. (200 hours × ` 20) \n4,000 \nProduction Overheads: \n \n- \nFabrication Deptt. (250 hours × ` 1.21) \n303 \n- \nAssembly Deptt. (200 hours × ` 0.71) \n142 \nTotal Production Cost \n1,60,445"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

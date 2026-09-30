@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) XYZ Developers, a property development firm, has secured a short-term\nconstruction loan from ABC Bank to finance a residential project. Upon\ncompletion of the project, XYZ Developers plan to refinance this loan with a\nlong-term takeout loan from DEF Financial Institution. However, due to\ndelays in the project's completion, XYZ Developers face difficulties in\nrepaying the loan, and the bank classifies the loan as a Non-Performing Asset\n(NPA).\n\nWhat is the meaning and primary objective of takeout finance in property\ndevelopment, and how does the classification of a loan as a Non-Performing\nAsset (NPA) impact income recognition by the lending bank?\n(4 Marks)",
+  "suggested_answer": "(c)  Meaning of Take-out finance in property development: A takeout loan\nis a method of financing whereby a loan that is procured later is used to\nreplace the initial loan. More specifically, a takeout loan, or takeout\nfinancing, is long-term financing that the lender promises to provide at a\nparticular date or when particular criteria for completion of a project are\nmet. Takeout loans are commonly used in property development.\nObjective of Take-out finance in property development:\n(I) To expand sources of Finance for infrastructure projects by facilitating\nparticipation of new entities.\n(II) To address sectoral/group/entity exposure issues and asset liability in\nmis-match concerns of tenders.\n(III) To boost the availability of longer tenor debt finance for projects.\n\n20\n\nImpact of classification of loan as NPA on income recognition by\nlending bank: In the case of take-out ﬁnance, if based on record of\nrecovery, the account is classiﬁed by the lending bank as NPA, it should not\nrecognize income unless realised from the borrower/taking-over institution\n(if the arrangement so provides).",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q003_C",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 18,
+    "end": 20
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 18,
+    "page_end": 20,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) XYZ Developers, a property development firm, has secured a short-term\nconstruction loan from ABC Bank to finance a residential project. Upon\ncompletion of the project, XYZ Developers plan to refinance this loan with a\nlong-term takeout loan from DEF Financial Institution. However, due to\ndelays in the project's completion, XYZ Developers face difficulties in\nrepaying the loan, and the bank classifies the loan as a Non-Performing Asset\n(NPA).\n\nWhat is the meaning and primary objective of takeout finance in property\ndevelopment, and how does the classification of a loan as a Non-Performing\nAsset (NPA) impact income recognition by the lending bank?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Meaning of Take-out finance in property development: A takeout loan\nis a method of financing whereby a loan that is procured later is used to\nreplace the initial loan. More specifically, a takeout loan, or takeout\nfinancing, is long-term financing that the lender promises to provide at a\nparticular date or when particular criteria for completion of a project are\nmet. Takeout loans are commonly used in property development.\nObjective of Take-out finance in property development:\n(I) To expand sources of Finance for infrastructure projects by facilitating\nparticipation of new entities.\n(II) To address sectoral/group/entity exposure issues and asset liability in\nmis-match concerns of tenders.\n(III) To boost the availability of longer tenor debt finance for projects.\n\n20\n\nImpact of classification of loan as NPA on income recognition by\nlending bank: In the case of take-out ﬁnance, if based on record of\nrecovery, the account is classiﬁed by the lending bank as NPA, it should not\nrecognize income unless realised from the borrower/taking-over institution\n(if the arrangement so provides)."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Journalise the following transactions assuming that cost and financial\naccounts are integrated:\n(4 Marks)\nParticulars\nAmount (in `)\nWages paid (20% indirect)\n2,00,000\nSelling and Distribution Overheads incurred\n50,000\nDeficiency found in stock of Raw Material (Normal)\n80,000\nFactory Overheads (Under Absorbed)\n60,000",
+  "suggested_answer": "(b)  Journal Entries under Integrated system of accounting\nParticulars\n(`)\n(`)\n(i)  Work-in Progress Ledger Control A/c\nDr.\n1,60,000\n\nFactory Overhead control A/c\nDr.\n40,000\n\nTo Wages Control A/c\n\n2,00,000\n\n(Being allocation of Direct and Indirect wages)\n\n(ii)  Wages Control A/c\nDr.\n2,00,000\n\nTo Bank A/c\n\n2,00,000\n\n(Being wages paid)\n\n(iii) Cost of Sales A/c\nDr.\n50,000\n\nTo Selling & Distribution Overhead Control\n\nA/c\n\n50,000\n(Being selling & distribution overhead allocated)\n\n26\n(iv)  Selling & Distribution Overhead Control A/c\nDr.\n50,000\n\nTo Bank A/c\n\n50,000\n\n(Being selling & distribution overhead paid)\n\n(v)\nFactory overhead control A/c\nDr.\n80,000\n\nTo Stores Ledger Control A/c\n\n80,000\n(Being normal deficiency found in stock of raw\nmaterial)\n\n(vi) Costing Profit & Loss A/c\nDr.\n60,000\n\nTo Factory Overhead Control A/c\n\n60,000\n(Being transfer of under absorption of factory\noverhead)",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q005_B",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 26
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 24,
+    "page_end": 26,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Journalise the following transactions assuming that cost and financial\naccounts are integrated:\n(4 Marks)\nParticulars\nAmount (in `)\nWages paid (20% indirect)\n2,00,000\nSelling and Distribution Overheads incurred\n50,000\nDeficiency found in stock of Raw Material (Normal)\n80,000\nFactory Overheads (Under Absorbed)\n60,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Journal Entries under Integrated system of accounting\nParticulars\n(`)\n(`)\n(i)  Work-in Progress Ledger Control A/c\nDr.\n1,60,000\n\nFactory Overhead control A/c\nDr.\n40,000\n\nTo Wages Control A/c\n\n2,00,000\n\n(Being allocation of Direct and Indirect wages)\n\n(ii)  Wages Control A/c\nDr.\n2,00,000\n\nTo Bank A/c\n\n2,00,000\n\n(Being wages paid)\n\n(iii) Cost of Sales A/c\nDr.\n50,000\n\nTo Selling & Distribution Overhead Control\n\nA/c\n\n50,000\n(Being selling & distribution overhead allocated)\n\n26\n(iv)  Selling & Distribution Overhead Control A/c\nDr.\n50,000\n\nTo Bank A/c\n\n50,000\n\n(Being selling & distribution overhead paid)\n\n(v)\nFactory overhead control A/c\nDr.\n80,000\n\nTo Stores Ledger Control A/c\n\n80,000\n(Being normal deficiency found in stock of raw\nmaterial)\n\n(vi) Costing Profit & Loss A/c\nDr.\n60,000\n\nTo Factory Overhead Control A/c\n\n60,000\n(Being transfer of under absorption of factory\noverhead)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

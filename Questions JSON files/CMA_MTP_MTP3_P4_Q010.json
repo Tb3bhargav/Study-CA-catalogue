@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10.  \nWhat is the cost of sales? \n(A)  \n` 1,30,98,000 \n(B) \n` 1,25,98,000 \n(C) \n` 1,20,48,000 \n(D) \n` 1,28,90,000 \n(5 x 2 = 10 Marks)",
+  "suggested_answer": "(A) ` 1,30,98,000 Working Note: Calculation of Cost of Production of A Ltd. for the period….. Particulars Amount (`) Raw materials purchased 64,00,000 Add: Opening stock 2,88,000 Less: Closing stock (4,46,000) Material consumed 62,42,000.00 4 Wages paid 23,20,000.00 Prime cost 85,62,000.00 Repair and maintenance cost of plant & machinery 9,80,500.00 Insurance premium paid for inventories 26,000.00 Insurance premium paid for plant & machinery 96,000.00 Gross Work Cost 96,64,500.00 Add: Opening value of W-I-P 4,06,000.00 Less: Closing value of W-I-P (6,02,100) Work Cost 94,68,400.00 Quality control cost 86,000.00 Research & development cost 92,600.00 Administrative overheads related with factory and production 9,00,000.00 Less: Amount realised by selling scrap (9,200) Add: Primary packing cost 10,200.00 Cost of Production 1,05,48,000.00 Administrative overheads (Other) 11,60,000.00 Salary paid to Director (Technical) 8,90,000 Television programme sponsorship cost 5,00,000 Cost of Sales 1,30,98,000.00",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q010",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10.  \nWhat is the cost of sales? \n(A)  \n` 1,30,98,000 \n(B) \n` 1,25,98,000 \n(C) \n` 1,20,48,000 \n(D) \n` 1,28,90,000 \n(5 x 2 = 10 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) ` 1,30,98,000 Working Note: Calculation of Cost of Production of A Ltd. for the period….. Particulars Amount (`) Raw materials purchased 64,00,000 Add: Opening stock 2,88,000 Less: Closing stock (4,46,000) Material consumed 62,42,000.00 4 Wages paid 23,20,000.00 Prime cost 85,62,000.00 Repair and maintenance cost of plant & machinery 9,80,500.00 Insurance premium paid for inventories 26,000.00 Insurance premium paid for plant & machinery 96,000.00 Gross Work Cost 96,64,500.00 Add: Opening value of W-I-P 4,06,000.00 Less: Closing value of W-I-P (6,02,100) Work Cost 94,68,400.00 Quality control cost 86,000.00 Research & development cost 92,600.00 Administrative overheads related with factory and production 9,00,000.00 Less: Amount realised by selling scrap (9,200) Add: Primary packing cost 10,200.00 Cost of Production 1,05,48,000.00 Administrative overheads (Other) 11,60,000.00 Salary paid to Director (Technical) 8,90,000 Television programme sponsorship cost 5,00,000 Cost of Sales 1,30,98,000.00"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

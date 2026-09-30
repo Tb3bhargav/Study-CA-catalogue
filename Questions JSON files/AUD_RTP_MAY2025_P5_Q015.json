@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15. \nOn reviewing internal control over inventories as part of statutory audit \nof a company, auditor finds that physical verification is not being \nconducted at regular intervals as stipulated by the management. The \nauditor finds it to be significant deficiency in internal control over \ninventories. \nHe points it out to the management in a one-liner as under: - \n“Physical verification of inventories is not being conducted at regular \nintervals as stipulated by management.” \nIs above communication by auditor proper? Ignore statutory reporting \nrequirements, if any in this regard. \nChapter 8 - Audit Report",
+  "suggested_answer": "As per SA 265, “Communicating Deficiencies in Internal Control to Those \nCharged with Governance and Management”, while pointing out \nsignificant deficiencies in internal control, auditor has not only to \ncommunicate significant deficiencies giving their description but also \nexplain the potential effects and sufficient information to those charged \nwith \ngovernance \nand \nmanagement \nto \nunderstand \ncontext \nof \ncommunication.  \nIn the given situation, auditor noticed significant deficiency in internal \ncontrol over inventories and he pointed out the same to management \ni.e. “Physical verification of inventories is not being conducted at regular \nintervals as stipulated by management.” \n \nTherefore, the above communication is not proper. Not only significant \ndeficiency has to be communicated, it should also be explained to \nmanagement the potential effects of not carrying out physical \nverification of inventories at regular intervals as stipulated by \nmanagement. It should explain that such a significant deficiency can \nlead to misstatement of inventories impacting profits of the company. \nHighlighting the importance of such a control, it should be stated that \nresponsibility be fixed for concerned person(s) for adhering to such an \nimportant control.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q015",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nOn reviewing internal control over inventories as part of statutory audit \nof a company, auditor finds that physical verification is not being \nconducted at regular intervals as stipulated by the management. The \nauditor finds it to be significant deficiency in internal control over \ninventories. \nHe points it out to the management in a one-liner as under: - \n“Physical verification of inventories is not being conducted at regular \nintervals as stipulated by management.” \nIs above communication by auditor proper? Ignore statutory reporting \nrequirements, if any in this regard. \nChapter 8 - Audit Report"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "As per SA 265, “Communicating Deficiencies in Internal Control to Those \nCharged with Governance and Management”, while pointing out \nsignificant deficiencies in internal control, auditor has not only to \ncommunicate significant deficiencies giving their description but also \nexplain the potential effects and sufficient information to those charged \nwith \ngovernance \nand \nmanagement \nto \nunderstand \ncontext \nof \ncommunication.  \nIn the given situation, auditor noticed significant deficiency in internal \ncontrol over inventories and he pointed out the same to management \ni.e. “Physical verification of inventories is not being conducted at regular \nintervals as stipulated by management.” \n \nTherefore, the above communication is not proper. Not only significant \ndeficiency has to be communicated, it should also be explained to \nmanagement the potential effects of not carrying out physical \nverification of inventories at regular intervals as stipulated by \nmanagement. It should explain that such a significant deficiency can \nlead to misstatement of inventories impacting profits of the company. \nHighlighting the importance of such a control, it should be stated that \nresponsibility be fixed for concerned person(s) for adhering to such an \nimportant control."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

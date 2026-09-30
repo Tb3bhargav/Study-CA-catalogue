@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q003",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3. \nIn the case scenario, the audit team identified that: \n• \nthe new revenue recognition system could affect several items in the financial \nstatements simultaneously, and \n• \ninventory valuation and revenue transactions involved specific risks relating to \nparticular transactions and balances. \n \nBased on the engagement partner’s explanation in the case scenario, which of the \nfollowing correctly classifies these risks? \n(a)  \nBoth risks relate to the financial statement level only. \n3 \n(b)  \nBoth risks relate to assertion level risks only. \n(c)  \nThe first risk relates to financial statement level, while the second relates to \nassertion level risks. \n(d)  \nThe first risk relates to assertion level, while the second relates to financial \nstatement level risks. \nCase Scenario 2 [MCQs 4-7] \nDuring the audit of Saraswati University for the year ended 31 March 2025, the auditor examined \nvarious income streams and administrative expenses of the university. \nWhile reviewing student fee records for the July–September term, the auditor compared the \nClass Registers with the Students’ Fee Register. The Class Registers showed 620 students on \nroll, whereas the Students’ Fee Register reflected fee demands raised only for 590 students. \nFurther examination revealed that counterfoils of receipts issued during August totalled  \n` 12,40,000, while the Cash Book recorded fee collections of ` 11,90,000 for the same period. \nThe university also operates a hostel with 200 rooms. During the year, the average occupancy \nrate was 80%, and the hostel fee charged per student was ` 6,000 per month. However, the \nhostel income recorded in the books amounted to ` 1.80 crore.  \nDuring the audit of Saraswati University, the auditor applied analytical procedures to evaluate \nthe reasonableness of certain income statement balances. Instead of relying on prior period \ntrends, the auditor used non-financial data relating to the current audit period. To evaluate \nwhether the recorded hostel income appeared reasonable, the auditor used the occupancy rate \nand hostel fee structure to estimate the expected hostel income. \nWhile examining certain administrative expenses, the auditor analysed monthly trends for \nelectricity and fuel expenses. However, for travel expenses and repairs, supporting documents \nwere examined in detail. During this examination, it was noticed that ` 75,000 spent on purchase \nof an air conditioner for the administrative office had been recorded under “Repairs and \nMaintenance” and some travel claims were not approved according to the delegation of authority \nmatrix. \nOn the basis of above, answer the following MCQs (4-7)",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q003",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nIn the case scenario, the audit team identified that: \n• \nthe new revenue recognition system could affect several items in the financial \nstatements simultaneously, and \n• \ninventory valuation and revenue transactions involved specific risks relating to \nparticular transactions and balances. \n \nBased on the engagement partner’s explanation in the case scenario, which of the \nfollowing correctly classifies these risks? \n(a)  \nBoth risks relate to the financial statement level only. \n3 \n(b)  \nBoth risks relate to assertion level risks only. \n(c)  \nThe first risk relates to financial statement level, while the second relates to \nassertion level risks. \n(d)  \nThe first risk relates to assertion level, while the second relates to financial \nstatement level risks. \nCase Scenario 2 [MCQs 4-7] \nDuring the audit of Saraswati University for the year ended 31 March 2025, the auditor examined \nvarious income streams and administrative expenses of the university. \nWhile reviewing student fee records for the July–September term, the auditor compared the \nClass Registers with the Students’ Fee Register. The Class Registers showed 620 students on \nroll, whereas the Students’ Fee Register reflected fee demands raised only for 590 students. \nFurther examination revealed that counterfoils of receipts issued during August totalled  \n` 12,40,000, while the Cash Book recorded fee collections of ` 11,90,000 for the same period. \nThe university also operates a hostel with 200 rooms. During the year, the average occupancy \nrate was 80%, and the hostel fee charged per student was ` 6,000 per month. However, the \nhostel income recorded in the books amounted to ` 1.80 crore.  \nDuring the audit of Saraswati University, the auditor applied analytical procedures to evaluate \nthe reasonableness of certain income statement balances. Instead of relying on prior period \ntrends, the auditor used non-financial data relating to the current audit period. To evaluate \nwhether the recorded hostel income appeared reasonable, the auditor used the occupancy rate \nand hostel fee structure to estimate the expected hostel income. \nWhile examining certain administrative expenses, the auditor analysed monthly trends for \nelectricity and fuel expenses. However, for travel expenses and repairs, supporting documents \nwere examined in detail. During this examination, it was noticed that ` 75,000 spent on purchase \nof an air conditioner for the administrative office had been recorded under “Repairs and \nMaintenance” and some travel claims were not approved according to the delegation of authority \nmatrix. \nOn the basis of above, answer the following MCQs (4-7)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

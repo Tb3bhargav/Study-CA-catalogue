@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "11. \nIn an automated environment, General IT controls are policies and \nprocedures that relate to many applications and support the effective \nfunctioning of application controls. It includes access security as well as \nprogram change. What are the objectives and activities included in \naccess security and program change? \nChapter 4 - Audit Evidence",
+  "suggested_answer": "Access Security in Automated Environment:  \nThe objective of Access Security is to ensure that access to programs \nand data is authenticated and authorized to meet ﬁnancial reporting \nobjectives. \n \nActivities: \n(i) \nSecurity Organization & Management \n(ii) \nSecurity Policies & Procedures \n(iii) \nApplication Security \n(iv) \nData Security \n(v) \nOperating System Security \n(vi) \nNetwork Security  \n(vii) Physical Security \nProgram Change in Automated Environment:  \nThe objective of program change controls is to ensure that modified \nsystems continue to meet financial reporting objectives.  \nIt includes activities such as change in management process, recording, \nmanaging and tracking change requests, making and testing changes \netc. \n\n \nAUDITING AND ETHICS \n \n \n69 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q011",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nIn an automated environment, General IT controls are policies and \nprocedures that relate to many applications and support the effective \nfunctioning of application controls. It includes access security as well as \nprogram change. What are the objectives and activities included in \naccess security and program change? \nChapter 4 - Audit Evidence"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Access Security in Automated Environment:  \nThe objective of Access Security is to ensure that access to programs \nand data is authenticated and authorized to meet ﬁnancial reporting \nobjectives. \n \nActivities: \n(i) \nSecurity Organization & Management \n(ii) \nSecurity Policies & Procedures \n(iii) \nApplication Security \n(iv) \nData Security \n(v) \nOperating System Security \n(vi) \nNetwork Security  \n(vii) Physical Security \nProgram Change in Automated Environment:  \nThe objective of program change controls is to ensure that modified \nsystems continue to meet financial reporting objectives.  \nIt includes activities such as change in management process, recording, \nmanaging and tracking change requests, making and testing changes \netc. \n\n \nAUDITING AND ETHICS \n \n \n69 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

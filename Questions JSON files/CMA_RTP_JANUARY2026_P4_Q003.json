@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3.  \nA manufacturing company has set the standard cost for producing one \nunit of its product as follows: \n• \nDirect Material: 10 kg @ ` 5/kg \n• \nDirect Labour: 4 hours @ ` 20/hour \n• \nVariable Overhead: 4 hours @ ` 5/hour \n• \nFixed Overhead: ` 10 per unit (based on normal output of 5,000 \nunits) \n \nDuring a particular month, the company produced 4,800 units. The \nactual results were: \n• \nDirect Material Used: 49,000 kg costing ` 2,45,000 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n7 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n• \nDirect Labour: 19,200 hours costing ` 3,84,000 \n• \nVariable Overhead Incurred: ` 95,000 \n• \nFixed Overhead Incurred: ` 52,000 \n \nBased on this information, which of the following statements is most \naccurate? \n(A)  The material usage variance is ` 5,000 (Favourable) \n(B)  \nThe labour rate variance is ` 19,200 (Adverse) \n(C)  The labour rate variance is ` 19,200 (Favourable) \n(D)  The fixed overhead volume variance is ` 2,000 (Adverse)",
+  "suggested_answer": "(D) The fixed overhead volume variance is ` 2,000 (Adverse) Material Usage Variance (MUV) = (Standard Quantity - Actual Quantity) × Standard Price = (48,000-49,000) × ` 5 = (-1,000) × ` 5 = ` 5,000 (Adverse) INTERMEDIATE EXAMINATION 28 REVISION TEST PAPERS JANUARY 2026 EXAMINATION Labour Rate Variance (LRV) = (Standard Rate - Actual Rate) × Actual Hours = (` 20 - ` 20) × 19,200 = ` 0 Fixed Overhead Volume Variance = (Actual Output – Budgeted Output) × Standard FOH rate per unit = (4,800 – 5,000) × ` 10 = ` 2,000 Adverse",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q003",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3.  \nA manufacturing company has set the standard cost for producing one \nunit of its product as follows: \n• \nDirect Material: 10 kg @ ` 5/kg \n• \nDirect Labour: 4 hours @ ` 20/hour \n• \nVariable Overhead: 4 hours @ ` 5/hour \n• \nFixed Overhead: ` 10 per unit (based on normal output of 5,000 \nunits) \n \nDuring a particular month, the company produced 4,800 units. The \nactual results were: \n• \nDirect Material Used: 49,000 kg costing ` 2,45,000 \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n7 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n• \nDirect Labour: 19,200 hours costing ` 3,84,000 \n• \nVariable Overhead Incurred: ` 95,000 \n• \nFixed Overhead Incurred: ` 52,000 \n \nBased on this information, which of the following statements is most \naccurate? \n(A)  The material usage variance is ` 5,000 (Favourable) \n(B)  \nThe labour rate variance is ` 19,200 (Adverse) \n(C)  The labour rate variance is ` 19,200 (Favourable) \n(D)  The fixed overhead volume variance is ` 2,000 (Adverse)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) The fixed overhead volume variance is ` 2,000 (Adverse) Material Usage Variance (MUV) = (Standard Quantity - Actual Quantity) × Standard Price = (48,000-49,000) × ` 5 = (-1,000) × ` 5 = ` 5,000 (Adverse) INTERMEDIATE EXAMINATION 28 REVISION TEST PAPERS JANUARY 2026 EXAMINATION Labour Rate Variance (LRV) = (Standard Rate - Actual Rate) × Actual Hours = (` 20 - ` 20) × 19,200 = ` 0 Fixed Overhead Volume Variance = (Actual Output – Budgeted Output) × Standard FOH rate per unit = (4,800 – 5,000) × ` 10 = ` 2,000 Adverse"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

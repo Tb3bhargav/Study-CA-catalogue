@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "3. \nOut of total selling overheads, ` 90,000 relates to advertising \nexpenses, which are incurred only for Beta and Gamma, as these \nproducts face stiff competition in the market.",
+  "suggested_answer": "(A) ` 1,19,880 Equivalent Units = 100% of 1665 + 40% of 150 units = 1665 + 60 = 1,725 units Cost per unit = (` 10,020+ ` 1,14,180) ÷ 1,725 = ` 72 per unit Cost of Completed units in the process: = 1665 × 72 = ` 1,19,880",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q003",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nOut of total selling overheads, ` 90,000 relates to advertising \nexpenses, which are incurred only for Beta and Gamma, as these \nproducts face stiff competition in the market."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) ` 1,19,880 Equivalent Units = 100% of 1665 + 40% of 150 units = 1665 + 60 = 1,725 units Cost per unit = (` 10,020+ ` 1,14,180) ÷ 1,725 = ` 72 per unit Cost of Completed units in the process: = 1665 × 72 = ` 1,19,880"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

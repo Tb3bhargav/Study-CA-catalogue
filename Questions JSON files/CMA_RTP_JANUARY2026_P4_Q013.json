@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "13.  A manufacturing company follows a job costing system. The following \ndata is extracted from its books for the year ended 31st March, 2025: \nParticulars \nAmount (`) \nDirect Materials \n12,50,000 \nDirect Wages \n9,80,000 \nSelling & Distribution Overheads (Variable: 60%, \nFixed: 40%) \n6,30,000 \nAdministration Overheads (Fixed) \n5,40,000 \nFactory Overheads (70% Fixed, 30% Variable) \n5,75,000 \nProfit \n8,25,000 \nAdditional Information:",
+  "suggested_answer": "Production Statement \n \nFor the Year Ended 31st March 2025 \nParticulars \nAmount (`) \nDirect Materials \n12,50,000 \nDirect Wages \n9,80,000 \nPrime Cost \n22,30,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n40 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nFactory Overheads \n5,75,000 \nCost of Production (COP) \n28,05,000 \nAdministration Overheads \n5,40,000 \nSelling & Distribution Overheads \n6,30,000 \nCost of Sales \n39,75,000 \nProfit \n8,25,000 \nSales Value \n48,00,000 \nCalculation of Rates (2025-26)",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q013",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Job Costing",
+    "topic": "Job Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13.  A manufacturing company follows a job costing system. The following \ndata is extracted from its books for the year ended 31st March, 2025: \nParticulars \nAmount (`) \nDirect Materials \n12,50,000 \nDirect Wages \n9,80,000 \nSelling & Distribution Overheads (Variable: 60%, \nFixed: 40%) \n6,30,000 \nAdministration Overheads (Fixed) \n5,40,000 \nFactory Overheads (70% Fixed, 30% Variable) \n5,75,000 \nProfit \n8,25,000 \nAdditional Information:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Production Statement \n \nFor the Year Ended 31st March 2025 \nParticulars \nAmount (`) \nDirect Materials \n12,50,000 \nDirect Wages \n9,80,000 \nPrime Cost \n22,30,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n40 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nFactory Overheads \n5,75,000 \nCost of Production (COP) \n28,05,000 \nAdministration Overheads \n5,40,000 \nSelling & Distribution Overheads \n6,30,000 \nCost of Sales \n39,75,000 \nProfit \n8,25,000 \nSales Value \n48,00,000 \nCalculation of Rates (2025-26)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

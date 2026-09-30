@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q001",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \nCalculate the total purchase cost for each material (Apple, Orange, \nand Grape) under the following two options: \n(a)  \nPurchase from Wholesale Supplier \n(b)  \nPurchase from Farmers/Import",
+  "suggested_answer": "(i)  \n(C)  `22,89,250 \n(ii)  (A)  `44,71,885 \n(iii)  (B)  `5.576 \n(iv)  (D)  `10,37,400 \n(v)  (C)  15,15,571 ton-km \nOperating Cost Sheet for the month \nParticulars \nAmount (`) \nA. Fixed Charges: \n \n \nTransport Manager’s Salary (55% x `75,000) \n41,250 \n \nDriver Salaries (32 x `22,000) \n7,04,000 \n \nHelper Wages (28 x `13,000) \n3,64,000 \n \nGPS Subscription (24 x `2,000) \n48,000 \n \nDriver Safety & Training Programmes \n80,000 \n \nInsurance (`9,60,000 ÷ 12) \n80,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n \nRoad Licence Fee (`5,40,000 ÷ 12) \n45,000 \n \nGarage Rent (`10,80,000 ÷ 12) \n90,000 \n \nElectricity & Utility Expenses \n62,000 \n \nDepreciation on Vehicles \n6,80,000 \n \nWorkshop Repairs (Apportioned) \n95,000 \n \nTotal Fixed Costs \n22,89,250 \nB. Variable Charges: \n  \n \nLoading & Unloading Charges (WN.1) \n10,37,400 \n \nToll Charges (W.N.2) \n2,73,000 \n \nDiesel Cost (W.N.3) \n24,01,485 \n \nLubricants & Oils \n1,30,000 \n \nTyres, Tubes, Spare Parts \n4,80,000 \n \nConsumable Stores \n1,50,000 \n \nTotal Variable Costs \n44,71,885 \nC. Total Cost (A + B) \n67,61,135 \nD. Total Ton-Kms. (W. N. 4) \n15,15,571 \nE. \nCost per ton-km. (C ÷ D) \n4.461 \nCalculation of Chargeable Freight \nCost per ton-km.  \n` 4.461 \nAdd: Profit @ 20% on freight or 25% on cost \n` 1.115 \nChargeable freight per ton-km. \n` 5.576 \nWorking Notes:",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q001",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \nCalculate the total purchase cost for each material (Apple, Orange, \nand Grape) under the following two options: \n(a)  \nPurchase from Wholesale Supplier \n(b)  \nPurchase from Farmers/Import"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i)  \n(C)  `22,89,250 \n(ii)  (A)  `44,71,885 \n(iii)  (B)  `5.576 \n(iv)  (D)  `10,37,400 \n(v)  (C)  15,15,571 ton-km \nOperating Cost Sheet for the month \nParticulars \nAmount (`) \nA. Fixed Charges: \n \n \nTransport Manager’s Salary (55% x `75,000) \n41,250 \n \nDriver Salaries (32 x `22,000) \n7,04,000 \n \nHelper Wages (28 x `13,000) \n3,64,000 \n \nGPS Subscription (24 x `2,000) \n48,000 \n \nDriver Safety & Training Programmes \n80,000 \n \nInsurance (`9,60,000 ÷ 12) \n80,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n24 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\n \nRoad Licence Fee (`5,40,000 ÷ 12) \n45,000 \n \nGarage Rent (`10,80,000 ÷ 12) \n90,000 \n \nElectricity & Utility Expenses \n62,000 \n \nDepreciation on Vehicles \n6,80,000 \n \nWorkshop Repairs (Apportioned) \n95,000 \n \nTotal Fixed Costs \n22,89,250 \nB. Variable Charges: \n  \n \nLoading & Unloading Charges (WN.1) \n10,37,400 \n \nToll Charges (W.N.2) \n2,73,000 \n \nDiesel Cost (W.N.3) \n24,01,485 \n \nLubricants & Oils \n1,30,000 \n \nTyres, Tubes, Spare Parts \n4,80,000 \n \nConsumable Stores \n1,50,000 \n \nTotal Variable Costs \n44,71,885 \nC. Total Cost (A + B) \n67,61,135 \nD. Total Ton-Kms. (W. N. 4) \n15,15,571 \nE. \nCost per ton-km. (C ÷ D) \n4.461 \nCalculation of Chargeable Freight \nCost per ton-km.  \n` 4.461 \nAdd: Profit @ 20% on freight or 25% on cost \n` 1.115 \nChargeable freight per ton-km. \n` 5.576 \nWorking Notes:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

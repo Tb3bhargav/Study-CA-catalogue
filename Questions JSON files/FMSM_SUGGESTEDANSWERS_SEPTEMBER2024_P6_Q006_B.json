@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2024_P6_Q006_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 6,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Value Chain Analysis consist two activities: Primary activities and Support\nactivities. As per Michael Porter both the activities are intertwined. Do you\nagree with the statement? Also delineate the main areas in which primary\nactivities of any organization are grouped.\n(5 Marks)",
+  "suggested_answer": "(b) Yes, I agree with the statement that Value Chain Analysis consist of two\nactivities: Primary activities and Support activities. As per Michael Porter\nboth the activities are intertwined. It is a tool used to examine the\nactivities that create value in an organization, helping to enhance\nefficiency and build competitive advantage. It breaks down a business’s\noperations to identify areas for improvement in value creation.\n\nThe primary activities of an organization are categorized into five areas:\n1.\nInbound logistics: Activities related to receiving, storing, and\ndistributing inputs (e.g., materials handling, stock control, and\ntransport).\n2.\nOperations: Transforming inputs into final products or services (e.g.,\nmachining, packaging, assembly).\n3.\nOutbound logistics: Collecting, storing, and delivering products to\ncustomers (e.g., warehousing, transport).\n4.\nMarketing and sales: Promoting and selling the product or service,\nincluding advertising and sales administration.\n5.\nService: Enhancing or maintaining product value (e.g., installation,\nrepair, training).",
+  "marks": "(5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2024_P6_Q006_B",
+  "source_filename": "83077bos67152-6.pdf",
+  "source_pdf": "suggested_answers/83077bos67152-6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 29,
+    "end": 30
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "6(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83077bos67152-6.pdf",
+      "answer_pdf": "suggested_answers/83077bos67152-6.pdf"
+    },
+    "page_start": 29,
+    "page_end": 30,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Value Chain Analysis consist two activities: Primary activities and Support\nactivities. As per Michael Porter both the activities are intertwined. Do you\nagree with the statement? Also delineate the main areas in which primary\nactivities of any organization are grouped.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Yes, I agree with the statement that Value Chain Analysis consist of two\nactivities: Primary activities and Support activities. As per Michael Porter\nboth the activities are intertwined. It is a tool used to examine the\nactivities that create value in an organization, helping to enhance\nefficiency and build competitive advantage. It breaks down a business’s\noperations to identify areas for improvement in value creation.\n\nThe primary activities of an organization are categorized into five areas:\n1.\nInbound logistics: Activities related to receiving, storing, and\ndistributing inputs (e.g., materials handling, stock control, and\ntransport).\n2.\nOperations: Transforming inputs into final products or services (e.g.,\nmachining, packaging, assembly).\n3.\nOutbound logistics: Collecting, storing, and delivering products to\ncustomers (e.g., warehousing, transport).\n4.\nMarketing and sales: Promoting and selling the product or service,\nincluding advertising and sales administration.\n5.\nService: Enhancing or maintaining product value (e.g., installation,\nrepair, training)."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

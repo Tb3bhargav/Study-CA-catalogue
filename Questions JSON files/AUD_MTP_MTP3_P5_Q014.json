@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.  \nCDE Ltd. is engaged in manufacturing and has a turnover of ` 500 crores. During the \naudit, for the year ending on 31st March 2025, the auditor, CA R determined materiality \nat the planning stage based on a percentage of profit before tax. During the course of \naudit, certain misstatements were identified, individually immaterial but collectively \napproaching the materiality threshold. Further, management refused to correct some of \nthese misstatements. \n \nAt the completion stage, CA R re-evaluated materiality considering revised financial \nresults and assessed the impact of uncorrected misstatements before forming the audit \nopinion. \n \nWhich of the following statements correctly reflects the application of materiality as per \nSA 320? \n(a)  \nMateriality is determined only at the planning stage and cannot be revised later. \n(b)  \nOnly individually material misstatements need to be considered by the auditor. \n(c)  \nMateriality is applied in planning, performing, and evaluating the audit, including \nassessing uncorrected misstatements. \n(d)  \nOnce management refuses to correct misstatements, the auditor must \nautomatically issue a qualified opinion.",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q014",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.  \nCDE Ltd. is engaged in manufacturing and has a turnover of ` 500 crores. During the \naudit, for the year ending on 31st March 2025, the auditor, CA R determined materiality \nat the planning stage based on a percentage of profit before tax. During the course of \naudit, certain misstatements were identified, individually immaterial but collectively \napproaching the materiality threshold. Further, management refused to correct some of \nthese misstatements. \n \nAt the completion stage, CA R re-evaluated materiality considering revised financial \nresults and assessed the impact of uncorrected misstatements before forming the audit \nopinion. \n \nWhich of the following statements correctly reflects the application of materiality as per \nSA 320? \n(a)  \nMateriality is determined only at the planning stage and cannot be revised later. \n(b)  \nOnly individually material misstatements need to be considered by the auditor. \n(c)  \nMateriality is applied in planning, performing, and evaluating the audit, including \nassessing uncorrected misstatements. \n(d)  \nOnce management refuses to correct misstatements, the auditor must \nautomatically issue a qualified opinion."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

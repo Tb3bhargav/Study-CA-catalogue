@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2026_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15. \nABC & Co., Chartered Accountants is conducting the statutory audit of a \nlisted company having multiple locations and a large engagement team. \nThe audit involves extensive planning, supervision, review of work \nperformed by assistants and is also subject to quality control review by \nthe firm as well as possible inspection by regulatory authorities. \n \nDuring the audit, the engagement partner emphasises the need for \nproper and comprehensive audit documentation. \n \nWith reference to above, explain the purpose served by audit \ndocumentation for the auditor and the engagement team. \nChapter 7 - Completion and Review",
+  "suggested_answer": "The following are the purpose of Audit documentation:",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2026_P5_Q015",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nABC & Co., Chartered Accountants is conducting the statutory audit of a \nlisted company having multiple locations and a large engagement team. \nThe audit involves extensive planning, supervision, review of work \nperformed by assistants and is also subject to quality control review by \nthe firm as well as possible inspection by regulatory authorities. \n \nDuring the audit, the engagement partner emphasises the need for \nproper and comprehensive audit documentation. \n \nWith reference to above, explain the purpose served by audit \ndocumentation for the auditor and the engagement team. \nChapter 7 - Completion and Review"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The following are the purpose of Audit documentation:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

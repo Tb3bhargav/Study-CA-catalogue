@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q004",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "4.  \nIn a chemical processing unit, materials are added at the beginning of \nthe process. During the month, the department reported 9,200 \nequivalent units of production (EUP) under the FIFO method. \n \nThe process had an opening WIP of 800 units, which were 50% \ncomplete, and a closing WIP of 900 units, which were 70% complete with \nrespect to conversion costs. \n \nDuring the month, the plant also faced a minor machine breakdown, but \nit did not affect the material input, only the processing speed. \n \nBased on the above information, the number of units completed during \nthe month was: \n(A)  9,100 \n(B)  \n8,970 \n(C)  8,450 \n(D)  8,650 \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n7 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS",
+  "suggested_answer": "(B) 8,970 Statement of Equivalent Production Units (Under FIFO Method) Particulars Output units Equivalent Production (%) Equivalent units From opening W-I-P 800 50 400 Units Started & Completed X-800 100 X-800 Units completed (Transferred to next process) X - Closing W-I-P 900 70 630 Y 9,200 INTERMEDIATE EXAMINATION 28 REVISION TEST PAPERS MAY 2026 EXAMINATION X - 800 + 1030 = 9,200 X + 230 = 9,200 X = 8,970",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q004",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Process & Operation Costing",
+    "topic": "Process & Operation Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "4",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.  \nIn a chemical processing unit, materials are added at the beginning of \nthe process. During the month, the department reported 9,200 \nequivalent units of production (EUP) under the FIFO method. \n \nThe process had an opening WIP of 800 units, which were 50% \ncomplete, and a closing WIP of 900 units, which were 70% complete with \nrespect to conversion costs. \n \nDuring the month, the plant also faced a minor machine breakdown, but \nit did not affect the material input, only the processing speed. \n \nBased on the above information, the number of units completed during \nthe month was: \n(A)  9,100 \n(B)  \n8,970 \n(C)  8,450 \n(D)  8,650 \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n7 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) 8,970 Statement of Equivalent Production Units (Under FIFO Method) Particulars Output units Equivalent Production (%) Equivalent units From opening W-I-P 800 50 400 Units Started & Completed X-800 100 X-800 Units completed (Transferred to next process) X - Closing W-I-P 900 70 630 Y 9,200 INTERMEDIATE EXAMINATION 28 REVISION TEST PAPERS MAY 2026 EXAMINATION X - 800 + 1030 = 9,200 X + 230 = 9,200 X = 8,970"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

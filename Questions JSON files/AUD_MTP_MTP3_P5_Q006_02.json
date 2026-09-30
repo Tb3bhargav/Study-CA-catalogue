@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q006_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nTrade associations complained that the Society’s pricing practices were \ndistorting the agricultural export market. \n \nOn the basis of preliminary inquiry, the Central Government is considering to \ndirect a special audit of the Society. \n(a)  \nExamine whether the Central Government is empowered to order a special \naudit in the above case. \n(b)  \nState the statutory provisions governing such power. \n(c)  \nConclude whether invocation of Section 77 is justified in the given case. \n \n(4 Marks)",
+  "suggested_answer": "Verify if accrual/ provision has been made for all employee beneﬁts and \nobligations like bonus, gratuity, leave encashment, etc. \n15",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP3_P5_Q006_02",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 14,
+    "end": 14
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 14,
+    "page_end": 14,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nTrade associations complained that the Society’s pricing practices were \ndistorting the agricultural export market. \n \nOn the basis of preliminary inquiry, the Central Government is considering to \ndirect a special audit of the Society. \n(a)  \nExamine whether the Central Government is empowered to order a special \naudit in the above case. \n(b)  \nState the statutory provisions governing such power. \n(c)  \nConclude whether invocation of Section 77 is justified in the given case. \n \n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Verify if accrual/ provision has been made for all employee beneﬁts and \nobligations like bonus, gratuity, leave encashment, etc. \n15"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

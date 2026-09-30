@@ -1,0 +1,64 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q001_01",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "Question 1\n(a) The capital structure of RSA Limited is as under:\n\n(`)\nEquity Shares (` 10 per share)\n1,00,00,000\n8% Irredeemable Preference Shares (`100 per share)\n5,00,00,000\n\nAdditional Information:\n(i)  Equity shares are quoted at ` 60 each and a new issue priced at ` 60 will\nbe fully subscribed; flotation cost will be ` 4 per share.\n(ii)  Issue price of the 8% Irredeemable preference shares was ` 45.\n(iii)  Current market price of the 8% irredeemable preference shares is ` 55.\n\nRSA Limited has been paying dividend to its equity shareholders at a constant\ngrowth rate of 5% per year and the dividend paid this year was\n` 2 per equity share.\nYou are required to calculate:\n(i)  The cost of equity using Gordon's model\n(ii)  The cost of the irredeemable preference share\n(iii)  The weighted average cost of capital using market value weights.\n\n(2 + 1 + 2 = 5 Marks)\n(b)  Diwan Limited has outlined its financial projections for the fiscal year\n2025-26. The company plans to utilize total assets amounting to\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n9\n` 50,00,000, with 35% of assets financed through debt at interest rate of\n10.50% per annum. Projected sales revenue is ` 55,00,000. Direct costs are\nestimated at ` 30,00,000 and other operating expenses are estimated at\n` 4,80,000. The applicable tax rate is 33%\nYou are required to calculate:\n(i)  Profit After Tax (PAT)\n(ii)  Net profit margin (After tax)\n(iii)  Return on Assets (After tax)\n(iv)  Asset turnover ratio\n(v)  Return on Equity\n(1 x 5 = 5 Marks)\n(c)  Global Beverage Corporation is considering replacing one of its bottling\nmachines with a newer and more efficient model. The existing machine was\npurchased five years ago for ` 16,00,000 and has a total useful life of ten\nyears. Currently, the company can sell this machine for ` 9,60,000. The new\nmachine costs ` 32,00,000 having an estimated salvage value of ` 3,20,000\nand a useful life of five years. With the new machine, annual contribution\nmargin is projected to increase from ` 16,00,000 to ` 18,40,000 and\noperating efficiencies are expected to yield further annual savings of\n` 3,20,000. Depreciation is calculated on a straight-line method over the\nmachine's five-year life. The company's cost of capital is 12% and corporate\ntax rate is 33%.\n\nYou are required to calculate the Net Present Value of new machine.\n\nGiven: PVIFA0.12,5 is 3.605 and PVIF0.12,5 is 0.567\n(5 Marks)",
+  "suggested_answer": "(a)  (i)  Ke\n=\n1\nD\n+g\nP -F\n0\n\n= 2(1 0.05)\n5\n+\n+\n60-4\n\n= 8.75%\n(ii)  KP\n=\n0\nPD\nP\n\n10\n\n= 8\n45\n\n= 17.78%\n(iii)  Calculation of WACC using market value weights\nSource of\ncapital\nMarket\nValue\nWeights\nCost\nof\ncapital\nWACC (Ko)\n(`)\n(a)\n(b)\n(c) = (a)×(b)\nEquity shares\n6,00,00,000\n0.6857\n0.0875\n0.0600\nPreference\nshares\n2,75,00,000\n0.3143\n0.1778\n0.0559\n\n8,75,00,000\n1\n\n0.1159\nWACC (Ko) = 0.1159% or 11.59%\nIf P0 is taken as current market price for calculation of preference share\n(ii)  KP\n=\n0\nPD\nP\n\n= 8\n55\n\n= 14.55%\n(iii)  Calculation of WACC using market value weights\nSource of\ncapital\nMarket\nValue\nWeights\nCost of\ncapital\nWACC (Ko)\n(`)\n(a)\n(b)\n(c) = (a)×(b)\nEquity shares\n6,00,00,000\n0.6857\n0.0875\n0.06\nPreference\nshares\n2,75,00,000\n0.3143\n0.1455\n0.0457\n\n8,75,00,000\n1\n\n0.1057\nWACC (Ko) = 0.1057% or 10.57%\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n11\n(b)  (i) Income Statement\nParticulars\n(`)\nSales\n55,00,000\nLess: Direct Cost\n30,00,000\nGross Profit\n25,00,000\nLess: Operating Expenses\n4,80,000\nEBIT\n20,20,000\nLess: Interest (50,00,000 x 35% x 10.5%)\n1,83,750\nProfit Before Tax\n18,36,250\nLess: Tax @ 33%\n6,05,963\nProfit After Tax\n12,30,287\n(ii)  Net Profit Margin after tax = Net Profit after taxes\nSales\n\n=  12,30,287\n55,00,000\n= 22.37%\nOR\n\n= EBIT(1 t)\n−\nSales\n\n= 20,20,000 (1-0.33)\n55,00,000\n= 24.61%\n(iii)  Return on Assets (ROA)\n=\nEBIT(1\nt)\n−\nAverage total assets\n\n= 20,20,000 (1-0.33)\n50,00,000\n= 27.07%\n(iv)  Asset turnover\n\n= Sales\nAssets\n= 55,00,000\n50,00,000 = 1.1 times\n(v)  Return on equity\n\n= Net Profit after taxes\nOwners' equity\n\n12\n\n=\n`\n`\n12,30,287\n65% of  50,00,000\n\n= 12,30,287\n32,50,000 = 37.85%\n(c)  Calculation of Net Initial Cash Outflows:\nParticulars\n`\nCost of new machine\n32,00,000\nLess: Sale proceeds of existing machine\n(9,60,000)\nAdd: Tax paid on sale of existing machine {(9,60,000 –\n8,00,000) x 33%}\n52,800\nNet initial cash outflows\n22,92,800\nCalculation of Net Present Value of new machine\nParticulars\n`\nIncremental Contribution\n2,40,000\nAdd: Cost saving\n3,20,000\nSavings\n5,60,000\nLess: Incremental Depreciation {5,76,000-1,60,000)\n4,16,000\nIncremental Profit Before Tax\n1,44,000\nLess: Tax @ 33%\n47,520\nProfit After Tax\n96,480\nAdd: Depreciation\n4,16,000\nCash Inflow\n5,12,480\nPVIFA\n3.605\nPV of Cash Inflow\n18,47,490\nAdd: PV of Salvage Value of new machine (` 3,20,000 x\n0.567)\n1,81,440\nTotal PV of Cash Inflow\n20,28,930\nLess: Initial Cash Outflow\n22,92,800\nNPV\n(2,63,870)\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n13\n\nIf Tax on sale of existing machine is not taken\n\nCalculation of Net Initial Cash Outflows:\nParticulars\n`\nCost of new machine\n32,00,000\nLess: Sale proceeds of existing machine\n(9,60,000)\nNet initial cash outflows\n22,40,000\n\nAccordingly, NPV Will be ` 20,28,930 - ` 22,40,000 = (` 2,11,070)",
+  "marks": "(5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q001",
+  "source_filename": "89275bos-aps3012-int-p6.pdf",
+  "source_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "1",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+      "answer_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+      "duplicate_suffix": 1
+    },
+    "page_start": 8,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Question 1\n(a) The capital structure of RSA Limited is as under:\n\n(`)\nEquity Shares (` 10 per share)\n1,00,00,000\n8% Irredeemable Preference Shares (`100 per share)\n5,00,00,000\n\nAdditional Information:\n(i)  Equity shares are quoted at ` 60 each and a new issue priced at ` 60 will\nbe fully subscribed; flotation cost will be ` 4 per share.\n(ii)  Issue price of the 8% Irredeemable preference shares was ` 45.\n(iii)  Current market price of the 8% irredeemable preference shares is ` 55.\n\nRSA Limited has been paying dividend to its equity shareholders at a constant\ngrowth rate of 5% per year and the dividend paid this year was\n` 2 per equity share.\nYou are required to calculate:\n(i)  The cost of equity using Gordon's model\n(ii)  The cost of the irredeemable preference share\n(iii)  The weighted average cost of capital using market value weights.\n\n(2 + 1 + 2 = 5 Marks)\n(b)  Diwan Limited has outlined its financial projections for the fiscal year\n2025-26. The company plans to utilize total assets amounting to\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n9\n` 50,00,000, with 35% of assets financed through debt at interest rate of\n10.50% per annum. Projected sales revenue is ` 55,00,000. Direct costs are\nestimated at ` 30,00,000 and other operating expenses are estimated at\n` 4,80,000. The applicable tax rate is 33%\nYou are required to calculate:\n(i)  Profit After Tax (PAT)\n(ii)  Net profit margin (After tax)\n(iii)  Return on Assets (After tax)\n(iv)  Asset turnover ratio\n(v)  Return on Equity\n(1 x 5 = 5 Marks)\n(c)  Global Beverage Corporation is considering replacing one of its bottling\nmachines with a newer and more efficient model. The existing machine was\npurchased five years ago for ` 16,00,000 and has a total useful life of ten\nyears. Currently, the company can sell this machine for ` 9,60,000. The new\nmachine costs ` 32,00,000 having an estimated salvage value of ` 3,20,000\nand a useful life of five years. With the new machine, annual contribution\nmargin is projected to increase from ` 16,00,000 to ` 18,40,000 and\noperating efficiencies are expected to yield further annual savings of\n` 3,20,000. Depreciation is calculated on a straight-line method over the\nmachine's five-year life. The company's cost of capital is 12% and corporate\ntax rate is 33%.\n\nYou are required to calculate the Net Present Value of new machine.\n\nGiven: PVIFA0.12,5 is 3.605 and PVIF0.12,5 is 0.567\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)  Ke\n=\n1\nD\n+g\nP -F\n0\n\n= 2(1 0.05)\n5\n+\n+\n60-4\n\n= 8.75%\n(ii)  KP\n=\n0\nPD\nP\n\n10\n\n= 8\n45\n\n= 17.78%\n(iii)  Calculation of WACC using market value weights\nSource of\ncapital\nMarket\nValue\nWeights\nCost\nof\ncapital\nWACC (Ko)\n(`)\n(a)\n(b)\n(c) = (a)×(b)\nEquity shares\n6,00,00,000\n0.6857\n0.0875\n0.0600\nPreference\nshares\n2,75,00,000\n0.3143\n0.1778\n0.0559\n\n8,75,00,000\n1\n\n0.1159\nWACC (Ko) = 0.1159% or 11.59%\nIf P0 is taken as current market price for calculation of preference share\n(ii)  KP\n=\n0\nPD\nP\n\n= 8\n55\n\n= 14.55%\n(iii)  Calculation of WACC using market value weights\nSource of\ncapital\nMarket\nValue\nWeights\nCost of\ncapital\nWACC (Ko)\n(`)\n(a)\n(b)\n(c) = (a)×(b)\nEquity shares\n6,00,00,000\n0.6857\n0.0875\n0.06\nPreference\nshares\n2,75,00,000\n0.3143\n0.1455\n0.0457\n\n8,75,00,000\n1\n\n0.1057\nWACC (Ko) = 0.1057% or 10.57%\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n11\n(b)  (i) Income Statement\nParticulars\n(`)\nSales\n55,00,000\nLess: Direct Cost\n30,00,000\nGross Profit\n25,00,000\nLess: Operating Expenses\n4,80,000\nEBIT\n20,20,000\nLess: Interest (50,00,000 x 35% x 10.5%)\n1,83,750\nProfit Before Tax\n18,36,250\nLess: Tax @ 33%\n6,05,963\nProfit After Tax\n12,30,287\n(ii)  Net Profit Margin after tax = Net Profit after taxes\nSales\n\n=  12,30,287\n55,00,000\n= 22.37%\nOR\n\n= EBIT(1 t)\n−\nSales\n\n= 20,20,000 (1-0.33)\n55,00,000\n= 24.61%\n(iii)  Return on Assets (ROA)\n=\nEBIT(1\nt)\n−\nAverage total assets\n\n= 20,20,000 (1-0.33)\n50,00,000\n= 27.07%\n(iv)  Asset turnover\n\n= Sales\nAssets\n= 55,00,000\n50,00,000 = 1.1 times\n(v)  Return on equity\n\n= Net Profit after taxes\nOwners' equity\n\n12\n\n=\n`\n`\n12,30,287\n65% of  50,00,000\n\n= 12,30,287\n32,50,000 = 37.85%\n(c)  Calculation of Net Initial Cash Outflows:\nParticulars\n`\nCost of new machine\n32,00,000\nLess: Sale proceeds of existing machine\n(9,60,000)\nAdd: Tax paid on sale of existing machine {(9,60,000 –\n8,00,000) x 33%}\n52,800\nNet initial cash outflows\n22,92,800\nCalculation of Net Present Value of new machine\nParticulars\n`\nIncremental Contribution\n2,40,000\nAdd: Cost saving\n3,20,000\nSavings\n5,60,000\nLess: Incremental Depreciation {5,76,000-1,60,000)\n4,16,000\nIncremental Profit Before Tax\n1,44,000\nLess: Tax @ 33%\n47,520\nProfit After Tax\n96,480\nAdd: Depreciation\n4,16,000\nCash Inflow\n5,12,480\nPVIFA\n3.605\nPV of Cash Inflow\n18,47,490\nAdd: PV of Salvage Value of new machine (` 3,20,000 x\n0.567)\n1,81,440\nTotal PV of Cash Inflow\n20,28,930\nLess: Initial Cash Outflow\n22,92,800\nNPV\n(2,63,870)\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n13\n\nIf Tax on sale of existing machine is not taken\n\nCalculation of Net Initial Cash Outflows:\nParticulars\n`\nCost of new machine\n32,00,000\nLess: Sale proceeds of existing machine\n(9,60,000)\nNet initial cash outflows\n22,40,000\n\nAccordingly, NPV Will be ` 20,28,930 - ` 22,40,000 = (` 2,11,070)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

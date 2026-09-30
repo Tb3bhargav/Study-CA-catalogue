@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. \nConsidering that this is the first year of audit and prior period auditor’s working papers \nare not available, along with change in accounting policy, what should the auditor \nprimarily ensure? \n(a)  \nOpening balances need not be verified \n(b)  \nOnly current year transactions should be verified \n(c)  \nObtain sufficient appropriate audit evidence regarding opening balances and \nconsistency of accounting policies \n(d)  \nRely completely on management representations",
+  "suggested_answer": "(C)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q010",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nConsidering that this is the first year of audit and prior period auditor’s working papers \nare not available, along with change in accounting policy, what should the auditor \nprimarily ensure? \n(a)  \nOpening balances need not be verified \n(b)  \nOnly current year transactions should be verified \n(c)  \nObtain sufficient appropriate audit evidence regarding opening balances and \nconsistency of accounting policies \n(d)  \nRely completely on management representations"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

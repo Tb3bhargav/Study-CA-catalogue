@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.  A company which operates a batch costing system is fully integrated with the\nfinancial accounts.\n\nDuring a particular period materials worth ` 30,000 and ` 20,000 were issued\nto production and Factory Maintenance respectively. The following control\nA/cs are being maintained.\n(i)  Store ledger control A/c.\n(ii)  Work-in-progress control A/c.\n(iii)  Production overhead control A/c.\n(iv)  Finished goods control A/c.\n\nFrom the above information, identify which account/accounts will be debited\nto effectuate the issuance of materials:\n(A)  (i) & (ii)\n(B)  (ii) & (iii)\n(C)  (ii) & (iv)\n(D)  Only (i)",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q012",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Unit & Batch Costing",
+    "topic": "Unit & Batch Costing",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  A company which operates a batch costing system is fully integrated with the\nfinancial accounts.\n\nDuring a particular period materials worth ` 30,000 and ` 20,000 were issued\nto production and Factory Maintenance respectively. The following control\nA/cs are being maintained.\n(i)  Store ledger control A/c.\n(ii)  Work-in-progress control A/c.\n(iii)  Production overhead control A/c.\n(iv)  Finished goods control A/c.\n\nFrom the above information, identify which account/accounts will be debited\nto effectuate the issuance of materials:\n(A)  (i) & (ii)\n(B)  (ii) & (iii)\n(C)  (ii) & (iv)\n(D)  Only (i)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

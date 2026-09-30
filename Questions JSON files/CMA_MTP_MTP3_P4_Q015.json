@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15.  \nA company manufactures eye-glass frames at the rate of 1,200 frames per month. The \ncompany wants to determine the most economical production batch size to minimize total \nsetup and holding costs. \n \nThe following information is available: \n• \nSetup cost per batch = ` 7,200 \n• \nCost per unit = ` 3,240 \n• \nCarrying cost = 10% per annum (including storage, cost of capital, and \nobsolescence) \n \nWhat is the Economic Batch Quantity (EBQ)? \n(A)  \n230 frames \n(B)  \n566 frames \n(C)  \n800 frames \n(D)  \n1,200 frames \n(2 Marks) \n8 \nPART-II – Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions out of the remaining five questions.",
+  "suggested_answer": "(C) 800 frames EBQ For frames manufacturing 2DS EBQ = C Where, D = Annual demand for the product = 1,200 X 12 = 14,400 frames S = Setting up cost per batch = ` 7,200 C = Carrying cost per unit of production = 10% of ` 3,240 = ` 324 324 = 2 x 14,400 x 7,200 EBQ = 800 frames 7 PART II – Descriptive Question",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q015",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15.  \nA company manufactures eye-glass frames at the rate of 1,200 frames per month. The \ncompany wants to determine the most economical production batch size to minimize total \nsetup and holding costs. \n \nThe following information is available: \n• \nSetup cost per batch = ` 7,200 \n• \nCost per unit = ` 3,240 \n• \nCarrying cost = 10% per annum (including storage, cost of capital, and \nobsolescence) \n \nWhat is the Economic Batch Quantity (EBQ)? \n(A)  \n230 frames \n(B)  \n566 frames \n(C)  \n800 frames \n(D)  \n1,200 frames \n(2 Marks) \n8 \nPART-II – Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions out of the remaining five questions."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) 800 frames EBQ For frames manufacturing 2DS EBQ = C Where, D = Annual demand for the product = 1,200 X 12 = 14,400 frames S = Setting up cost per batch = ` 7,200 C = Carrying cost per unit of production = 10% of ` 3,240 = ` 324 324 = 2 x 14,400 x 7,200 EBQ = 800 frames 7 PART II – Descriptive Question"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

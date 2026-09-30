@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q002",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2.  \nWhat will be the general incentive to Direct Employees, Inspection Staff, Maintenance \nStaff & Supervisory Staff? \n(A)  \n` 55,20,000, ` 18,40,000, ` 13,80,000 & ` 4,60,000 respectively. \n(B)  \n` 84,00,000, ` 28,00,000, ` 21,00,000 & ` 7,00,000 respectively. \n(C)  \n` 55,20,000, ` 18,40,000, ` 21,00,000 & ` 7,00,000 respectively. \n(D)  \n` 84,00,000, ` 28,00,000, ` 13,80,000 & ` 4,60,000 respectively.",
+  "suggested_answer": "(B) ` 84,00,000, ` 28,00,000, ` 21,00,000 & ` 7,00,000 respectively. General Incentive Total incentive = 7,000 × 2,000 = ` 1,40,00,000 Group % Amount (`) Direct 60% 84,00,000 Inspection 20% 28,00,000 Maintenance 15% 21,00,000 Supervisory 5% 7,00,000",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q002",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2.  \nWhat will be the general incentive to Direct Employees, Inspection Staff, Maintenance \nStaff & Supervisory Staff? \n(A)  \n` 55,20,000, ` 18,40,000, ` 13,80,000 & ` 4,60,000 respectively. \n(B)  \n` 84,00,000, ` 28,00,000, ` 21,00,000 & ` 7,00,000 respectively. \n(C)  \n` 55,20,000, ` 18,40,000, ` 21,00,000 & ` 7,00,000 respectively. \n(D)  \n` 84,00,000, ` 28,00,000, ` 13,80,000 & ` 4,60,000 respectively."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 84,00,000, ` 28,00,000, ` 21,00,000 & ` 7,00,000 respectively. General Incentive Total incentive = 7,000 × 2,000 = ` 1,40,00,000 Group % Amount (`) Direct 60% 84,00,000 Inspection 20% 28,00,000 Maintenance 15% 21,00,000 Supervisory 5% 7,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

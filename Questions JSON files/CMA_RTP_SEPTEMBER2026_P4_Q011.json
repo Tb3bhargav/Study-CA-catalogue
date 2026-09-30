@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q011",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "11. \nA company produces a component, which passes through two \nprocesses. During the month of November, 2025, materials for 40,000 \ncomponents were put into Process- I of which 30,000 were completed \nand transferred to Process- II. Those not transferred to Process- II were \n100% complete as to materials cost and 50% complete as to labour and \noverheads cost. The Process- I costs incurred were as follows: \nDirect Materials  \n` 3,00,000  \nDirect Wages \n` 3,50,000  \nFactory Overheads \n` 2,45,000  \nOf those transferred to Process II, 28,000 units were completed and \ntransferred to finished goods stores.  There was a normal loss with no \nsalvage value of 200 units in Process II. There were 1,800 units, remained \n\n \nINTERMEDIATE EXAMINATION \n \n \n14 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nunfinished in the process with 100% complete as to materials and 25% \ncomplete as regard to wages and overheads. \nCosts incurred in Process-II are as follows:  \nPacking Materials  \n` 80,000  \nDirect Wages \n` 71,125  \nFactory Overheads \n` 85,350  \nPacking material cost is incurred at the end of the second process as \nprotective packing to the completed units of production.   \nRequired: \n(i)  \nPREPARE Statement of Equivalent Production, Cost per unit and \nProcess I A/c. \n(ii)  \nPREPARE statement of Equivalent Production, Cost per unit and \nProcess II A/c. \nJoint Product and By-Product",
+  "suggested_answer": "Process I \nStatement of Equivalent Production and Cost \nInput \n(Units) \nParticulars Output \nUnits \nEquivalent Production \nMaterials \nLabour \nOverheads \n(%)  \nUnits \n(%) \nUnits \n(%) \nUnits \n40,000 \nCompleted  \n30,000 \n100 \n30,000 \n100 \n30,000 \n100 \n30,000 \n \nClosing WIP \n10,000 \n100 \n10,000 \n50 \n5,000 \n50 \n5,000 \n40,000 \n \n40,000 \n \n40,000 \n \n35,000 \n \n35,000 \n \nParticulars  \nMaterials \nLabour \nOverhead \nTotal \nCost incurred (`) \n3,00,000 \n3,50,000 \n2,45,000 \n8,95,000 \nEquivalent units  \n40,000 \n35,000 \n35,000 \n \nCost per equivalent unit (`)  \n7.50 \n10.00 \n7.00 \n24.50 \nProcess-I Account \nParticulars \nUnits \n(`) \nParticulars \nUnits \n(`) \nTo Materials  \n40,000 \n3,00,000 \nBy Process-II A/c \n(30,000 units × ` 24.5) \n30,000 \n7,35,000 \nTo Labour  \n \n3,50,000 \nBy Closing WIP* \n10,000 \n1,60,000 \nTo Overhead  \n \n2,45,000 \n \n \n \n \n40,000 \n8,95,000 \n \n40,000 \n8,95,000 \n \n* (Material 10,000 units × ` 7.5) + (Labour 5,000 units × ` 10) + \n(Overheads 5,000 units × `7)  \n= ` 75,000 + ` 50,000 + ` 35,000 = ` 1,60,000 \nProcess II \nStatement of Equivalent Production and Cost \nInput \n(Units) \nParticulars \nOutput \nUnits \nEquivalent Production \nMaterials \nLabour \nOverheads \n(%) \nUnits \n(%) \nUnits \n(%) \nUnits \n30,000 \nCompleted  \n28,000 \n100 \n28,000 \n100 \n28,000 \n100 \n28,000 \n \nNormal loss \n200 \n \n-- \n \n-- \n \n-- \n\n \nINTERMEDIATE EXAMINATION \n \n \n40 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \nClosing WIP \n1,800 \n100 \n1,800 \n25 \n450 \n25 \n450 \n30,000 \n \n30,000 \n \n29,800 \n \n28,450 \n \n28,450 \n \nParticulars  \nMaterials \nLabour \nOverhead \nTotal \nProcess-I Cost \n7,35,000 \n-- \n-- \n7,35,000 \nCost incurred (`) \n-- \n71,125 \n85,350 \n1,56,475 \nEquivalent units  \n29,800 \n28,450 \n28,450 \n-- \nCost per equivalent unit (`)  \n24.6644 \n2.5000 \n3.0000 \n30.1644 \nProcess-II Account \nParticulars \nUnits \n(`) Particulars \nUnits \n(`) \nTo Process-I A/c \n30,000 7,35,000 By Normal loss A/c \n200 \n-- \nTo Packing Material \n-- \n80,000 By Finished Goods \nStock A/c \n28,000* 9,24,604 \nTo Direct Wages \n-- \n71,125 By Closing WIP \n1,800** \n46,871 \nTo Factory Overhead  \n-- \n85,350  \n \n \n \n30,000 9,71,475  \n30,000 9,71,475 \n \n* 28,000 × ` 30.1644 = ` 8,44,603 + ` 80,000 (Packing Material Cost)  \n= ` 9,24,604 \n** 1,800 units × ` 24.6644 + 450 units × (` 2.5 + `3) = ` 46,871",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q011",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "11",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nA company produces a component, which passes through two \nprocesses. During the month of November, 2025, materials for 40,000 \ncomponents were put into Process- I of which 30,000 were completed \nand transferred to Process- II. Those not transferred to Process- II were \n100% complete as to materials cost and 50% complete as to labour and \noverheads cost. The Process- I costs incurred were as follows: \nDirect Materials  \n` 3,00,000  \nDirect Wages \n` 3,50,000  \nFactory Overheads \n` 2,45,000  \nOf those transferred to Process II, 28,000 units were completed and \ntransferred to finished goods stores.  There was a normal loss with no \nsalvage value of 200 units in Process II. There were 1,800 units, remained \n\n \nINTERMEDIATE EXAMINATION \n \n \n14 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\nunfinished in the process with 100% complete as to materials and 25% \ncomplete as regard to wages and overheads. \nCosts incurred in Process-II are as follows:  \nPacking Materials  \n` 80,000  \nDirect Wages \n` 71,125  \nFactory Overheads \n` 85,350  \nPacking material cost is incurred at the end of the second process as \nprotective packing to the completed units of production.   \nRequired: \n(i)  \nPREPARE Statement of Equivalent Production, Cost per unit and \nProcess I A/c. \n(ii)  \nPREPARE statement of Equivalent Production, Cost per unit and \nProcess II A/c. \nJoint Product and By-Product"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Process I \nStatement of Equivalent Production and Cost \nInput \n(Units) \nParticulars Output \nUnits \nEquivalent Production \nMaterials \nLabour \nOverheads \n(%)  \nUnits \n(%) \nUnits \n(%) \nUnits \n40,000 \nCompleted  \n30,000 \n100 \n30,000 \n100 \n30,000 \n100 \n30,000 \n \nClosing WIP \n10,000 \n100 \n10,000 \n50 \n5,000 \n50 \n5,000 \n40,000 \n \n40,000 \n \n40,000 \n \n35,000 \n \n35,000 \n \nParticulars  \nMaterials \nLabour \nOverhead \nTotal \nCost incurred (`) \n3,00,000 \n3,50,000 \n2,45,000 \n8,95,000 \nEquivalent units  \n40,000 \n35,000 \n35,000 \n \nCost per equivalent unit (`)  \n7.50 \n10.00 \n7.00 \n24.50 \nProcess-I Account \nParticulars \nUnits \n(`) \nParticulars \nUnits \n(`) \nTo Materials  \n40,000 \n3,00,000 \nBy Process-II A/c \n(30,000 units × ` 24.5) \n30,000 \n7,35,000 \nTo Labour  \n \n3,50,000 \nBy Closing WIP* \n10,000 \n1,60,000 \nTo Overhead  \n \n2,45,000 \n \n \n \n \n40,000 \n8,95,000 \n \n40,000 \n8,95,000 \n \n* (Material 10,000 units × ` 7.5) + (Labour 5,000 units × ` 10) + \n(Overheads 5,000 units × `7)  \n= ` 75,000 + ` 50,000 + ` 35,000 = ` 1,60,000 \nProcess II \nStatement of Equivalent Production and Cost \nInput \n(Units) \nParticulars \nOutput \nUnits \nEquivalent Production \nMaterials \nLabour \nOverheads \n(%) \nUnits \n(%) \nUnits \n(%) \nUnits \n30,000 \nCompleted  \n28,000 \n100 \n28,000 \n100 \n28,000 \n100 \n28,000 \n \nNormal loss \n200 \n \n-- \n \n-- \n \n-- \n\n \nINTERMEDIATE EXAMINATION \n \n \n40 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \nClosing WIP \n1,800 \n100 \n1,800 \n25 \n450 \n25 \n450 \n30,000 \n \n30,000 \n \n29,800 \n \n28,450 \n \n28,450 \n \nParticulars  \nMaterials \nLabour \nOverhead \nTotal \nProcess-I Cost \n7,35,000 \n-- \n-- \n7,35,000 \nCost incurred (`) \n-- \n71,125 \n85,350 \n1,56,475 \nEquivalent units  \n29,800 \n28,450 \n28,450 \n-- \nCost per equivalent unit (`)  \n24.6644 \n2.5000 \n3.0000 \n30.1644 \nProcess-II Account \nParticulars \nUnits \n(`) Particulars \nUnits \n(`) \nTo Process-I A/c \n30,000 7,35,000 By Normal loss A/c \n200 \n-- \nTo Packing Material \n-- \n80,000 By Finished Goods \nStock A/c \n28,000* 9,24,604 \nTo Direct Wages \n-- \n71,125 By Closing WIP \n1,800** \n46,871 \nTo Factory Overhead  \n-- \n85,350  \n \n \n \n30,000 9,71,475  \n30,000 9,71,475 \n \n* 28,000 × ` 30.1644 = ` 8,44,603 + ` 80,000 (Packing Material Cost)  \n= ` 9,24,604 \n** 1,800 units × ` 24.6644 + 450 units × (` 2.5 + `3) = ` 46,871"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

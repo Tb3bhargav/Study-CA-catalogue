@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2026_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nHari Udyog is a small-scale manufacturing unit producing a single \nproduct X using two raw materials PK and BK in the input ratio of 3 : 2. \nThe input–output ratio in production is 5 : 3. \n \nRaw material PK is perishable and becomes obsolete if not used within 5 \ndays of purchase, whereas raw material BK is durable and can be stored \nfor more than one year. Material PK is procured locally with a lead time \nof 1 to 2 days, while material BK is purchased from a neighbouring state \nand takes 2 to 4 days to reach the factory. \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThe estimated sales volume for April 2025 is 30,000 kg, and the same \nlevel of sales is expected to continue throughout the year. The company \noperates for 25 days a month, and production is carried out evenly. \n \nThe purchase price per kilogram (excluding taxes) is ` 15 for material PK \nand ` 22 for material BK. To place an order, the company incurs an \nadministrative cost of ` 120 per order. The annual carrying cost is \nestimated at 15% of the value for material PK and 5% for material BK. \n \nCurrently, material PK is purchased in lots of 8,000 kg to avail a 10% \ntrade discount on the market price. GST at 5% is applicable on material \nPK, for which input tax credit is available. Material BK is subject to 2% \nCST, for which no input tax credit is available. \n \nYou are required to calculate: \n(i) \nEconomic Order Quantity (EOQ) for each material; \n(ii)  \nMaximum stock level for Material PK; \n(iii) \nCalculate saving/ loss in Material PK if purchase quantity equals to \nEOQ. \nEmployee Cost",
+  "suggested_answer": "Workings:  \n \nMonthly Production of X  \n= 30,000 kgs. \n \nRaw Material Required   \n= 30,000 ×5\n3\n = 50,000 kgs. \n \nMaterial PK  \n \n \n \n= 50,000 ×3\n5\n = 30,000 kg. \n \nMaterial BK  \n \n \n \n= 50,000 ×2\n5\n = 20,000 kg. \n(i) \nCalculation of Economic Order Quantity (EOQ): \n \nMaterial PK   \n \n= \n2×Annual consumption × Ordercost\nCarrying cost per unit p.a.\n \n  \n \n \n \n \n  \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n29 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \n \n \n \n \n \n \n \n= \n2×(30,000 kg.×12 months) ×\n120\n(15% of\n15)\n \n \n   \n \n  \n`\n`\n \n \n \n \n \n \n \n \n \n= \n8,64,00,000\n2.25\n = 6,196.77 kg. or 6,197 kg.  \n \nMaterial BK \n \n \n= \n2×(20,000kg.×12 months) ×\n120\n(5%of\n22.44*)\n \n \n  \n  \n`\n`\n \n \n \n \n \n \n \n \n= \n5,76,00,000\n1.122\n = 7,164.97 or 7,165 kg. \n \n*Purchase price + 2% CST = ` 22 + 2% of ` 22 = ` 22.44 \n(ii) \nCalculation of Maximum Stock level: Since, the Material PK is \nperishable in nature and it required to be used within 5 days, \nhence, the Maximum Stock Level shall be lower of two: \n(a) \nStock equal to 5 days consumption \n  \n= 30,000 kg.× 5 days\n25days\n \n  \n = 6,000 kg. \n(a)  \nMaximum Stock Level for Material PK: \n \nRe-order Quantity + Re-order level – (Min consumption* × \nMin. lead time) \n \nWhere, Re-order Quantity = 8,000 kg.  \n \nRe-order level  \n \n= Max. Consumption* × Max. Lead time \n \n \n  \n \n \n= 30,000/25 × 2 days  \n= 2,400 kg. \n \nMaximum stock Level = 8,000 kg. + 2,400 kg. - (30,000/25 × \n1 day) \n \n \n  \n \n \n = 10,400 – 1,200 = 9,200 kg. \n \nStock required for 5 days consumption is lower than the \nmaximum stock level calculated through the formula. \nTherefore, Maximum Stock Level will be 6,000 kg. \n\n \nINTERMEDIATE EXAMINATION \n \n \n30 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \n(*Since, production is processed evenly throughout the \nmonth hence material consumption will also be even.) \n(iii) Calculation of Savings/ loss in Material PK if purchase quantity \nequals to EOQ. \n \nPurchase Quantity  \n= 8,000 kg. \nPurchase Quantity  \n= EOQ i.e. 6,197 kg. \nAnnual consumption \n3,60,000 kg. \n(30,000 × 12 months) \n3,60,000 kg. \n(30,000 × 12 months) \nNo. of orders \n[Note- (i)] \n60 \n(3,60,000 ÷ 6,000) \n60 \n(3,60,000 ÷ 6,000) \nOrdering Cost (a) \n` 7,200 \n(` 120 × 60) \n` 7,200 \n(` 120 × 60) \nCarrying Cost (b) \n[Note- (ii)] \n` 8,100 \n(15% of ` 13.50 × 4,000) \n` 6,972 \n(15% of ` 15 × 3,098.5) \nPurchase Cost (c) \n(for good portion) \n` 48,60,000 \n(` 13.50 × 3,60,000) \n` 54,00,000 \n(` 15 × 3,60,000) \nLoss \ndue \nto \nobsolescence \n(d) \n[Note- (iii)] \n` 16,20,000 \n[` 13.5 × (60 × 2,000)] \n` 1,77,300 \n[` 15 × (60 × 197)] \nTotal Cost [(a) + (b) + \n(c) + (d)] \n` 64,95,300 \n` 55,91,472 \n \nIf purchase quantity equals to EOQ, there will be a saving of  \n` 9,03,828 i.e. ` 64,95,300 - ` 55,91,472. \n \nNotes: (i) As after 5 days of purchase the Material PK gets obsolete, \nthe quantity in excess of 5 days consumption i.e. 6,000 kg. are \nwasted. Hence, after 6,000 kg. a fresh order needs to be given. \n(ii)  \nCarrying cost is incurred on average stock of Materials \npurchased.  \n(iii)  the excess quantity of material gets obsolete and loss has to be \nincurred.  \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n31 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2026_P4_Q006",
+  "source_filename": "may26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nHari Udyog is a small-scale manufacturing unit producing a single \nproduct X using two raw materials PK and BK in the input ratio of 3 : 2. \nThe input–output ratio in production is 5 : 3. \n \nRaw material PK is perishable and becomes obsolete if not used within 5 \ndays of purchase, whereas raw material BK is durable and can be stored \nfor more than one year. Material PK is procured locally with a lead time \nof 1 to 2 days, while material BK is purchased from a neighbouring state \nand takes 2 to 4 days to reach the factory. \n\n \nINTERMEDIATE EXAMINATION \n \n \n8 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \nThe estimated sales volume for April 2025 is 30,000 kg, and the same \nlevel of sales is expected to continue throughout the year. The company \noperates for 25 days a month, and production is carried out evenly. \n \nThe purchase price per kilogram (excluding taxes) is ` 15 for material PK \nand ` 22 for material BK. To place an order, the company incurs an \nadministrative cost of ` 120 per order. The annual carrying cost is \nestimated at 15% of the value for material PK and 5% for material BK. \n \nCurrently, material PK is purchased in lots of 8,000 kg to avail a 10% \ntrade discount on the market price. GST at 5% is applicable on material \nPK, for which input tax credit is available. Material BK is subject to 2% \nCST, for which no input tax credit is available. \n \nYou are required to calculate: \n(i) \nEconomic Order Quantity (EOQ) for each material; \n(ii)  \nMaximum stock level for Material PK; \n(iii) \nCalculate saving/ loss in Material PK if purchase quantity equals to \nEOQ. \nEmployee Cost"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Workings:  \n \nMonthly Production of X  \n= 30,000 kgs. \n \nRaw Material Required   \n= 30,000 ×5\n3\n = 50,000 kgs. \n \nMaterial PK  \n \n \n \n= 50,000 ×3\n5\n = 30,000 kg. \n \nMaterial BK  \n \n \n \n= 50,000 ×2\n5\n = 20,000 kg. \n(i) \nCalculation of Economic Order Quantity (EOQ): \n \nMaterial PK   \n \n= \n2×Annual consumption × Ordercost\nCarrying cost per unit p.a.\n \n  \n \n \n \n \n  \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n29 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS \n \n \n \n \n \n \n \n \n= \n2×(30,000 kg.×12 months) ×\n120\n(15% of\n15)\n \n \n   \n \n  \n`\n`\n \n \n \n \n \n \n \n \n \n= \n8,64,00,000\n2.25\n = 6,196.77 kg. or 6,197 kg.  \n \nMaterial BK \n \n \n= \n2×(20,000kg.×12 months) ×\n120\n(5%of\n22.44*)\n \n \n  \n  \n`\n`\n \n \n \n \n \n \n \n \n= \n5,76,00,000\n1.122\n = 7,164.97 or 7,165 kg. \n \n*Purchase price + 2% CST = ` 22 + 2% of ` 22 = ` 22.44 \n(ii) \nCalculation of Maximum Stock level: Since, the Material PK is \nperishable in nature and it required to be used within 5 days, \nhence, the Maximum Stock Level shall be lower of two: \n(a) \nStock equal to 5 days consumption \n  \n= 30,000 kg.× 5 days\n25days\n \n  \n = 6,000 kg. \n(a)  \nMaximum Stock Level for Material PK: \n \nRe-order Quantity + Re-order level – (Min consumption* × \nMin. lead time) \n \nWhere, Re-order Quantity = 8,000 kg.  \n \nRe-order level  \n \n= Max. Consumption* × Max. Lead time \n \n \n  \n \n \n= 30,000/25 × 2 days  \n= 2,400 kg. \n \nMaximum stock Level = 8,000 kg. + 2,400 kg. - (30,000/25 × \n1 day) \n \n \n  \n \n \n = 10,400 – 1,200 = 9,200 kg. \n \nStock required for 5 days consumption is lower than the \nmaximum stock level calculated through the formula. \nTherefore, Maximum Stock Level will be 6,000 kg. \n\n \nINTERMEDIATE EXAMINATION \n \n \n30 \n \nREVISION TEST PAPERS \nMAY 2026 EXAMINATION\n \n(*Since, production is processed evenly throughout the \nmonth hence material consumption will also be even.) \n(iii) Calculation of Savings/ loss in Material PK if purchase quantity \nequals to EOQ. \n \nPurchase Quantity  \n= 8,000 kg. \nPurchase Quantity  \n= EOQ i.e. 6,197 kg. \nAnnual consumption \n3,60,000 kg. \n(30,000 × 12 months) \n3,60,000 kg. \n(30,000 × 12 months) \nNo. of orders \n[Note- (i)] \n60 \n(3,60,000 ÷ 6,000) \n60 \n(3,60,000 ÷ 6,000) \nOrdering Cost (a) \n` 7,200 \n(` 120 × 60) \n` 7,200 \n(` 120 × 60) \nCarrying Cost (b) \n[Note- (ii)] \n` 8,100 \n(15% of ` 13.50 × 4,000) \n` 6,972 \n(15% of ` 15 × 3,098.5) \nPurchase Cost (c) \n(for good portion) \n` 48,60,000 \n(` 13.50 × 3,60,000) \n` 54,00,000 \n(` 15 × 3,60,000) \nLoss \ndue \nto \nobsolescence \n(d) \n[Note- (iii)] \n` 16,20,000 \n[` 13.5 × (60 × 2,000)] \n` 1,77,300 \n[` 15 × (60 × 197)] \nTotal Cost [(a) + (b) + \n(c) + (d)] \n` 64,95,300 \n` 55,91,472 \n \nIf purchase quantity equals to EOQ, there will be a saving of  \n` 9,03,828 i.e. ` 64,95,300 - ` 55,91,472. \n \nNotes: (i) As after 5 days of purchase the Material PK gets obsolete, \nthe quantity in excess of 5 days consumption i.e. 6,000 kg. are \nwasted. Hence, after 6,000 kg. a fresh order needs to be given. \n(ii)  \nCarrying cost is incurred on average stock of Materials \npurchased.  \n(iii)  the excess quantity of material gets obsolete and loss has to be \nincurred.  \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n31 \n \nMAY 2026 EXAMINATION \nREVISION TEST PAPERS"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

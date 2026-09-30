@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q001_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Z Ltd. has issued 8% convertible debentures of ` 100 each with a remaining\nmaturity period of five years. The current market price per debenture is\n` 85. At the time of maturity, debenture holders have an option to either\nredeem it at a premium of 5% or to convert each debenture into 5 equity\nshares. Current market price per equity share is `16. The company has just\npaid dividend of ` 8.03 per equity share. Seven years ago, it paid dividend of\n` 5.00 per equity share.\n\nApplicable tax rate is 30%.\n\nCompute the post-tax cost of debentures using present value method.\nYear\n1\n2\n3\n4\n5\n6\n7\nPVIF0.10,t\n0.909\n0.826\n0.751\n0.683\n0.621\n0.564 0.513\nPVIF0.12,t\n0.893\n0.797\n0.712\n0.636\n0.567\n0.507 0.452\n\n10\nInterest\nRate\n1\n2\n3\n4\n5\n6\n7\n8\n9\nFVIFi,5\n1.051 1.104 1.159 1.217 1.276 1.338 1.403 1.469 1.539\nFVIFi6\n1.062 1.126 1.194 1.265 1.340 1.419 1.501 1.587 1.677\nFVIFi7\n1.072 1.149 1.230 1.316 1.407 1.504 1.606 1.714 1.828\n(5 Marks)",
+  "suggested_answer": "(b) Calculation of growth rate in dividend\n8.03\n\n= 5 (1+g)7\n1.606\n\n= (1+g)7\ng\n\n= 7%\nPrice of share after 5 years\nP5\n\n= 16 x FVIF 7%,5\n\n= 16 x 1.403 = 22.45\nConversion value of shares = 22.45 × 5 = ` 112.25 (RV)\nRedemption Value of Debenture (RV) = 100+5% premium = ` 105\nSince, conversion value is higher, debenture holders will prefer conversion.\nAfter-tax Interest = 8(1−0.30) = ` 5.60\nYear\nCash Inflow (`)\nPVIF\n@ 10%\nPV (`)\nPVIF\n@12%\nPV (`)\n0\n85\n(Current\nMarket\nPrice)\n1\n(85)\n1\n(85)\n1-5\n5.60 (Interest)\n3.79\n21.224\n3.605 20.188\n5\n112.25\n(Conversion\nValue)\n0.621\n69.707\n0.567 63.646\nTotal PV\n\n5.931\n-1.166\n\nIRR\n=\n(\n)\nL\nL\nH\nNPV\nL+\nH-L\nNPV -NPV\n\n=\n(\n)\n5.931\n10%+\n12%-10%\n5.931-(-1.166)\n= 11.67%",
+  "marks": "(5 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q001_B",
+  "source_filename": "92877bos-sa-int-may2026-p6.pdf",
+  "source_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "1(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+      "answer_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf"
+    },
+    "page_start": 9,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Z Ltd. has issued 8% convertible debentures of ` 100 each with a remaining\nmaturity period of five years. The current market price per debenture is\n` 85. At the time of maturity, debenture holders have an option to either\nredeem it at a premium of 5% or to convert each debenture into 5 equity\nshares. Current market price per equity share is `16. The company has just\npaid dividend of ` 8.03 per equity share. Seven years ago, it paid dividend of\n` 5.00 per equity share.\n\nApplicable tax rate is 30%.\n\nCompute the post-tax cost of debentures using present value method.\nYear\n1\n2\n3\n4\n5\n6\n7\nPVIF0.10,t\n0.909\n0.826\n0.751\n0.683\n0.621\n0.564 0.513\nPVIF0.12,t\n0.893\n0.797\n0.712\n0.636\n0.567\n0.507 0.452\n\n10\nInterest\nRate\n1\n2\n3\n4\n5\n6\n7\n8\n9\nFVIFi,5\n1.051 1.104 1.159 1.217 1.276 1.338 1.403 1.469 1.539\nFVIFi6\n1.062 1.126 1.194 1.265 1.340 1.419 1.501 1.587 1.677\nFVIFi7\n1.072 1.149 1.230 1.316 1.407 1.504 1.606 1.714 1.828\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Calculation of growth rate in dividend\n8.03\n\n= 5 (1+g)7\n1.606\n\n= (1+g)7\ng\n\n= 7%\nPrice of share after 5 years\nP5\n\n= 16 x FVIF 7%,5\n\n= 16 x 1.403 = 22.45\nConversion value of shares = 22.45 × 5 = ` 112.25 (RV)\nRedemption Value of Debenture (RV) = 100+5% premium = ` 105\nSince, conversion value is higher, debenture holders will prefer conversion.\nAfter-tax Interest = 8(1−0.30) = ` 5.60\nYear\nCash Inflow (`)\nPVIF\n@ 10%\nPV (`)\nPVIF\n@12%\nPV (`)\n0\n85\n(Current\nMarket\nPrice)\n1\n(85)\n1\n(85)\n1-5\n5.60 (Interest)\n3.79\n21.224\n3.605 20.188\n5\n112.25\n(Conversion\nValue)\n0.621\n69.707\n0.567 63.646\nTotal PV\n\n5.931\n-1.166\n\nIRR\n=\n(\n)\nL\nL\nH\nNPV\nL+\nH-L\nNPV -NPV\n\n=\n(\n)\n5.931\n10%+\n12%-10%\n5.931-(-1.166)\n= 11.67%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

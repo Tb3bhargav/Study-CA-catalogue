@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q009",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "9. \nOperating income of each product line, namely Fancy fans, Home decors, Assembled \nfurniture, when all the support costs are allocated using an activity-based costing system \nwould be: \n(a) \n` 16,84,800, ` -2,05,92,000 and ` -7,92,000 respectively  \n(b) \n` 3,64,03,200, ` 12,14,20,800 and ` 5,88,67,200 respectively \n(c) \n` 92,88,000, ` 2,88,28,800 and ` 1,48,75,200 respectively  \n(d) \n` 41,04,000, ` 6,04,800 and ` 50,83,200 respectively",
+  "suggested_answer": "(D) Fancy Fans (`) Home decors (`) Assembled furniture (`) Revenues: (A) 3,80,88,000 10,08,28,800 5,80,75,200 Cost & Goods sold 2,88,00,000 7,20,00,000 4,32,00,000 Carton return costs (Directly attributable to Fancy fans) 5,76,000 0 0 Delivery cost (` 1,920 per delivery) 11,52,000 (600 x ` 1,920) 84,09,600 (4,380 x ` 1,920) 25,34,400 (1,320 x ` 1,920) Ordering cost (` 2,400 per purchase order) 17,28,000 (720 x ` 2,400) 40,32,000 (1,680 x ` 2,400) 17,28,000 (720 x ` 2,400) Shelf stocking cost (` 480 per stocking hour) 5,18,400 (1,080 x ` 480) 51,84,000 (10,800 x ` 480) 25,92,000 (5,400 x ` 480) Customer Support cost (` 1 per item sold) 12,09,600 (12,09,600 x ` 1) 1,05,98,400 (1,05,98,400 x ` 1) 29,37,600 (29,37,600 x ` 1) Total Cost: (B) 3,39,84,000 10,02,24,000 5,29,92,000 Operating income: (C) = (A) - (B) 41,04,000 6,04,800 50,83,200 5",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q009",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "9",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nOperating income of each product line, namely Fancy fans, Home decors, Assembled \nfurniture, when all the support costs are allocated using an activity-based costing system \nwould be: \n(a) \n` 16,84,800, ` -2,05,92,000 and ` -7,92,000 respectively  \n(b) \n` 3,64,03,200, ` 12,14,20,800 and ` 5,88,67,200 respectively \n(c) \n` 92,88,000, ` 2,88,28,800 and ` 1,48,75,200 respectively  \n(d) \n` 41,04,000, ` 6,04,800 and ` 50,83,200 respectively"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) Fancy Fans (`) Home decors (`) Assembled furniture (`) Revenues: (A) 3,80,88,000 10,08,28,800 5,80,75,200 Cost & Goods sold 2,88,00,000 7,20,00,000 4,32,00,000 Carton return costs (Directly attributable to Fancy fans) 5,76,000 0 0 Delivery cost (` 1,920 per delivery) 11,52,000 (600 x ` 1,920) 84,09,600 (4,380 x ` 1,920) 25,34,400 (1,320 x ` 1,920) Ordering cost (` 2,400 per purchase order) 17,28,000 (720 x ` 2,400) 40,32,000 (1,680 x ` 2,400) 17,28,000 (720 x ` 2,400) Shelf stocking cost (` 480 per stocking hour) 5,18,400 (1,080 x ` 480) 51,84,000 (10,800 x ` 480) 25,92,000 (5,400 x ` 480) Customer Support cost (` 1 per item sold) 12,09,600 (12,09,600 x ` 1) 1,05,98,400 (1,05,98,400 x ` 1) 29,37,600 (29,37,600 x ` 1) Total Cost: (B) 3,39,84,000 10,02,24,000 5,29,92,000 Operating income: (C) = (A) - (B) 41,04,000 6,04,800 50,83,200 5"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

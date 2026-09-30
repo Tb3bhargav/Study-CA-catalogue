@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  EXA Ltd. operates a standard costing system for controlling its material costs\nand has furnished the following information for the month of April, 2026:\nStandard Price of raw material\n` 30 per Kg\nStandard Quantity of material required per unit of\noutput\n5 kgs.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\nStandard labour rate\n` 50 per hour\nStandard labour requirement\n2.5 hours per unit\nActual Output\n2000 units\nMaterial Price Variance\n` 1,75,000 (Adverse)\nActual Quantity of raw material purchased and\nconsumed\n14,000 kgs.\nActual wages paid for 6,000 hours\n` 3,24,000\nYou are required to calculate:\n(i)  Actual price per kg of raw material\n(ii)  Material usage variance\n(iii)  Material cost variance\n(iv)  Labour rate variance\n(v)  Labour efficiency variance\n(Indicate the nature of variance Favourable (F) or Adverse (A))\n(5 Marks)",
+  "suggested_answer": "(b)  Workings:\n1.  Standard Quantity for actual output\n= 2,000 x 5 kg = 10,000 kg\n2.  Standard Labour Hours for actual output  = 2,000 x 2.5 hours per unit\n\n= 5,000 hours\n3.  Actual Labour Rate\n\n= ` 3,24,000/6,000 hours\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n\n= ` 54\n(i)  Actual Price Per Kg\nMaterial Price Variance\n= (SP - AP) x AQ\n\nMaterial Price Variance\n= ` 1,75,000 (A)\n\nTherefore:\n\n(30 - AP) x 14,000\n\n= -1,75,000\n\nActual Price\n\n= ` 42.5\n(ii)  Material Usage Variance= (SQ - AQ) x SP\n\n= (10,000 – 14,000) x ` 30\n\n= ` 1,20,000 (A)\n(iii)  Material Cost Variance  = SQ x SP - AQ X AP\n\n= 10,000 x ` 30 – 14,000 x ` 42.5\n\n= ` 2,95,000 (A)\n(iv)  Labour Rate Variance\n= (SR - AR) X AH\n\n= (` 50 - ` 54) x 6000\n\n= ` 24,000 (A)\n(v) Labour Efficiency Variance= (SH - AH) X SR\n\n= (5,000 – 6,000) x ` 50\n\n= ` 50,000 (A)",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_B",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 11
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 11,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  EXA Ltd. operates a standard costing system for controlling its material costs\nand has furnished the following information for the month of April, 2026:\nStandard Price of raw material\n` 30 per Kg\nStandard Quantity of material required per unit of\noutput\n5 kgs.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\nStandard labour rate\n` 50 per hour\nStandard labour requirement\n2.5 hours per unit\nActual Output\n2000 units\nMaterial Price Variance\n` 1,75,000 (Adverse)\nActual Quantity of raw material purchased and\nconsumed\n14,000 kgs.\nActual wages paid for 6,000 hours\n` 3,24,000\nYou are required to calculate:\n(i)  Actual price per kg of raw material\n(ii)  Material usage variance\n(iii)  Material cost variance\n(iv)  Labour rate variance\n(v)  Labour efficiency variance\n(Indicate the nature of variance Favourable (F) or Adverse (A))\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Workings:\n1.  Standard Quantity for actual output\n= 2,000 x 5 kg = 10,000 kg\n2.  Standard Labour Hours for actual output  = 2,000 x 2.5 hours per unit\n\n= 5,000 hours\n3.  Actual Labour Rate\n\n= ` 3,24,000/6,000 hours\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n\n= ` 54\n(i)  Actual Price Per Kg\nMaterial Price Variance\n= (SP - AP) x AQ\n\nMaterial Price Variance\n= ` 1,75,000 (A)\n\nTherefore:\n\n(30 - AP) x 14,000\n\n= -1,75,000\n\nActual Price\n\n= ` 42.5\n(ii)  Material Usage Variance= (SQ - AQ) x SP\n\n= (10,000 – 14,000) x ` 30\n\n= ` 1,20,000 (A)\n(iii)  Material Cost Variance  = SQ x SP - AQ X AP\n\n= 10,000 x ` 30 – 14,000 x ` 42.5\n\n= ` 2,95,000 (A)\n(iv)  Labour Rate Variance\n= (SR - AR) X AH\n\n= (` 50 - ` 54) x 6000\n\n= ` 24,000 (A)\n(v) Labour Efficiency Variance= (SH - AH) X SR\n\n= (5,000 – 6,000) x ` 50\n\n= ` 50,000 (A)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

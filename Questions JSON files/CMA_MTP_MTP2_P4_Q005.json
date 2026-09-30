@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5. \nIf optimum profit is achieved, what is the total profit?  \n(a) ` 37,000 Profit \n(b) ` 32,000 Profit \n(c) ` 55,000 Profit \n(d) ` 50,733 Profit \n(5 x 2 = 10 Marks) \nCase Scenario - 2 \nThe HomeMart is the latest trending brand offering home improvement appliances with broadest \nselection of products with highly competitive prices. The sale is increasing year by year with \nhuge multiples. Current year also the sales reached triple the last year. The reason being \ncompany having good customer support where it provides after sales assistance over phone \n4 \nper item sold. Though it costs only Re. 1 per item sold to the company, it enhanced to  \n` 49,15,200 last year making a huge impact on the total support cost. \nAll the company’s appliances have been majorly categorised into three product lines namely \nFancy fans, Home decors, Assembled furniture. During the current year, the company’s revenue \nas generated is ` 3,80,88,000, ` 10,08,28,800 and ` 5,80,75,200 respectively. However, the \ncost of god sold is ` 2,88,00,000, ` 7,20,00,000 and ` 4,32,00,000 respectively.  \nIn business, there’s a saying “The packaging sells the product the first time, but what’s inside \nsells the product a second time”. Following the saying, the company has the policy of taking \nback the cartons of the products sold relating to Fancy fans to reduce the packaging cost. \nHowever, for smooth returning of cartons, the company has to incur certain carrier cost on its \nown which is ` 5,76,000 for the current year and allocating the same directly to the said product. \nSome other information relating to each of the product lines is provided below: \n \nFancy fans \nHome decors Assembled furniture \nItems sold \n12,09,600 \n1,05,98,400 \n29,37,600 \nNumber of deliveries received \n600 \n4,380 \n1,320 \nNumber of purchase orders placed \n720 \n1,680 \n720 \nHours of shelf-stocking time \n1,080 \n10,800 \n5,400 \nThe company also provides the following basis of cost allocation: \nActivity \nDescription of activity \nTotal Cost Cost-allocation base \nDelivery \nPhysical \ndelivery \nand \nreceipt of products  \n1,20,96,000  6,300 deliveries \nOrdering \nPlacing of orders for \npurchases \n74,88,000  3,120 purchase orders \nShelf stocking \nStocking of products in \nwarehouse \n82,94,400  17,280 hours of shelf-\nstocking time \nThe company wants you to FIGURE OUT the following to ascertain which of the product line is \nmore profitable and answer the following question (MCQ 6 to 10):",
+  "suggested_answer": "(C) ` 55,000 Profit (1) Statement of Profitability of an Oil Mill (after Carrying out further processing) (for the quarter ending March 2026) Product’s name Sales Value after further processing Share of joint cost Further processing cost Total cost after split off Profit (Loss) (a) (b) (c) (d) (e) = (c) + (d) (f = (b) – (e) ` ` ` ` ` AOXE 1,72,500 98,667 43,000 1,41,667 30,833 BOXE 15,000 19,733 9,000 28,733 (13,733) COXE 6,000 4,933 - 4,933 1,067 DOXE 45,000 24,667 1,500 26,167 18,833 Total 2,38,500 1,48,000 53,500 2,01,500 37,000 Working Notes 1. Sales Value at split off point for: AOXE = 8,000 x ` 15 = 1,20,000 2 BOXE = 4,000 x ` 6 = 24,000 COXE = 2,000 x ` 3 = 6,000 DOXE = 4,000 x ` 7.50 = 30,000 The ratio between the sale values of AOXE: BOXE: COXE: DOXE: 20: 4:1: 5. 2. Share of joint cost of AOXE, BOXE, COXE and DOXE has been determined by dividing the total joint cost viz ` 1,48,000 in the ratio 20:4:1: 5 AOXE = ` 1,48,000 30 x 20 = ` 98,667 BOXE = ` 1,48,000 30 x 4 = ` 19,733 COXE = ` 1,48,000 30 x 1 = ` 4,933 DOXE = ` 1,48,000 30 x 5 = ` 24,667 (2) Statement of Profitability of an Oil Mill (At the split off point) (for the quarter ending March 2026) Product’s name Selling price at split off point Output In units Sales value at split off point Share of joint cost Profit at split off point (0) (1) (2) (3) = (1) x (2) (4) (5) = (3) – (4) ` ` ` ` ` AOXE 15 8,000 1,20,000 98,667 21,333 BOXE 6 4,000 24,000 19,733 4,267 COXE 3 2,000 6,000 4,933 1,067 DOXE 7.50 4,000 30,000 24,667 5,333 Total 1,80,000 1,48,000 32,000 (3) Product BOXE should be sold without further processing. This will maximize the profit. 3",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q005",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nIf optimum profit is achieved, what is the total profit?  \n(a) ` 37,000 Profit \n(b) ` 32,000 Profit \n(c) ` 55,000 Profit \n(d) ` 50,733 Profit \n(5 x 2 = 10 Marks) \nCase Scenario - 2 \nThe HomeMart is the latest trending brand offering home improvement appliances with broadest \nselection of products with highly competitive prices. The sale is increasing year by year with \nhuge multiples. Current year also the sales reached triple the last year. The reason being \ncompany having good customer support where it provides after sales assistance over phone \n4 \nper item sold. Though it costs only Re. 1 per item sold to the company, it enhanced to  \n` 49,15,200 last year making a huge impact on the total support cost. \nAll the company’s appliances have been majorly categorised into three product lines namely \nFancy fans, Home decors, Assembled furniture. During the current year, the company’s revenue \nas generated is ` 3,80,88,000, ` 10,08,28,800 and ` 5,80,75,200 respectively. However, the \ncost of god sold is ` 2,88,00,000, ` 7,20,00,000 and ` 4,32,00,000 respectively.  \nIn business, there’s a saying “The packaging sells the product the first time, but what’s inside \nsells the product a second time”. Following the saying, the company has the policy of taking \nback the cartons of the products sold relating to Fancy fans to reduce the packaging cost. \nHowever, for smooth returning of cartons, the company has to incur certain carrier cost on its \nown which is ` 5,76,000 for the current year and allocating the same directly to the said product. \nSome other information relating to each of the product lines is provided below: \n \nFancy fans \nHome decors Assembled furniture \nItems sold \n12,09,600 \n1,05,98,400 \n29,37,600 \nNumber of deliveries received \n600 \n4,380 \n1,320 \nNumber of purchase orders placed \n720 \n1,680 \n720 \nHours of shelf-stocking time \n1,080 \n10,800 \n5,400 \nThe company also provides the following basis of cost allocation: \nActivity \nDescription of activity \nTotal Cost Cost-allocation base \nDelivery \nPhysical \ndelivery \nand \nreceipt of products  \n1,20,96,000  6,300 deliveries \nOrdering \nPlacing of orders for \npurchases \n74,88,000  3,120 purchase orders \nShelf stocking \nStocking of products in \nwarehouse \n82,94,400  17,280 hours of shelf-\nstocking time \nThe company wants you to FIGURE OUT the following to ascertain which of the product line is \nmore profitable and answer the following question (MCQ 6 to 10):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 55,000 Profit (1) Statement of Profitability of an Oil Mill (after Carrying out further processing) (for the quarter ending March 2026) Product’s name Sales Value after further processing Share of joint cost Further processing cost Total cost after split off Profit (Loss) (a) (b) (c) (d) (e) = (c) + (d) (f = (b) – (e) ` ` ` ` ` AOXE 1,72,500 98,667 43,000 1,41,667 30,833 BOXE 15,000 19,733 9,000 28,733 (13,733) COXE 6,000 4,933 - 4,933 1,067 DOXE 45,000 24,667 1,500 26,167 18,833 Total 2,38,500 1,48,000 53,500 2,01,500 37,000 Working Notes 1. Sales Value at split off point for: AOXE = 8,000 x ` 15 = 1,20,000 2 BOXE = 4,000 x ` 6 = 24,000 COXE = 2,000 x ` 3 = 6,000 DOXE = 4,000 x ` 7.50 = 30,000 The ratio between the sale values of AOXE: BOXE: COXE: DOXE: 20: 4:1: 5. 2. Share of joint cost of AOXE, BOXE, COXE and DOXE has been determined by dividing the total joint cost viz ` 1,48,000 in the ratio 20:4:1: 5 AOXE = ` 1,48,000 30 x 20 = ` 98,667 BOXE = ` 1,48,000 30 x 4 = ` 19,733 COXE = ` 1,48,000 30 x 1 = ` 4,933 DOXE = ` 1,48,000 30 x 5 = ` 24,667 (2) Statement of Profitability of an Oil Mill (At the split off point) (for the quarter ending March 2026) Product’s name Selling price at split off point Output In units Sales value at split off point Share of joint cost Profit at split off point (0) (1) (2) (3) = (1) x (2) (4) (5) = (3) – (4) ` ` ` ` ` AOXE 15 8,000 1,20,000 98,667 21,333 BOXE 6 4,000 24,000 19,733 4,267 COXE 3 2,000 6,000 4,933 1,067 DOXE 7.50 4,000 30,000 24,667 5,333 Total 1,80,000 1,48,000 32,000 (3) Product BOXE should be sold without further processing. This will maximize the profit. 3"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

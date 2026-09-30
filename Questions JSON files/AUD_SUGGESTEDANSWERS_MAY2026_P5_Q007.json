@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.\nSuggest the audit team members of LMN & Co. to match the apt combination\nfrom the following information as per SA 300.\n\nDescription\n\nElements of Planning\n(a) Evaluating compliance with ethical\nrequirement, including independence\n(i)\nAudit Programme\n(b) Detailed plan of applying audit\nprocedures\n(ii)\nPreliminary\nengagement activity\n(c)\nDetermination of materiality\n(iii) Audit Strategy\n(d) Consideration\nof\nnumber\nand\nlocation of branches for audit\n(iv) Audit Plan\n(A)  (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)\n(B)  (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)\n(C)  (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)\n(D)  (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q007",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.\nSuggest the audit team members of LMN & Co. to match the apt combination\nfrom the following information as per SA 300.\n\nDescription\n\nElements of Planning\n(a) Evaluating compliance with ethical\nrequirement, including independence\n(i)\nAudit Programme\n(b) Detailed plan of applying audit\nprocedures\n(ii)\nPreliminary\nengagement activity\n(c)\nDetermination of materiality\n(iii) Audit Strategy\n(d) Consideration\nof\nnumber\nand\nlocation of branches for audit\n(iv) Audit Plan\n(A)  (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)\n(B)  (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)\n(C)  (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)\n(D)  (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

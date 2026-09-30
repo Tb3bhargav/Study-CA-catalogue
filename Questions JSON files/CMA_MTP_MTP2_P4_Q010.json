@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. \nOperating income as a percentage of revenues of each product line, namely Fancy fans, \nHome decors, Assembled furniture, when all the support costs are allocated using an \nactivity-based costing system would be: \n(a) \n4.42%, -20.42% and -1.36% respectively  \n(b) \n10.78%, 0.60% and 8.75% respectively \n6 \n(c) \n24.39%, 28.59% and 25.61% respectively  \n(d) \n4.39%, 8.59% and -1.36% respectively \n(5 x 2 = 10 marks)",
+  "suggested_answer": "(B) Fancy Fans (`) Home decors (`) Assembled furniture (`) Operating income (from iv. Above) (A) 41,04,000 6,04,800 50,83,200 Revenues (B) 3,80,88,000 10,08,28,800 5,80,75,200 Operating income as a percentage of revenues: (A/B) × 100) 10.78% 0.60% 8.75%",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q010",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nOperating income as a percentage of revenues of each product line, namely Fancy fans, \nHome decors, Assembled furniture, when all the support costs are allocated using an \nactivity-based costing system would be: \n(a) \n4.42%, -20.42% and -1.36% respectively  \n(b) \n10.78%, 0.60% and 8.75% respectively \n6 \n(c) \n24.39%, 28.59% and 25.61% respectively  \n(d) \n4.39%, 8.59% and -1.36% respectively \n(5 x 2 = 10 marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) Fancy Fans (`) Home decors (`) Assembled furniture (`) Operating income (from iv. Above) (A) 41,04,000 6,04,800 50,83,200 Revenues (B) 3,80,88,000 10,08,28,800 5,80,75,200 Operating income as a percentage of revenues: (A/B) × 100) 10.78% 0.60% 8.75%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

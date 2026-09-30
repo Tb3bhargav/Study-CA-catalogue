@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) LMN Foods is a manufacturer of organic snacks. For the year ending 2023,\nthe company compiled the following financial data:\n(8 Marks)\nItem\nAmount (in `)\nOpening inventory of raw materials\n2,00,000\nClosing inventory of raw materials\n2,50,000\nRaw material purchases\n12,00,000\nLabour costs\n5,00,000\nProduction overheads\n2,50,000\nMarketing and distribution expenses\n1,52,000\nIn 2024, LMN Foods accepted a request for a bulk supply of their best-selling\nsnacks. The estimated costs for fulfilling this order are as follows:\n•\nEstimated raw material cost: ` 3,00,000\n•\nEstimated labour cost: ` 1,50,000\n•\nPackaging and transportation costs: ` 49,400\nLMN Foods allocates production overhead based on direct labour costs and\nmarketing and distribution expenses as a percentage of the total production\ncost based on the previous year's data.\nRequired:\n(i)  Calculate the overhead recovery rates for 2023 based on actual costs.\n\n(2 Marks)\n(ii)  Prepare a comprehensive cost statement for the bulk order and\ndetermine the Sales required for achieving a profit margin of 20% on the\nfinal sales amount.\n(4 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21",
+  "suggested_answer": "(b) (i)  Calculation of Overhead Recovery Rate:\nProduction Overhead recovery rate based on Direct Labour Costs\n=\nProduction Overhead\nDirect Labour Cost ×100\n=\n2,50,000\n5,00,000 ×100 = 50% of Direct Labour\nMarketing & Distribution Overhead recovery rate based on Total\nProduction Costs\n=\nMarketing & Distribution  Overhead\nTotal Production Cost\n×100\n=\n1,52,000\n19,00,000 ×100 = 8% of Total Production Costs\nWorking Note:\nStatement showing Total Cost for 2023\nParticulars\nAmount (`)\nOpening stock of raw material\n2,00,000\nAdd: Purchases\n12,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nLess: Closing stock of raw material\n(2,50,000)\nDirect Material Consumed\n11,50,000\nDirect Labour Cost\n5,00,000\nPrime Cost\n16,50,000\nAdd: Production Overhead\n2,50,000\nProduction cost\n19,00,000\nAdd: Marketing & Distribution Cost\n1,52,000\nTotal Cost\n20,52,000\n(ii) Cost Statement for the Bulk Order and Determination of Sales in\n2024:\nParticulars\nAmount\n(`)\nDirect Material Cost\n\n3,00,000\nDirect Labour Cost\n1,50,000\nPrime Cost\n4,50,000\nAdd: Production Overhead (50% of Direct Labour Cost)\n75,000\nProduction cost\n5,25,000\nAdd: Marketing & Distribution Cost (8% of Production\nCost)\n42,000\nPackaging and Transportation Costs\n49,400\nTotal Cost\n6,16,400\nAdd: Profit @ 25% on cost\n1,54,100\nSales value (Price to be quoted for the order)\n7,70,500\nHence the price to be quoted is `7,70,500",
+  "marks": "(4 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q004_B",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 20,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) LMN Foods is a manufacturer of organic snacks. For the year ending 2023,\nthe company compiled the following financial data:\n(8 Marks)\nItem\nAmount (in `)\nOpening inventory of raw materials\n2,00,000\nClosing inventory of raw materials\n2,50,000\nRaw material purchases\n12,00,000\nLabour costs\n5,00,000\nProduction overheads\n2,50,000\nMarketing and distribution expenses\n1,52,000\nIn 2024, LMN Foods accepted a request for a bulk supply of their best-selling\nsnacks. The estimated costs for fulfilling this order are as follows:\n•\nEstimated raw material cost: ` 3,00,000\n•\nEstimated labour cost: ` 1,50,000\n•\nPackaging and transportation costs: ` 49,400\nLMN Foods allocates production overhead based on direct labour costs and\nmarketing and distribution expenses as a percentage of the total production\ncost based on the previous year's data.\nRequired:\n(i)  Calculate the overhead recovery rates for 2023 based on actual costs.\n\n(2 Marks)\n(ii)  Prepare a comprehensive cost statement for the bulk order and\ndetermine the Sales required for achieving a profit margin of 20% on the\nfinal sales amount.\n(4 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) (i)  Calculation of Overhead Recovery Rate:\nProduction Overhead recovery rate based on Direct Labour Costs\n=\nProduction Overhead\nDirect Labour Cost ×100\n=\n2,50,000\n5,00,000 ×100 = 50% of Direct Labour\nMarketing & Distribution Overhead recovery rate based on Total\nProduction Costs\n=\nMarketing & Distribution  Overhead\nTotal Production Cost\n×100\n=\n1,52,000\n19,00,000 ×100 = 8% of Total Production Costs\nWorking Note:\nStatement showing Total Cost for 2023\nParticulars\nAmount (`)\nOpening stock of raw material\n2,00,000\nAdd: Purchases\n12,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nLess: Closing stock of raw material\n(2,50,000)\nDirect Material Consumed\n11,50,000\nDirect Labour Cost\n5,00,000\nPrime Cost\n16,50,000\nAdd: Production Overhead\n2,50,000\nProduction cost\n19,00,000\nAdd: Marketing & Distribution Cost\n1,52,000\nTotal Cost\n20,52,000\n(ii) Cost Statement for the Bulk Order and Determination of Sales in\n2024:\nParticulars\nAmount\n(`)\nDirect Material Cost\n\n3,00,000\nDirect Labour Cost\n1,50,000\nPrime Cost\n4,50,000\nAdd: Production Overhead (50% of Direct Labour Cost)\n75,000\nProduction cost\n5,25,000\nAdd: Marketing & Distribution Cost (8% of Production\nCost)\n42,000\nPackaging and Transportation Costs\n49,400\nTotal Cost\n6,16,400\nAdd: Profit @ 25% on cost\n1,54,100\nSales value (Price to be quoted for the order)\n7,70,500\nHence the price to be quoted is `7,70,500"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

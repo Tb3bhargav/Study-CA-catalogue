@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nCA Rocky is a recently qualified Chartered Accountant. He is appointed \nas an auditor of Sky Ltd. for the current Financial Year 2023-24.  \nCA Rocky is of the view that he shall record all the matters related to \naudit i.e., audit procedures to be performed, audit evidence obtained \n\n \nINTERMEDIATE EXAMINATION \n \n \n62 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nand conclusions reached. Thus, he maintained a file and recorded each \nand every finding during the audit. His audit file, also includes audit \nprogrammes, \nnotes \nreflecting \npreliminary \nthinking, \nletters \nof \nconfirmation, e-mails concerning significant matters, etc. State which of \nthe following need not be included in the audit documentation? \n(a) \nAudit programmes. \n(b) \nE-mails concerning significant matters. \n(c) \nLetters of confirmation. \n(d) \nNotes reflecting preliminary thinking.",
+  "suggested_answer": "(D)",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q006",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nCA Rocky is a recently qualified Chartered Accountant. He is appointed \nas an auditor of Sky Ltd. for the current Financial Year 2023-24.  \nCA Rocky is of the view that he shall record all the matters related to \naudit i.e., audit procedures to be performed, audit evidence obtained \n\n \nINTERMEDIATE EXAMINATION \n \n \n62 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nand conclusions reached. Thus, he maintained a file and recorded each \nand every finding during the audit. His audit file, also includes audit \nprogrammes, \nnotes \nreflecting \npreliminary \nthinking, \nletters \nof \nconfirmation, e-mails concerning significant matters, etc. State which of \nthe following need not be included in the audit documentation? \n(a) \nAudit programmes. \n(b) \nE-mails concerning significant matters. \n(c) \nLetters of confirmation. \n(d) \nNotes reflecting preliminary thinking."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

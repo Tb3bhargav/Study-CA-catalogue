@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nCA Rajesh wants to choose a sample size which enables him to make a proper\nrisk assessment of the population. In selecting the sample size, which of the\nbelow option is not correct?\n(A)  The lower the risk the auditor is willing to accept, the greater the sample\nsize needs to be.\n(B)  If there is an increase in the tolerable rate of deviation, then the sample\nsize will decrease.\n(C)  Other things being equal, the greater the reliance the auditor places on\nthe operating effectiveness of controls in the risk assessment, the greater\nis the extent of the auditor's tests of controls and thus the sample size\nwill decrease.\n\n4\n(D)  When there is an increase in the expected rate of deviation of the\npopulation to be tested, then sample size will increase.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q005",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nCA Rajesh wants to choose a sample size which enables him to make a proper\nrisk assessment of the population. In selecting the sample size, which of the\nbelow option is not correct?\n(A)  The lower the risk the auditor is willing to accept, the greater the sample\nsize needs to be.\n(B)  If there is an increase in the tolerable rate of deviation, then the sample\nsize will decrease.\n(C)  Other things being equal, the greater the reliance the auditor places on\nthe operating effectiveness of controls in the risk assessment, the greater\nis the extent of the auditor's tests of controls and thus the sample size\nwill decrease.\n\n4\n(D)  When there is an increase in the expected rate of deviation of the\npopulation to be tested, then sample size will increase.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

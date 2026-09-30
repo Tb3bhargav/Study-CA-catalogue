@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  During the audit of a manufacturing company, the engagement team\nencountered several complex areas requiring careful evaluation. The audit\nsenior reminded the team that matters involving higher judgement must be\ndocumented more thoroughly.\n\nAn important factor in determining the form, content and extent of audit\ndocumentation of significant matters is the extent of professional judgement\nexercised in performing the work and evaluating the results. Explain, stating\nclearly the examples of significant matters (referring SA 230).\n(4 Marks)",
+  "suggested_answer": "(c) Examples of signiﬁcant matters include: Matters that give rise to signiﬁcant\nrisks.\n(i)\nResults of audit procedures indicating (a) that the ﬁnancial statements\ncould be materially misstated, or (b) a need to revise the auditor’s\nprevious assessment of the risks of material misstatement and the\nauditor’s responses to those risks.\n(ii) Circumstances that cause the auditor signiﬁcant diﬃculty in applying\nnecessary audit procedures.\n\nAUDITING AND ETHICS\n\n23\n(iii) Findings that could result in a modiﬁcation to the audit opinion or the\ninclusion of an Emphasis of Matter Paragraph in the auditor’s report.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_C",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 20,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  During the audit of a manufacturing company, the engagement team\nencountered several complex areas requiring careful evaluation. The audit\nsenior reminded the team that matters involving higher judgement must be\ndocumented more thoroughly.\n\nAn important factor in determining the form, content and extent of audit\ndocumentation of significant matters is the extent of professional judgement\nexercised in performing the work and evaluating the results. Explain, stating\nclearly the examples of significant matters (referring SA 230).\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Examples of signiﬁcant matters include: Matters that give rise to signiﬁcant\nrisks.\n(i)\nResults of audit procedures indicating (a) that the ﬁnancial statements\ncould be materially misstated, or (b) a need to revise the auditor’s\nprevious assessment of the risks of material misstatement and the\nauditor’s responses to those risks.\n(ii) Circumstances that cause the auditor signiﬁcant diﬃculty in applying\nnecessary audit procedures.\n\nAUDITING AND ETHICS\n\n23\n(iii) Findings that could result in a modiﬁcation to the audit opinion or the\ninclusion of an Emphasis of Matter Paragraph in the auditor’s report."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

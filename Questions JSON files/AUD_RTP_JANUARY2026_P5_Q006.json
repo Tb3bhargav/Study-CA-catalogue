@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q006",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "6. \nThe auditor of PAC Pvt Ltd., a pickle manufacturing company, notices \nthat the company is expanding its operations into North India States in \nFinancial Year 2024-25, but the related internal control system remains \nthe same to handle the increased volume of transactions and \nconsequently auditor concludes that material misstatements would not \nbe prevented, or detected and corrected by the entity’s internal control. \nType of risk involved in this situation is: \n(a)  \nDetection Risk. \n(b)  \nControl Risk. \n(c)  \nInherent Risk. \n(d)  \nAudit Risk.",
+  "suggested_answer": "(B)",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q006",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "6",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nThe auditor of PAC Pvt Ltd., a pickle manufacturing company, notices \nthat the company is expanding its operations into North India States in \nFinancial Year 2024-25, but the related internal control system remains \nthe same to handle the increased volume of transactions and \nconsequently auditor concludes that material misstatements would not \nbe prevented, or detected and corrected by the entity’s internal control. \nType of risk involved in this situation is: \n(a)  \nDetection Risk. \n(b)  \nControl Risk. \n(c)  \nInherent Risk. \n(d)  \nAudit Risk."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q002_A",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  The following information pertain to CMC Limited:\nNumber of Equity Shares\n20,00,000\nBook Value of 10% Convertible Debentures\n` 1,00,00,000\nBook Value of 12% Bank Term Loan\n` 25,00,000\nMarket Price of Equity Share\n` 55\nMarket Value of 10% Convertible Debenture\n` 108\nFace Value of Equity Share\n` 10\nFace Value of 10% Convertible Debenture\n` 100\nBeta coefficient of Equity shares of CMC Ltd.\n1.5\nRisk free rate of return\n4.5%\n\n14\nEquity risk Premium\n9%\nRate of taxation\n30%\nThe company expects that the share prices will rise in future at an average\nrate of 6% per annum. The 10% convertible debentures of 100 each will be\nconverted in six years' time into equity shares of the company in the ratio of\n1: 4 (4 equity shares for each debenture).\nThe market value of 12% bank term loan is at par.\n\nYou are required to calculate:\n(i)  Cost of Equity Share Capital by applying Capital Asset Pricing Model\n(CAPM) Approach\n(ii)  Cost of Convertible Debenture by using approximation method,\n(iii)  Cost of Bank Term Loan\n(iv)  Weighted Average Cost of Capital using Market Value weights\n(1+2+1+3=7 Marks)",
+  "suggested_answer": "(a)  (i) Cost of equity share\nRF = 4.5%\nRm – Rf = 9%\nΒ = 1.5\nUsing CAPM,\nKe = Rf + β (Rm – Rf)\n\n= 4.5% + 1.5 (9%)\n\n= 18%\n(ii)  Cost of convertible debenture (based on Market Value)\n\nPrice of share after 6 years = 55 (1+0.06)6\n\n= ` 78.018\nRedemption Value of Debenture (RV) = 78.018 × 4 = 312.07 (RV)\nNP   = 108 (MV)\nn\n= 6\nKd  =\n\n\n\n\n\n\nRV –NP\nINT(1– t)+\nn\n×100\n(RV –NP)\n2\n\n=\n(312.07-108)\n10 (1-0.3)+\n6\n×100\n(312.07+108)\n2\n\n= 7+34.012×100\n210.035\n\nKd  = 19.52%\n(iii) Cost of bank term loan\nKd  = I (1 – t)\n\n16\n\n= 12% (1-0.3) = 8.4%\n(iv) Calculation of Weighted Average Cost of Capital (WACC) using\nMarket Value Weights\nSource\n(`) in lakhs Weight\nCost of\nCapital\nafter tax\nWACC\nEquity Share Capital\n11,00,00,000\n0.892\n0.180\n0.1606\n10%\nConvertible\nDebenture\n1,08,00,000\n0.088\n0.195\n0.0171\n12% Bank Term Loan\n25,00,000\n0.020\n0.084\n0.0017\nTotal\n12,33,00,000\n1\n\n0.1794\n\nWACC = 17.94%\n\nAlternative Solution to Part (ii) and (iv)\n(ii) Cost of convertible debenture\nPrice of share after 6 years = 55 (1+0.06)6\n\n= ` 78.018\nRedemption Value of Debenture (RV) = 78.018 × 4 = 312.07 (RV)\nNP   = 100\nn\n= 6\nKd  =\n\n\n\n\n\n\nRV –NP\nINT(1– t)+\nn\n×100\n(RV –NP)\n2\n\n=\n(312.07-100)\n10 (1-0.3)+\n6\n×100\n(312.07+100)\n2\n\n= 7+35.345×100\n206.035\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17\nKd  = 20.55%\n(iv) Calculation of Weighted Average Cost of Capital (WACC) using\nMarket Value Weights\nSource\n(`) in lakhs\nWeight\nCost of\nCapital\nafter tax\nWACC\nEquity Share Capital\n11,00,00,000\n0.892\n0.180\n0.1606\n10%\nConvertible\nDebenture\n1,08,00,000\n0.088\n0.205\n0.0180\n12%\nBank\nTerm\nLoan\n25,00,000\n0.020\n0.084\n0.0017\nTotal\n12,33,00,000\n1\n\n0.1803\nWACC = 18.03%",
+  "marks": "(1+2+1+3=7 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q002_A",
+  "source_filename": "84880bos68360-p6.pdf",
+  "source_pdf": "suggested_answers/84880bos68360-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 17
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "2(a)",
+    "marks": "(1+2+1+3=7 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84880bos68360-p6.pdf",
+      "answer_pdf": "suggested_answers/84880bos68360-p6.pdf"
+    },
+    "page_start": 13,
+    "page_end": 17,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  The following information pertain to CMC Limited:\nNumber of Equity Shares\n20,00,000\nBook Value of 10% Convertible Debentures\n` 1,00,00,000\nBook Value of 12% Bank Term Loan\n` 25,00,000\nMarket Price of Equity Share\n` 55\nMarket Value of 10% Convertible Debenture\n` 108\nFace Value of Equity Share\n` 10\nFace Value of 10% Convertible Debenture\n` 100\nBeta coefficient of Equity shares of CMC Ltd.\n1.5\nRisk free rate of return\n4.5%\n\n14\nEquity risk Premium\n9%\nRate of taxation\n30%\nThe company expects that the share prices will rise in future at an average\nrate of 6% per annum. The 10% convertible debentures of 100 each will be\nconverted in six years' time into equity shares of the company in the ratio of\n1: 4 (4 equity shares for each debenture).\nThe market value of 12% bank term loan is at par.\n\nYou are required to calculate:\n(i)  Cost of Equity Share Capital by applying Capital Asset Pricing Model\n(CAPM) Approach\n(ii)  Cost of Convertible Debenture by using approximation method,\n(iii)  Cost of Bank Term Loan\n(iv)  Weighted Average Cost of Capital using Market Value weights\n(1+2+1+3=7 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i) Cost of equity share\nRF = 4.5%\nRm – Rf = 9%\nΒ = 1.5\nUsing CAPM,\nKe = Rf + β (Rm – Rf)\n\n= 4.5% + 1.5 (9%)\n\n= 18%\n(ii)  Cost of convertible debenture (based on Market Value)\n\nPrice of share after 6 years = 55 (1+0.06)6\n\n= ` 78.018\nRedemption Value of Debenture (RV) = 78.018 × 4 = 312.07 (RV)\nNP   = 108 (MV)\nn\n= 6\nKd  =\n\n\n\n\n\n\nRV –NP\nINT(1– t)+\nn\n×100\n(RV –NP)\n2\n\n=\n(312.07-108)\n10 (1-0.3)+\n6\n×100\n(312.07+108)\n2\n\n= 7+34.012×100\n210.035\n\nKd  = 19.52%\n(iii) Cost of bank term loan\nKd  = I (1 – t)\n\n16\n\n= 12% (1-0.3) = 8.4%\n(iv) Calculation of Weighted Average Cost of Capital (WACC) using\nMarket Value Weights\nSource\n(`) in lakhs Weight\nCost of\nCapital\nafter tax\nWACC\nEquity Share Capital\n11,00,00,000\n0.892\n0.180\n0.1606\n10%\nConvertible\nDebenture\n1,08,00,000\n0.088\n0.195\n0.0171\n12% Bank Term Loan\n25,00,000\n0.020\n0.084\n0.0017\nTotal\n12,33,00,000\n1\n\n0.1794\n\nWACC = 17.94%\n\nAlternative Solution to Part (ii) and (iv)\n(ii) Cost of convertible debenture\nPrice of share after 6 years = 55 (1+0.06)6\n\n= ` 78.018\nRedemption Value of Debenture (RV) = 78.018 × 4 = 312.07 (RV)\nNP   = 100\nn\n= 6\nKd  =\n\n\n\n\n\n\nRV –NP\nINT(1– t)+\nn\n×100\n(RV –NP)\n2\n\n=\n(312.07-100)\n10 (1-0.3)+\n6\n×100\n(312.07+100)\n2\n\n= 7+35.345×100\n206.035\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17\nKd  = 20.55%\n(iv) Calculation of Weighted Average Cost of Capital (WACC) using\nMarket Value Weights\nSource\n(`) in lakhs\nWeight\nCost of\nCapital\nafter tax\nWACC\nEquity Share Capital\n11,00,00,000\n0.892\n0.180\n0.1606\n10%\nConvertible\nDebenture\n1,08,00,000\n0.088\n0.205\n0.0180\n12%\nBank\nTerm\nLoan\n25,00,000\n0.020\n0.084\n0.0017\nTotal\n12,33,00,000\n1\n\n0.1803\nWACC = 18.03%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

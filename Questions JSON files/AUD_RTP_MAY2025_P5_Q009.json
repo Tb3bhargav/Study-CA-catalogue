@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q009",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "9.  \nXYZ Ltd., a manufacturing company based in India, operates multiple \nplants across the country and deals in complex machinery, which \nrequires specialized maintenance and valuation expertise. XYZ Ltd. \nappointed CA Dhruv as Statutory auditor. During the audit, he observed \nthat the management consistently applied the same method for \nvaluation of inventory over the past few years, but this year, without \nproper disclosure, they switched to a different valuation method, which \nresulted in higher reported profits. Does such a matter fall within scope \nof audit? \nChapter 2 - Audit Strategy, Audit Planning and Audit Programme",
+  "suggested_answer": "The purpose of an audit is to enhance the degree of confidence of \nintended users in the financial statements. The scope of audit of \nfinancial statements includes coverage of all aspects of entity, reliability \nand sufficiency of financial information and proper disclosure of \nfinancial information.  \n \nIn the given situation, CA. Dhruv observed that the management \nconsistently applied the same method for valuation of inventory over \nthe past few years, but this year, without proper disclosure, they \nswitched to a different valuation method, which resulted in higher \nprofits. Since proper disclosure of financial information is covered under \nthe scope of audit, thus, the auditor should decide whether relevant \ninformation is properly disclosed in the financial statements. He should \nalso keep in mind applicable statutory requirements in this regard.  \n \nThe management responsible for preparation and presentation of \nfinancial statements makes many judgments in this process of preparing \nand presenting financial statements. For example, choosing appropriate \naccounting policies in relation to various accounting issues like choosing \nmethod of charging depreciation on fixed assets or choosing \nappropriate method for valuation of inventories. \n \nThe auditor evaluates selection and consistent application of accounting \npolicies by management; whether such a selection is proper and whether \nchosen policy has been applied consistently on a period-to-period basis. \nThus, it can be concluded that proper disclosure of financial information \nis well within scope of audit.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q009",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "9",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9.  \nXYZ Ltd., a manufacturing company based in India, operates multiple \nplants across the country and deals in complex machinery, which \nrequires specialized maintenance and valuation expertise. XYZ Ltd. \nappointed CA Dhruv as Statutory auditor. During the audit, he observed \nthat the management consistently applied the same method for \nvaluation of inventory over the past few years, but this year, without \nproper disclosure, they switched to a different valuation method, which \nresulted in higher reported profits. Does such a matter fall within scope \nof audit? \nChapter 2 - Audit Strategy, Audit Planning and Audit Programme"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The purpose of an audit is to enhance the degree of confidence of \nintended users in the financial statements. The scope of audit of \nfinancial statements includes coverage of all aspects of entity, reliability \nand sufficiency of financial information and proper disclosure of \nfinancial information.  \n \nIn the given situation, CA. Dhruv observed that the management \nconsistently applied the same method for valuation of inventory over \nthe past few years, but this year, without proper disclosure, they \nswitched to a different valuation method, which resulted in higher \nprofits. Since proper disclosure of financial information is covered under \nthe scope of audit, thus, the auditor should decide whether relevant \ninformation is properly disclosed in the financial statements. He should \nalso keep in mind applicable statutory requirements in this regard.  \n \nThe management responsible for preparation and presentation of \nfinancial statements makes many judgments in this process of preparing \nand presenting financial statements. For example, choosing appropriate \naccounting policies in relation to various accounting issues like choosing \nmethod of charging depreciation on fixed assets or choosing \nappropriate method for valuation of inventories. \n \nThe auditor evaluates selection and consistent application of accounting \npolicies by management; whether such a selection is proper and whether \nchosen policy has been applied consistently on a period-to-period basis. \nThus, it can be concluded that proper disclosure of financial information \nis well within scope of audit."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

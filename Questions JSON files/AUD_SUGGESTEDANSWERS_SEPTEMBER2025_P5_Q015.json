@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q015",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15. A Limited company has certain borrowings from a consortium of banks.\nclassified into Funded loan and Non-funded facilities. The description of the\nfacilities is as under -\ni.\nLetters of credit\nii.  Cash credits\niii.  Bank guarantees\niv.  Overdrafts\nv.  Standby Letter of credit (SBLC)\n\n10\nvi.  Bills discounted and purchased\nvii.  Participation on Risk sharing basis\nChoose the correct option with regard to Funded loans.\n(A)  i, ii, vi, vii\n(B)  ii, iv, vi, vii\n(C)  ii, iii, iv, vi\n(D)  i, v, vi, vii\n(2 Marks)\n\nAnswer Key\nMCQ No.\nCorrect Option",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q015",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "15",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 10,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. A Limited company has certain borrowings from a consortium of banks.\nclassified into Funded loan and Non-funded facilities. The description of the\nfacilities is as under -\ni.\nLetters of credit\nii.  Cash credits\niii.  Bank guarantees\niv.  Overdrafts\nv.  Standby Letter of credit (SBLC)\n\n10\nvi.  Bills discounted and purchased\nvii.  Participation on Risk sharing basis\nChoose the correct option with regard to Funded loans.\n(A)  i, ii, vi, vii\n(B)  ii, iv, vi, vii\n(C)  ii, iii, iv, vi\n(D)  i, v, vi, vii\n(2 Marks)\n\nAnswer Key\nMCQ No.\nCorrect Option"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

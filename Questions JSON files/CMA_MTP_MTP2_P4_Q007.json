@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q007",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7. \nOperating income as a percentage of revenues of each product line, namely Fancy fans, \nHome decors, Assembled furniture, when all the support costs are allocated on the basis \nof cost of goods sold would be: \n(a) \n6.87%, 12.05% and 8.38% respectively  \n(b) \n12.05%, 6.87% and 8.38% respectively \n(c) \n1.70%, 7.17% and 3.30% respectively  \n(d) \n7.17%, 3.30% and 1.70% respectively",
+  "suggested_answer": "(C) Particulars Fancy Fans (`) Home Decors (`) Assembled Furniture (`) Revenue: (A) 3,80,88,000 10,08,28,800 5,80,75,200 Cost of Goods sold (COGS): (B) 2,88,00,000 7,20,00,000 4,32,00,000 Support cost (30% of COGS): (C) (as Calculated in i. above) 86,40,000 2,16,00,000 1,29,60,000 Total cost: (D) = {(B) + (C)} 3,74,40,000 9,36,00,000 5,61,60,000 Operating income: E= {(A)- (D)} 6,48,000 72,28,800 19,15,200 Operating income as a percentage of revenues: (E/A) × 100) 1.70% 7.17% 3.30% 4",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q007",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "7",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7. \nOperating income as a percentage of revenues of each product line, namely Fancy fans, \nHome decors, Assembled furniture, when all the support costs are allocated on the basis \nof cost of goods sold would be: \n(a) \n6.87%, 12.05% and 8.38% respectively  \n(b) \n12.05%, 6.87% and 8.38% respectively \n(c) \n1.70%, 7.17% and 3.30% respectively  \n(d) \n7.17%, 3.30% and 1.70% respectively"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) Particulars Fancy Fans (`) Home Decors (`) Assembled Furniture (`) Revenue: (A) 3,80,88,000 10,08,28,800 5,80,75,200 Cost of Goods sold (COGS): (B) 2,88,00,000 7,20,00,000 4,32,00,000 Support cost (30% of COGS): (C) (as Calculated in i. above) 86,40,000 2,16,00,000 1,29,60,000 Total cost: (D) = {(B) + (C)} 3,74,40,000 9,36,00,000 5,61,60,000 Operating income: E= {(A)- (D)} 6,48,000 72,28,800 19,15,200 Operating income as a percentage of revenues: (E/A) × 100) 1.70% 7.17% 3.30% 4"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

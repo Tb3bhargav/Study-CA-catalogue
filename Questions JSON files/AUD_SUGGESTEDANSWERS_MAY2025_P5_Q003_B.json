@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) SA 701 \"Communicating Key Audit Matters in the Auditor's Report\" deals\nwith the auditor's responsibility to communicate key audit matters in the\nauditor's report.\n\nExplain the definition of Key Audit Matter and how an auditor will determine\nthe Key Audit Matters?\n(5 Marks)",
+  "suggested_answer": "(b) Definition of Key Audit Matter: Key Audit Matters are those matters that,\nin the auditor’s professional judgement were of most significance in the\naudit of the financial statements of the current period. Key audit matters\nare selected from matters communicated with those charged with\ngovernance.\n\nDetermining Key Audit Matters: The auditor shall determine, from the\nmatters communicated with those charged with governance, those matters\nthat required significant auditor attention in performing the audit. In\nmaking this determination, the auditor shall take into account the\nfollowing:\n•\nAreas of higher assessed risk of material misstatement, or significant risks\nidentified in accordance with SA 315.\n•\nSignificant auditor judgments relating to areas in the financial statements\nthat involved significant management judgment, including accounting\nestimates that have been identified as having high estimation\nuncertainty.\n•\nThe effect on the audit of significant events or transactions that occurred\nduring the period.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_B",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 15,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) SA 701 \"Communicating Key Audit Matters in the Auditor's Report\" deals\nwith the auditor's responsibility to communicate key audit matters in the\nauditor's report.\n\nExplain the definition of Key Audit Matter and how an auditor will determine\nthe Key Audit Matters?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Definition of Key Audit Matter: Key Audit Matters are those matters that,\nin the auditor’s professional judgement were of most significance in the\naudit of the financial statements of the current period. Key audit matters\nare selected from matters communicated with those charged with\ngovernance.\n\nDetermining Key Audit Matters: The auditor shall determine, from the\nmatters communicated with those charged with governance, those matters\nthat required significant auditor attention in performing the audit. In\nmaking this determination, the auditor shall take into account the\nfollowing:\n•\nAreas of higher assessed risk of material misstatement, or significant risks\nidentified in accordance with SA 315.\n•\nSignificant auditor judgments relating to areas in the financial statements\nthat involved significant management judgment, including accounting\nestimates that have been identified as having high estimation\nuncertainty.\n•\nThe effect on the audit of significant events or transactions that occurred\nduring the period."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

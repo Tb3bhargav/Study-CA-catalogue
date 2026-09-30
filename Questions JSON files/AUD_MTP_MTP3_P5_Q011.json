@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q011",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 11,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "11. \nThe auditor accumulated the differences identified between the stock reported to the \nbank and the stock appearing in the audited financial statements and noted that the \naggregate misstatement was approaching the materiality level determined for the audit. \nManagement, however, decided not to make any adjustment in the financial statements. \n \nIn light of these facts, what should the auditor primarily consider while evaluating the \nimplications for the audit? \n(a)  \nConclude that the financial statements are materially misstated without further \nevaluation. \n(b)  \nEvaluate whether the uncorrected misstatements are material individually or in \naggregate and consider the implications for the auditor’s report. \n(c)  \nAccept management’s explanation since the difference arose due to valuation \nmethods. \n(d)  \nIgnore the misstatement since it does not exceed the materiality threshold.",
+  "suggested_answer": "(B)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q011",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Strategic Management Implementation and Control",
+    "topic": "Strategic Management Implementation and Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "11",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "11. \nThe auditor accumulated the differences identified between the stock reported to the \nbank and the stock appearing in the audited financial statements and noted that the \naggregate misstatement was approaching the materiality level determined for the audit. \nManagement, however, decided not to make any adjustment in the financial statements. \n \nIn light of these facts, what should the auditor primarily consider while evaluating the \nimplications for the audit? \n(a)  \nConclude that the financial statements are materially misstated without further \nevaluation. \n(b)  \nEvaluate whether the uncorrected misstatements are material individually or in \naggregate and consider the implications for the auditor’s report. \n(c)  \nAccept management’s explanation since the difference arose due to valuation \nmethods. \n(d)  \nIgnore the misstatement since it does not exceed the materiality threshold."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

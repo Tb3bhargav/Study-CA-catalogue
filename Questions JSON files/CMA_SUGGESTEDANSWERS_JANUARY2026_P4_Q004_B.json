@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  The following financial information is available for a company with a normal\nproduction capacity of 40,000 units for the year ended 31st March, 2025:\n•\nSales amounted to ` 8,00,000, Units sold: 35,000 units.\n•\nThere was no opening or closing stock of finished units.\n•\nDirect material and direct wages costs were ` 3,50,000 and ` 2,00,000\nrespectively.\n•\nActual factory expenses were ` 1,00,000, of which 55% were fixed.\n•\nAdministrative expenses related to production activities incurred during the\nyear but not paid were ` 50,000, which were entirely fixed.\n•\nActual selling and distribution expenses amounted to ` 20,000, of which\n35% were fixed.\n•\nThe company earned interest and dividend income totaling ` 10,000.\n\nYou are required to prepare:\n(i)  The cost sheet and ascertain the profit as per cost accounts for the year\nended 31st March, 2025, assuming that the indirect expenses are\nabsorbed on the basis of normal production capacity; and\n(ii)  A statement reconciling the profits shown by financial and cost accounts.\n\n(7 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21",
+  "suggested_answer": "(b)  Cost Sheet for the year ended 31st March 31st March 2025\nParticulars\n(`)\n(`)\nDirect Material\n3,50,000\nDirect Wages\n2,00,000\nPrime cost\n5,50,000\n\n22\nFactory expenses:\n\nVariable (45% of ` 1,00,000)\n45,000\n\nFixed* (` 55,000 × 35,000/40,000)\n48,125\n93,125\nWorks cost\n6,43,125\nAdministrative\nexpenses\nrelated\nto production\nactivities (` 50,000 × 35,000/40,000)\n\n43,750\nCost of production\n6,86,875\nSelling & Distribution expenses:\n\nVariable (65% of ` 20,000)\n13,000\n\nFixed (` 7,000 × 35,000/40,000)\n6,125\n19,125\nCost of Sales\n7,06,000\nProfit (Balancing figure)\n\n94,000\nSales revenue\n8,00,000\n\nStatement Reconciling profits shown by Financial and Cost Accounts\nParticulars\n(`)\n(`)\nProfit as per Cost Accounts\n\n94,000\nAdd: Income from interest and dividends\n\n10,000\n\n1,04,000\nLess: Factory expenses under-charged in Cost\nAccounts (` 1,00,000 – ` 93,125)\n6,875\n\nAdministrative expenses under-charged in Cost\nAccounts (` 50,000 – ` 43,750)\n6,250\n\nSelling & distribution expenses under—charged in\nCost Accounts (` 20,000 – ` 19,125)\n\n875\n\n(14,000)\nProfit as per Financial Accounts\n\n90,000",
+  "marks": "(7 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q004_B",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": "(7 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  The following financial information is available for a company with a normal\nproduction capacity of 40,000 units for the year ended 31st March, 2025:\n•\nSales amounted to ` 8,00,000, Units sold: 35,000 units.\n•\nThere was no opening or closing stock of finished units.\n•\nDirect material and direct wages costs were ` 3,50,000 and ` 2,00,000\nrespectively.\n•\nActual factory expenses were ` 1,00,000, of which 55% were fixed.\n•\nAdministrative expenses related to production activities incurred during the\nyear but not paid were ` 50,000, which were entirely fixed.\n•\nActual selling and distribution expenses amounted to ` 20,000, of which\n35% were fixed.\n•\nThe company earned interest and dividend income totaling ` 10,000.\n\nYou are required to prepare:\n(i)  The cost sheet and ascertain the profit as per cost accounts for the year\nended 31st March, 2025, assuming that the indirect expenses are\nabsorbed on the basis of normal production capacity; and\n(ii)  A statement reconciling the profits shown by financial and cost accounts.\n\n(7 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Cost Sheet for the year ended 31st March 31st March 2025\nParticulars\n(`)\n(`)\nDirect Material\n3,50,000\nDirect Wages\n2,00,000\nPrime cost\n5,50,000\n\n22\nFactory expenses:\n\nVariable (45% of ` 1,00,000)\n45,000\n\nFixed* (` 55,000 × 35,000/40,000)\n48,125\n93,125\nWorks cost\n6,43,125\nAdministrative\nexpenses\nrelated\nto production\nactivities (` 50,000 × 35,000/40,000)\n\n43,750\nCost of production\n6,86,875\nSelling & Distribution expenses:\n\nVariable (65% of ` 20,000)\n13,000\n\nFixed (` 7,000 × 35,000/40,000)\n6,125\n19,125\nCost of Sales\n7,06,000\nProfit (Balancing figure)\n\n94,000\nSales revenue\n8,00,000\n\nStatement Reconciling profits shown by Financial and Cost Accounts\nParticulars\n(`)\n(`)\nProfit as per Cost Accounts\n\n94,000\nAdd: Income from interest and dividends\n\n10,000\n\n1,04,000\nLess: Factory expenses under-charged in Cost\nAccounts (` 1,00,000 – ` 93,125)\n6,875\n\nAdministrative expenses under-charged in Cost\nAccounts (` 50,000 – ` 43,750)\n6,250\n\nSelling & distribution expenses under—charged in\nCost Accounts (` 20,000 – ` 19,125)\n\n875\n\n(14,000)\nProfit as per Financial Accounts\n\n90,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

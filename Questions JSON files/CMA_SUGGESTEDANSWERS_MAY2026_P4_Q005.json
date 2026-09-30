@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nWhat is the amount of total profit realized by Graphite Core Industries on\nsale of finished stock of pencils which is transferred to the Costing Profit and\nLoss Account?\n(A)  ` 25,40,000\n(B)  ` 25,25,000\n(C)  ` 25,17,500\n(D) ` 25,32,500\n(2 Marks)\nCase Scenario - II\nSafety First Tyre Company is the manufacturer of 'Puncture Resistant' motorcycle\ntyres. In the manufacturing process, it undertakes three different jobs namely,\nBelting (B), Extrusion (E) and Vulcanizing (V). All the three jobs require the use of\na special machine and also the use of Artificial Intelligence (AI) system when\nnecessary. The Al system is hired from outside and the hire charges paid for every\nquarter is ` 4,08,000. An estimate of overhead expenses relating to the special\nmachine is given below:\n•\nThe cost of the special machine is ` 66,00,000 and depreciation is charged\n@ 10% per annum on straight line basis.\n•\nRent paid for every six months is ` 1,38,000.\n•\nOther indirect expenses per annum ` 4,92,000.\nDuring the first month of operation, the following details are available from the\njob book of the company:\n\n4\nJobs\n\nBelting\n(B)\nExtrusion\n(E)\nVulcanizing\n(v)\nNumber of hours the special machine was used\nWithout the use of Artificial Intelligence (AI)\nsystem\n600\n900\n-\nWith the use of Artificial Intelligence (AI)\nsystem\n450\n550\n1000\nAny fraction in calculations may be rounded off up to two decimal places.\nOn the basis of the above Case Scenario, you are required to answer the following\nMCQs 6 to 10:",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q005",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nWhat is the amount of total profit realized by Graphite Core Industries on\nsale of finished stock of pencils which is transferred to the Costing Profit and\nLoss Account?\n(A)  ` 25,40,000\n(B)  ` 25,25,000\n(C)  ` 25,17,500\n(D) ` 25,32,500\n(2 Marks)\nCase Scenario - II\nSafety First Tyre Company is the manufacturer of 'Puncture Resistant' motorcycle\ntyres. In the manufacturing process, it undertakes three different jobs namely,\nBelting (B), Extrusion (E) and Vulcanizing (V). All the three jobs require the use of\na special machine and also the use of Artificial Intelligence (AI) system when\nnecessary. The Al system is hired from outside and the hire charges paid for every\nquarter is ` 4,08,000. An estimate of overhead expenses relating to the special\nmachine is given below:\n•\nThe cost of the special machine is ` 66,00,000 and depreciation is charged\n@ 10% per annum on straight line basis.\n•\nRent paid for every six months is ` 1,38,000.\n•\nOther indirect expenses per annum ` 4,92,000.\nDuring the first month of operation, the following details are available from the\njob book of the company:\n\n4\nJobs\n\nBelting\n(B)\nExtrusion\n(E)\nVulcanizing\n(v)\nNumber of hours the special machine was used\nWithout the use of Artificial Intelligence (AI)\nsystem\n600\n900\n-\nWith the use of Artificial Intelligence (AI)\nsystem\n450\n550\n1000\nAny fraction in calculations may be rounded off up to two decimal places.\nOn the basis of the above Case Scenario, you are required to answer the following\nMCQs 6 to 10:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

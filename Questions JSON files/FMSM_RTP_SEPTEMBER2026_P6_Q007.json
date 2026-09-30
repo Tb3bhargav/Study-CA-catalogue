@@ -1,0 +1,60 @@
+{
+  "id": "FMSM_RTP_SEPTEMBER2026_P6_Q007",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7.  \nThe management of P Limited is evaluating two mutually exclusive \ninvestment alternatives, namely Machine I and Machine II, for \nacquisition. The company has a cost of capital of 12% and is subject to a \ncorporate tax rate of 30%. \n \nThe relevant details of the two machines are provided below: \nParticulars \nMachine I \nMachine II \nInitial Cost of Machine \n` 10,00,000 \n` 15,00,000 \nUseful Life \n5 years \n6 years \nAnnual Income Before Depreciation and \nTax \n` 3,45,000 \n` 4,55,000 \nAdditional Information: \n• \nDepreciation is to be charged using the Straight-Line Method \n(SLM) over the useful life of each machine.  \nRequired: \n(i) \nCompute the following capital budgeting indicators for each \nmachine:  \n• \nDiscounted Payback Period (DPP)  \n• \nNet Present Value (NPV)  \n• \nInternal Rate of Return (IRR)  \n(ii) \nBased on the results obtained, recommend which machine should \nbe selected by the management of P Limited, providing \nappropriate justification. \n \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n81 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nThe present value factors of Re. 1 are as follows: \nYear \n1 \n2 \n3 \n4 \n5 \n6 \nAt 12% \n.893 \n.797 \n.712 \n.636 \n.567 \n.507 \nAt 13% \n.885 \n.783 \n.693 \n.613 \n.543 \n.480 \nAt 14%  \n.877 \n.769 \n.675 \n.592 \n.519 \n.456 \nAt 15% \n.870 \n.756 \n.658 \n.572 \n.497 \n.432 \nAt 16% \n.862 \n.743 \n.641 \n.552 \n.476 \n.410 \nWorking Capital Management",
+  "suggested_answer": "(i) \nComputation of Discounted Payback Period, Net Present Value \n(NPV) and Internal Rate of Return (IRR) for Two Machines \nCalculation of Cash Inflows \n \nMachine - I  \n(`) \nMachine - II  \n(`) \nAnnual \nIncome \nbefore \nTax \nand \nDepreciation  \n3,45,000 \n4,55,000 \nLess: Depreciation  \n \n \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n91 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n  \n  Machine – I:    10,00,000 /5 \n2,00,000 \n- \n \n  Machine – II:  15,00,000 / 6 \n   \n- \n2,50,000 \nIncome before Tax \n1,45,000 \n2,05,000 \nLess: Tax @ 30 %  \n43,500 \n61,500 \nIncome after Tax \n1,01,500 \n1,43,500 \nAdd: Depreciation \n2,00,000 \n2,50,000 \nAnnual Cash Inflows \n3,01,500 \n3,93,500 \n \n \n \nMachine – I \nMachine – II \nYear \nP.V. of \nRe.1 \n@12% \nCash \nflow \nP.V. Cumulative \nP.V \nCash \nflow \nP.V. Cumulative \nP.V. \n1 \n0.893 3,01,500 2,69,240 \n2,69,240 3,93,500 \n3,51,396 \n3,51,396 \n2 \n0.797 3,01,500 2,40,296 \n5,09,536 3,93,500 \n3,13,620 \n6,65,016 \n3 \n0.712 3,01,500 2,14,668 \n7,24,204 3,93,500 \n2,80,172 \n9,45,188 \n4 \n0.636 3,01,500 1,91,754 \n9,15,958 3,93,500 \n2,50,266 \n11,95,454 \n5 \n0.567 3,01,500 1,70,951 \n10,86,909 3,93,500 \n2,23,115 \n14,18,569 \n6 \n0.507 \n- \n- \n- 3,93,500 \n1,99,505 \n16,18,074 \nDiscounted Payback Period for:  \nMachine – I \nDiscounted Payback Period  = 4+ (\n)\n10,00,000 - 9,15,958\n1,70,951\n \n \n  \n \n \n \n \n= 4+ 84,042\n1,70,951\n = 4 + 0.4916          \n \n  \n \n \n \n \n= 4.49 years or 4 years and 5.9 months  \nMachine – II  \nDiscounted Payback Period  = 5+ (\n)\n15,00,000 -14,18,569\n1,99,505\n = 5+ 81,431\n1,99,505\n \n \n  \n \n \n \n \n= 5 + 0.4082 \n\n \nINTERMEDIATE EXAMINATION \n \n \n92 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \n  \n \n \n \n \n= 5.41 years or 5 years and 4.9 months  \nNet Present Value for: \nMachine – I  \n \nNPV = ` 10,86,909 – 10,00,000 = ` 86,909 \nMachine – II  \n \nNPV = ` 16,18,074 – 15,00,000 = ` 1,18,074 \nInternal Rate of Return (IRR) for: \nMachine – I  \nP.V. Factor =  Initial Investment\n10,00,000\n=\n= 3.3167\nAnnual Cash Inflow\n3,01,500\n \nPV factor falls between 15% and 16% \nPresent Value of Cash inflow at 15% and 16% will be:  \nPresent Value at 15% = 3.353 x 3,01,500 = 10,10,930 \nPresent Value at 16% = 3.274 x 3,01,500 = 9,87,111 \nIRR  = 15 +10,10,930 -10,00,0000 ×(16 -15)\n10,10,930 - 9,87,111\n= 15 + 10,930 × 1\n23,819\n \n= 15.4588%  \n= 15.46% \nMachine - II \nP.V. Factor = 15,00,000 = 3.8119\n3,93,500\n \nPresent Value of Cash inflow at 14% and 15% will be:  \nPresent Value at 14% = 3.888 x 3,93,500 = 15,29,928 \nPresent Value at 15% = 3.785 x 3,93,500 = 14,89,398 \nIRR = 14 + 15,29,928 -15,00,000 ×(15-14)\n15,29,928 -14,89,398\n= 14 + 29,928 × 1\n40,530\n= 14.7384%  \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n93 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n= 14.74% \n(ii) \nAdvise to the Management   \nRanking of Machines in terms of the Three Methods \n \nMachine - I \nMachine - II \nDiscounted Payback Period \nI \nII \nNet Present Value \nII \nI \nInternal Rate of Return \nI \nII \n \nAdvise: Since Machine - I has better ranking than Machine – II, \ntherefore, Machine – I should be selected",
+  "marks": null,
+  "source_id": "FMSM_RTP_SEPTEMBER2026_P6_Q007",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Investment Decisions",
+    "topic": "Investment Decisions",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  \nThe management of P Limited is evaluating two mutually exclusive \ninvestment alternatives, namely Machine I and Machine II, for \nacquisition. The company has a cost of capital of 12% and is subject to a \ncorporate tax rate of 30%. \n \nThe relevant details of the two machines are provided below: \nParticulars \nMachine I \nMachine II \nInitial Cost of Machine \n` 10,00,000 \n` 15,00,000 \nUseful Life \n5 years \n6 years \nAnnual Income Before Depreciation and \nTax \n` 3,45,000 \n` 4,55,000 \nAdditional Information: \n• \nDepreciation is to be charged using the Straight-Line Method \n(SLM) over the useful life of each machine.  \nRequired: \n(i) \nCompute the following capital budgeting indicators for each \nmachine:  \n• \nDiscounted Payback Period (DPP)  \n• \nNet Present Value (NPV)  \n• \nInternal Rate of Return (IRR)  \n(ii) \nBased on the results obtained, recommend which machine should \nbe selected by the management of P Limited, providing \nappropriate justification. \n \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n81 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \nThe present value factors of Re. 1 are as follows: \nYear \n1 \n2 \n3 \n4 \n5 \n6 \nAt 12% \n.893 \n.797 \n.712 \n.636 \n.567 \n.507 \nAt 13% \n.885 \n.783 \n.693 \n.613 \n.543 \n.480 \nAt 14%  \n.877 \n.769 \n.675 \n.592 \n.519 \n.456 \nAt 15% \n.870 \n.756 \n.658 \n.572 \n.497 \n.432 \nAt 16% \n.862 \n.743 \n.641 \n.552 \n.476 \n.410 \nWorking Capital Management"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nComputation of Discounted Payback Period, Net Present Value \n(NPV) and Internal Rate of Return (IRR) for Two Machines \nCalculation of Cash Inflows \n \nMachine - I  \n(`) \nMachine - II  \n(`) \nAnnual \nIncome \nbefore \nTax \nand \nDepreciation  \n3,45,000 \n4,55,000 \nLess: Depreciation  \n \n \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n91 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n  \n  Machine – I:    10,00,000 /5 \n2,00,000 \n- \n \n  Machine – II:  15,00,000 / 6 \n   \n- \n2,50,000 \nIncome before Tax \n1,45,000 \n2,05,000 \nLess: Tax @ 30 %  \n43,500 \n61,500 \nIncome after Tax \n1,01,500 \n1,43,500 \nAdd: Depreciation \n2,00,000 \n2,50,000 \nAnnual Cash Inflows \n3,01,500 \n3,93,500 \n \n \n \nMachine – I \nMachine – II \nYear \nP.V. of \nRe.1 \n@12% \nCash \nflow \nP.V. Cumulative \nP.V \nCash \nflow \nP.V. Cumulative \nP.V. \n1 \n0.893 3,01,500 2,69,240 \n2,69,240 3,93,500 \n3,51,396 \n3,51,396 \n2 \n0.797 3,01,500 2,40,296 \n5,09,536 3,93,500 \n3,13,620 \n6,65,016 \n3 \n0.712 3,01,500 2,14,668 \n7,24,204 3,93,500 \n2,80,172 \n9,45,188 \n4 \n0.636 3,01,500 1,91,754 \n9,15,958 3,93,500 \n2,50,266 \n11,95,454 \n5 \n0.567 3,01,500 1,70,951 \n10,86,909 3,93,500 \n2,23,115 \n14,18,569 \n6 \n0.507 \n- \n- \n- 3,93,500 \n1,99,505 \n16,18,074 \nDiscounted Payback Period for:  \nMachine – I \nDiscounted Payback Period  = 4+ (\n)\n10,00,000 - 9,15,958\n1,70,951\n \n \n  \n \n \n \n \n= 4+ 84,042\n1,70,951\n = 4 + 0.4916          \n \n  \n \n \n \n \n= 4.49 years or 4 years and 5.9 months  \nMachine – II  \nDiscounted Payback Period  = 5+ (\n)\n15,00,000 -14,18,569\n1,99,505\n = 5+ 81,431\n1,99,505\n \n \n  \n \n \n \n \n= 5 + 0.4082 \n\n \nINTERMEDIATE EXAMINATION \n \n \n92 \n \nREVISION TEST PAPERS \nSEPTEMBER 2026 EXAMINATION\n \n  \n \n \n \n \n= 5.41 years or 5 years and 4.9 months  \nNet Present Value for: \nMachine – I  \n \nNPV = ` 10,86,909 – 10,00,000 = ` 86,909 \nMachine – II  \n \nNPV = ` 16,18,074 – 15,00,000 = ` 1,18,074 \nInternal Rate of Return (IRR) for: \nMachine – I  \nP.V. Factor =  Initial Investment\n10,00,000\n=\n= 3.3167\nAnnual Cash Inflow\n3,01,500\n \nPV factor falls between 15% and 16% \nPresent Value of Cash inflow at 15% and 16% will be:  \nPresent Value at 15% = 3.353 x 3,01,500 = 10,10,930 \nPresent Value at 16% = 3.274 x 3,01,500 = 9,87,111 \nIRR  = 15 +10,10,930 -10,00,0000 ×(16 -15)\n10,10,930 - 9,87,111\n= 15 + 10,930 × 1\n23,819\n \n= 15.4588%  \n= 15.46% \nMachine - II \nP.V. Factor = 15,00,000 = 3.8119\n3,93,500\n \nPresent Value of Cash inflow at 14% and 15% will be:  \nPresent Value at 14% = 3.888 x 3,93,500 = 15,29,928 \nPresent Value at 15% = 3.785 x 3,93,500 = 14,89,398 \nIRR = 14 + 15,29,928 -15,00,000 ×(15-14)\n15,29,928 -14,89,398\n= 14 + 29,928 × 1\n40,530\n= 14.7384%  \n\n \nFINANCIAL MANAGEMENT AND \nSTRATEGIC MANAGEMENT \n \n \n93 \n \nSEPTEMBER 2026 EXAMINATION \nREVISION TEST PAPERS \n= 14.74% \n(ii) \nAdvise to the Management   \nRanking of Machines in terms of the Three Methods \n \nMachine - I \nMachine - II \nDiscounted Payback Period \nI \nII \nNet Present Value \nII \nI \nInternal Rate of Return \nI \nII \n \nAdvise: Since Machine - I has better ranking than Machine – II, \ntherefore, Machine – I should be selected"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q001_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Mr. Praveen, an articled clerk, wants to know the applicable Engagement\nStandards in the following situations:\n(i)  An assignment to assist the management of Healthy Foods Ltd. with the\npreparation and presentation of historical financial information, without\nobtaining assurance on that information.\n(1 Mark)\n(ii)  An assignment to examine the prospective financial information of\nDigital Future Ltd.\n(1 Mark)\n\nFurther, explain to Mr. Praveen the difference between reasonable assurance\nengagements and limited assurance engagements.\n(3 Marks)",
+  "suggested_answer": "(b)  (i)  An Assignment to assist the management of Healthy Foods Ltd.\nWith the preparation and presentation of historical financial\ninformation without obtaining assurance on that information:\nStandards on Related Services / The applicable standard is SRS 4410\n(Revised)\n(ii)  An Assignment to examine prospective financial information of\nDigital Future Ltd.: Standards on Assurance Engagements / The\napplicable standard is SAE 3400\n(iii)  Difference between Reasonable assurance engagement and Limited\nassurance engagement.\nReasonable assurance engagement\nLimited assurance engagement\nReasonable assurance engagement\nprovides high level of assurance.\nLimited assurance engagement\nprovides\nlower\nlevel\nof\nassurance\nthan\nreasonable\nassurance engagement.\n\n14\nIt performs elaborate and extensive\nprocedures to obtain sufficient\nappropriate evidence.\nIt performs fewer procedures as\ncompared\nto\nreasonable\nassurance engagement.\nIt draws reasonable conclusions on\nthe basis of sufficient appropriate\nevidence.\nIt involves obtaining sufficient\nappropriate evidence to draw\nlimited conclusions.\nExample of reasonable assurance\nengagement\nis\nan\naudit\nengagement.\nExample of limited assurance\nengagement\nis\nreview\nengagement.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q001_B",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 12,
+    "end": 15
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(b)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 12,
+    "page_end": 15,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Mr. Praveen, an articled clerk, wants to know the applicable Engagement\nStandards in the following situations:\n(i)  An assignment to assist the management of Healthy Foods Ltd. with the\npreparation and presentation of historical financial information, without\nobtaining assurance on that information.\n(1 Mark)\n(ii)  An assignment to examine the prospective financial information of\nDigital Future Ltd.\n(1 Mark)\n\nFurther, explain to Mr. Praveen the difference between reasonable assurance\nengagements and limited assurance engagements.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  An Assignment to assist the management of Healthy Foods Ltd.\nWith the preparation and presentation of historical financial\ninformation without obtaining assurance on that information:\nStandards on Related Services / The applicable standard is SRS 4410\n(Revised)\n(ii)  An Assignment to examine prospective financial information of\nDigital Future Ltd.: Standards on Assurance Engagements / The\napplicable standard is SAE 3400\n(iii)  Difference between Reasonable assurance engagement and Limited\nassurance engagement.\nReasonable assurance engagement\nLimited assurance engagement\nReasonable assurance engagement\nprovides high level of assurance.\nLimited assurance engagement\nprovides\nlower\nlevel\nof\nassurance\nthan\nreasonable\nassurance engagement.\n\n14\nIt performs elaborate and extensive\nprocedures to obtain sufficient\nappropriate evidence.\nIt performs fewer procedures as\ncompared\nto\nreasonable\nassurance engagement.\nIt draws reasonable conclusions on\nthe basis of sufficient appropriate\nevidence.\nIt involves obtaining sufficient\nappropriate evidence to draw\nlimited conclusions.\nExample of reasonable assurance\nengagement\nis\nan\naudit\nengagement.\nExample of limited assurance\nengagement\nis\nreview\nengagement."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

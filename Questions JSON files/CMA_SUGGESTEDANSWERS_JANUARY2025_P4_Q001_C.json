@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q001_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) The Cost Accountant of a Manufacturing concern has given the following\ndetails in respect of a raw material X:\nDifference between Minimum lead time and Maximum lead time is 4 days.\nAverage Lead time to procure the Raw Material X is 7 days.\nReorder Level\n\n1,80,000 units\nReorder Quantity\n90,000 units\nMinimum Stock Level\n1,00,000 units\nMaximum Stock Level\n1,90,000 units\nRequired to Calculate:\n(1)  Maximum Consumption per day\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\n(2)  Minimum Consumption per day\n(2 Marks)",
+  "suggested_answer": "(c) Let the Minimum lead time be A and Maximum lead time be B\nB - A = 4\n\n…1\nAverage lead time of X = 7\nA\nB\n2\n+\n= 7\nA + B = 14\n\n…2\nFrom equation 1 and 2, we get\nA  (Minimum lead time) = 5\nB\n(Maximum lead time) = 9\n(i)\nRe-order level = Maximum re-order period/lead time × Maximum\nconsumption\n\n1,80,000 units = 9 × Maximum consumption\n\nMaximum consumption = 20,000 units\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n(ii) Maximum stock of A = Re-order level + Re-order quantity –\n(Minimum consumption × Minimum re-order period/lead time)\n\n1,90,000 unit = 1,80,000 units+90,000 units – (Min. Consumption x 5)\n\nMin. Consumption = 80,000 units\n5\n= 16,000 units\nPart (ii) can also be done in following way:\n(ii) Minimum Stock Level = Re-order level – (Average Consumption X\nAverage Lead time\n1,00,000\n\n= 1,80,000 – (Average Consumption X 7)\nAverage Consumption per day  = 11,428.57\nAverage Consumption per day  =\n(Maximum consumption +\n\nMinimum consumption)/ 2\n11,428.57\n\n=\n(20,000 + X) /2\n\nMinimum Consumption per day =  2,858 units",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q001_C",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 11
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(c)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 11,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) The Cost Accountant of a Manufacturing concern has given the following\ndetails in respect of a raw material X:\nDifference between Minimum lead time and Maximum lead time is 4 days.\nAverage Lead time to procure the Raw Material X is 7 days.\nReorder Level\n\n1,80,000 units\nReorder Quantity\n90,000 units\nMinimum Stock Level\n1,00,000 units\nMaximum Stock Level\n1,90,000 units\nRequired to Calculate:\n(1)  Maximum Consumption per day\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9\n(2)  Minimum Consumption per day\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Let the Minimum lead time be A and Maximum lead time be B\nB - A = 4\n\n…1\nAverage lead time of X = 7\nA\nB\n2\n+\n= 7\nA + B = 14\n\n…2\nFrom equation 1 and 2, we get\nA  (Minimum lead time) = 5\nB\n(Maximum lead time) = 9\n(i)\nRe-order level = Maximum re-order period/lead time × Maximum\nconsumption\n\n1,80,000 units = 9 × Maximum consumption\n\nMaximum consumption = 20,000 units\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n(ii) Maximum stock of A = Re-order level + Re-order quantity –\n(Minimum consumption × Minimum re-order period/lead time)\n\n1,90,000 unit = 1,80,000 units+90,000 units – (Min. Consumption x 5)\n\nMin. Consumption = 80,000 units\n5\n= 16,000 units\nPart (ii) can also be done in following way:\n(ii) Minimum Stock Level = Re-order level – (Average Consumption X\nAverage Lead time\n1,00,000\n\n= 1,80,000 – (Average Consumption X 7)\nAverage Consumption per day  = 11,428.57\nAverage Consumption per day  =\n(Maximum consumption +\n\nMinimum consumption)/ 2\n11,428.57\n\n=\n(20,000 + X) /2\n\nMinimum Consumption per day =  2,858 units"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

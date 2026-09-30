@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q013",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. The following information pertains to Job Number 501 undertaken by PCM\nLimited:\nDirect Materials\n` 60,000\nDirect Wages\n` 50,000\nFactory Overheads\n60% of Direct Wages\nAdministrative Overheads\n25% of Factory Cost\nProfit percentage on total cost\n25%\n\nWhat is the selling price of Job Number 501?\n(A)  ` 1,89,550\n(B)  ` 2,24,675\n(C)  ` 2,18,750\n(D)  ` 2,33,640\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q013",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "13",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. The following information pertains to Job Number 501 undertaken by PCM\nLimited:\nDirect Materials\n` 60,000\nDirect Wages\n` 50,000\nFactory Overheads\n60% of Direct Wages\nAdministrative Overheads\n25% of Factory Cost\nProfit percentage on total cost\n25%\n\nWhat is the selling price of Job Number 501?\n(A)  ` 1,89,550\n(B)  ` 2,24,675\n(C)  ` 2,18,750\n(D)  ` 2,33,640\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

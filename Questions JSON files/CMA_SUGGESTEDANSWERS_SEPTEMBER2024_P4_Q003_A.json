@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q003_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) GST Limited is a multi-product company. The production and cost details of\nits two products P and Q are given as follows:\nParticulars\nProduct\nP\nQ\nQuantity produced (No.)\n9,000\n7,200\nDirect material cost (`)\n72,000\n50,000\nDirect labour hours\n800\n600\nPurchase requisition (No.)\n180\n144\nProduction runs (No.)\n144\n108\nQuality inspections (No.)\n27\n18\nDirect wages rate is ` 14.50 per hour. Presently the company uses a single\noverhead recovery rate based on direct labour hours. Overhead incurred by\nthe company during the year 2023-24 are as follows:\nTechnical staff salary\n` 45,000\nMachine operation expenses\n` 1,62,000\nMachine maintenance expenses\n` 27,000\nWages and salary of stores staff\n` 36,000\nDuring this period direct labour hours worked 72,000.\nNow the Company wants to adopt Activity Based Costing. For this purpose,\nfollowing activities are identified:\n-\nQuality control\n-\nSetup of machine for production runs\n-\nStore receiving\nIt is also decided that salary of technical staff should be distributed among\nmachine maintenance, setup and quality control in the ratio of 1 : 2 : 2.\nMachine maintenance expenses and machine operation expenses should be\ndistributed in the ratio of 2 : 3 in between stores and production setup\nactivities.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nDuring this period cost drivers for these activities are identified as under:\n-\nRequisition raised\n\n5,760\n-\nProduction setup\n\n7,200\n-\nNo. of quality test\n\n720\nYou are required to compute:\n(i) The cost of products P and Q based on traditional absorption costing\nsystem.\n(ii) The cost of products P and Q based on ABC Costing system. (8 Marks)",
+  "suggested_answer": "(a)  (i) Statement Showing “Total Cost - Traditional Method”\nParticulars of Costs\nP\nQ\n\n(`)\n(`)\nDirect Materials\n72,000\n50,000\nDirect Labour [(800,600 hours) × ` 14.5]\n11,600\n8,700\nProduction Overheads [(800,600 hours) × ` 3.75]\n(WN1)\n3,000\n2,250\nTotal Cost\n86,600\n60,950\nCost per unit (9,000, 7,200)\n9.62\n8.47\nWN1: Calculation of Production Overhead:\n\n(`)\nTechnical staff salary\n45,000\nMachine operation expenses\n1,62,000\nMachine maintenance expenses\n27,000\nWages and salary of stores staff\n36,000\nTotal Production Overhead\n2,70,000\nTotal direct labour hours worked\n72,000 hours\nProduction Overhead rate per hour\n3.75\n(ii) Statement Showing “Total Cost - Activity Based Costing”\nProducts\nP\nQ\nProduction (units)\n9,000\n7,200\n\n(`)\n(`)\nDirect Materials\n72,000\n50,000\nDirect Labour [(800,600 hours) × ` 14.5]\n11,600\n8,700\nRequisition Related Costs @ ` 20 per requisition\nraised\n(180,144) (WN2)\n3,600\n2,880\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nProduction Setup Costs @ ` 19 per production\nruns\n(144,108) (WN2)\n2,736\n2,052\nQuality Inspection Costs @ ` 25 per quality test\n(27,18) (WN2)\n675\n450\nTotal Costs\n90,611\n64,082\nCost per unit (9,000, 7,200)\n10.07\n8.90\nWN2: Statement Showing Distribution of Expenses\n\nMachine\nmaintenance\nexpenses\nTotal\nStores\nProduction\nSetup\nQuality\nControl\nTechnical staff salary of\n` 45,000 (1:2:2)\n9,000\n-\n18,000\n18,000\nMachine\noperation\nexpenses of ` 1,62,000\n(2:3)\n-\n64,800\n97,200\n-\nMachine maintenance\nexpenses of ` 36,000\n(2:3)\n(9,000)\n14,400\n21,600\n-\nWages and salary of\nstores staff\n-\n36,000\n-\n-\nTotal\n- 1,15,200\n1,36,800 18,000\nWN3: Cost for each activity cost driver:\nActivity\n\n(1)\nTotal\ncost (`)\n(2)\nCost allocation\nbase\n(3)\nCost driver rate\n\n(4) = [(2) ÷ (3)]\nStores Receiving\n1,15,200  5,760 Requisitions\nRaised\n` 20 per requisition\nraised\nProduction Setup\n1,36,800  7,200\nProduction\nSetup\n` 19 per production\nsetup\nQuality Control\n18,000  720 Quality Test\n` 25 per quality test\n\n24",
+  "marks": "(8 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q003_A",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "3(a)",
+    "marks": "(8 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 20,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) GST Limited is a multi-product company. The production and cost details of\nits two products P and Q are given as follows:\nParticulars\nProduct\nP\nQ\nQuantity produced (No.)\n9,000\n7,200\nDirect material cost (`)\n72,000\n50,000\nDirect labour hours\n800\n600\nPurchase requisition (No.)\n180\n144\nProduction runs (No.)\n144\n108\nQuality inspections (No.)\n27\n18\nDirect wages rate is ` 14.50 per hour. Presently the company uses a single\noverhead recovery rate based on direct labour hours. Overhead incurred by\nthe company during the year 2023-24 are as follows:\nTechnical staff salary\n` 45,000\nMachine operation expenses\n` 1,62,000\nMachine maintenance expenses\n` 27,000\nWages and salary of stores staff\n` 36,000\nDuring this period direct labour hours worked 72,000.\nNow the Company wants to adopt Activity Based Costing. For this purpose,\nfollowing activities are identified:\n-\nQuality control\n-\nSetup of machine for production runs\n-\nStore receiving\nIt is also decided that salary of technical staff should be distributed among\nmachine maintenance, setup and quality control in the ratio of 1 : 2 : 2.\nMachine maintenance expenses and machine operation expenses should be\ndistributed in the ratio of 2 : 3 in between stores and production setup\nactivities.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n21\nDuring this period cost drivers for these activities are identified as under:\n-\nRequisition raised\n\n5,760\n-\nProduction setup\n\n7,200\n-\nNo. of quality test\n\n720\nYou are required to compute:\n(i) The cost of products P and Q based on traditional absorption costing\nsystem.\n(ii) The cost of products P and Q based on ABC Costing system. (8 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i) Statement Showing “Total Cost - Traditional Method”\nParticulars of Costs\nP\nQ\n\n(`)\n(`)\nDirect Materials\n72,000\n50,000\nDirect Labour [(800,600 hours) × ` 14.5]\n11,600\n8,700\nProduction Overheads [(800,600 hours) × ` 3.75]\n(WN1)\n3,000\n2,250\nTotal Cost\n86,600\n60,950\nCost per unit (9,000, 7,200)\n9.62\n8.47\nWN1: Calculation of Production Overhead:\n\n(`)\nTechnical staff salary\n45,000\nMachine operation expenses\n1,62,000\nMachine maintenance expenses\n27,000\nWages and salary of stores staff\n36,000\nTotal Production Overhead\n2,70,000\nTotal direct labour hours worked\n72,000 hours\nProduction Overhead rate per hour\n3.75\n(ii) Statement Showing “Total Cost - Activity Based Costing”\nProducts\nP\nQ\nProduction (units)\n9,000\n7,200\n\n(`)\n(`)\nDirect Materials\n72,000\n50,000\nDirect Labour [(800,600 hours) × ` 14.5]\n11,600\n8,700\nRequisition Related Costs @ ` 20 per requisition\nraised\n(180,144) (WN2)\n3,600\n2,880\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\nProduction Setup Costs @ ` 19 per production\nruns\n(144,108) (WN2)\n2,736\n2,052\nQuality Inspection Costs @ ` 25 per quality test\n(27,18) (WN2)\n675\n450\nTotal Costs\n90,611\n64,082\nCost per unit (9,000, 7,200)\n10.07\n8.90\nWN2: Statement Showing Distribution of Expenses\n\nMachine\nmaintenance\nexpenses\nTotal\nStores\nProduction\nSetup\nQuality\nControl\nTechnical staff salary of\n` 45,000 (1:2:2)\n9,000\n-\n18,000\n18,000\nMachine\noperation\nexpenses of ` 1,62,000\n(2:3)\n-\n64,800\n97,200\n-\nMachine maintenance\nexpenses of ` 36,000\n(2:3)\n(9,000)\n14,400\n21,600\n-\nWages and salary of\nstores staff\n-\n36,000\n-\n-\nTotal\n- 1,15,200\n1,36,800 18,000\nWN3: Cost for each activity cost driver:\nActivity\n\n(1)\nTotal\ncost (`)\n(2)\nCost allocation\nbase\n(3)\nCost driver rate\n\n(4) = [(2) ÷ (3)]\nStores Receiving\n1,15,200  5,760 Requisitions\nRaised\n` 20 per requisition\nraised\nProduction Setup\n1,36,800  7,200\nProduction\nSetup\n` 19 per production\nsetup\nQuality Control\n18,000  720 Quality Test\n` 25 per quality test\n\n24"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

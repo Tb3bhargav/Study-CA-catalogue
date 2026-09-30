@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "13. As part of a firm's system of quality control for audits of financial statements,\na monitoring process is designed to provide reasonable assurance that the\nfirm's policies and procedures are relevant, adequate, and operating\neffectively.\n\nWhich of the following matter, the engagement partner need not to\ndocument as part of the monitoring element of quality control?\n(A)  Issues identified with respect to compliance with relevant ethical\nrequirements and how they were resolved.\n(B)  Conclusions on compliance with independence requirements that apply\nto the audit engagement.\n(C)  Observations about the efficiency of audit procedures performed or\nsuggestions for improving audit team productivity.\n(D)  Conclusions reached regarding the acceptance and continuance of client\nrelationships and audit engagements.\n(2 Marks)\n\n10",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q013",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 10,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. As part of a firm's system of quality control for audits of financial statements,\na monitoring process is designed to provide reasonable assurance that the\nfirm's policies and procedures are relevant, adequate, and operating\neffectively.\n\nWhich of the following matter, the engagement partner need not to\ndocument as part of the monitoring element of quality control?\n(A)  Issues identified with respect to compliance with relevant ethical\nrequirements and how they were resolved.\n(B)  Conclusions on compliance with independence requirements that apply\nto the audit engagement.\n(C)  Observations about the efficiency of audit procedures performed or\nsuggestions for improving audit team productivity.\n(D)  Conclusions reached regarding the acceptance and continuance of client\nrelationships and audit engagements.\n(2 Marks)\n\n10"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

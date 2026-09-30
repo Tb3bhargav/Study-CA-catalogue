@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  Takur and Co; Chartered Accountants were conducting an audit of an LLP.\nThey have verified the Receivables and concluded that all the Receivables are\ngenuine and recoverable. However, before the final completion of the audit,\nthe auditors came to know of severe financial crisis of one of the Receivables,\nM/s. Raj Enterprises, whose outstanding account balance was material to the\noverall Receivables figure as on the date of financial statements. CA Takur\nhad discussions with the appropriate level of management to address the\nissue, and the management finally agreed to make provision for the same,\nas suggested by the auditor.\n\nYou are required to -\n(i)  Ensure how the auditor can fulfil the \"Documentation\" part of this\nmatter.\n(3 Marks)\n(ii)  Mention any four different examples of \"Audit Documentation\". (2 Marks)",
+  "suggested_answer": "(a) (i)  The auditor shall document discussions of significant matters with\nmanagement, those charged with governance, and others, including\nthe nature of the significant matters discussed and when and with\nwhom the discussions took place.\n\nIf the auditor identified information that is inconsistent with the\nauditor’s final conclusion regarding a significant matter, the auditor\nshall document how the auditor addressed the inconsistency.\n\nConsidering the above, the auditor shall document the minutes of the\ndiscussions with the management, regarding the financial crisis of M/s\nRaj enterprises, the matters discussed, the persons representing the\nmanagement and the auditor, the amount recommended for provision\nby the auditor and the amount of provision finally accepted and\nprovided by the management and any other relevant data in support\nof the same.\n(ii)  Examples of Audit Documentation:\n•\nAudit programmes.\n•\nAnalyses.\n•\nIssues memoranda.\n•\nSummaries of significant matters.\n•\nLetters of confirmation and representation.\n•\nChecklists.\n•\nCorrespondence (including e-mail) concerning significant matters.",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_A",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 21
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(a)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 20,
+    "page_end": 21,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Takur and Co; Chartered Accountants were conducting an audit of an LLP.\nThey have verified the Receivables and concluded that all the Receivables are\ngenuine and recoverable. However, before the final completion of the audit,\nthe auditors came to know of severe financial crisis of one of the Receivables,\nM/s. Raj Enterprises, whose outstanding account balance was material to the\noverall Receivables figure as on the date of financial statements. CA Takur\nhad discussions with the appropriate level of management to address the\nissue, and the management finally agreed to make provision for the same,\nas suggested by the auditor.\n\nYou are required to -\n(i)  Ensure how the auditor can fulfil the \"Documentation\" part of this\nmatter.\n(3 Marks)\n(ii)  Mention any four different examples of \"Audit Documentation\". (2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)  The auditor shall document discussions of significant matters with\nmanagement, those charged with governance, and others, including\nthe nature of the significant matters discussed and when and with\nwhom the discussions took place.\n\nIf the auditor identified information that is inconsistent with the\nauditor’s final conclusion regarding a significant matter, the auditor\nshall document how the auditor addressed the inconsistency.\n\nConsidering the above, the auditor shall document the minutes of the\ndiscussions with the management, regarding the financial crisis of M/s\nRaj enterprises, the matters discussed, the persons representing the\nmanagement and the auditor, the amount recommended for provision\nby the auditor and the amount of provision finally accepted and\nprovided by the management and any other relevant data in support\nof the same.\n(ii)  Examples of Audit Documentation:\n•\nAudit programmes.\n•\nAnalyses.\n•\nIssues memoranda.\n•\nSummaries of significant matters.\n•\nLetters of confirmation and representation.\n•\nChecklists.\n•\nCorrespondence (including e-mail) concerning significant matters."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

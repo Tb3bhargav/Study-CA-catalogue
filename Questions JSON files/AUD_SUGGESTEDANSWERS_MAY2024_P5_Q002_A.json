@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q002_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  CA Q is the engagement partner for the audit of a Departmental store. As a\npart of the risk assessment procedure, he wants to make inquiries of the\nmanagement and others within the entity. What kind of information can the\nauditor get by inquiring from the following?\n(i)  Internal audit personnel\n(ii)  In-house legal counsel\n(iii)  Marketing or sales personnel\n(iv)  Information systems personnel\n(4 Marks)",
+  "suggested_answer": "(a)  Inquiries of Management and Others Within the Entity:\n(i) Inquiries directed toward internal audit personnel may provide\ninformation about internal audit procedures performed during the year\nrelating to the design and effectiveness of the entity’s internal control\nand whether management has satisfactorily responded to findings\nfrom those procedures.\n\n34\n(ii) Inquiries directed toward in-house legal counsel may provide\ninformation about such matters as litigation, compliance with laws and\nregulations, knowledge of fraud or suspected fraud affecting the entity,\nwarranties, post-sales obligations, arrangements (such as joint\nventures) with business partners and the meaning of contract.\n(iii) Inquiries directed towards marketing or sales personnel may\nprovide information about changes in the entity’s marketing strategies,\nsales trends, or contractual arrangements with its customers.\n(iv) Inquiries directed to information systems personnel may provide\ninformation about system changes, system or control failures, or other\ninformation system-related risks.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q002_A",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 5,
+    "page_end": 7,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  CA Q is the engagement partner for the audit of a Departmental store. As a\npart of the risk assessment procedure, he wants to make inquiries of the\nmanagement and others within the entity. What kind of information can the\nauditor get by inquiring from the following?\n(i)  Internal audit personnel\n(ii)  In-house legal counsel\n(iii)  Marketing or sales personnel\n(iv)  Information systems personnel\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Inquiries of Management and Others Within the Entity:\n(i) Inquiries directed toward internal audit personnel may provide\ninformation about internal audit procedures performed during the year\nrelating to the design and effectiveness of the entity’s internal control\nand whether management has satisfactorily responded to findings\nfrom those procedures.\n\n34\n(ii) Inquiries directed toward in-house legal counsel may provide\ninformation about such matters as litigation, compliance with laws and\nregulations, knowledge of fraud or suspected fraud affecting the entity,\nwarranties, post-sales obligations, arrangements (such as joint\nventures) with business partners and the meaning of contract.\n(iii) Inquiries directed towards marketing or sales personnel may\nprovide information about changes in the entity’s marketing strategies,\nsales trends, or contractual arrangements with its customers.\n(iv) Inquiries directed to information systems personnel may provide\ninformation about system changes, system or control failures, or other\ninformation system-related risks."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

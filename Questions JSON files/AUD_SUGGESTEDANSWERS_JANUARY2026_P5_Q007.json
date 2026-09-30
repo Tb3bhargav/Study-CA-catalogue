@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.\nWhich actions should the Ravi & Mehta engagement partner take as per\ncompliance with professional ethical requirements and independent\nprinciples?\n(i)  Obtain information from the firm to identify and evaluate the threats.\n(ii)  Evaluate whether the action create threats to independence.\n(iii)  Apply safeguards or eliminate threats to an acceptable level.\n(iv)  Report the issue directly to the client's CSR Committee for their\nresolution.\n(v)  Consider withdrawal from the engagement if threats remain\nunacceptable.\n(A)  (i), (ii) and (iii) only\n(B)  (i), (ii) (iii) and (v)\n(C)  (ii), (iii) and (v) only\n(D) (i), (iv) and (v) only\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q007",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.\nWhich actions should the Ravi & Mehta engagement partner take as per\ncompliance with professional ethical requirements and independent\nprinciples?\n(i)  Obtain information from the firm to identify and evaluate the threats.\n(ii)  Evaluate whether the action create threats to independence.\n(iii)  Apply safeguards or eliminate threats to an acceptable level.\n(iv)  Report the issue directly to the client's CSR Committee for their\nresolution.\n(v)  Consider withdrawal from the engagement if threats remain\nunacceptable.\n(A)  (i), (ii) and (iii) only\n(B)  (i), (ii) (iii) and (v)\n(C)  (ii), (iii) and (v) only\n(D) (i), (iv) and (v) only\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

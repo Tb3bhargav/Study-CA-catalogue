@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q019",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 19,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "19. \nCBC Bank Ltd. has multiple loan accounts classified as Non-Performing \nAssets (NPAs). During the financial year, some borrowers made partial \npayments towards their outstanding dues. However, there was no \nexplicit agreement between the bank and the borrowers regarding the \n\n \nINTERMEDIATE EXAMINATION \n \n \n66 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nappropriation of these recoveries i.e., whether they should be adjusted \nagainst principal or interest. \nThe bank’s finance team decided to recognise the recovered amount as \ninterest income in its financial statements. However, during the statutory \naudit, the auditors raised concerns about the treatment of these \nrecoveries.  \nDiscuss the appropriate accounting treatment of partial recoveries in \nNPAs. Also, explain the principles that banks should follow in \nrecognising interest income from NPAs. \nChapter 11 - Ethics and Terms of Audit Engagements",
+  "suggested_answer": "Appropriate accounting treatment of partial recoveries in NPAs:  \nIn the absence of a clear agreement between the bank and the borrower \nfor the purpose of appropriation of recoveries in NPAs (i.e., towards \n\n \nINTERMEDIATE EXAMINATION \n \n \n74 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nprincipal or interest due), banks are required to adopt an accounting \npolicy and exercise the right of appropriation of recoveries in a uniform \nand consistent manner.  \nThe appropriate policy to be followed is to recognise income as per  \nAS 9, “Revenue Recognition”, when certainty attaches to realisation and \naccordingly amount reversed/derecognised or not recognised in the \npast should be accounted. \nInterest partly/fully realised in NPAs can be taken to income. However, it \nshould be ensured that the credits towards interest in the relevant \naccounts are not out of fresh/additional credit facilities sanctioned to \nthe borrowers concerned.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q019",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "19",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "19. \nCBC Bank Ltd. has multiple loan accounts classified as Non-Performing \nAssets (NPAs). During the financial year, some borrowers made partial \npayments towards their outstanding dues. However, there was no \nexplicit agreement between the bank and the borrowers regarding the \n\n \nINTERMEDIATE EXAMINATION \n \n \n66 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nappropriation of these recoveries i.e., whether they should be adjusted \nagainst principal or interest. \nThe bank’s finance team decided to recognise the recovered amount as \ninterest income in its financial statements. However, during the statutory \naudit, the auditors raised concerns about the treatment of these \nrecoveries.  \nDiscuss the appropriate accounting treatment of partial recoveries in \nNPAs. Also, explain the principles that banks should follow in \nrecognising interest income from NPAs. \nChapter 11 - Ethics and Terms of Audit Engagements"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Appropriate accounting treatment of partial recoveries in NPAs:  \nIn the absence of a clear agreement between the bank and the borrower \nfor the purpose of appropriation of recoveries in NPAs (i.e., towards \n\n \nINTERMEDIATE EXAMINATION \n \n \n74 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nprincipal or interest due), banks are required to adopt an accounting \npolicy and exercise the right of appropriation of recoveries in a uniform \nand consistent manner.  \nThe appropriate policy to be followed is to recognise income as per  \nAS 9, “Revenue Recognition”, when certainty attaches to realisation and \naccordingly amount reversed/derecognised or not recognised in the \npast should be accounted. \nInterest partly/fully realised in NPAs can be taken to income. However, it \nshould be ensured that the credits towards interest in the relevant \naccounts are not out of fresh/additional credit facilities sanctioned to \nthe borrowers concerned."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

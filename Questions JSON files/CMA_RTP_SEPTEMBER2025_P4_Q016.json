@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2025_P4_Q016",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16.  N.P. Ltd. produces two products P and Q. The draft budget for the next \nmonth is as under: \n \nP \nQ \nBudgeted Production and Sales (units) \n40,000 \n80,000 \nSelling Price ` / unit \n25 \n50 \nTotal Costs ` / unit \n20 \n40 \nMachine Hours / unit \n2 \n1 \nMaximum Sales Potential (units) \n60,000 \n1,00,000 \n \nThe fixed expenses are estimated at ` 9,60,000 per month. The company \nabsorbs fixed overheads on the basis of machine hours which are fully \nutilised by the budgeted production and cannot be further increased. \n \nWhen the budget was discussed, the Managing Director stated that the \nproduct mix should be altered to yield optimum profit. \n \nThe Marketing Director suggested that he would introduce a new \nProduct-C, each unit of which will take 1.5 machine hours. However, a \nnew machine involving a capital outlay of ` 2,00,000 is to be installed for \nprocessing Product-C. The additional fixed overheads relating to the \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \nnew machine was estimated at ` 60,000 per month. The variable cost of \nProduct- C was estimated at ` 21 per Unit. \n \nRequired: \n(i)  \nCalculate the profit as per draft budget for the next month. \n(ii)  \nRevise the product mix based on data given for P and Q to yield \noptimum profit. \n(iii)  The company decides to discontinue either Product- P or Q \nwhichever is giving lower profit and proposes to substitute \nProduct- C instead. Fix the selling price of product- C in such a way \nas to yield 15% return on additional capital employed besides \nmaintaining the same overall profit as envisaged in (ii) above. \nBudgets and budgetary control",
+  "suggested_answer": "(i) \nProfit as per Draft Budget for the Next Month: \n \nProducts \n \nP \nQ \nTotal \nBudgeted Production \nand Sales  \n40,000 units \n80,000 units \n1,20,000 \nunits \n \nPer \nUnit \n(`) \nTotal \n \n(`) \nPer \nunit \n(`) \nTotal \n \n(`) \n \n \n(`) \nSales \n25 10,00,000 \n50 40,00,000 \n50,00,000 \nLess: Total Costs \n20 \n8,00,000 \n40 32,00,000 \n40,00,000 \nProfit \n5 \n2,00,000 \n10 \n8,00,000 \n10,00,000 \n \n \n \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n51 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nBasic Calculations: \n(a) \nMachine Hrs. \nP: 40,000 units x 2 hrs. \nQ: 80,000 units x 1 hr. \n1,60,000 \nhrs. \n(b) \nFixed Overhead Rate per \nmachine hr. \n` 9,60,000 / 1,60,000 hrs. \n` 6 \n(c) \nFixed Overhead per unit \nP: 2 hrs. x ` 6 \nQ: 1 hr. x ` 6 \n` 12 \n` 6 \n(d) \nContribution per unit \nP: ` 12 + ` 5 \nQ: ` 6 + ` 10 \n` 17 \n` 16 \n(e) \nProduct-wise Contribution \nper machine hr. \nP: ` 17/2hrs. \nQ: ` 16/1 hr. \n` 8.50 \n` 16.00 \n \nRevised Product Mix to Yield Optimum Profit:  \n \nProduct Q has higher contribution per machine hour. Since \nmachine hour is a limiting factor hence maximum units of product \nQ should be produced. However, maximum sales potentiality of \nProduct Q is 1,00,000 units. This will take 1,00,000 machine hour. \nThe balance 60,000 hours should be used to produce 30,000 units \nof P. \n \nThe Revised Product Mix to Yield Optimum Profit will be as \nfollows: \nProduct Q \n(1,00,000 units × ` 16) \n` 16,00,000 \nProduct P \n(30,000 units × ` 17) \n`   5,10,000 \nTotal Contribution \n \n` 21,10,000 \nLess: Fixed Expenses \n \n`   9,60,000 \nProfit \n \n` 11,50,000 \n(iii)  Product - P gives lower contribution per machine hour, hence, it \nwill be discontinued and Product - C will be manufactured in its \nplace. The discontinuance of Product - P will make available 60,000 \nmachine hours to produce 40,000 units of Product - C. \n \nThe computation of selling price of Product - C can be done as \nfollows: \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n52 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n \nComputation of Selling Price of Product- C \n \n(`) \nVariable Cost (40,000 units × ` 21) \n8,40,000 \nAdditional Fixed Cost per month \n60,000 \nReturn on Capital (` 2,00,000 × 1.25%) \n2,500 \nPresent Contribution from Product P \n5,10,000 \nTotal Sales Value to be recovered \n14,12,500 \nSelling Price per unit of C (` 14,12,500/40,000 units) \n 35.31",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2025_P4_Q016",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16.  N.P. Ltd. produces two products P and Q. The draft budget for the next \nmonth is as under: \n \nP \nQ \nBudgeted Production and Sales (units) \n40,000 \n80,000 \nSelling Price ` / unit \n25 \n50 \nTotal Costs ` / unit \n20 \n40 \nMachine Hours / unit \n2 \n1 \nMaximum Sales Potential (units) \n60,000 \n1,00,000 \n \nThe fixed expenses are estimated at ` 9,60,000 per month. The company \nabsorbs fixed overheads on the basis of machine hours which are fully \nutilised by the budgeted production and cannot be further increased. \n \nWhen the budget was discussed, the Managing Director stated that the \nproduct mix should be altered to yield optimum profit. \n \nThe Marketing Director suggested that he would introduce a new \nProduct-C, each unit of which will take 1.5 machine hours. However, a \nnew machine involving a capital outlay of ` 2,00,000 is to be installed for \nprocessing Product-C. The additional fixed overheads relating to the \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \nnew machine was estimated at ` 60,000 per month. The variable cost of \nProduct- C was estimated at ` 21 per Unit. \n \nRequired: \n(i)  \nCalculate the profit as per draft budget for the next month. \n(ii)  \nRevise the product mix based on data given for P and Q to yield \noptimum profit. \n(iii)  The company decides to discontinue either Product- P or Q \nwhichever is giving lower profit and proposes to substitute \nProduct- C instead. Fix the selling price of product- C in such a way \nas to yield 15% return on additional capital employed besides \nmaintaining the same overall profit as envisaged in (ii) above. \nBudgets and budgetary control"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nProfit as per Draft Budget for the Next Month: \n \nProducts \n \nP \nQ \nTotal \nBudgeted Production \nand Sales  \n40,000 units \n80,000 units \n1,20,000 \nunits \n \nPer \nUnit \n(`) \nTotal \n \n(`) \nPer \nunit \n(`) \nTotal \n \n(`) \n \n \n(`) \nSales \n25 10,00,000 \n50 40,00,000 \n50,00,000 \nLess: Total Costs \n20 \n8,00,000 \n40 32,00,000 \n40,00,000 \nProfit \n5 \n2,00,000 \n10 \n8,00,000 \n10,00,000 \n \n \n \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n51 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nBasic Calculations: \n(a) \nMachine Hrs. \nP: 40,000 units x 2 hrs. \nQ: 80,000 units x 1 hr. \n1,60,000 \nhrs. \n(b) \nFixed Overhead Rate per \nmachine hr. \n` 9,60,000 / 1,60,000 hrs. \n` 6 \n(c) \nFixed Overhead per unit \nP: 2 hrs. x ` 6 \nQ: 1 hr. x ` 6 \n` 12 \n` 6 \n(d) \nContribution per unit \nP: ` 12 + ` 5 \nQ: ` 6 + ` 10 \n` 17 \n` 16 \n(e) \nProduct-wise Contribution \nper machine hr. \nP: ` 17/2hrs. \nQ: ` 16/1 hr. \n` 8.50 \n` 16.00 \n \nRevised Product Mix to Yield Optimum Profit:  \n \nProduct Q has higher contribution per machine hour. Since \nmachine hour is a limiting factor hence maximum units of product \nQ should be produced. However, maximum sales potentiality of \nProduct Q is 1,00,000 units. This will take 1,00,000 machine hour. \nThe balance 60,000 hours should be used to produce 30,000 units \nof P. \n \nThe Revised Product Mix to Yield Optimum Profit will be as \nfollows: \nProduct Q \n(1,00,000 units × ` 16) \n` 16,00,000 \nProduct P \n(30,000 units × ` 17) \n`   5,10,000 \nTotal Contribution \n \n` 21,10,000 \nLess: Fixed Expenses \n \n`   9,60,000 \nProfit \n \n` 11,50,000 \n(iii)  Product - P gives lower contribution per machine hour, hence, it \nwill be discontinued and Product - C will be manufactured in its \nplace. The discontinuance of Product - P will make available 60,000 \nmachine hours to produce 40,000 units of Product - C. \n \nThe computation of selling price of Product - C can be done as \nfollows: \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n52 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n \nComputation of Selling Price of Product- C \n \n(`) \nVariable Cost (40,000 units × ` 21) \n8,40,000 \nAdditional Fixed Cost per month \n60,000 \nReturn on Capital (` 2,00,000 × 1.25%) \n2,500 \nPresent Contribution from Product P \n5,10,000 \nTotal Sales Value to be recovered \n14,12,500 \nSelling Price per unit of C (` 14,12,500/40,000 units) \n 35.31"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

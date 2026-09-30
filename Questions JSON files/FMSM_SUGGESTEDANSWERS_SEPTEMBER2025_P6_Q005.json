@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q005",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.  What will be the Creditors Payment period and Debtors Collection period?\n(A)  60 Days and 50 Days\n(B)  63 Days and 48 Days\n(C)  62 Days and 45 Days\n(D)  65 Days and 47 Days\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_SEPTEMBER2025_P6_Q005",
+  "source_filename": "89275bos-aps3012-int-p6.pdf",
+  "source_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf",
+      "answer_pdf": "suggested_answers/89275bos-aps3012-int-p6.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.  What will be the Creditors Payment period and Debtors Collection period?\n(A)  60 Days and 50 Days\n(B)  63 Days and 48 Days\n(C)  62 Days and 45 Days\n(D)  65 Days and 47 Days\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

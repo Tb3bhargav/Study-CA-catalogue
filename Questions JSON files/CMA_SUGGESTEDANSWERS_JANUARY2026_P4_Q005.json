@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nWhat is the total profit at the level of proposed sales mix (with Product W)?\n(A)  ` 10,95,000\n(B)  ` 21,15,000\n(C)  ` 15,62,500\n(D)  ` 19,60,000\n(2 Marks)\nCase Scenario - II\nSpice Guard Ltd. manufactures 'Pepper Spray' that is used by women for their\nself-defence. As per the estimates, there will be an average quarterly total market\ndemand of 3,125 units of 'Pepper Spray'. Spice Guard Ltd. is expected to have 8%\nmarket share of the total market demand of the 'Pepper Spray'.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nThe company produces the 'Pepper Spray' using two raw materials - 'OC' and\n'OE'. Each unit of pepper spray requires 4 kgs. of 'OC' and 1.6 kgs. of 'OE'.\n\n‘OC’\n‘OE’\nOrdering Cost per order\n` 3,125\n` 500\nStorage rate\n5% per annum\n` 2.5 per kg. per month\nInterest rate\n13% per annum\n1.25% per quarter\nObsolescence rate\n2% per annum\n-\nRaw material price\n` 2,000 per kg.\n`200 per kg.\nOn the basis of above case scenario, you are required to answer the following\n(MCQs 6 to 10):",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nWhat is the total profit at the level of proposed sales mix (with Product W)?\n(A)  ` 10,95,000\n(B)  ` 21,15,000\n(C)  ` 15,62,500\n(D)  ` 19,60,000\n(2 Marks)\nCase Scenario - II\nSpice Guard Ltd. manufactures 'Pepper Spray' that is used by women for their\nself-defence. As per the estimates, there will be an average quarterly total market\ndemand of 3,125 units of 'Pepper Spray'. Spice Guard Ltd. is expected to have 8%\nmarket share of the total market demand of the 'Pepper Spray'.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n3\nThe company produces the 'Pepper Spray' using two raw materials - 'OC' and\n'OE'. Each unit of pepper spray requires 4 kgs. of 'OC' and 1.6 kgs. of 'OE'.\n\n‘OC’\n‘OE’\nOrdering Cost per order\n` 3,125\n` 500\nStorage rate\n5% per annum\n` 2.5 per kg. per month\nInterest rate\n13% per annum\n1.25% per quarter\nObsolescence rate\n2% per annum\n-\nRaw material price\n` 2,000 per kg.\n`200 per kg.\nOn the basis of above case scenario, you are required to answer the following\n(MCQs 6 to 10):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

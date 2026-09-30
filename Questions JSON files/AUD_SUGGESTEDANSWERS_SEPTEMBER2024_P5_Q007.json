@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.\nThe securities premium account of PAWAN Ltd. cannot be applied for which\nof the following purposes ?\n(A)\nIn writing off the debit balance in the Profit & Loss account.\n(B)\nIn writing off the expenses of, or the commission paid or discount\nallowed on any issue of equity shares of the company.\n\nAUDITING AND ETHICS\n\n5\n(C)\nFor the purchase of its own shares or other securities under section 68.\n(D)  In paying up unissued equity shares of the company to be issued to the\nmembers of the company as fully paid bonus shares.",
+  "suggested_answer": "A",
+  "marks": null,
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q007",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.\nThe securities premium account of PAWAN Ltd. cannot be applied for which\nof the following purposes ?\n(A)\nIn writing off the debit balance in the Profit & Loss account.\n(B)\nIn writing off the expenses of, or the commission paid or discount\nallowed on any issue of equity shares of the company.\n\nAUDITING AND ETHICS\n\n5\n(C)\nFor the purchase of its own shares or other securities under section 68.\n(D)  In paying up unissued equity shares of the company to be issued to the\nmembers of the company as fully paid bonus shares."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

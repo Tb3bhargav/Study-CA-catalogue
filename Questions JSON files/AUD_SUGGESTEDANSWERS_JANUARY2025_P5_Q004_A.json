@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q004_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) PQR & Co., Chartered Accountants, has been appointed as statutory\nauditor of MGM Ltd. The financial statements of the company have\nmaterial amount outstanding as debtors. Ageing of debtors is being done by\nthe internal auditors and is given by them in their monthly report. This\nissue was also discussed with the management. The engagement partner\nfrom PQR & Co. decided to give the age wise debtors as per the report of\ninternal auditor due to shortage of time. After the audit report was released,\nthe engagement partner realized that the disclosure of the debtors is\nmisleading and the ageing was not done by the internal auditor on correct\nprinciples due to which the provision made against old debtors was wrong.\nThe engagement partner held the internal auditor responsible for this. Is he\ncorrect in making statement that the internal auditor is responsible for\nfalse provisioning? What considerations PQR & Co. should have\nundertaken before relying on the work of internal auditor?\n(5 Marks)",
+  "suggested_answer": "(a) In the given situation, the engagement partner has taken the age wise\ndebtor report from the reports of the internal auditor due to shortage of\ntime and provided the same in the audit report. However, after the issuance\nof audit report, engagement partner felt that disclosure of debtors is\nmisleading and ageing was not done on the basis of correct principles due\nto which wrong provisions are made.\nContention of the engagement partner for holding internal auditor\nresponsible for the same is not correct as the external auditor has sole\nresponsibility for the audit opinion expressed, and that responsibility is not\nreduced by the external auditor’s use of the work of the internal audit\nfunction or internal auditors to provide direct assistance on the\nengagement.\n\nAUDITING AND ETHICS\n\n23\nBefore relying on the work of internal auditor, PQR & Co. should consider\nthe following:\n(i) To determine whether the work of the internal audit function or direct\nassistance from internal auditors can be used, and if so, in which areas\nand to what extent; and having made that determination;\n(ii) If using the work of the internal audit function, to determine whether\nthat work is adequate for purposes of the audit; and\n(iii) If using internal auditors to provide direct assistance, to appropriately\ndirect, supervise and review their work;\n(iv) The extent to which the internal audit function’s organizational status\nand relevant policies and procedures support the objectivity of the\ninternal auditors;\n(v) The level of competence of the internal audit function; and\n(vi) Whether the internal audit function applies a systematic and\ndisciplined approach, including quality control.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q004_A",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) PQR & Co., Chartered Accountants, has been appointed as statutory\nauditor of MGM Ltd. The financial statements of the company have\nmaterial amount outstanding as debtors. Ageing of debtors is being done by\nthe internal auditors and is given by them in their monthly report. This\nissue was also discussed with the management. The engagement partner\nfrom PQR & Co. decided to give the age wise debtors as per the report of\ninternal auditor due to shortage of time. After the audit report was released,\nthe engagement partner realized that the disclosure of the debtors is\nmisleading and the ageing was not done by the internal auditor on correct\nprinciples due to which the provision made against old debtors was wrong.\nThe engagement partner held the internal auditor responsible for this. Is he\ncorrect in making statement that the internal auditor is responsible for\nfalse provisioning? What considerations PQR & Co. should have\nundertaken before relying on the work of internal auditor?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) In the given situation, the engagement partner has taken the age wise\ndebtor report from the reports of the internal auditor due to shortage of\ntime and provided the same in the audit report. However, after the issuance\nof audit report, engagement partner felt that disclosure of debtors is\nmisleading and ageing was not done on the basis of correct principles due\nto which wrong provisions are made.\nContention of the engagement partner for holding internal auditor\nresponsible for the same is not correct as the external auditor has sole\nresponsibility for the audit opinion expressed, and that responsibility is not\nreduced by the external auditor’s use of the work of the internal audit\nfunction or internal auditors to provide direct assistance on the\nengagement.\n\nAUDITING AND ETHICS\n\n23\nBefore relying on the work of internal auditor, PQR & Co. should consider\nthe following:\n(i) To determine whether the work of the internal audit function or direct\nassistance from internal auditors can be used, and if so, in which areas\nand to what extent; and having made that determination;\n(ii) If using the work of the internal audit function, to determine whether\nthat work is adequate for purposes of the audit; and\n(iii) If using internal auditors to provide direct assistance, to appropriately\ndirect, supervise and review their work;\n(iv) The extent to which the internal audit function’s organizational status\nand relevant policies and procedures support the objectivity of the\ninternal auditors;\n(v) The level of competence of the internal audit function; and\n(vi) Whether the internal audit function applies a systematic and\ndisciplined approach, including quality control."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14. Which of the following statement is incorrect with regard to written\nrepresentations?\n(A)  Written representations are an important source of audit evidence.\n(B)  Written representations are necessary information that the auditor\nrequires in connection with the audit of the entity's financial statements.\n(C)  Written representations not only provide necessary audit evidence, but\nalso provide sufficient appropriate audit evidence on their own about\nany of matters with which they deal.\n(D)  Written representations only provide necessary audit evidence but do not\nprovide sufficient appropriate audit evidence on their own about any of\nmatters with which they deal.\n(2 Marks)\n\nAUDITING AND ETHICS\n\n41",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q014",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. Which of the following statement is incorrect with regard to written\nrepresentations?\n(A)  Written representations are an important source of audit evidence.\n(B)  Written representations are necessary information that the auditor\nrequires in connection with the audit of the entity's financial statements.\n(C)  Written representations not only provide necessary audit evidence, but\nalso provide sufficient appropriate audit evidence on their own about\nany of matters with which they deal.\n(D)  Written representations only provide necessary audit evidence but do not\nprovide sufficient appropriate audit evidence on their own about any of\nmatters with which they deal.\n(2 Marks)\n\nAUDITING AND ETHICS\n\n41"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

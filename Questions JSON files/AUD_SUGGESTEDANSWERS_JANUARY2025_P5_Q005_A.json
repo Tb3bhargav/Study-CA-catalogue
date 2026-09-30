@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q005_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Z Ltd. engaged ABC & Co., Chartered Accountants, to conduct its statutory\naudit for the F.Y. 2023-24. The audit team developed an overall audit strategy\nand plan to address the risk. During the audit, several significant changes\noccurred, including the discovery of a material misstatement in inventory\nvaluation and changes in the scope of audit procedures due to an unexpected\nacquisition by Z Ltd. The audit documentation for Z Ltd. should reflect these\nchanges but the auditor of a company failed to document the audit strategy\nand the audit plan.\nAs a senior auditor of the firm briefly outline what should be included in the\ndocumentation of audit strategy and audit plan and how should the audit\ndocumentation address significant changes made during the audit\nengagement.\n(5 Marks)",
+  "suggested_answer": "(a)  The auditor shall document:\n(i)  The overall audit strategy: The documentation of the overall audit\nstrategy is a record of the key decisions considered necessary to\nproperly plan the audit and to communicate significant matters to the\nengagement team.\n(ii)  The audit plan: The documentation of the audit plan is a record of the\nplanned nature, timing and extent of risk assessment procedures and\nfurther audit procedures at the assertion level in response to the\nassessed risks. It also serves as a record of the proper planning of the\naudit procedures that can be reviewed and approved prior to their\nperformance. The auditor may use standard audit programs and/or\naudit completion checklists, tailored as needed to reflect the particular\nengagement circumstances.\n(iii)  Any significant changes made during the audit engagement to the\noverall audit strategy or the audit plan, and the reasons for such\nchanges: A record of the significant changes to the overall audit\nstrategy and the audit plan, and resulting changes to the planned\nnature, timing and extent of audit procedures, explains why the\nsignificant changes were made, and the overall strategy and audit plan\nfinally adopted for the audit. It also reflects the appropriate response\nto the significant changes occurring during the audit.\n\nAUDITING AND ETHICS\n\n27",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q005_A",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 25,
+    "end": 27
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 25,
+    "page_end": 27,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Z Ltd. engaged ABC & Co., Chartered Accountants, to conduct its statutory\naudit for the F.Y. 2023-24. The audit team developed an overall audit strategy\nand plan to address the risk. During the audit, several significant changes\noccurred, including the discovery of a material misstatement in inventory\nvaluation and changes in the scope of audit procedures due to an unexpected\nacquisition by Z Ltd. The audit documentation for Z Ltd. should reflect these\nchanges but the auditor of a company failed to document the audit strategy\nand the audit plan.\nAs a senior auditor of the firm briefly outline what should be included in the\ndocumentation of audit strategy and audit plan and how should the audit\ndocumentation address significant changes made during the audit\nengagement.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  The auditor shall document:\n(i)  The overall audit strategy: The documentation of the overall audit\nstrategy is a record of the key decisions considered necessary to\nproperly plan the audit and to communicate significant matters to the\nengagement team.\n(ii)  The audit plan: The documentation of the audit plan is a record of the\nplanned nature, timing and extent of risk assessment procedures and\nfurther audit procedures at the assertion level in response to the\nassessed risks. It also serves as a record of the proper planning of the\naudit procedures that can be reviewed and approved prior to their\nperformance. The auditor may use standard audit programs and/or\naudit completion checklists, tailored as needed to reflect the particular\nengagement circumstances.\n(iii)  Any significant changes made during the audit engagement to the\noverall audit strategy or the audit plan, and the reasons for such\nchanges: A record of the significant changes to the overall audit\nstrategy and the audit plan, and resulting changes to the planned\nnature, timing and extent of audit procedures, explains why the\nsignificant changes were made, and the overall strategy and audit plan\nfinally adopted for the audit. It also reflects the appropriate response\nto the significant changes occurring during the audit.\n\nAUDITING AND ETHICS\n\n27"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

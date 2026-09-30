@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.\nIn the automotive machine manufacturing sector, a component is\nmanufactured. The Economic Order Quantity (EOQ) for the component is\n1,500 units. The cost of placing an order is ` 100, and the carrying cost per\nannum is 10%. The cost per unit of component is ` 20.\nCalculate the annual demand for this specific automative component.\n(A)\n45,500 units\n(B)\n75,000 units\n(C)\n36,000 units\n(D)\n22,500 units\n\n6",
+  "suggested_answer": "D",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q012",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.\nIn the automotive machine manufacturing sector, a component is\nmanufactured. The Economic Order Quantity (EOQ) for the component is\n1,500 units. The cost of placing an order is ` 100, and the carrying cost per\nannum is 10%. The cost per unit of component is ` 20.\nCalculate the annual demand for this specific automative component.\n(A)\n45,500 units\n(B)\n75,000 units\n(C)\n36,000 units\n(D)\n22,500 units\n\n6"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7.  \nCA Ramesh has been the auditor of XYZ Ltd. for the past 10 years. Over \nthese years, he has built a personal relationship with Mr. Rajan, CEO of \nthe company. During the audit, CA Ramesh discovers several \ndiscrepancies, but he feels uncomfortable reporting these issues due to \nhis personal relationship with Mr. Rajan. He has also accepted gifts from \nthe company on several occasions. As a result, CA Ramesh is concerned \nabout the impact of his long-standing relationship with Mr. Rajan on the \naudit report. Which threat to independence exists in the given case? \n(a) \nSelf-interest threat. \n(b) \nFamiliarity threat. \n(c) \nSelf-review threat. \n(d) \nAdvocacy threat.",
+  "suggested_answer": "(B)",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q007",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  \nCA Ramesh has been the auditor of XYZ Ltd. for the past 10 years. Over \nthese years, he has built a personal relationship with Mr. Rajan, CEO of \nthe company. During the audit, CA Ramesh discovers several \ndiscrepancies, but he feels uncomfortable reporting these issues due to \nhis personal relationship with Mr. Rajan. He has also accepted gifts from \nthe company on several occasions. As a result, CA Ramesh is concerned \nabout the impact of his long-standing relationship with Mr. Rajan on the \naudit report. Which threat to independence exists in the given case? \n(a) \nSelf-interest threat. \n(b) \nFamiliarity threat. \n(c) \nSelf-review threat. \n(d) \nAdvocacy threat."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

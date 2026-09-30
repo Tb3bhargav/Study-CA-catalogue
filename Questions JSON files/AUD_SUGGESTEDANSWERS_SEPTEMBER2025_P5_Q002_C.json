@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q002_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) CA students Sriranga and Manga were discussing on the assurance, which\nthe auditing services provide to the users, in the form of opinion on financial\nstatements, by means of a written report. Such an assurance lends credibility\nto financial statements. You are required to state some of the aspects\nexamined by the auditor, to ensure that the financial statements which are\naudited are not misleading.\n(4 Marks)",
+  "suggested_answer": "(c)  Aspects to be examined by the auditor to ensure that the financial\nstatements which are audited are not misleading are as under:\n(i) the accounts have been drawn up with reference to entries in the books\nof account.\n(ii) the entries in the books of account are adequately supported by\nsufficient and appropriate evidence.\n(iii) none of the entries in the books of account has been omitted in the\nprocess of compilation.\n(iv) the information conveyed by the statements is clear and unambiguous.\n(v) the financial statement amounts are properly classified, described and\ndisclosed in conformity with accounting standards; and\n(vi) the statement of accounts presents a true and fair picture of the\noperational results and of the assets and liabilities.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q002_C",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 15,
+    "end": 17
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 15,
+    "page_end": 17,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) CA students Sriranga and Manga were discussing on the assurance, which\nthe auditing services provide to the users, in the form of opinion on financial\nstatements, by means of a written report. Such an assurance lends credibility\nto financial statements. You are required to state some of the aspects\nexamined by the auditor, to ensure that the financial statements which are\naudited are not misleading.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Aspects to be examined by the auditor to ensure that the financial\nstatements which are audited are not misleading are as under:\n(i) the accounts have been drawn up with reference to entries in the books\nof account.\n(ii) the entries in the books of account are adequately supported by\nsufficient and appropriate evidence.\n(iii) none of the entries in the books of account has been omitted in the\nprocess of compilation.\n(iv) the information conveyed by the statements is clear and unambiguous.\n(v) the financial statement amounts are properly classified, described and\ndisclosed in conformity with accounting standards; and\n(vi) the statement of accounts presents a true and fair picture of the\noperational results and of the assets and liabilities."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

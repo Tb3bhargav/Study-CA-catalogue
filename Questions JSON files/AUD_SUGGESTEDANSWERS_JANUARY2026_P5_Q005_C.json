@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q005_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  Mr. Nikhil is the engagement partner for Amazing Ltd., an e-commerce\ncompany, for the financial year 2024-25.\n(i)  Mr. Nikhil plans to hold a discussion with the senior members of the\naudit team regarding the current assignment. However, Mr. Hardik, a\nnewly joined article clerk, is surprised at the need for the engagement\npartner to discuss the audit plan with other team members. He questions\nwhy such discussions are necessary?\n(2 Marks)\n(ii)  Later, Mr. Hardik learns that Ms. Poornima, the audit manager, intends\nto discuss certain elements of the audit planning with the management\nof Amazing Ltd. He believes this is unnecessary, as sharing the audit plan\n\n24\nwith the client would remove the \"surprise element\" of audit procedures.\nGuide Mr. Hardik in relation to the above scenarios.\n(2 Marks)",
+  "suggested_answer": "(c)  (i)  As per SA 300 “Planning an audit of financial statements“, the\nengagement partner and other key members of the engagement team\nshall be involved in planning the audit including planning and\nparticipating in the discussion among engagement team members. The\ninvolvement of the engagement partner and other key members of the\nengagement team in planning the audit draws on their experience and\ninsight, thereby enhancing the effectiveness and efficiency of the\n\n26\nplanning process.\n\nTherefore, Mr. Hardik’s doubt is not justified, as SA 300 requires\ndiscussion of the audit plan with senior engagement team members to\nutilise their experience and professional judgment, thereby enhancing\nthe effectiveness of audit planning.\n(ii) As per SA 300, the auditor may decide to discuss elements of planning\nwith the entity’s management to facilitate the conduct and\nmanagement of the audit engagement. When discussing matters\nincluded in the overall audit strategy or audit plan, care is required in\norder not to compromise the effectiveness of the audit.\n\nThus, Mr. Hardik’s belief is incorrect, since SA 300 permits discussion\nof relevant elements of audit planning with management to facilitate\ncoordination, provided care is taken not to compromise the\neffectiveness of audit procedures or the element of unpredictability.",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2026_P5_Q005_C",
+  "source_filename": "91203bos-aps4356-sa-int-p5.pdf",
+  "source_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 27
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "5(c)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf",
+      "answer_pdf": "suggested_answers/91203bos-aps4356-sa-int-p5.pdf"
+    },
+    "page_start": 24,
+    "page_end": 27,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Mr. Nikhil is the engagement partner for Amazing Ltd., an e-commerce\ncompany, for the financial year 2024-25.\n(i)  Mr. Nikhil plans to hold a discussion with the senior members of the\naudit team regarding the current assignment. However, Mr. Hardik, a\nnewly joined article clerk, is surprised at the need for the engagement\npartner to discuss the audit plan with other team members. He questions\nwhy such discussions are necessary?\n(2 Marks)\n(ii)  Later, Mr. Hardik learns that Ms. Poornima, the audit manager, intends\nto discuss certain elements of the audit planning with the management\nof Amazing Ltd. He believes this is unnecessary, as sharing the audit plan\n\n24\nwith the client would remove the \"surprise element\" of audit procedures.\nGuide Mr. Hardik in relation to the above scenarios.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  (i)  As per SA 300 “Planning an audit of financial statements“, the\nengagement partner and other key members of the engagement team\nshall be involved in planning the audit including planning and\nparticipating in the discussion among engagement team members. The\ninvolvement of the engagement partner and other key members of the\nengagement team in planning the audit draws on their experience and\ninsight, thereby enhancing the effectiveness and efficiency of the\n\n26\nplanning process.\n\nTherefore, Mr. Hardik’s doubt is not justified, as SA 300 requires\ndiscussion of the audit plan with senior engagement team members to\nutilise their experience and professional judgment, thereby enhancing\nthe effectiveness of audit planning.\n(ii) As per SA 300, the auditor may decide to discuss elements of planning\nwith the entity’s management to facilitate the conduct and\nmanagement of the audit engagement. When discussing matters\nincluded in the overall audit strategy or audit plan, care is required in\norder not to compromise the effectiveness of the audit.\n\nThus, Mr. Hardik’s belief is incorrect, since SA 300 permits discussion\nof relevant elements of audit planning with management to facilitate\ncoordination, provided care is taken not to compromise the\neffectiveness of audit procedures or the element of unpredictability."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

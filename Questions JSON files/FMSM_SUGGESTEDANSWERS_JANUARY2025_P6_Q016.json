@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q016",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "16. In the framework of strategic analysis, which one is a constituent of internal\nanalysis?\n(A) Competitor analysis\n(B) Determinants analysis\n(C) Market analysis\n(D) Scenario analysis\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n7\nAnswer Key\nMCQ No.\nCorrect Option",
+  "suggested_answer": "B",
+  "marks": null,
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2025_P6_Q016",
+  "source_filename": "84880bos68360-p6.pdf",
+  "source_pdf": "suggested_answers/84880bos68360-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84880bos68360-p6.pdf",
+      "answer_pdf": "suggested_answers/84880bos68360-p6.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. In the framework of strategic analysis, which one is a constituent of internal\nanalysis?\n(A) Competitor analysis\n(B) Determinants analysis\n(C) Market analysis\n(D) Scenario analysis\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n7\nAnswer Key\nMCQ No.\nCorrect Option"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

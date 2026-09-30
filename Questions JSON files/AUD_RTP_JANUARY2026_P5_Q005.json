@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q005",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "5. \nWhich of the following statements is true regarding drawing power on \nbasis of facts given in case scenario? \n(a)  \nDP is ` 10 lacs and firm can withdraw funds up to ` 10 lacs. \n(b)  \nDP is ` 12 lacs and firm can withdraw funds up to ` 12 lacs. \n(c)  \nDP is ` 8 lacs and firm can withdraw funds up to ` 10 lacs. \n(d)  \nDP is ` 8 lacs and firm can withdraw funds up to ` 8 lacs. \nGeneral MCQs",
+  "suggested_answer": "(D)",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q005",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5. \nWhich of the following statements is true regarding drawing power on \nbasis of facts given in case scenario? \n(a)  \nDP is ` 10 lacs and firm can withdraw funds up to ` 10 lacs. \n(b)  \nDP is ` 12 lacs and firm can withdraw funds up to ` 12 lacs. \n(c)  \nDP is ` 8 lacs and firm can withdraw funds up to ` 10 lacs. \n(d)  \nDP is ` 8 lacs and firm can withdraw funds up to ` 8 lacs. \nGeneral MCQs"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q017",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 17,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "17. \nCOMPUTE the missing data indicated by the question marks from the \nfollowing: \nParticulars \nA \nB \nStandard Price/ unit \n` 12 \n` 15 \nActual Price/ unit \n` 15 \n` 20 \nStandard Input (kgs.) \n50 \n? \nActual Input (kgs.) \n? \n70 \nMaterial Price Variance \n? \n? \nMaterial Usage Variance \n? \n` 300 Adverse \nMaterial Cost Variance \n? \n? \nMaterial mix variance for both products together was ` 45 Adverse. \nMarginal Costing",
+  "suggested_answer": "(i)  \nStandard input (kgs.) of Material- B:  \n \nMaterial usage variance = Std. Rate (Std. Quantity – Actual \nQuantity) \n \n` 300 Adverse  \n= ` 15 (SQ – 70) \n \nOr,  -300  \n \n= 15 SQ – 1,050 \n \nOr, \nSQ   \n \n= 50 kgs. \n(ii)  Actual Input (kgs) of Material- A: \n \nLet the actual input in for Material-A is X kgs. \n \nMaterial Mix Variance = Std. Price (Actual Quantity in Std. mix – \nActual Quantity) \n \nOr, Material Mix Variance (A+B) = Material Mix Variance for \nMaterial - A + Material Mix Variance for Material -B \nOr,   \n- 45 =  \nX\n70\nX\n70\n[ 12{(\n) X}] [ 15{(\n) 70}]\n2\n2\n+\n+\n−\n+\n−\n`\n`\n \nOr,   \n- 45 =  \nX\n70 2X\nX\n70 140\n[ 12{\n}] [ 15{\n}]\n2\n2\n+\n−\n+\n−\n+\n`\n`\n \nOr,   \n- 45 =  \n70\nX\nX\n70\n[ 12{\n}] [ 15{\n}]\n2\n2\n−\n−\n+\n`\n`\n \nOr,   \n- 45 =  \n15X 1,050\n[-6X+ 420]\n[\n]\n2\n−\n+\n \nOr,   \n- 45 =  \n12X\n840 15X 1,050\n[\n]\n2\n−\n+\n+\n−\n \nOr,   \n- 90 =  3X 210\n−\n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nOr,   \nX \n=  120\n40kgs.\n3 =\n \n \n(iii)  (a)  \nMaterial Price Variance of A = Actual Quantity (Std. Rate –  \n \n \n \n \n \n \n \n \nActual Rate) \n \n  \n \n \n \n \n \n \n \n= 40 kg. (12–15) = ` 120 Adverse \n(b)  \nMaterial Price Variance of B = 70 kg. (15 – 20) = ` 350 Adverse \n(iv)  Material usage variance of A  \n= Std. Rate (Std. Quantity – Actual  \n  \n \n \n \n \n \n \n \n \n \n \n \n \nQuantity) \n \n  \n \n \n \n \n \n \n= 12 (50 – 40) = ` 120 Favourable \n(v)  \n(a)  \nMaterial Cost variance of A = Std. Cost – Actual Cost \n \n \n \n \n= (50 kgs. @ ` 12) – (40 kgs. @ ` 15) \n \n \n \n \n= 600 – 600 = Nil \n(b)  \nMaterial Cost variance of B = (50 kgs. @ ` 15) – (70 kgs. @  ` 20) \n \n \n \n \n \n \n \n \n \n \n= 750 – 1,400 = ` 650 Adverse",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q017",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "17",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "17. \nCOMPUTE the missing data indicated by the question marks from the \nfollowing: \nParticulars \nA \nB \nStandard Price/ unit \n` 12 \n` 15 \nActual Price/ unit \n` 15 \n` 20 \nStandard Input (kgs.) \n50 \n? \nActual Input (kgs.) \n? \n70 \nMaterial Price Variance \n? \n? \nMaterial Usage Variance \n? \n` 300 Adverse \nMaterial Cost Variance \n? \n? \nMaterial mix variance for both products together was ` 45 Adverse. \nMarginal Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i)  \nStandard input (kgs.) of Material- B:  \n \nMaterial usage variance = Std. Rate (Std. Quantity – Actual \nQuantity) \n \n` 300 Adverse  \n= ` 15 (SQ – 70) \n \nOr,  -300  \n \n= 15 SQ – 1,050 \n \nOr, \nSQ   \n \n= 50 kgs. \n(ii)  Actual Input (kgs) of Material- A: \n \nLet the actual input in for Material-A is X kgs. \n \nMaterial Mix Variance = Std. Price (Actual Quantity in Std. mix – \nActual Quantity) \n \nOr, Material Mix Variance (A+B) = Material Mix Variance for \nMaterial - A + Material Mix Variance for Material -B \nOr,   \n- 45 =  \nX\n70\nX\n70\n[ 12{(\n) X}] [ 15{(\n) 70}]\n2\n2\n+\n+\n−\n+\n−\n`\n`\n \nOr,   \n- 45 =  \nX\n70 2X\nX\n70 140\n[ 12{\n}] [ 15{\n}]\n2\n2\n+\n−\n+\n−\n+\n`\n`\n \nOr,   \n- 45 =  \n70\nX\nX\n70\n[ 12{\n}] [ 15{\n}]\n2\n2\n−\n−\n+\n`\n`\n \nOr,   \n- 45 =  \n15X 1,050\n[-6X+ 420]\n[\n]\n2\n−\n+\n \nOr,   \n- 45 =  \n12X\n840 15X 1,050\n[\n]\n2\n−\n+\n+\n−\n \nOr,   \n- 90 =  3X 210\n−\n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n49 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nOr,   \nX \n=  120\n40kgs.\n3 =\n \n \n(iii)  (a)  \nMaterial Price Variance of A = Actual Quantity (Std. Rate –  \n \n \n \n \n \n \n \n \nActual Rate) \n \n  \n \n \n \n \n \n \n \n= 40 kg. (12–15) = ` 120 Adverse \n(b)  \nMaterial Price Variance of B = 70 kg. (15 – 20) = ` 350 Adverse \n(iv)  Material usage variance of A  \n= Std. Rate (Std. Quantity – Actual  \n  \n \n \n \n \n \n \n \n \n \n \n \n \nQuantity) \n \n  \n \n \n \n \n \n \n= 12 (50 – 40) = ` 120 Favourable \n(v)  \n(a)  \nMaterial Cost variance of A = Std. Cost – Actual Cost \n \n \n \n \n= (50 kgs. @ ` 12) – (40 kgs. @ ` 15) \n \n \n \n \n= 600 – 600 = Nil \n(b)  \nMaterial Cost variance of B = (50 kgs. @ ` 15) – (70 kgs. @  ` 20) \n \n \n \n \n \n \n \n \n \n \n= 750 – 1,400 = ` 650 Adverse"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

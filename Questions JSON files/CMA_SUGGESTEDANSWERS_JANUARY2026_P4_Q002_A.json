@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q002_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Dhol Makers Ltd. sold 6,000 units of a musical instrument \"Dholak\",\n\nThe cost data for the year ended 31st March, 2025 is as follows:\n\n12\nParticulars\n(`)\nExpenses paid for pollution control and maintenance\n93,400\nExpenses paid for quality control check activities\n70,000\nLease rent of production assets\n1,20,000\nHire charges paid for hiring specific equipment\n315 per hour\nPrimary packing cost\n51,600\nDirect Labour Wages\n6,00,000\nFee paid for technical assistance\n1,26,000\nOpening stock of finished goods as on 1st April, 2024 (2,000\nunits)\n10,10,000\nClosing stock of finished goods as on 31st March, 2025 (1,000\nunits)\n?\nCost of production\n27,50,000\n\nIt is further ascertained that:\n(1)  Labour is paid @ ` 1,000 per labour hour.\n(2)  Specific equipment is hired for the number of labour hours worked.\n(3)  The company follows the 'First-In, First-Out' (FIFO) method for closing\nstock valuation.\n(4)  Selling and distribution overhead is ` 25 per dholak.\n(5)  Profit is 20% on sales.\n\nYou are required to prepare a cost sheet showing:\n(i)  Raw material consumed\n(ii)  Prime cost\n(iii)  Works/Factory cost\n(iv)  Cost of goods sold\n(v)  Cost of sales\n(vi)  Net profit & Sales\n(9 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13",
+  "suggested_answer": "(a)  Cost Sheet of Dhol Makers Ltd. for the year ended 31st March, 2025\nSl.\nNo.\nParticulars\n(`)\n(`)\n(i)\nMaterial Consumed (see working note 3)\n\n15,00,000\n(ii)\nDirect Labour Wages\n\n6,00,000\n(iii)\nDirect expenses:\n\nHire Charges paid for hiring specific\nequipment (` 315 per hour x 600 labour\nhours worked) (see working note 1)\n1,89,000\n\nFees paid for technical assistance\n1,26,000\n3,15,000\n\nPrime Cost\n\n24,15,000\n(iv)\nWorks/Factory overheads:\n\nLease rent of production assets\n1,20,000\n\nExpenses paid for pollution control and\nmaintenance\n93,400\n2,13,400\n\nWorks/Factory Cost\n\n26,28,400\n(v)\nAdd: Expenses paid for quality control\ncheck activities\n\n70,000\n(vi)\nAdd: Primary packing cost\n\n51,600\n\nCost of Production (Given)\n\n27,50,000\n\n14\n\nAdd: Opening stock of finished goods\n(2,000 units)\n\n10,10,000\n\nLess: Closing stock of finished goods\n(\n` 27,50,000\n5,000 units x 1,000 units)\n\n(5,50,000)\n\nCost of Goods Sold\n\n32,10,000\n(vii)\nSelling and Distribution Overheads\n(` 25 per unit x 6,000 units sold)\n\n1,50,000\n\nCost of Sales\n\n33,60,000\n\nProfit (20% on sales or 25% on cost)\n\n8,40,000\n\nSales\n\n42,00,000\n\nWorking Notes:\n1.\nCalculation of No. of Direct Labour Hours worked\n\n= Direct Labour Wages/Labour Rate per hour\n\n= ` 6,00,000/` 1,000 per hour\n\n= 600 Direct Labour Hours\n2.\nCalculation of No. of units produced:\nParticulars\nUnits\nNo. of units sold\n6,000\nAdd: No. of units of closing stock of finished goods\n1,000\nLess: No. of units opening stock of finished goods\n(2,000)\nNo. of units produced\n5,000\n3.\nValue of Raw Material Consumed:\nParticulars\n(`)\n(`)\nCost of Production\n\n27,50,000\nLess: Expenses paid for quality control check\nactivities\n\n(70,000)\nLess: Primary packing cost\n\n(51,600)\nWorks/Factory Cost\n\n26,28,400\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\nLess: Works/ Factory overheads:\n\nLease rent of production assets\n1,20,000\n\nExpenses paid for pollution control and\nmaintenance\n93,400\n(2,13,400)\nPrime Cost\n\n24,15,000\nLess: Direct expenses:\n\nHire\nCharges\npaid\nfor\nhiring\nspecific\nequipment (` 315 per hour x 600 labour hours\nworked) (see working note 1)\n1,89,000\n\nFees paid for technical assistance\n1,26,000\n(3,15,000)\nLess: Direct Labour Wages\n\n(6,00,000)\nValue of Material Consumed\n\n15,00,000",
+  "marks": "(9 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q002_A",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 12,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "2(a)",
+    "marks": "(9 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 12,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Dhol Makers Ltd. sold 6,000 units of a musical instrument \"Dholak\",\n\nThe cost data for the year ended 31st March, 2025 is as follows:\n\n12\nParticulars\n(`)\nExpenses paid for pollution control and maintenance\n93,400\nExpenses paid for quality control check activities\n70,000\nLease rent of production assets\n1,20,000\nHire charges paid for hiring specific equipment\n315 per hour\nPrimary packing cost\n51,600\nDirect Labour Wages\n6,00,000\nFee paid for technical assistance\n1,26,000\nOpening stock of finished goods as on 1st April, 2024 (2,000\nunits)\n10,10,000\nClosing stock of finished goods as on 31st March, 2025 (1,000\nunits)\n?\nCost of production\n27,50,000\n\nIt is further ascertained that:\n(1)  Labour is paid @ ` 1,000 per labour hour.\n(2)  Specific equipment is hired for the number of labour hours worked.\n(3)  The company follows the 'First-In, First-Out' (FIFO) method for closing\nstock valuation.\n(4)  Selling and distribution overhead is ` 25 per dholak.\n(5)  Profit is 20% on sales.\n\nYou are required to prepare a cost sheet showing:\n(i)  Raw material consumed\n(ii)  Prime cost\n(iii)  Works/Factory cost\n(iv)  Cost of goods sold\n(v)  Cost of sales\n(vi)  Net profit & Sales\n(9 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Cost Sheet of Dhol Makers Ltd. for the year ended 31st March, 2025\nSl.\nNo.\nParticulars\n(`)\n(`)\n(i)\nMaterial Consumed (see working note 3)\n\n15,00,000\n(ii)\nDirect Labour Wages\n\n6,00,000\n(iii)\nDirect expenses:\n\nHire Charges paid for hiring specific\nequipment (` 315 per hour x 600 labour\nhours worked) (see working note 1)\n1,89,000\n\nFees paid for technical assistance\n1,26,000\n3,15,000\n\nPrime Cost\n\n24,15,000\n(iv)\nWorks/Factory overheads:\n\nLease rent of production assets\n1,20,000\n\nExpenses paid for pollution control and\nmaintenance\n93,400\n2,13,400\n\nWorks/Factory Cost\n\n26,28,400\n(v)\nAdd: Expenses paid for quality control\ncheck activities\n\n70,000\n(vi)\nAdd: Primary packing cost\n\n51,600\n\nCost of Production (Given)\n\n27,50,000\n\n14\n\nAdd: Opening stock of finished goods\n(2,000 units)\n\n10,10,000\n\nLess: Closing stock of finished goods\n(\n` 27,50,000\n5,000 units x 1,000 units)\n\n(5,50,000)\n\nCost of Goods Sold\n\n32,10,000\n(vii)\nSelling and Distribution Overheads\n(` 25 per unit x 6,000 units sold)\n\n1,50,000\n\nCost of Sales\n\n33,60,000\n\nProfit (20% on sales or 25% on cost)\n\n8,40,000\n\nSales\n\n42,00,000\n\nWorking Notes:\n1.\nCalculation of No. of Direct Labour Hours worked\n\n= Direct Labour Wages/Labour Rate per hour\n\n= ` 6,00,000/` 1,000 per hour\n\n= 600 Direct Labour Hours\n2.\nCalculation of No. of units produced:\nParticulars\nUnits\nNo. of units sold\n6,000\nAdd: No. of units of closing stock of finished goods\n1,000\nLess: No. of units opening stock of finished goods\n(2,000)\nNo. of units produced\n5,000\n3.\nValue of Raw Material Consumed:\nParticulars\n(`)\n(`)\nCost of Production\n\n27,50,000\nLess: Expenses paid for quality control check\nactivities\n\n(70,000)\nLess: Primary packing cost\n\n(51,600)\nWorks/Factory Cost\n\n26,28,400\n\nCOST AND MANAGEMENT ACCOUNTING\n\n15\nLess: Works/ Factory overheads:\n\nLease rent of production assets\n1,20,000\n\nExpenses paid for pollution control and\nmaintenance\n93,400\n(2,13,400)\nPrime Cost\n\n24,15,000\nLess: Direct expenses:\n\nHire\nCharges\npaid\nfor\nhiring\nspecific\nequipment (` 315 per hour x 600 labour hours\nworked) (see working note 1)\n1,89,000\n\nFees paid for technical assistance\n1,26,000\n(3,15,000)\nLess: Direct Labour Wages\n\n(6,00,000)\nValue of Material Consumed\n\n15,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

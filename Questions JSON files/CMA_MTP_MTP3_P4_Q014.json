@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "14.  \nICT Ltd. belongs to pharmaceutical industries. The chemical process that ICT Ltd. \noperates convert one compound into three category of medicines viz. BetaTab, Folick \nand TegriCap. Though BetaTab and Folick are already converted to final product at split-\noff point, Tegricap needs further processing along with addition of new compound with it. \n \nThe market for BetaTab and Folick is highly active, thus the production is sold at split-off \npoint, however, Tegricap can be sold only after further processing. \nFollowing information is provided for the current year: \nProducts \nQuantity sold (tons) \nSelling price per ton (`) \nBetaTab  \n372 \n7,500 \nFolick  \n1,054 \n5,625 \nTegriCap \n1,472 \n3,750 \nThe selling price is expected to remain the same for coming years. \n7 \n \nThe total joint manufacturing costs till split-off point is ` 62,50,000 and the amount spent \nfor further processing w.r.t. Tegricap is ` 31,00,000  \n \nThe details regarding closing inventories are as follows: \nProducts \nCompleted units (tons) \nBetaTab  \n360 \nFolick  \n120 \nTegriCap \n50 \nYou are required to COMPUTE the joint cost allocated to BetaTab, Folick and TegriCap \nusing Net realizable value (NRV) method. \n(A) \nBetaTab- ` 15,65,481, Folick - ` 33,26,647 and TegriCap - ` 13,57,872  \n(B) \nBetaTab - ` 23,33,985, Folick - ` 28,07,478 and TegriCap - ` 11,08,537 \n(C) \nBetaTab - ` 19,27,533, Folick - ` 23,18,570 and TegriCap - ` 20,03,897   \n(D) \nBetaTab - ` 11,08,537, Folick - ` 28,07,478 and TegriCap - ` 23,33,985 \n(2 Marks)",
+  "suggested_answer": "(B) BetaTab - ` 23,33,985, Folick - ` 28,07,478 and TegriCap - ` 11,08,537 Calculation of total production of BetaTab, Folick and TegriCap Products Quantity sold (tons) Quantity of closing inventories (tons) Total production (1) (2) (3) (4) = [(2) + (3)] BetaTab 372 360 732 Folick 1,054 120 1,174 TegriCap 1,472 50 1,522 Calculation of Net Realisable Value (at split-off point) Products Total (`) BetaTab Folick TegriCap Total Production (tons) (A) 732 1,174 1,522 Selling price per ton (`) (B) 7,500 5,625 3,750 6 Final sales value of total production (`) [(A) x (B)] 54,90,000 66,03,750 57,07,500 1,78,01,250 Less: Additional cost (`) - - (31,00,000) (31,00,000) Net realisable value (`) (at split-off point) 54,90,000 66,03,750 26,07,500 1,47,01,250 Joint cost allocated using Net Realisable Value (at split-off point): Total Jointcost × NetRealisableValueof each product Total Net RealisableValue BetaTab = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 54,90,000 = ` 23,33,985 Folick = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 66,03,750 = ` 28,07,478 TegriCap = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 26,07,500 = ` 11,08,537",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q014",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14.  \nICT Ltd. belongs to pharmaceutical industries. The chemical process that ICT Ltd. \noperates convert one compound into three category of medicines viz. BetaTab, Folick \nand TegriCap. Though BetaTab and Folick are already converted to final product at split-\noff point, Tegricap needs further processing along with addition of new compound with it. \n \nThe market for BetaTab and Folick is highly active, thus the production is sold at split-off \npoint, however, Tegricap can be sold only after further processing. \nFollowing information is provided for the current year: \nProducts \nQuantity sold (tons) \nSelling price per ton (`) \nBetaTab  \n372 \n7,500 \nFolick  \n1,054 \n5,625 \nTegriCap \n1,472 \n3,750 \nThe selling price is expected to remain the same for coming years. \n7 \n \nThe total joint manufacturing costs till split-off point is ` 62,50,000 and the amount spent \nfor further processing w.r.t. Tegricap is ` 31,00,000  \n \nThe details regarding closing inventories are as follows: \nProducts \nCompleted units (tons) \nBetaTab  \n360 \nFolick  \n120 \nTegriCap \n50 \nYou are required to COMPUTE the joint cost allocated to BetaTab, Folick and TegriCap \nusing Net realizable value (NRV) method. \n(A) \nBetaTab- ` 15,65,481, Folick - ` 33,26,647 and TegriCap - ` 13,57,872  \n(B) \nBetaTab - ` 23,33,985, Folick - ` 28,07,478 and TegriCap - ` 11,08,537 \n(C) \nBetaTab - ` 19,27,533, Folick - ` 23,18,570 and TegriCap - ` 20,03,897   \n(D) \nBetaTab - ` 11,08,537, Folick - ` 28,07,478 and TegriCap - ` 23,33,985 \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) BetaTab - ` 23,33,985, Folick - ` 28,07,478 and TegriCap - ` 11,08,537 Calculation of total production of BetaTab, Folick and TegriCap Products Quantity sold (tons) Quantity of closing inventories (tons) Total production (1) (2) (3) (4) = [(2) + (3)] BetaTab 372 360 732 Folick 1,054 120 1,174 TegriCap 1,472 50 1,522 Calculation of Net Realisable Value (at split-off point) Products Total (`) BetaTab Folick TegriCap Total Production (tons) (A) 732 1,174 1,522 Selling price per ton (`) (B) 7,500 5,625 3,750 6 Final sales value of total production (`) [(A) x (B)] 54,90,000 66,03,750 57,07,500 1,78,01,250 Less: Additional cost (`) - - (31,00,000) (31,00,000) Net realisable value (`) (at split-off point) 54,90,000 66,03,750 26,07,500 1,47,01,250 Joint cost allocated using Net Realisable Value (at split-off point): Total Jointcost × NetRealisableValueof each product Total Net RealisableValue BetaTab = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 54,90,000 = ` 23,33,985 Folick = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 66,03,750 = ` 28,07,478 TegriCap = ቀ ` 62,50,000 ` 1,47,01,250ቁ x ` 26,07,500 = ` 11,08,537"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

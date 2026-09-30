@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. CA Ravi Chopra considered the subsequent events which require to be dealt\nwith in the financial statements. Select from the below options, the one which\nis not an event, providing evidence of conditions that arose after the date of\nthe financial statements:\n(A)  Settling a legal claim outside the court at a reduced amount, between\nthe date of financial statements and the date of auditor's report, for\nwhich provision has already been made in financial statements.\n(B)  Issue of new share capital.\n(C)  Planned merger of the company.\n(D)  Destruction of substantial inventories due to fire between the date of the\nfinancial statements and the date of auditor's report.\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q012",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. CA Ravi Chopra considered the subsequent events which require to be dealt\nwith in the financial statements. Select from the below options, the one which\nis not an event, providing evidence of conditions that arose after the date of\nthe financial statements:\n(A)  Settling a legal claim outside the court at a reduced amount, between\nthe date of financial statements and the date of auditor's report, for\nwhich provision has already been made in financial statements.\n(B)  Issue of new share capital.\n(C)  Planned merger of the company.\n(D)  Destruction of substantial inventories due to fire between the date of the\nfinancial statements and the date of auditor's report.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

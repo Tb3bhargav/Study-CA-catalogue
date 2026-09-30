@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q002_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) XYZ Ltd., a manufacturing company engaged in the production of various\ntypes of yarn, is planning to expand its operations into a new geographical\nmarket and also add new products. Company has prepared prospective\n\n14\nfinancial information to be presented to potential investors and financial\ninstitutions to secure funding for the expansion.\nXYZ Ltd. engages a firm of auditors to conduct an assurance engagement on\nthis prospective financial information. During the engagement, the auditors\nreviewed the assumptions made by XYZ Ltd.'s management and issued a\nreport.\nExplain the key differences between prospective financial information and\nhistorical financial information. How does this distinction impact the level of\nassurance provided in an assurance engagement on prospective financial\ninformation?\n(5 Marks)",
+  "suggested_answer": "(a)  Difference between “Historical financial information” and “Prospective\nfinancial information”: The “Historical financial information” relates to\ninformation expressed in financial terms of an entity about economic\nevents, conditions or circumstances occurring in past periods. The\n“Prospective financial information” relates to financial information based\non assumptions about occurrence of future events and possible actions by\nan entity.\nTherefore, historical financial information is rooted in past events which\nhave already occurred whereas prospective financial information is related\nto future events.\nIn assurance reports involving prospective financial information, the\npractitioner obtains sufficient appropriate evidence to the effect that\nmanagement’s assumptions on which the prospective financial information\nis based are not unreasonable, the prospective financial information is\nproperly prepared on the basis of the assumptions and it is properly\npresented and all material assumptions are adequately disclosed.\nProspective financial information relates to future events. While evidence\nmay be available to support the assumptions on which the prospective\nfinancial information is based, such evidence is itself generally future-\noriented. The auditor is, therefore, not in a position to express an opinion\n\n16\nas to whether the results shown in the prospective financial information will\nbe achieved.\nTherefore, in such assurance engagements, practitioner provides a report\nassuring that nothing has come to practitioner’s attention to suggest that\nthese assumptions do not provide a reasonable basis for the projection.\nHence, such type of assurance engagement provides only a “moderate”\nlevel of assurance.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q002_A",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 13,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) XYZ Ltd., a manufacturing company engaged in the production of various\ntypes of yarn, is planning to expand its operations into a new geographical\nmarket and also add new products. Company has prepared prospective\n\n14\nfinancial information to be presented to potential investors and financial\ninstitutions to secure funding for the expansion.\nXYZ Ltd. engages a firm of auditors to conduct an assurance engagement on\nthis prospective financial information. During the engagement, the auditors\nreviewed the assumptions made by XYZ Ltd.'s management and issued a\nreport.\nExplain the key differences between prospective financial information and\nhistorical financial information. How does this distinction impact the level of\nassurance provided in an assurance engagement on prospective financial\ninformation?\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Difference between “Historical financial information” and “Prospective\nfinancial information”: The “Historical financial information” relates to\ninformation expressed in financial terms of an entity about economic\nevents, conditions or circumstances occurring in past periods. The\n“Prospective financial information” relates to financial information based\non assumptions about occurrence of future events and possible actions by\nan entity.\nTherefore, historical financial information is rooted in past events which\nhave already occurred whereas prospective financial information is related\nto future events.\nIn assurance reports involving prospective financial information, the\npractitioner obtains sufficient appropriate evidence to the effect that\nmanagement’s assumptions on which the prospective financial information\nis based are not unreasonable, the prospective financial information is\nproperly prepared on the basis of the assumptions and it is properly\npresented and all material assumptions are adequately disclosed.\nProspective financial information relates to future events. While evidence\nmay be available to support the assumptions on which the prospective\nfinancial information is based, such evidence is itself generally future-\noriented. The auditor is, therefore, not in a position to express an opinion\n\n16\nas to whether the results shown in the prospective financial information will\nbe achieved.\nTherefore, in such assurance engagements, practitioner provides a report\nassuring that nothing has come to practitioner’s attention to suggest that\nthese assumptions do not provide a reasonable basis for the projection.\nHence, such type of assurance engagement provides only a “moderate”\nlevel of assurance."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

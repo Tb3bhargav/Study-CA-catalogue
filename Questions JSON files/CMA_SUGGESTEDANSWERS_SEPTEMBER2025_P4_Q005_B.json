@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q005_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  A company manufactures electronic gadgets and uses a specialized\ncomponent. The company incurs an ordering cost of ` 1,250 per order. The\ncarrying cost for storing the specialized components is ` 25 per unit per\nannum. The company's annual production is 90,000 gadgets, and each\ngadget requires one component for its assembly.\nYou are required to calculate:\n(i)  Economic Order Quantity\n(ii)  Number of orders to be placed in a year\n(3 Marks)",
+  "suggested_answer": "(b) EOQ\n= ට2 × A × O\nC\n\nA\n= Units consumed during year = 90,000 components\nO\n= Ordering cost per order = ` 1,250\nC\n= Inventory carrying cost per unit per annum = ` 25\nEOQ  = ට2 × 90,000 × 1,250\n25\n= 3,000 components\nNo. of orders to be placed in a year\n\n=\nTotal  consumption  of  materials  per  annum\nEOQ\n\n=\n90,000\n3,000 = 30 orders per year",
+  "marks": "(3 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q005_B",
+  "source_filename": "89273bos-aps3012-int-p4.pdf",
+  "source_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 26
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(b)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "answer_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf"
+    },
+    "page_start": 24,
+    "page_end": 26,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  A company manufactures electronic gadgets and uses a specialized\ncomponent. The company incurs an ordering cost of ` 1,250 per order. The\ncarrying cost for storing the specialized components is ` 25 per unit per\nannum. The company's annual production is 90,000 gadgets, and each\ngadget requires one component for its assembly.\nYou are required to calculate:\n(i)  Economic Order Quantity\n(ii)  Number of orders to be placed in a year\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) EOQ\n= ට2 × A × O\nC\n\nA\n= Units consumed during year = 90,000 components\nO\n= Ordering cost per order = ` 1,250\nC\n= Inventory carrying cost per unit per annum = ` 25\nEOQ  = ට2 × 90,000 × 1,250\n25\n= 3,000 components\nNo. of orders to be placed in a year\n\n=\nTotal  consumption  of  materials  per  annum\nEOQ\n\n=\n90,000\n3,000 = 30 orders per year"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q009",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "9. \nWhile evaluating the security position of the CC account as on the reporting date, the \nauditor noted that the drawing power had been computed using stock information that \nwas not contemporaneous with the reporting date, and that the borrowings in the account \nwere already close to the level determined on the basis of primary security. \n \nConsidering these facts together, which of the following conclusions would be most \nappropriate? \n(a)  \nThe borrowing position may not be reliable since it is being evaluated on the basis \nof outdated information regarding primary security. \n(b)  \nThe account should be treated as regular because the sanctioned limit itself has \nnot been exceeded. \n(c)  \nThe drawing power computation can be accepted since the borrower had \nsubmitted a stock statement earlier during the year. \n(d)  \nThe auditor should rely only on the audited financial statements while evaluating \nthe security position.",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP3_P5_Q009",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "9",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nWhile evaluating the security position of the CC account as on the reporting date, the \nauditor noted that the drawing power had been computed using stock information that \nwas not contemporaneous with the reporting date, and that the borrowings in the account \nwere already close to the level determined on the basis of primary security. \n \nConsidering these facts together, which of the following conclusions would be most \nappropriate? \n(a)  \nThe borrowing position may not be reliable since it is being evaluated on the basis \nof outdated information regarding primary security. \n(b)  \nThe account should be treated as regular because the sanctioned limit itself has \nnot been exceeded. \n(c)  \nThe drawing power computation can be accepted since the borrower had \nsubmitted a stock statement earlier during the year. \n(d)  \nThe auditor should rely only on the audited financial statements while evaluating \nthe security position."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

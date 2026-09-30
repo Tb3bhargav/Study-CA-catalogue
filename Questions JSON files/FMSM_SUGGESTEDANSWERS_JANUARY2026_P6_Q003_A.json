@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q003_A",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  The Balance Sheet extract of ST Ltd. as on March 31 (current year) is as\nfollows:\nLiabilities\nAmount\n(` in lakh)\nAssets\nAmount\n(` in lakh)\nShare capital\n260 Fixed Assets\n600\nReserves\n168 Inventories\n360\nLong-term loans\n420 Receivables\n270\nShort-term loans\n220 Cash & bank\n78\nPayables\n144\n\nProvisions\n96\n\n1,308\n1,308\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n19\n\nSales for the current year amounted to ` 900 lakh. For the next financial year\nending March 31 (next year), sales are expected to increase by 20%.\n\nThe net profit margin (after tax) is expected to be 5% of sales, and the\ndividend payout ratio is anticipated to be 50%.\n\nTotal assets including cash & bank and current liabilities (payables and\nprovisions) vary directly with sales.\n\nYou are required to:\n(i)  Estimate the amount of external funds required (EFR) for the next\nfinancial year.\n(ii)  Determine the sources and composition of funds to meet the\nrequirement, given the following parameters:\n(1)  The current ratio must be maintained at 1.40.\n(2)  The ratio of fixed assets to long-term loans should be 1.50.\n(3)  The remaining fund is raised by issue of Equity shares.\n(4)  The additional funds are to be raised in the following order of\npreference:\n(i)  Short-term bank borrowings\n(ii)  Long-term loans\n(iii)  Equity\n(8 Marks)",
+  "suggested_answer": "(a)  (i)  External Funds Requirement (EFR)\nParticulars\n` in lakhs\nExpected sales (` 900 + 20% of ` 900)\n1,080.00\nNet profit margin @ 5%\n54.00\nDividend payout ratio @ 50%\n27.00\nBalance to be ploughed back (A)\n27.00\n\n20\nAdditional assets required [(`1,308 – (144+96)*] ×\n20% (B)\n213.60\nBalance to be met from external sources (B − A)\n186.60\n*As total assets and current liabilities (payables & provisions) increase\nproportionately with sales.\nCalculation of External Funds Requirement (EFR) can be presented in\nthe following way-\nParticulars\n` in lakhs\nA.  Projected Level of Assets (1308 x 1.20)\n1,569.60\nB.  Projected Level of Payables & Provisions (144+96)\nx 1.20\n288.00\nC.  Retained Earnings (900 x 1.20 x 0.05 x 0.50\n27.00\nD.  Existing (Share Cap. + Reserves + LTL + STL)\n(260+168+420+220)\n\n1068.00\nExternal Funds Requirement (EFR): A - (B+C+D)\n186.60\n(ii)  Amount to be raised from different sources subject to given\nconditions:\n(1)  Amount to be raised from Short-Term Bank Borrowings\nParticulars\n` in lakhs\nA.  New Current Assets (708 lakhs + 20% of 708\nlakhs)\n849.60\nB.  New current liabilities as per given condition\n606.86\nC.  Less: Existing current liabilities (240 lakhs +\n20% of 240 lakhs+220 lakhs)\n508\nD.  Additional funds to be raised from Short-term\nbank borrowings (B-C)\n98.86\n\nTo maintain Current Ratio\n= 1.40\n\nRequired Current Liabilities  =\n849.60\n1.40 = 606.86 lakhs\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n21\n(2)  Amount to be raised from Long-Term Loans\nParticulars\n` in lakhs\nExisting fixed assets\n600.00\nIncrease @ 20%\n120.00\nNew fixed assets\n720.00\n\nTo maintain fixed assets to long-term loans = 1.50:\nLong-term loans required = 720\n1.5 = 480.00 lakhs\nParticulars\n` in lakhs\nRequired long-term loans\n480.00\nLess: Existing long-term loans\n420.00\nAmount to be raised from long-term funds\n60.00\n(3)  Amount to be raised from Equity Shares\nParticulars\n` in lakhs\nExternal funds required\n186.60\nLess: From short-term funds\n98.86\nLess: From long-term funds\n60.00\nBalance to be raised by issue of Equity Shares\n27.74",
+  "marks": "(8 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_JANUARY2026_P6_Q003_A",
+  "source_filename": "91204bos-aps4356-sa-int-p6.pdf",
+  "source_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 19,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "3(a)",
+    "marks": "(8 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf",
+      "answer_pdf": "suggested_answers/91204bos-aps4356-sa-int-p6.pdf"
+    },
+    "page_start": 19,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  The Balance Sheet extract of ST Ltd. as on March 31 (current year) is as\nfollows:\nLiabilities\nAmount\n(` in lakh)\nAssets\nAmount\n(` in lakh)\nShare capital\n260 Fixed Assets\n600\nReserves\n168 Inventories\n360\nLong-term loans\n420 Receivables\n270\nShort-term loans\n220 Cash & bank\n78\nPayables\n144\n\nProvisions\n96\n\n1,308\n1,308\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n19\n\nSales for the current year amounted to ` 900 lakh. For the next financial year\nending March 31 (next year), sales are expected to increase by 20%.\n\nThe net profit margin (after tax) is expected to be 5% of sales, and the\ndividend payout ratio is anticipated to be 50%.\n\nTotal assets including cash & bank and current liabilities (payables and\nprovisions) vary directly with sales.\n\nYou are required to:\n(i)  Estimate the amount of external funds required (EFR) for the next\nfinancial year.\n(ii)  Determine the sources and composition of funds to meet the\nrequirement, given the following parameters:\n(1)  The current ratio must be maintained at 1.40.\n(2)  The ratio of fixed assets to long-term loans should be 1.50.\n(3)  The remaining fund is raised by issue of Equity shares.\n(4)  The additional funds are to be raised in the following order of\npreference:\n(i)  Short-term bank borrowings\n(ii)  Long-term loans\n(iii)  Equity\n(8 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)  External Funds Requirement (EFR)\nParticulars\n` in lakhs\nExpected sales (` 900 + 20% of ` 900)\n1,080.00\nNet profit margin @ 5%\n54.00\nDividend payout ratio @ 50%\n27.00\nBalance to be ploughed back (A)\n27.00\n\n20\nAdditional assets required [(`1,308 – (144+96)*] ×\n20% (B)\n213.60\nBalance to be met from external sources (B − A)\n186.60\n*As total assets and current liabilities (payables & provisions) increase\nproportionately with sales.\nCalculation of External Funds Requirement (EFR) can be presented in\nthe following way-\nParticulars\n` in lakhs\nA.  Projected Level of Assets (1308 x 1.20)\n1,569.60\nB.  Projected Level of Payables & Provisions (144+96)\nx 1.20\n288.00\nC.  Retained Earnings (900 x 1.20 x 0.05 x 0.50\n27.00\nD.  Existing (Share Cap. + Reserves + LTL + STL)\n(260+168+420+220)\n\n1068.00\nExternal Funds Requirement (EFR): A - (B+C+D)\n186.60\n(ii)  Amount to be raised from different sources subject to given\nconditions:\n(1)  Amount to be raised from Short-Term Bank Borrowings\nParticulars\n` in lakhs\nA.  New Current Assets (708 lakhs + 20% of 708\nlakhs)\n849.60\nB.  New current liabilities as per given condition\n606.86\nC.  Less: Existing current liabilities (240 lakhs +\n20% of 240 lakhs+220 lakhs)\n508\nD.  Additional funds to be raised from Short-term\nbank borrowings (B-C)\n98.86\n\nTo maintain Current Ratio\n= 1.40\n\nRequired Current Liabilities  =\n849.60\n1.40 = 606.86 lakhs\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n21\n(2)  Amount to be raised from Long-Term Loans\nParticulars\n` in lakhs\nExisting fixed assets\n600.00\nIncrease @ 20%\n120.00\nNew fixed assets\n720.00\n\nTo maintain fixed assets to long-term loans = 1.50:\nLong-term loans required = 720\n1.5 = 480.00 lakhs\nParticulars\n` in lakhs\nRequired long-term loans\n480.00\nLess: Existing long-term loans\n420.00\nAmount to be raised from long-term funds\n60.00\n(3)  Amount to be raised from Equity Shares\nParticulars\n` in lakhs\nExternal funds required\n186.60\nLess: From short-term funds\n98.86\nLess: From long-term funds\n60.00\nBalance to be raised by issue of Equity Shares\n27.74"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

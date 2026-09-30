@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q002_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) CA Z, the auditor of MNO Ltd., during the course of audit, assesses a risk of\nmaterial misstatements regarding the litigations and claims involving the\ncompany. CA Z is not convinced with the management's explanations\nregarding the status of the litigations or claims. It is considered unlikely that\nthe entity's external legal counsel will respond appropriately to a letter of\ngeneral enquiry. The auditor sent a letter of specific enquiry requesting the\n\nAUDITING AND ETHICS\n\n33\nentity's external legal counsel to communicate directly with the auditor. List\nout the inclusions in the letter of specific enquiry.\n\nIn certain circumstances the auditor may judge it necessary to meet with\nentity's external legal counsel to discuss the likely outcome of the litigations\nor claims. What will be auditor's reporting responsibility if the management\nrefuses to give permission to the auditor to communicate or meet with the\nexternal legal counsel?\n(4 Marks)",
+  "suggested_answer": "(b)  A letter of specific inquiry includes:\n(i) A list of litigation and claims;\n(ii) Where available, management’s assessment of the outcome of each of\nthe identified litigation and claims and its estimate of the financial\nimplications, including costs involved; and\n(iii) A request that the entity’s external legal counsel confirm the\nreasonableness of management’s assessments and provide the auditor\nwith further information if the list is considered by the entity’s external\nlegal counsel to be incomplete or incorrect.\n\nIn certain circumstances, the auditor also may judge it necessary to meet\nwith the entity’s external legal counsel to discuss the likely outcome of the\nlitigation or claims. Further, if management refuses to give the auditor\npermission to communicate or meet with the entity’s external legal counsel,\nor the entity’s external legal counsel refuses to respond appropriately to\nthe letter of inquiry, or is prohibited from responding, and the auditor is\nunable to obtain sufficient appropriate evidence by performing alternate\naudit procedures, the auditor shall modify the opinion in the auditor’s\nreport in accordance with SA 705.\n\nAlternatively, if the auditor is able to perform alternate audit procedures\nand can obtain sufficient and appropriate audit evidence to resolve the\nissue, then he can give an unmodified opinion.\n\nAUDITING AND ETHICS\n\n35",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q002_B",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 5,
+    "page_end": 8,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) CA Z, the auditor of MNO Ltd., during the course of audit, assesses a risk of\nmaterial misstatements regarding the litigations and claims involving the\ncompany. CA Z is not convinced with the management's explanations\nregarding the status of the litigations or claims. It is considered unlikely that\nthe entity's external legal counsel will respond appropriately to a letter of\ngeneral enquiry. The auditor sent a letter of specific enquiry requesting the\n\nAUDITING AND ETHICS\n\n33\nentity's external legal counsel to communicate directly with the auditor. List\nout the inclusions in the letter of specific enquiry.\n\nIn certain circumstances the auditor may judge it necessary to meet with\nentity's external legal counsel to discuss the likely outcome of the litigations\nor claims. What will be auditor's reporting responsibility if the management\nrefuses to give permission to the auditor to communicate or meet with the\nexternal legal counsel?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  A letter of specific inquiry includes:\n(i) A list of litigation and claims;\n(ii) Where available, management’s assessment of the outcome of each of\nthe identified litigation and claims and its estimate of the financial\nimplications, including costs involved; and\n(iii) A request that the entity’s external legal counsel confirm the\nreasonableness of management’s assessments and provide the auditor\nwith further information if the list is considered by the entity’s external\nlegal counsel to be incomplete or incorrect.\n\nIn certain circumstances, the auditor also may judge it necessary to meet\nwith the entity’s external legal counsel to discuss the likely outcome of the\nlitigation or claims. Further, if management refuses to give the auditor\npermission to communicate or meet with the entity’s external legal counsel,\nor the entity’s external legal counsel refuses to respond appropriately to\nthe letter of inquiry, or is prohibited from responding, and the auditor is\nunable to obtain sufficient appropriate evidence by performing alternate\naudit procedures, the auditor shall modify the opinion in the auditor’s\nreport in accordance with SA 705.\n\nAlternatively, if the auditor is able to perform alternate audit procedures\nand can obtain sufficient and appropriate audit evidence to resolve the\nissue, then he can give an unmodified opinion.\n\nAUDITING AND ETHICS\n\n35"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

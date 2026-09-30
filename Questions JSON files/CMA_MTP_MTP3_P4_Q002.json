@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q002",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2.  \nCost per equivalent unit of labour: \n(A)  \n` 65 \n(B)  \n` 61.94 \n(C)  \n` 70.20 \n(D)  \n` 90.26",
+  "suggested_answer": "(A) ` 65 Cost per Equivalent Units (EU): Element Total cost (`) Equivalent units (EU) Cost per EU (`) Value of raw material introduced 3,00,000 Less: Scrap value of normal loss (4,200) Total value of raw material 2,95,800 5,100 2,95,800/5,100 = ` 58 Labour 3,15,900 4,860 3,15,900/4,860 = ` 65 Overheads 1,74,960 4,860 1,74,960/4,860 = ` 36 2",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q002",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2.  \nCost per equivalent unit of labour: \n(A)  \n` 65 \n(B)  \n` 61.94 \n(C)  \n` 70.20 \n(D)  \n` 90.26"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) ` 65 Cost per Equivalent Units (EU): Element Total cost (`) Equivalent units (EU) Cost per EU (`) Value of raw material introduced 3,00,000 Less: Scrap value of normal loss (4,200) Total value of raw material 2,95,800 5,100 2,95,800/5,100 = ` 58 Labour 3,15,900 4,860 3,15,900/4,860 = ` 65 Overheads 1,74,960 4,860 1,74,960/4,860 = ` 36 2"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

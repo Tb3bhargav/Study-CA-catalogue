@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.  \nA hotel has 200 rooms (120 Deluxe rooms and 80 Premium rooms). The normal \noccupancy in summer is 80% and winter 60%. The period of summer and winter is taken \nas 8 months and 4 months respectively. Assume 30 days in each month. Room rent of \nPremium room will be double of Deluxe room. Hotel is expecting a profit of 20% on total \nrevenue, total cost for the year is 2,66,11,200. Calculate the room rent to be charged for \nPremium room.  \n(a) \n` 450 per room day  \n(b) \n` 900 per room day \n7 \n(c) \n` 380 per room day \n(d) \n` 760 per room day \n(2 Marks)",
+  "suggested_answer": "(B) ` 900 per room day Total Revenue (2,66,11,200/80%) = 3,32,64,000 Calculation of Room Days: Deluxe Premium Summer 120 rooms x 80% x 30 days x 8 months = 23,040 80 rooms x 80% x 30 days x 8 months = 15,360 Winter 120 rooms x 60% x 30 days x 4 months = 8,640 80 rooms x 60% x 30 days x 4 months = 5,760 Total room days 31,680 21,120 6 Let’s assume the room rent of Deluxe room be ‘x’ Then rent of Premium room will be ‘2x’ Therefore: 31,680x + 42,240x = 3,32,64,000 X = 450 Rent of Premium room will be 450 x 2 = ` 900 per room day",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q012",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  \nA hotel has 200 rooms (120 Deluxe rooms and 80 Premium rooms). The normal \noccupancy in summer is 80% and winter 60%. The period of summer and winter is taken \nas 8 months and 4 months respectively. Assume 30 days in each month. Room rent of \nPremium room will be double of Deluxe room. Hotel is expecting a profit of 20% on total \nrevenue, total cost for the year is 2,66,11,200. Calculate the room rent to be charged for \nPremium room.  \n(a) \n` 450 per room day  \n(b) \n` 900 per room day \n7 \n(c) \n` 380 per room day \n(d) \n` 760 per room day \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) ` 900 per room day Total Revenue (2,66,11,200/80%) = 3,32,64,000 Calculation of Room Days: Deluxe Premium Summer 120 rooms x 80% x 30 days x 8 months = 23,040 80 rooms x 80% x 30 days x 8 months = 15,360 Winter 120 rooms x 60% x 30 days x 4 months = 8,640 80 rooms x 60% x 30 days x 4 months = 5,760 Total room days 31,680 21,120 6 Let’s assume the room rent of Deluxe room be ‘x’ Then rent of Premium room will be ‘2x’ Therefore: 31,680x + 42,240x = 3,32,64,000 X = 450 Rent of Premium room will be 450 x 2 = ` 900 per room day"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

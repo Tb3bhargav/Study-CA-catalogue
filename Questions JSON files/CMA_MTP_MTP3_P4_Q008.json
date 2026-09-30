@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q008",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8.  \nCalculate the work cost after adjusting Work-in-Progress. \n(A)  \n` 96,64,500 \n(B)  \n` 98,70,500 \n(C)  \n` 92,58,400 \n(D)  \n` 94,68,400  \n \n5",
+  "suggested_answer": "(D) ` 94,68,400",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q008",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "8",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.  \nCalculate the work cost after adjusting Work-in-Progress. \n(A)  \n` 96,64,500 \n(B)  \n` 98,70,500 \n(C)  \n` 92,58,400 \n(D)  \n` 94,68,400  \n \n5"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(D) ` 94,68,400"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

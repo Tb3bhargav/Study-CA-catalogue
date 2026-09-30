@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.\nMr. B, an Articled Clerk responsible for the audit procedures concerning\ninventory, found that the inventory amounting to ` 38 lakhs, after excluding\n` 2 lakhs of inventory that was held by PQ Ltd. as a consignee, has been\nrecognized in the Balance Sheet. Which of the following assertions related to\ninventory are applicable in this situation?\n(I)  Occurrence\n(II)  Completeness\n(III)  Rights & Obligations\n(IV)  Measurement\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  I & IV above\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q004",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.\nMr. B, an Articled Clerk responsible for the audit procedures concerning\ninventory, found that the inventory amounting to ` 38 lakhs, after excluding\n` 2 lakhs of inventory that was held by PQ Ltd. as a consignee, has been\nrecognized in the Balance Sheet. Which of the following assertions related to\ninventory are applicable in this situation?\n(I)  Occurrence\n(II)  Completeness\n(III)  Rights & Obligations\n(IV)  Measurement\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  I & IV above\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

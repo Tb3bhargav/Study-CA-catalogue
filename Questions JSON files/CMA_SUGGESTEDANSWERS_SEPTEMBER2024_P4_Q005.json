@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q005",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 5,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "5.\nValue of closing WIP\n(A)\n` 31,096\n(B)\n` 31,044\n(C)\n` 30,940\n(D)\n` 28,340\nCase Scenario-II\nFW Limited manufactures various types of footwear and covers a considerable\nmarket share. The footwear made by company are stylish and durable. The\nmanagement calls for an urgent meeting because it has come to their notice that\ntwo of their old permanent customers have moved on to its competitors.\nMarketing Manager has stated that there are circumstances when company\ncannot fulfill the demand of their customers due to shortage of supply and this is\nthe main reason for move on.\nProduction Manager has stated that production team is working efficiently but\nworkers have to wait long enough for raw material which leads to idle time and\nlow production.\nThe cost accounts department of FW Limited has furnished the following data for\nthe component B :\nPurchase Price\n\n` 4,800 per unit\nTrade Discount\n\n2% of purchase price\nTotal duties (No Credit availed)\n8% of purchase price\nInsurance Charges\n\n` 62,000 per year\nUnits purchased during the year  60,000 units\nOpening Stock\n\n5,000 units @ ` 5,150 per unit\nClosing Stock\n\n4,500 units\n\n4\nUsages per week\nDelivery period\nMinimum\n1,050 units\nMinimum\n5 weeks\nMaximum\n1,200 units\nMaximum\n9 weeks\nAverage\n1,125 units\nAverage\n7 weeks\nLead time for emergency purchases is 2 weeks.\nAdditional Information :\n•\nNormal wastage during the storage is 80 units (no realizable value) and\nabnormal wastage is 40 units.\n•\nFactory works for 365 days in a year.\nYou are required to calculate the followings (MCQs 6 to 10):",
+  "suggested_answer": "C",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2024_P4_Q005",
+  "source_filename": "83075bos67152-4.pdf",
+  "source_pdf": "suggested_answers/83075bos67152-4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/83075bos67152-4.pdf",
+      "answer_pdf": "suggested_answers/83075bos67152-4.pdf"
+    },
+    "page_start": 3,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "5.\nValue of closing WIP\n(A)\n` 31,096\n(B)\n` 31,044\n(C)\n` 30,940\n(D)\n` 28,340\nCase Scenario-II\nFW Limited manufactures various types of footwear and covers a considerable\nmarket share. The footwear made by company are stylish and durable. The\nmanagement calls for an urgent meeting because it has come to their notice that\ntwo of their old permanent customers have moved on to its competitors.\nMarketing Manager has stated that there are circumstances when company\ncannot fulfill the demand of their customers due to shortage of supply and this is\nthe main reason for move on.\nProduction Manager has stated that production team is working efficiently but\nworkers have to wait long enough for raw material which leads to idle time and\nlow production.\nThe cost accounts department of FW Limited has furnished the following data for\nthe component B :\nPurchase Price\n\n` 4,800 per unit\nTrade Discount\n\n2% of purchase price\nTotal duties (No Credit availed)\n8% of purchase price\nInsurance Charges\n\n` 62,000 per year\nUnits purchased during the year  60,000 units\nOpening Stock\n\n5,000 units @ ` 5,150 per unit\nClosing Stock\n\n4,500 units\n\n4\nUsages per week\nDelivery period\nMinimum\n1,050 units\nMinimum\n5 weeks\nMaximum\n1,200 units\nMaximum\n9 weeks\nAverage\n1,125 units\nAverage\n7 weeks\nLead time for emergency purchases is 2 weeks.\nAdditional Information :\n•\nNormal wastage during the storage is 80 units (no realizable value) and\nabnormal wastage is 40 units.\n•\nFactory works for 365 days in a year.\nYou are required to calculate the followings (MCQs 6 to 10):"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

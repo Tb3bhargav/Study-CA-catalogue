@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q009",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "9.\nSome of the parties to whom the confirmation requests were sent, have\nreplied and some did not. CA Ravi Chopra analysed the responses received\nand discussed with his team members, the reasons for non-response and\nasked them to send the reminders. Choose the statement which is not correct\nfrom the following:\n(A)  The failure to receive a response to a negative confirmation request, does\nnot explicitly indicate receipt by the intended confirming party, of the\nconfirmation request or verification of the accuracy of the information\ncontained in the request.\n\nAUDITING AND ETHICS\n\n7\n(B)  Failure of a confirming party to respond to a negative confirmation\nrequest, provides significantly less persuasive audit evidence, than does\na response to a positive confirmation request.\n(C)  Confirming parties may be less likely to respond in the case of\ndisagreement with a confirmation request, when the information in the\nrequest is not in their favour and more likely to respond otherwise.\n(D)  Confirming parties may be more likely to respond indicating their\ndisagreement with a confirmation request, when the information in the\nrequest is not in their favour, and less likely to respond otherwise.\n(2 Marks)",
+  "suggested_answer": "C",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q009",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "9",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9.\nSome of the parties to whom the confirmation requests were sent, have\nreplied and some did not. CA Ravi Chopra analysed the responses received\nand discussed with his team members, the reasons for non-response and\nasked them to send the reminders. Choose the statement which is not correct\nfrom the following:\n(A)  The failure to receive a response to a negative confirmation request, does\nnot explicitly indicate receipt by the intended confirming party, of the\nconfirmation request or verification of the accuracy of the information\ncontained in the request.\n\nAUDITING AND ETHICS\n\n7\n(B)  Failure of a confirming party to respond to a negative confirmation\nrequest, provides significantly less persuasive audit evidence, than does\na response to a positive confirmation request.\n(C)  Confirming parties may be less likely to respond in the case of\ndisagreement with a confirmation request, when the information in the\nrequest is not in their favour and more likely to respond otherwise.\n(D)  Confirming parties may be more likely to respond indicating their\ndisagreement with a confirmation request, when the information in the\nrequest is not in their favour, and less likely to respond otherwise.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "C"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

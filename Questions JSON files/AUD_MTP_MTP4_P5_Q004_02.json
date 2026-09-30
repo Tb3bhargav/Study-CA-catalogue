@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q004_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "4. \n(a)  \nFGH & Co., Chartered Accountants, have been appointed as the statutory auditors \nof Alpha Ltd., a company engaged in manufacturing electrical equipment. The \ncompany follows a strict reporting schedule and requires continuous interaction \nwith auditors during the audit process. \n \nDuring audit planning, the engagement partner emphasised the need to properly \ndetermine reporting objectives of the engagement to ensure timely completion of audit \nprocedures and effective communication with management and the audit team. \n \nBased on the above, state the instances that the auditor should consider while \nascertaining the reporting objectives of the engagement for establishing the \noverall audit strategy. \n(5 Marks)  \n14 \n(b)  \nRS & Co., Chartered Accountants, were appointed as statutory auditors of  \nZifi Infra Ltd., a listed company engaged in infrastructure development. During the \ncourse of audit, it was observed that: \n• \nThe audit partner, CA R, had a close personal relationship with the CFO of \nthe company. \n• \nThe firm had also provided consultancy services for designing internal \nfinancial controls of Zifi Infra Ltd. during the same financial year. \n• \nAdditionally, a substantial portion of the firm’s total revenue was dependent \non fees received from Zifi Infra Ltd.  \n \nA minority shareholder raised concerns that although the auditor may be acting \nobjectively, the circumstances create doubt regarding the auditor’s independence. \n \nIn the light of the above, explain whether the independence of the auditor is \ncompromised. Also, discuss the concept of independence of mind and \nindependence in appearance. \n(5 Marks)  \n(c) \n“Before the commencement of audit, the joint auditors should discuss and develop \na joint audit plan”. Discuss the points to be considered in developing the joint audit \nplan by the joint auditors. \n(4 Marks)",
+  "suggested_answer": "Legacies and Donations: Ascertain that legacies and donations received \nfor a speciﬁc purpose have been applied in the manner agreed upon.",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP4_P5_Q004_02",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 13,
+    "end": 14
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 13,
+    "page_end": 14,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4. \n(a)  \nFGH & Co., Chartered Accountants, have been appointed as the statutory auditors \nof Alpha Ltd., a company engaged in manufacturing electrical equipment. The \ncompany follows a strict reporting schedule and requires continuous interaction \nwith auditors during the audit process. \n \nDuring audit planning, the engagement partner emphasised the need to properly \ndetermine reporting objectives of the engagement to ensure timely completion of audit \nprocedures and effective communication with management and the audit team. \n \nBased on the above, state the instances that the auditor should consider while \nascertaining the reporting objectives of the engagement for establishing the \noverall audit strategy. \n(5 Marks)  \n14 \n(b)  \nRS & Co., Chartered Accountants, were appointed as statutory auditors of  \nZifi Infra Ltd., a listed company engaged in infrastructure development. During the \ncourse of audit, it was observed that: \n• \nThe audit partner, CA R, had a close personal relationship with the CFO of \nthe company. \n• \nThe firm had also provided consultancy services for designing internal \nfinancial controls of Zifi Infra Ltd. during the same financial year. \n• \nAdditionally, a substantial portion of the firm’s total revenue was dependent \non fees received from Zifi Infra Ltd.  \n \nA minority shareholder raised concerns that although the auditor may be acting \nobjectively, the circumstances create doubt regarding the auditor’s independence. \n \nIn the light of the above, explain whether the independence of the auditor is \ncompromised. Also, discuss the concept of independence of mind and \nindependence in appearance. \n(5 Marks)  \n(c) \n“Before the commencement of audit, the joint auditors should discuss and develop \na joint audit plan”. Discuss the points to be considered in developing the joint audit \nplan by the joint auditors. \n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Legacies and Donations: Ascertain that legacies and donations received \nfor a speciﬁc purpose have been applied in the manner agreed upon."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

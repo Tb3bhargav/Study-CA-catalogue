@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "15. \nJB Ltd. manufactures three chemical products, XR, YS, and ZT. It \nprocesses input material in common plant facility to generate two \n\n \nINTERMEDIATE EXAMINATION \n \n \n20 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nintermediate products, X and Y, in 4:1 proportion after a normal loss of \n1/12th of the input material. There is no market for these two \nintermediate products. Thus, X is processed further through separate \nfinishing process R to yield the product XR and Y is converted into \nproduct YS by a process S. The S finishing process also produces a waste \nmaterial, Z, which has no market value. Thus, the company converts Z, \nafter additional processing through process T, into a saleable by-\nproduct, ZT.  \n11,40,000 kg of the common input material are processed each month in \ncommon plant facility. And after the separate finishing processes (all \nlosses are normal losses), proportions of XR, YS and ZT emerge as \nfollows: \nProduct \nQuantity (kg) \nMarket price per kg \n(`) \nXR \n7,60,000 \n 38.80  \nYS \n1,90,000 \n 72.00  \nZT \n19,000 \n 24.00  \nThe material and processing costs are as follows: \nParticulars \nCommon \nplant \nfacility (`) \nSeparate finishing processes \nR (`) \nS (`) \nT (`) \nDirect material \n97,28,000  \n33,44,000  \n4,56,000  \n30,400  \nDirect labour  \n45,60,000  \n68,40,000  27,36,000  \n1,67,200  \nFactory \noverhead \n24,32,000  \n22,80,000  \n9,12,000  \n1,06,400  \nTotal  \n1,67,20,000  \n1,24,64,000  41,04,000  \n3,04,000  \nYou are required to CALCULATE the cost per unit and total operating \nprofit/loss attributed to both the products XR and YS considering all \njoint costs are allocated based on net realisable value method. \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nService Costing",
+  "suggested_answer": "Statement showing operating profit/loss by each product after \nfurther processing  \n \nProduct XR  \n(7,60,000 kg) \nProduct YS \n(1,90,000 kg) \n \nTotal (`)  Cost per \nunit (`)  \nTotal (`)  \nCost per \nunit (`) \nJoint costs (W.N.) \n1,06,40,000  \n14.0  \n60,80,000 \n32.0 \nFurther processing costs  \n1,24,64,000  \n16.40  \n41,04,000  \n21.60 \nBy-product net revenues  \n \n \n(1,52,000)  \n(0.80) \nTotal cost  \n2,31,04,000  \n30.40  1,00,32,000  \n52.80 \nSales  \n2,94,88,000 \n38.80  1,36,80,000  \n72.00 \nOperating profit  \n63,84,000  \n8.40  \n36,48,000  \n19.20 \nWorking Note: \nCalculation of joint costs using Net realisable value method: \nParticulars \nProduct XR \n(`) \nProduct YS (`) \nSales Value \n2,94,88,000 \n(` 38.80  \n× 7,60,000 kg) \n1,36,80,000 \n(` 72.00  \n× 1,90,000 kg) \nAdd: By-product net revenue \n- \n1,52,000 \n[(` 24.00 x 19,000 \nkg) - ` 3,04,000] \nLess: Post split-off cost (Further \nprocessing cost) \n \n(1,24,64,000) \n \n(41,04,000) \nNet Realisable Value \n1,70,24,000 \n97,28,000 \nApportionment of Joint Cost of \n` \n1,67,20,000 \nin \nratio \nof \n1,70,24:97,28 \n1,06,40,000 \n60,80,000 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q015",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nJB Ltd. manufactures three chemical products, XR, YS, and ZT. It \nprocesses input material in common plant facility to generate two \n\n \nINTERMEDIATE EXAMINATION \n \n \n20 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nintermediate products, X and Y, in 4:1 proportion after a normal loss of \n1/12th of the input material. There is no market for these two \nintermediate products. Thus, X is processed further through separate \nfinishing process R to yield the product XR and Y is converted into \nproduct YS by a process S. The S finishing process also produces a waste \nmaterial, Z, which has no market value. Thus, the company converts Z, \nafter additional processing through process T, into a saleable by-\nproduct, ZT.  \n11,40,000 kg of the common input material are processed each month in \ncommon plant facility. And after the separate finishing processes (all \nlosses are normal losses), proportions of XR, YS and ZT emerge as \nfollows: \nProduct \nQuantity (kg) \nMarket price per kg \n(`) \nXR \n7,60,000 \n 38.80  \nYS \n1,90,000 \n 72.00  \nZT \n19,000 \n 24.00  \nThe material and processing costs are as follows: \nParticulars \nCommon \nplant \nfacility (`) \nSeparate finishing processes \nR (`) \nS (`) \nT (`) \nDirect material \n97,28,000  \n33,44,000  \n4,56,000  \n30,400  \nDirect labour  \n45,60,000  \n68,40,000  27,36,000  \n1,67,200  \nFactory \noverhead \n24,32,000  \n22,80,000  \n9,12,000  \n1,06,400  \nTotal  \n1,67,20,000  \n1,24,64,000  41,04,000  \n3,04,000  \nYou are required to CALCULATE the cost per unit and total operating \nprofit/loss attributed to both the products XR and YS considering all \njoint costs are allocated based on net realisable value method. \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n21 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nService Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Statement showing operating profit/loss by each product after \nfurther processing  \n \nProduct XR  \n(7,60,000 kg) \nProduct YS \n(1,90,000 kg) \n \nTotal (`)  Cost per \nunit (`)  \nTotal (`)  \nCost per \nunit (`) \nJoint costs (W.N.) \n1,06,40,000  \n14.0  \n60,80,000 \n32.0 \nFurther processing costs  \n1,24,64,000  \n16.40  \n41,04,000  \n21.60 \nBy-product net revenues  \n \n \n(1,52,000)  \n(0.80) \nTotal cost  \n2,31,04,000  \n30.40  1,00,32,000  \n52.80 \nSales  \n2,94,88,000 \n38.80  1,36,80,000  \n72.00 \nOperating profit  \n63,84,000  \n8.40  \n36,48,000  \n19.20 \nWorking Note: \nCalculation of joint costs using Net realisable value method: \nParticulars \nProduct XR \n(`) \nProduct YS (`) \nSales Value \n2,94,88,000 \n(` 38.80  \n× 7,60,000 kg) \n1,36,80,000 \n(` 72.00  \n× 1,90,000 kg) \nAdd: By-product net revenue \n- \n1,52,000 \n[(` 24.00 x 19,000 \nkg) - ` 3,04,000] \nLess: Post split-off cost (Further \nprocessing cost) \n \n(1,24,64,000) \n \n(41,04,000) \nNet Realisable Value \n1,70,24,000 \n97,28,000 \nApportionment of Joint Cost of \n` \n1,67,20,000 \nin \nratio \nof \n1,70,24:97,28 \n1,06,40,000 \n60,80,000 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

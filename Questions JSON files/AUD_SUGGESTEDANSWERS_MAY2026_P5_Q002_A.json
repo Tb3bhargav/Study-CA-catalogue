@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q002_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  During the audit of Urban Build Constructions Ltd., the auditor reviewed the\naccounting information system used for recording and processing financial\ntransactions in the company. Transactions relating to purchases, payroll and\nexpenses are recorded through this system by different departments.\n\nDuring discussion with employees, the auditor realized that there is limited\ndocumentation how financial information flows through the system.\n\nWhat are the areas relating to the entity's information system and related\nbusiness processes relevant to financial reporting that the auditor should\nobtain an understanding as a part of risk assessment procedures? (5 Marks)",
+  "suggested_answer": "(a) The auditor shall obtain an understanding of the information system,\nincluding the related business processes, relevant to financial reporting,\nincluding the following areas: -\n(i)  The classes of transactions in the entity’s operations that are significant\nto the financial statements.\n(ii)  The procedures by which those transactions are initiated, recorded,\nprocessed, corrected as necessary, transferred to the general ledger\nand reported in the financial statements.\n(iii) The related accounting records, supporting information and specific\naccounts in the financial statements that are used to initiate, record,\nprocess and report transactions.\n(iv) How the information system captures events and conditions that are\nsignificant to the financial statements. An information system consists\nof infrastructure (physical and\nhardware components), software,\npeople, procedures, and data. Many information systems make\nextensive use of information technology (IT). Information system\nshould provide qualitative financial information.\n(v)  The financial reporting process used to prepare the entity’s financial\nstatements.\n(vi)  Controls surrounding journal entries.\n\nAlternate Answer\n\nThe Entity’s Risk Assessment Process\n\nThe auditor shall obtain an understanding of whether the entity has a\nprocess for:\n(i) Identifying business risks relevant to financial reporting objectives\n(ii) Estimating the significance of the risks\n(iii) Assessing the likelihood of their occurrence\n(iv) Deciding about actions to address those risks\n(v) The entity’s risk assessment process forms the basis for the risks to be\nmanaged. If that process is appropriate, it would assist the auditor in\n\n18\nidentifying risks of material misstatement. Risks can arise or change\ndue to factor such as new technology, new business models, products\nor activities, changes in operating environment etc. Whether the\nentity’s risk assessment process is appropriate to the circumstances\nis a matter of judgment.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q002_A",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 16,
+    "end": 18
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 16,
+    "page_end": 18,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  During the audit of Urban Build Constructions Ltd., the auditor reviewed the\naccounting information system used for recording and processing financial\ntransactions in the company. Transactions relating to purchases, payroll and\nexpenses are recorded through this system by different departments.\n\nDuring discussion with employees, the auditor realized that there is limited\ndocumentation how financial information flows through the system.\n\nWhat are the areas relating to the entity's information system and related\nbusiness processes relevant to financial reporting that the auditor should\nobtain an understanding as a part of risk assessment procedures? (5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) The auditor shall obtain an understanding of the information system,\nincluding the related business processes, relevant to financial reporting,\nincluding the following areas: -\n(i)  The classes of transactions in the entity’s operations that are significant\nto the financial statements.\n(ii)  The procedures by which those transactions are initiated, recorded,\nprocessed, corrected as necessary, transferred to the general ledger\nand reported in the financial statements.\n(iii) The related accounting records, supporting information and specific\naccounts in the financial statements that are used to initiate, record,\nprocess and report transactions.\n(iv) How the information system captures events and conditions that are\nsignificant to the financial statements. An information system consists\nof infrastructure (physical and\nhardware components), software,\npeople, procedures, and data. Many information systems make\nextensive use of information technology (IT). Information system\nshould provide qualitative financial information.\n(v)  The financial reporting process used to prepare the entity’s financial\nstatements.\n(vi)  Controls surrounding journal entries.\n\nAlternate Answer\n\nThe Entity’s Risk Assessment Process\n\nThe auditor shall obtain an understanding of whether the entity has a\nprocess for:\n(i) Identifying business risks relevant to financial reporting objectives\n(ii) Estimating the significance of the risks\n(iii) Assessing the likelihood of their occurrence\n(iv) Deciding about actions to address those risks\n(v) The entity’s risk assessment process forms the basis for the risks to be\nmanaged. If that process is appropriate, it would assist the auditor in\n\n18\nidentifying risks of material misstatement. Risks can arise or change\ndue to factor such as new technology, new business models, products\nor activities, changes in operating environment etc. Whether the\nentity’s risk assessment process is appropriate to the circumstances\nis a matter of judgment."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

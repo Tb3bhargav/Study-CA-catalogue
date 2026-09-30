@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_B",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  During the statutory audit of Moon Ltd., the auditor finalized the auditor's\nreport. While reviewing the draft, the audit team was unsure about where the\n\"Basis for Opinion\" section should be placed in the auditor's report and what\nit should contain as per auditing standards. As a senior auditor, explain:\n(i)  Where should the \"Basis for Opinion\" section be included in the auditor's\nreport?\n(1 Mark)\n(ii)  What are the key elements included in this section?\n(4 Marks)",
+  "suggested_answer": "(b)  (i)  Basis for Opinion: The auditor’s report shall include a section, directly\nfollowing the Opinion section, with the heading “Basis for Opinion”\n(ii)  Key elements included in this section are:\n(I) States that the audit was conducted in accordance with Standards\non Auditing;\n(II) Refers to the section of the auditor’s report that describes the\nauditor’s responsibilities under the SAs;\n(III) Includes a statement that the auditor is independent of the entity\nin accordance with the relevant ethical requirements relating to\nthe audit\nand has\nfulﬁlled\nthe\nauditor’s other ethical\nresponsibilities in accordance with these requirements.\n(IV) States whether the auditor believes that the audit evidence the\nauditor has obtained is sufficient and appropriate to provide a\nbasis for the auditor’s opinion.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q003_B",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(b)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 20,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  During the statutory audit of Moon Ltd., the auditor finalized the auditor's\nreport. While reviewing the draft, the audit team was unsure about where the\n\"Basis for Opinion\" section should be placed in the auditor's report and what\nit should contain as per auditing standards. As a senior auditor, explain:\n(i)  Where should the \"Basis for Opinion\" section be included in the auditor's\nreport?\n(1 Mark)\n(ii)  What are the key elements included in this section?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i)  Basis for Opinion: The auditor’s report shall include a section, directly\nfollowing the Opinion section, with the heading “Basis for Opinion”\n(ii)  Key elements included in this section are:\n(I) States that the audit was conducted in accordance with Standards\non Auditing;\n(II) Refers to the section of the auditor’s report that describes the\nauditor’s responsibilities under the SAs;\n(III) Includes a statement that the auditor is independent of the entity\nin accordance with the relevant ethical requirements relating to\nthe audit\nand has\nfulﬁlled\nthe\nauditor’s other ethical\nresponsibilities in accordance with these requirements.\n(IV) States whether the auditor believes that the audit evidence the\nauditor has obtained is sufficient and appropriate to provide a\nbasis for the auditor’s opinion."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

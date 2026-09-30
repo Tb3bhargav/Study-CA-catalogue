@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  The labour turnover rates for the quarter ended 31st March, 2026 are\ncomputed as 12%, 6% and 4% under Flux method, Replacement method and\nSeparation method respectively. The number of workers replaced during that\nquarter is 54.\nYou are required to ascertain -\n(i)  Average number of workers on roll for the quarter\n(ii)  Number of workers recruited and joined\n(iii)  Number of workers left and discharged\n(5 Marks)",
+  "suggested_answer": "(b) Working Note:\n(i) Average number of workers on roll (for the quarter):\n\nEmployee Turnover rate using Replacement method\n\n=\nNo.  of  replacements\n×100\nAverage  number of workers on  roll\n\nOr,\n6\n100\n=\n54\nAverage number of workers on roll\n\nOr, Average number of workers on roll = 54×100\n6\n= 900\n\n(ii) Number of workers recruited and joined:\n\nEmployee turnover rate (Flux method)\n\n= No. of Separations*(S)+No. of Accessions(A)\nAverage number of workers on roll\n\nOr, 12\n100\n\n= 36*+A\n900\n\nOr,\nA = 10,800\n36\n100\n\n\n−\n\n\n\n\n= 72\n\nNo. of workers recruited and joined 72.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n(iii) Number of workers left and discharged:\n\nEmployee turnover rate (Separation method)\n\n4\n100\n\n=\nNo. of Separations(S)\nAverage  number of workers on roll\n× 100\n\n4\n100\n\n=\nS\n900 Or, S* = 36\n\nHence, number of workers left and discharged comes to 36.",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q004_B",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  The labour turnover rates for the quarter ended 31st March, 2026 are\ncomputed as 12%, 6% and 4% under Flux method, Replacement method and\nSeparation method respectively. The number of workers replaced during that\nquarter is 54.\nYou are required to ascertain -\n(i)  Average number of workers on roll for the quarter\n(ii)  Number of workers recruited and joined\n(iii)  Number of workers left and discharged\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Working Note:\n(i) Average number of workers on roll (for the quarter):\n\nEmployee Turnover rate using Replacement method\n\n=\nNo.  of  replacements\n×100\nAverage  number of workers on  roll\n\nOr,\n6\n100\n=\n54\nAverage number of workers on roll\n\nOr, Average number of workers on roll = 54×100\n6\n= 900\n\n(ii) Number of workers recruited and joined:\n\nEmployee turnover rate (Flux method)\n\n= No. of Separations*(S)+No. of Accessions(A)\nAverage number of workers on roll\n\nOr, 12\n100\n\n= 36*+A\n900\n\nOr,\nA = 10,800\n36\n100\n\n\n−\n\n\n\n\n= 72\n\nNo. of workers recruited and joined 72.\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n(iii) Number of workers left and discharged:\n\nEmployee turnover rate (Separation method)\n\n4\n100\n\n=\nNo. of Separations(S)\nAverage  number of workers on roll\n× 100\n\n4\n100\n\n=\nS\n900 Or, S* = 36\n\nHence, number of workers left and discharged comes to 36."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

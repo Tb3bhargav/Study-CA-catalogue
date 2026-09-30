@@ -1,0 +1,64 @@
+{
+  "id": "AUD_MTP_MTP3_P5_Q001_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \n(a)  \nWXY Biotech Ltd. is engaged in manufacturing specialised pharmaceutical \nproducts. During the financial year 2024–25, the company: \n• \nIntroduced a new product developed using advanced biotechnology; \n• \nEntered into complex revenue-sharing agreements with foreign \ndistributors; \n• \nAdopted a newly issued Accounting Standard dealing with revenue \nrecognition involving multiple performance obligations; \n• \nOperates in an industry where several companies have recently faced \ninsolvency due to regulatory restrictions and technological obsolescence. \n \nThe management has implemented internal controls over accounting and financial \nreporting. The audit team is in the process of identifying and assessing risks of \nmaterial misstatement. \n \nExplain the concept of inherent risk and discuss how it is relevant in the above \ncase. \n(5 Marks)  \n(b) \nRKP & Co., Chartered Accountants, were appointed as the statutory auditors of \nOrion Engineering Ltd., a company engaged in manufacturing heavy industrial \nequipment. During the course of audit, certain shareholders raised concerns \nbefore the auditors regarding the following matters:",
+  "suggested_answer": "Inherent risk is the susceptibility of an assertion about a class of transaction, \naccount balance or disclosure to a misstatement that could be material, either \nindividually or when aggregated with other misstatements before consideration of \nany related controls as described in SA 200. \n \n2 \n \nThere is always a risk that before considering any existence of internal control in \nan entity, a particular transaction, balance of an account or a disclosure required \nto be made in the financial statements of an entity has a chance of being misstated \nand such misstatement can be material. This risk is known as inherent risk. \n \nInherent risk is higher for some assertions and related classes of transactions, \naccount balances, and disclosures than for others. For example, it may be higher \nfor complex calculations. In the given case, revenue-sharing agreements with \nforeign distributors and application of a newly issued Accounting Standard \ninvolving multiple performance obligations require complex judgment and \ncalculations, thereby increasing inherent risk in revenue recognition assertions. \n \nInherent risk factors are considered while designing tests of controls and \nsubstantive procedures. Category of auditor’s assessment lower or higher, each \ncategory covers a range of degrees of inherent risk. Auditor may assess the \ninherent risk of two different assertions as lower while recognizing that one \nassertion has less inherent risk than the other, although both have been assessed \nas lower. \n \nIt is important to consider the reason for each identified inherent risk even if the \nrisk is lower, when auditor designs tests of controls and substantive procedures. \nFor example, even if inventory valuation risk is assessed as lower, the auditor \nmust understand why such assessment is appropriate in light of biotechnology \nproducts which may become obsolete quickly. \n \nExternal circumstances giving rise to business risks may also influence inherent \nrisk. For example, technological developments might make a particular product \nobsolete. In the present case, rapid technological advancements in the \npharmaceutical industry and recent insolvencies in the sector increase inherent \nrisk relating to inventory valuation, going concern, and impairment of assets. \nFactors in the entity and its environment may also influence the inherent risk \nrelated to a specific assertion. \n \nFew examples of inherent risks could include: \n• \nAn accounting standard provides guidance on some complex issue which \nmight not be understood by the management. Therefore, recording of this \nissue in financial statements carries inherent risk of being misstated. In the \ngiven case, adoption of a new revenue standard increases such risk. \n• \nThere are large number of business failures in an industry. Therefore, \nassertions in financial statements of an entity operating in such an industry \n3 \ncarry an inherent risk of being misstated. Here, recent insolvencies in the \npharmaceutical sector increase inherent risk relating to recoverability of \nreceivables and going concern assumptions. \n \nInherent risk exists independently of internal controls and represents the \nsusceptibility of assertions to material misstatement. In the given case, complex \nrevenue arrangements, adoption of a new Accounting Standard, technological \nchanges, and industry instability significantly increase inherent risk. Accordingly, \nthe auditor must carefully assess inherent risk for each relevant assertion and \ndesign appropriate tests of controls and substantive procedures to obtain \nsufficient and appropriate audit evidence. \n(b) \nIn the given case, the shareholders of Orion Engineering Ltd. have requested the \nauditor to perform certain activities which fall outside the normal scope of audit. \nThe scope of audit does not include the following:",
+  "marks": null,
+  "source_id": "AUD_MTP_MTP3_P5_Q001_02",
+  "source_filename": "mtp3paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper5answers.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 9,
+    "page_end": 9,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \n(a)  \nWXY Biotech Ltd. is engaged in manufacturing specialised pharmaceutical \nproducts. During the financial year 2024–25, the company: \n• \nIntroduced a new product developed using advanced biotechnology; \n• \nEntered into complex revenue-sharing agreements with foreign \ndistributors; \n• \nAdopted a newly issued Accounting Standard dealing with revenue \nrecognition involving multiple performance obligations; \n• \nOperates in an industry where several companies have recently faced \ninsolvency due to regulatory restrictions and technological obsolescence. \n \nThe management has implemented internal controls over accounting and financial \nreporting. The audit team is in the process of identifying and assessing risks of \nmaterial misstatement. \n \nExplain the concept of inherent risk and discuss how it is relevant in the above \ncase. \n(5 Marks)  \n(b) \nRKP & Co., Chartered Accountants, were appointed as the statutory auditors of \nOrion Engineering Ltd., a company engaged in manufacturing heavy industrial \nequipment. During the course of audit, certain shareholders raised concerns \nbefore the auditors regarding the following matters:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Inherent risk is the susceptibility of an assertion about a class of transaction, \naccount balance or disclosure to a misstatement that could be material, either \nindividually or when aggregated with other misstatements before consideration of \nany related controls as described in SA 200. \n \n2 \n \nThere is always a risk that before considering any existence of internal control in \nan entity, a particular transaction, balance of an account or a disclosure required \nto be made in the financial statements of an entity has a chance of being misstated \nand such misstatement can be material. This risk is known as inherent risk. \n \nInherent risk is higher for some assertions and related classes of transactions, \naccount balances, and disclosures than for others. For example, it may be higher \nfor complex calculations. In the given case, revenue-sharing agreements with \nforeign distributors and application of a newly issued Accounting Standard \ninvolving multiple performance obligations require complex judgment and \ncalculations, thereby increasing inherent risk in revenue recognition assertions. \n \nInherent risk factors are considered while designing tests of controls and \nsubstantive procedures. Category of auditor’s assessment lower or higher, each \ncategory covers a range of degrees of inherent risk. Auditor may assess the \ninherent risk of two different assertions as lower while recognizing that one \nassertion has less inherent risk than the other, although both have been assessed \nas lower. \n \nIt is important to consider the reason for each identified inherent risk even if the \nrisk is lower, when auditor designs tests of controls and substantive procedures. \nFor example, even if inventory valuation risk is assessed as lower, the auditor \nmust understand why such assessment is appropriate in light of biotechnology \nproducts which may become obsolete quickly. \n \nExternal circumstances giving rise to business risks may also influence inherent \nrisk. For example, technological developments might make a particular product \nobsolete. In the present case, rapid technological advancements in the \npharmaceutical industry and recent insolvencies in the sector increase inherent \nrisk relating to inventory valuation, going concern, and impairment of assets. \nFactors in the entity and its environment may also influence the inherent risk \nrelated to a specific assertion. \n \nFew examples of inherent risks could include: \n• \nAn accounting standard provides guidance on some complex issue which \nmight not be understood by the management. Therefore, recording of this \nissue in financial statements carries inherent risk of being misstated. In the \ngiven case, adoption of a new revenue standard increases such risk. \n• \nThere are large number of business failures in an industry. Therefore, \nassertions in financial statements of an entity operating in such an industry \n3 \ncarry an inherent risk of being misstated. Here, recent insolvencies in the \npharmaceutical sector increase inherent risk relating to recoverability of \nreceivables and going concern assumptions. \n \nInherent risk exists independently of internal controls and represents the \nsusceptibility of assertions to material misstatement. In the given case, complex \nrevenue arrangements, adoption of a new Accounting Standard, technological \nchanges, and industry instability significantly increase inherent risk. Accordingly, \nthe auditor must carefully assess inherent risk for each relevant assertion and \ndesign appropriate tests of controls and substantive procedures to obtain \nsufficient and appropriate audit evidence. \n(b) \nIn the given case, the shareholders of Orion Engineering Ltd. have requested the \nauditor to perform certain activities which fall outside the normal scope of audit. \nThe scope of audit does not include the following:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

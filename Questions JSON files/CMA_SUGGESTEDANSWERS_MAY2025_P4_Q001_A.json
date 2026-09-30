@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) Axion Industries is a heavy industrial gear manufacturing company with a\nmanufacturing setup based in Pune. Mr. Andrew, the CFO of the company\nfurnished the following information to Mr. Joe who heads the Finance\ndepartment.\n\nFor FY 2024-25:\nParticulars\nAmount ` (in crores)\nTotal Sales\n1,00,000\nRaw material cost\n50,000\nDirect wages\n15,000\nFixed & variable overheads\n25,000\nProfit\n10,000\nTotal Number of Units sold\n40,000 units\n\nThe market being very competitive and with the raw materials rates rising,\nMr. Andrew raises his concern with Mr. Joe where he expects in the next\nfinancial year 2025-26 workers’ wages to rise by 20%, fixed costs component\nto decrease by ` 500 crores. Total fixed & variable overhead however is to be\n` 28,500 crores. Total fixed & variable overhead however is to be ` 28,500\ncrores. The total number of units expected to be sold would be 50,000.\n\nRequired:\n\nCalculate the minimum number of units to be sold to sustain the same per\nunit profit in the financial year 2025-26 also.\n\n(Ignore further effects on Fixed costs.)\n(5 Marks)\n\n8",
+  "suggested_answer": "(a) (i) Calculation of Variable Overhead Per Unit & Fixed Cost\n(F.Y. 2024-25)\n\nVariable cost per unit = Difference in Total Cost\nDifference in Units\n\n= 28,500 crores -  25,000 crores\n50,000 units- 40,000 units\n`\n`\n\n= ` 0.35 crore per unit\n\nTherefore, Fixed cost = ` 25,000 crores - (40,000 x 0.35) = ` 11,000\ncrores\nRevised Fixed cost (FY 2025-26) = 10,500 Crores\n\nDesired Profit per unit (` 10,000 crores/40,000 units) = ` 0.25 crores\nper unit\n\nCalculation of Contribution per unit\n\nParticulars\n\nPer Unit\n(` in crores)\nSelling price per unit\n\n2.50\nVariable Cost:\n\nMaterial\n1.25\n\nLabour (0.375 x 120%)\n0.45\n\nVariable Overheads\n0.35\n2.05\nContribution per Unit\n\n0.45\nLet the units sold be X\nContribution\n\n= 0.45X\nProfit\n\n= 0.25X\nProfit\n\n= Contribution – Fixed Cost\n0.25X\n\n= 0.45X – 10,500 Crores\n\n10\n\nMinimum no. of units to be sold to sustain the same per unit profit, X\n= 52,500 Units\n\nAlternatively, solution can be done in following way:\n\nCalculation of Variable Overhead Per Unit & Fixed Cost\n(F.Y. 2024-25)\n\nVariable cost per unit = Difference in Total Cost\nDifference in Units\n\n= 29,000 crores -  25,000 crores\n50,000 units- 40,000 units\n`\n`\n\n= ` 0.40 crore per unit\n\nTherefore, Fixed cost = ` 25,000 crores - (40,000 x 0.40) = ` 9,000 crores\n\nRevised Fixed cost (FY 2025-26) = 8,500 Crores\n\nDesired Profit per unit (` 10,000 crores/40,000 units) = ` 0.25 crores\nper unit\n\nCalculation of Contribution per unit (2025-26)\n\nParticulars\n\nPer Unit\n(` in crores)\nSelling price per unit\n\n2.50\nVariable Cost:\n\nMaterial\n1.25\n\nLabour (0.375 x 120%)\n0.45\n\nVariable Overheads\n0.40\n2.10\nContribution per Unit\n\n0.40\nLet the units sold be X\nContribution\n= 0.40X\nProfit\n\n= 0.25X\nProfit\n\n= Contribution – Fixed Cost\n0.25X\n\n= 0.40X – 8,500 Crores\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n\nMinimum no. of units to be sold to sustain the same per unit profit, X\n= 56,667 Units",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_A",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 11
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 7,
+    "page_end": 11,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) Axion Industries is a heavy industrial gear manufacturing company with a\nmanufacturing setup based in Pune. Mr. Andrew, the CFO of the company\nfurnished the following information to Mr. Joe who heads the Finance\ndepartment.\n\nFor FY 2024-25:\nParticulars\nAmount ` (in crores)\nTotal Sales\n1,00,000\nRaw material cost\n50,000\nDirect wages\n15,000\nFixed & variable overheads\n25,000\nProfit\n10,000\nTotal Number of Units sold\n40,000 units\n\nThe market being very competitive and with the raw materials rates rising,\nMr. Andrew raises his concern with Mr. Joe where he expects in the next\nfinancial year 2025-26 workers’ wages to rise by 20%, fixed costs component\nto decrease by ` 500 crores. Total fixed & variable overhead however is to be\n` 28,500 crores. Total fixed & variable overhead however is to be ` 28,500\ncrores. The total number of units expected to be sold would be 50,000.\n\nRequired:\n\nCalculate the minimum number of units to be sold to sustain the same per\nunit profit in the financial year 2025-26 also.\n\n(Ignore further effects on Fixed costs.)\n(5 Marks)\n\n8"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i) Calculation of Variable Overhead Per Unit & Fixed Cost\n(F.Y. 2024-25)\n\nVariable cost per unit = Difference in Total Cost\nDifference in Units\n\n= 28,500 crores -  25,000 crores\n50,000 units- 40,000 units\n`\n`\n\n= ` 0.35 crore per unit\n\nTherefore, Fixed cost = ` 25,000 crores - (40,000 x 0.35) = ` 11,000\ncrores\nRevised Fixed cost (FY 2025-26) = 10,500 Crores\n\nDesired Profit per unit (` 10,000 crores/40,000 units) = ` 0.25 crores\nper unit\n\nCalculation of Contribution per unit\n\nParticulars\n\nPer Unit\n(` in crores)\nSelling price per unit\n\n2.50\nVariable Cost:\n\nMaterial\n1.25\n\nLabour (0.375 x 120%)\n0.45\n\nVariable Overheads\n0.35\n2.05\nContribution per Unit\n\n0.45\nLet the units sold be X\nContribution\n\n= 0.45X\nProfit\n\n= 0.25X\nProfit\n\n= Contribution – Fixed Cost\n0.25X\n\n= 0.45X – 10,500 Crores\n\n10\n\nMinimum no. of units to be sold to sustain the same per unit profit, X\n= 52,500 Units\n\nAlternatively, solution can be done in following way:\n\nCalculation of Variable Overhead Per Unit & Fixed Cost\n(F.Y. 2024-25)\n\nVariable cost per unit = Difference in Total Cost\nDifference in Units\n\n= 29,000 crores -  25,000 crores\n50,000 units- 40,000 units\n`\n`\n\n= ` 0.40 crore per unit\n\nTherefore, Fixed cost = ` 25,000 crores - (40,000 x 0.40) = ` 9,000 crores\n\nRevised Fixed cost (FY 2025-26) = 8,500 Crores\n\nDesired Profit per unit (` 10,000 crores/40,000 units) = ` 0.25 crores\nper unit\n\nCalculation of Contribution per unit (2025-26)\n\nParticulars\n\nPer Unit\n(` in crores)\nSelling price per unit\n\n2.50\nVariable Cost:\n\nMaterial\n1.25\n\nLabour (0.375 x 120%)\n0.45\n\nVariable Overheads\n0.40\n2.10\nContribution per Unit\n\n0.40\nLet the units sold be X\nContribution\n= 0.40X\nProfit\n\n= 0.25X\nProfit\n\n= Contribution – Fixed Cost\n0.25X\n\n= 0.40X – 8,500 Crores\n\nCOST AND MANAGEMENT ACCOUNTING\n\n11\n\nMinimum no. of units to be sold to sustain the same per unit profit, X\n= 56,667 Units"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

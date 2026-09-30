@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2025_P6_Q007",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.\nT Ltd. is looking for a capital project in order to replace its existing old\nmachine. It got two proposals to consider; details of which are given below:\n\nProposal X\nProposal Y\nInitial investment\n` 6,50,000\n` 7,80,000\nEstimated useful life\n5 Years\n3 Years\nAnnal cash inflows\n` 1,90,000\n` 3,50,000\nCost of capital\n10%\n10%\n\nYear\n1\n2\n3\n4\n5\nPVIF0.10, t\n0909\n0.826\n0.751\n0.683\n0.621\nPVIFA0.10, t\n0.909\n1.736\n2.487\n3.170\n3.791\n\nWhat will be Equivalent Annual NPV for Proposal X and Proposal Y?\n(A)  ` 70,290.00, ` 90,450.00\n(B)  ` 18,541.28, ` 36,369.12\n(C)  ` 1,90,000.00, ` 3,50,000.00\n(D)  ` 77,326.73, ` 99,504.95\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2025_P6_Q007",
+  "source_filename": "86856bos-sa-int-may2025-g2-p6.pdf",
+  "source_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Cost of Capital",
+    "topic": "Cost of Capital",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "7",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf",
+      "answer_pdf": "suggested_answers/86856bos-sa-int-may2025-g2-p6.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.\nT Ltd. is looking for a capital project in order to replace its existing old\nmachine. It got two proposals to consider; details of which are given below:\n\nProposal X\nProposal Y\nInitial investment\n` 6,50,000\n` 7,80,000\nEstimated useful life\n5 Years\n3 Years\nAnnal cash inflows\n` 1,90,000\n` 3,50,000\nCost of capital\n10%\n10%\n\nYear\n1\n2\n3\n4\n5\nPVIF0.10, t\n0909\n0.826\n0.751\n0.683\n0.621\nPVIFA0.10, t\n0.909\n1.736\n2.487\n3.170\n3.791\n\nWhat will be Equivalent Annual NPV for Proposal X and Proposal Y?\n(A)  ` 70,290.00, ` 90,450.00\n(B)  ` 18,541.28, ` 36,369.12\n(C)  ` 1,90,000.00, ` 3,50,000.00\n(D)  ` 77,326.73, ` 99,504.95\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

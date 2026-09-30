@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2026_P4_Q007",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "7.  \nThe following expenditures were incurred in Aditya Ltd. For the month of \nMarch 20X8: \n \n \nAmount (`) \n(i) \nPaid for power & fuel \n4,80,200 \n(ii) \nWages paid to factory workers \n8,44,000 \n(iii) \nBill paid to job workers \n9,66,000 \n(iv) \nRoyalty paid for production \n8,400 \n(v) \nFee paid to technician hired for the job \n96,000 \n(vi) \nAdministrative overheads \n76,000 \n(vii) Commission paid to sales staffs \n1,26,000 \nYou are required to CALCULATE direct expenses for the month. \nCost Sheet",
+  "suggested_answer": "Calculation of Direct Expenses \n \n \nAmount (`) \n(i) \nPaid for power & fuel \n4,80,200 \n(ii) \nBill paid to job workers \n9,66,000 \n(iii) Royalty paid for production \n8,400 \n(iv) Fee paid to the technician  \n96,000 \n \nTotal Direct expenses \n15,50,600 \nNotes: \n(i)  \nWages paid to factory workers is direct employee cost. \n(ii)  \nAdministrative overhead is indirect expense. \n(iii)  Commission paid to sales staffs comes under selling expenses.",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2026_P4_Q007",
+  "source_filename": "september26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "7",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.  \nThe following expenditures were incurred in Aditya Ltd. For the month of \nMarch 20X8: \n \n \nAmount (`) \n(i) \nPaid for power & fuel \n4,80,200 \n(ii) \nWages paid to factory workers \n8,44,000 \n(iii) \nBill paid to job workers \n9,66,000 \n(iv) \nRoyalty paid for production \n8,400 \n(v) \nFee paid to technician hired for the job \n96,000 \n(vi) \nAdministrative overheads \n76,000 \n(vii) Commission paid to sales staffs \n1,26,000 \nYou are required to CALCULATE direct expenses for the month. \nCost Sheet"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Calculation of Direct Expenses \n \n \nAmount (`) \n(i) \nPaid for power & fuel \n4,80,200 \n(ii) \nBill paid to job workers \n9,66,000 \n(iii) Royalty paid for production \n8,400 \n(iv) Fee paid to the technician  \n96,000 \n \nTotal Direct expenses \n15,50,600 \nNotes: \n(i)  \nWages paid to factory workers is direct employee cost. \n(ii)  \nAdministrative overhead is indirect expense. \n(iii)  Commission paid to sales staffs comes under selling expenses."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

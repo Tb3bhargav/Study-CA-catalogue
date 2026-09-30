@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q018",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 18,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "18. \nWhile conducting the statutory audit of a large branch of KNB Bank for \nthe year 2023-24, CA Hema observed that Profit and Loss account of \nbranch reflects interest income of ` 80 crores and other income of  \n` 5 crores. She also noticed that few borrower accounts at branch have \nslipped into NPA category in past periods as well as in current year. \nWhich audit procedures should be performed by her to verify reversal of \nincome in the books of branch?",
+  "suggested_answer": "The following audit procedures should be performed to verify \nreversal of income in books of branch:  \n• \nIf any advance, including bills purchased and discounted, becomes \nNPA as at the close of any year, the entire interest accrued and \ncredited to income account in the past periods, should be reversed \nor provided for if the same is not realised. This will apply to \nGovernment guaranteed accounts also. \n• \nIn respect of NPAs, fees, commission and similar income that have \naccrued should cease to accrue in the current period and should \nbe reversed or provided for with respect to past periods, if \nuncollected. \n• \nFurther, in case of banks which have wrongly recognised income in \nthe past should reverse the interest if it was recognised as income \nduring the current year or make a provision for an equivalent \namount if it was recognised as income in the previous year(s).  \n• \nFurthermore, the auditor should enquire if there are any large \ndebits in the Interest Income account that have not been \nexplained. It should be enquired whether there are any \ncommunications from borrowers pointing out differences in \ninterest charge and whether appropriate action has been taken in \nthis regard.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q018",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Banks",
+    "topic": "Audit of Banks",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "18",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "18. \nWhile conducting the statutory audit of a large branch of KNB Bank for \nthe year 2023-24, CA Hema observed that Profit and Loss account of \nbranch reflects interest income of ` 80 crores and other income of  \n` 5 crores. She also noticed that few borrower accounts at branch have \nslipped into NPA category in past periods as well as in current year. \nWhich audit procedures should be performed by her to verify reversal of \nincome in the books of branch?"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The following audit procedures should be performed to verify \nreversal of income in books of branch:  \n• \nIf any advance, including bills purchased and discounted, becomes \nNPA as at the close of any year, the entire interest accrued and \ncredited to income account in the past periods, should be reversed \nor provided for if the same is not realised. This will apply to \nGovernment guaranteed accounts also. \n• \nIn respect of NPAs, fees, commission and similar income that have \naccrued should cease to accrue in the current period and should \nbe reversed or provided for with respect to past periods, if \nuncollected. \n• \nFurther, in case of banks which have wrongly recognised income in \nthe past should reverse the interest if it was recognised as income \nduring the current year or make a provision for an equivalent \namount if it was recognised as income in the previous year(s).  \n• \nFurthermore, the auditor should enquire if there are any large \ndebits in the Interest Income account that have not been \nexplained. It should be enquired whether there are any \ncommunications from borrowers pointing out differences in \ninterest charge and whether appropriate action has been taken in \nthis regard."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

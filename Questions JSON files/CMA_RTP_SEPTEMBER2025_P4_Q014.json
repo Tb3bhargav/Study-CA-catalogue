@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_SEPTEMBER2025_P4_Q014",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "14. \nA company processes a raw material in its Department 1 to produce \nthree products, viz. A, B and X at the same split-off stage. During a \nperiod 1,80,000 kgs of raw materials were processed in Department 1 at \na total cost of ` 12,88,000 and the resultant output of A, B and X were \n18,000 kgs, 10,000 kgs and 54,000 kgs respectively. A and B were further \nprocessed in Department 2 at a cost of ` 1,80,000 and ` 1,50,000 \nrespectively. \n \nX was further processed in Department 3 at a cost of `1,08,000. There is \nno waste in further processing. The details of sales affected during the \nperiod were as under: \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n18 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n \nA \nB \nX \nQuantity Sold (kgs.) \n17,000 \n5,000 \n44,000 \nSales Value (`) \n12,24,000 \n2,50,000 \n7,92,000 \n \nThere were no opening stocks. If these products were sold at split-off \nstage, the selling prices of A, B and X would have been ` 50, ` 40 and ` \n10 per kg respectively. Required: \n(i) \nPrepare a statement showing the apportionment of joint costs to \nA, B and X. \n(ii) \nPresent a statement showing the cost per kg of each product \nindicating joint cost and further processing cost and total cost \nseparately. \n(iii) \nPrepare a statement showing the product wise and total profit for \nthe period. \n(iv) \nState with supporting calculations as to whether any or all the \nproducts should be further processed or not \nService Costing",
+  "suggested_answer": "(i) \nStatement showing the apportionment of joint costs to A, B and X \nProducts \nA \nB \nX \nTotal \nOutput (kg) \n18,000 \n10,000 \n54,000 \n \nSales value \nat the point \nof split off \n(`) \n9,00,000 \n(` 50 x 18,000) \n4,00,000 \n(` 40 x 10,000) \n5,40,000 \n(` 10 x 54,000) \n18,40,000 \nJoint \ncost \napportionm\nent on the \nbasis \nof \nsales value \nat the point \nof split off \n(`) \n6,30,000 \nቆ`12,88,000\n` 18,40,000\nx ` 9,00,000ቇ \n2,80,000 \nቆ` 12,88,000\n` 1 8,40,000\nx ` 4,00,000ቇ \n3,78,000 \n൭ ` 12,88,000\n ` 18,40,000\nx ` 5,40,000൱ \n12,88,000 \n(ii) \nStatement showing the cost per kg. of each product  \n(indicating joint cost; further processing cost and total cost \nseparately) \nProducts \nA \nB \nX \nJoint costs apportioned (`): \n(I) \n6,30,000 \n2,80,000 \n3,78,000 \nProduction (kg): (II) \n18,000 \n10,000 \n54,000 \nJoint cost per kg (`): (I ÷ II) \n35 \n28 \n7 \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \nFurther processing Cost per \nkg. (`) \n10 \n1,80,000\n18,000kg\n\n\n\n\n\n\n` \n \n15 \n1,50,000\n10,000kg\n\n\n\n\n\n\n` \n \n2 \n1,08,000\n54,000kg\n\n\n\n\n\n\n` \n \nTotal cost per kg (`) \n45 \n43 \n9 \n(iii) Statement showing the product wise and total profit for  \nthe period \nProducts \nA \nB \nX \nTotal \nSales value (`) \n12,24,000 \n2,50,000 \n7,92,000 \n \nAdd: Closing stock value (`) \n(Refer to Working note 2) \n \n  45,000 \n \n2,15,000 \n \n90,000 \n \nValue of production (`) \n12,69,000 \n4,65,000 \n8,82,000 \n26,16,000 \nApportionment of joint cost (`)  \n6,30,000 \n2,80,000 \n3,78,000 \n \nAdd: Further processing cost (`) \n1,80,000 \n1,50,000 \n1,08,000 \n \nTotal cost (`) \n8,10,000 \n4,30,000 \n4,86,000 \n17,26,000 \nProfit (`)  \n4,59,000 \n35,000 \n3,96,000 \n8,90,000 \nWorking Notes",
+  "marks": null,
+  "source_id": "CMA_RTP_SEPTEMBER2025_P4_Q014",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. \nA company processes a raw material in its Department 1 to produce \nthree products, viz. A, B and X at the same split-off stage. During a \nperiod 1,80,000 kgs of raw materials were processed in Department 1 at \na total cost of ` 12,88,000 and the resultant output of A, B and X were \n18,000 kgs, 10,000 kgs and 54,000 kgs respectively. A and B were further \nprocessed in Department 2 at a cost of ` 1,80,000 and ` 1,50,000 \nrespectively. \n \nX was further processed in Department 3 at a cost of `1,08,000. There is \nno waste in further processing. The details of sales affected during the \nperiod were as under: \n \n \n© The Institute of Chartered Accountants of India\n\n \nINTERMEDIATE EXAMINATION \n \n \n18 \n \nREVISION TEST PAPER \nSEPTEMBER 2025 EXAMINATION\n \nA \nB \nX \nQuantity Sold (kgs.) \n17,000 \n5,000 \n44,000 \nSales Value (`) \n12,24,000 \n2,50,000 \n7,92,000 \n \nThere were no opening stocks. If these products were sold at split-off \nstage, the selling prices of A, B and X would have been ` 50, ` 40 and ` \n10 per kg respectively. Required: \n(i) \nPrepare a statement showing the apportionment of joint costs to \nA, B and X. \n(ii) \nPresent a statement showing the cost per kg of each product \nindicating joint cost and further processing cost and total cost \nseparately. \n(iii) \nPrepare a statement showing the product wise and total profit for \nthe period. \n(iv) \nState with supporting calculations as to whether any or all the \nproducts should be further processed or not \nService Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nStatement showing the apportionment of joint costs to A, B and X \nProducts \nA \nB \nX \nTotal \nOutput (kg) \n18,000 \n10,000 \n54,000 \n \nSales value \nat the point \nof split off \n(`) \n9,00,000 \n(` 50 x 18,000) \n4,00,000 \n(` 40 x 10,000) \n5,40,000 \n(` 10 x 54,000) \n18,40,000 \nJoint \ncost \napportionm\nent on the \nbasis \nof \nsales value \nat the point \nof split off \n(`) \n6,30,000 \nቆ`12,88,000\n` 18,40,000\nx ` 9,00,000ቇ \n2,80,000 \nቆ` 12,88,000\n` 1 8,40,000\nx ` 4,00,000ቇ \n3,78,000 \n൭ ` 12,88,000\n ` 18,40,000\nx ` 5,40,000൱ \n12,88,000 \n(ii) \nStatement showing the cost per kg. of each product  \n(indicating joint cost; further processing cost and total cost \nseparately) \nProducts \nA \nB \nX \nJoint costs apportioned (`): \n(I) \n6,30,000 \n2,80,000 \n3,78,000 \nProduction (kg): (II) \n18,000 \n10,000 \n54,000 \nJoint cost per kg (`): (I ÷ II) \n35 \n28 \n7 \n© The Institute of Chartered Accountants of India\n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n47 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \nFurther processing Cost per \nkg. (`) \n10 \n1,80,000\n18,000kg\n\n\n\n\n\n\n` \n \n15 \n1,50,000\n10,000kg\n\n\n\n\n\n\n` \n \n2 \n1,08,000\n54,000kg\n\n\n\n\n\n\n` \n \nTotal cost per kg (`) \n45 \n43 \n9 \n(iii) Statement showing the product wise and total profit for  \nthe period \nProducts \nA \nB \nX \nTotal \nSales value (`) \n12,24,000 \n2,50,000 \n7,92,000 \n \nAdd: Closing stock value (`) \n(Refer to Working note 2) \n \n  45,000 \n \n2,15,000 \n \n90,000 \n \nValue of production (`) \n12,69,000 \n4,65,000 \n8,82,000 \n26,16,000 \nApportionment of joint cost (`)  \n6,30,000 \n2,80,000 \n3,78,000 \n \nAdd: Further processing cost (`) \n1,80,000 \n1,50,000 \n1,08,000 \n \nTotal cost (`) \n8,10,000 \n4,30,000 \n4,86,000 \n17,26,000 \nProfit (`)  \n4,59,000 \n35,000 \n3,96,000 \n8,90,000 \nWorking Notes"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

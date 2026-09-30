@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q005_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 5,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  Discuss Feedback Control and Feedforward Control system of budgetary\ncontrol.",
+  "suggested_answer": "(c) There are two types of budgetary control system based on timing of action:\n\nFeedback Control: The feedback system of budgetary control, the actual\nresults for the budgeted period are collected and compared with the\nbudgeted figures. The exercise of variance identification is done after the\ncompletion of the budget period. The variances are reported and based on\nthe report corrective actions are taken, responsibility is fixed and based on\nexperience, modification in future targets is implemented. As the name\nsuggests, it is an Ex-post Corrective control system of budget.\n\nThis system of budgetary control is common in organistions where\nManagement Information System (MIS) is not so robust and where data is\nobtained only after the finalisation of books of account. Though this type\nof control system is less expensive to maintain but has limitations.\n\nFeedforward Control: This the opposite of feedback control system of\nbudgetary control. It is Ex-Ante Preventive control mechanism of budgetary\ncontrol. The budgets are set at the inception of the budgeted period and\nthe actual results are continuously monitored and compared. The targets\nare kept realistic as far as possible and the targets are reviewed and reset\nif necessary.\n\nThis budgetary control system requires a robust MIS supported by\nintegrated ERP system enabling an entity to get data as and when desired\nbasis. This system is very expensive and beneficial for the organisations\nwhere the business environment is dynamic and information has important\nrole in getting edge in competition and todays data warfare.",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2024_P4_Q005_C",
+  "source_filename": "81499bos65715-p4.pdf",
+  "source_pdf": "suggested_answers/81499bos65715-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(c)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81499bos65715-p4.pdf",
+      "answer_pdf": "suggested_answers/81499bos65715-p4.pdf"
+    },
+    "page_start": 21,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Discuss Feedback Control and Feedforward Control system of budgetary\ncontrol."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) There are two types of budgetary control system based on timing of action:\n\nFeedback Control: The feedback system of budgetary control, the actual\nresults for the budgeted period are collected and compared with the\nbudgeted figures. The exercise of variance identification is done after the\ncompletion of the budget period. The variances are reported and based on\nthe report corrective actions are taken, responsibility is fixed and based on\nexperience, modification in future targets is implemented. As the name\nsuggests, it is an Ex-post Corrective control system of budget.\n\nThis system of budgetary control is common in organistions where\nManagement Information System (MIS) is not so robust and where data is\nobtained only after the finalisation of books of account. Though this type\nof control system is less expensive to maintain but has limitations.\n\nFeedforward Control: This the opposite of feedback control system of\nbudgetary control. It is Ex-Ante Preventive control mechanism of budgetary\ncontrol. The budgets are set at the inception of the budgeted period and\nthe actual results are continuously monitored and compared. The targets\nare kept realistic as far as possible and the targets are reviewed and reset\nif necessary.\n\nThis budgetary control system requires a robust MIS supported by\nintegrated ERP system enabling an entity to get data as and when desired\nbasis. This system is very expensive and beneficial for the organisations\nwhere the business environment is dynamic and information has important\nrole in getting edge in competition and todays data warfare."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

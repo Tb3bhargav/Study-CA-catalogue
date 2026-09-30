@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q016",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16. \nGEM Ltd has appointed GSP & Co., Chartered Accountants as its Statutory \nAuditors. While conducting its audit, the audit partner requested the \nmanagement to provide a written representation that it has fulfilled its \nresponsibility for the preparation of financial statements in accordance \nwith the applicable financial reporting framework. The Manager (Finance) \nis of the view that since all records and evidence have already been given, \na separate written representation is not required. Explain. \nChapter 8 - Audit Report",
+  "suggested_answer": "In the given case, GSP & Co., auditor of GEM Ltd. requested the \nmanagement to provide written representation that it has fulfilled its \nresponsibility for the preparation of financial statements in accordance \nwith the applicable financial reporting framework. The Manager \n(Finance) is of the view that since all records and evidence have already \nbeen given, a separate written representation is not required. View of \nManager (Finance) is not correct because written representations about \nmanagement responsibilities are necessary due to the following reasons:  \n \nAudit evidence obtained during the audit that management has fulfilled \nits responsibilities regarding preparation of financial statements and \nabout information provided and completeness of transactions is not \nsufficient without obtaining confirmation from management that it \nbelieves that it has fulfilled those responsibilities. This is because the \nauditor is not able to judge solely on other audit evidence whether \nmanagement has prepared and presented the financial statements and",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q016",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16. \nGEM Ltd has appointed GSP & Co., Chartered Accountants as its Statutory \nAuditors. While conducting its audit, the audit partner requested the \nmanagement to provide a written representation that it has fulfilled its \nresponsibility for the preparation of financial statements in accordance \nwith the applicable financial reporting framework. The Manager (Finance) \nis of the view that since all records and evidence have already been given, \na separate written representation is not required. Explain. \nChapter 8 - Audit Report"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "In the given case, GSP & Co., auditor of GEM Ltd. requested the \nmanagement to provide written representation that it has fulfilled its \nresponsibility for the preparation of financial statements in accordance \nwith the applicable financial reporting framework. The Manager \n(Finance) is of the view that since all records and evidence have already \nbeen given, a separate written representation is not required. View of \nManager (Finance) is not correct because written representations about \nmanagement responsibilities are necessary due to the following reasons:  \n \nAudit evidence obtained during the audit that management has fulfilled \nits responsibilities regarding preparation of financial statements and \nabout information provided and completeness of transactions is not \nsufficient without obtaining confirmation from management that it \nbelieves that it has fulfilled those responsibilities. This is because the \nauditor is not able to judge solely on other audit evidence whether \nmanagement has prepared and presented the financial statements and"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

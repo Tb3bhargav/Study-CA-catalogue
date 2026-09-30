@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "1. \nWhether the view of Mudit regarding obtaining understanding of the \nclient business is correct: \n \n(a) \nThe view of Mudit is correct because as a member of the audit \nteam, he needs an understanding only about the audit procedures \nto be performed by him. \n(b) \nThe view of Mudit is not correct because while conducting an \naudit, the understanding of business and business environment of \nthe client whose audit is to be conducted is very important. \n(c)  \nThe view of Mudit is partially correct because such understanding \nis required only for the engagement partner and not be the \nmembers of the audit team. \n(d)  \nThe view of Mudit is not correct because such information forms a \ncrucial part of the audit report to be issued at the end of the audit \nprocess. \n \n\n \nAUDITING AND ETHICS \n \n \n61 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER",
+  "suggested_answer": "(B)",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q001",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Reports",
+    "topic": "Audit Reports",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1. \nWhether the view of Mudit regarding obtaining understanding of the \nclient business is correct: \n \n(a) \nThe view of Mudit is correct because as a member of the audit \nteam, he needs an understanding only about the audit procedures \nto be performed by him. \n(b) \nThe view of Mudit is not correct because while conducting an \naudit, the understanding of business and business environment of \nthe client whose audit is to be conducted is very important. \n(c)  \nThe view of Mudit is partially correct because such understanding \nis required only for the engagement partner and not be the \nmembers of the audit team. \n(d)  \nThe view of Mudit is not correct because such information forms a \ncrucial part of the audit report to be issued at the end of the audit \nprocess. \n \n\n \nAUDITING AND ETHICS \n \n \n61 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

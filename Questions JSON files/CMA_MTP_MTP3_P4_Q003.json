@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q003",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 3,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "3. \nMaterial Cost Variance and Labour Cost Variance for equivalent units is: \n(A)  \n` 40,800 F and ` 40,800 A respectively \n(B)  \n` 28,000 A and ` 40,800 F respectively \n3 \n(C)  \n` 40,800 A and ` 24,300 A respectively \n(D)  \n` 28,000 F and ` 25,000 F respectively",
+  "suggested_answer": "(C) ` 40,800 A and `24,300 A respectively Material Cost Variance for Equivalent units Actual Material Cost = 2,95,800 (3,00,000 – 4,200) Standard Price = ` 50 Equivalent units of Material = 5,100 Standard cost = 5,100 × 5 = ` 2,55,000 Material Cost Variance = Standard Cost – Actual Cost = (2,55,000 – 2,95,800) = `40,800 Adverse Labour Cost Variance for Equivalent units Actual cost of labour on completed units = ` 3,15,900 Standard rate per unit = ` 60 Standard cost = 4,860 × 60 = ` 2,91,600 Labour Cost Variance = Standard Cost – Actual Cost = (` 2,91,600 - ` 3,15,900) = ` 24,300 (A)",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q003",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "3",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "3. \nMaterial Cost Variance and Labour Cost Variance for equivalent units is: \n(A)  \n` 40,800 F and ` 40,800 A respectively \n(B)  \n` 28,000 A and ` 40,800 F respectively \n3 \n(C)  \n` 40,800 A and ` 24,300 A respectively \n(D)  \n` 28,000 F and ` 25,000 F respectively"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 40,800 A and `24,300 A respectively Material Cost Variance for Equivalent units Actual Material Cost = 2,95,800 (3,00,000 – 4,200) Standard Price = ` 50 Equivalent units of Material = 5,100 Standard cost = 5,100 × 5 = ` 2,55,000 Material Cost Variance = Standard Cost – Actual Cost = (2,55,000 – 2,95,800) = `40,800 Adverse Labour Cost Variance for Equivalent units Actual cost of labour on completed units = ` 3,15,900 Standard rate per unit = ` 60 Standard cost = 4,860 × 60 = ` 2,91,600 Labour Cost Variance = Standard Cost – Actual Cost = (` 2,91,600 - ` 3,15,900) = ` 24,300 (A)"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

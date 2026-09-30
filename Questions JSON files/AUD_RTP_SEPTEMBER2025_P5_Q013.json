@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_SEPTEMBER2025_P5_Q013",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 13,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "13. \nCA Rimi is appointed as an auditor of ASI Pvt. Ltd. During the audit, she \ndecided to use various audit procedures to gather sufficient and \nappropriate audit evidence such as: \ni. \nWhile verifying the fixed asset, she examined factory equipment \nand verified the presence of each item. \nii. \nTo verify the company’s accounts receivable, she directly sends \nbalance confirmations to some of the customers. \niii. \nCA Rimi examined purchase invoices, contracts, and authorisation \nrecords to assess the validity of payments and the approval \nprocess. \niv. \nShe independently performs the bank reconciliation that was \noriginally carried out by the accounts department. \nv. \nShe also checked the accuracy of depreciation calculations made \nby the client. \nIdentify and explain the type of abovementioned audit procedure \nperformed by CA Rimi in accordance with relevant SA. \nChapter 5 - Audit of Items of Financial Statements",
+  "suggested_answer": "As per SA 500, “Audit Evidence”, auditor perform audit procedures to \nobtain sufficient appropriate audit evidence to be able to draw \nreasonable conclusions on which to base the auditor’s opinion. \n(i) \nInspection: Inspection involves examining records or documents, \nwhether internal or external, in paper form, electronic form, or \nother media, or a physical examination of an asset. \n© The Institute of Chartered Accountants of India\n\n \nAUDITING AND ETHICS \n \n \n69 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nExternal Confirmation: An external confirmation represents audit \nevidence obtained by the auditor as a direct written response to \nthe auditor from a third party (the confirming party), in paper \nform, or by electronic or other medium. \n(iii) \nInspection: Inspection involves examining records or documents, \nwhether internal or external, in paper form, electronic form, or \nother media, or a physical examination of an asset. Inspection of \nrecords and documents provides audit evidence of varying \ndegrees of reliability, depending on their nature and source and, in \nthe case of internal records and documents, on the effectiveness of \nthe controls over their production. \n(iv) \nReperformance: Reperformance involves the auditor’s independent \nexecution of procedures or controls that were originally performed \nas part of the entity’s internal control. \n(v) \nRecalculation: Recalculation consists of checking the mathematical \naccuracy of documents or records. Recalculation may be performed \nmanually or electronically.",
+  "marks": null,
+  "source_id": "AUD_RTP_SEPTEMBER2025_P5_Q013",
+  "source_filename": "september25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/september25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Cost Accounting System",
+    "topic": "Cost Accounting System",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper September 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "13",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/september25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/september25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "13. \nCA Rimi is appointed as an auditor of ASI Pvt. Ltd. During the audit, she \ndecided to use various audit procedures to gather sufficient and \nappropriate audit evidence such as: \ni. \nWhile verifying the fixed asset, she examined factory equipment \nand verified the presence of each item. \nii. \nTo verify the company’s accounts receivable, she directly sends \nbalance confirmations to some of the customers. \niii. \nCA Rimi examined purchase invoices, contracts, and authorisation \nrecords to assess the validity of payments and the approval \nprocess. \niv. \nShe independently performs the bank reconciliation that was \noriginally carried out by the accounts department. \nv. \nShe also checked the accuracy of depreciation calculations made \nby the client. \nIdentify and explain the type of abovementioned audit procedure \nperformed by CA Rimi in accordance with relevant SA. \nChapter 5 - Audit of Items of Financial Statements"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "As per SA 500, “Audit Evidence”, auditor perform audit procedures to \nobtain sufficient appropriate audit evidence to be able to draw \nreasonable conclusions on which to base the auditor’s opinion. \n(i) \nInspection: Inspection involves examining records or documents, \nwhether internal or external, in paper form, electronic form, or \nother media, or a physical examination of an asset. \n© The Institute of Chartered Accountants of India\n\n \nAUDITING AND ETHICS \n \n \n69 \n \nSEPTEMBER 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nExternal Confirmation: An external confirmation represents audit \nevidence obtained by the auditor as a direct written response to \nthe auditor from a third party (the confirming party), in paper \nform, or by electronic or other medium. \n(iii) \nInspection: Inspection involves examining records or documents, \nwhether internal or external, in paper form, electronic form, or \nother media, or a physical examination of an asset. Inspection of \nrecords and documents provides audit evidence of varying \ndegrees of reliability, depending on their nature and source and, in \nthe case of internal records and documents, on the effectiveness of \nthe controls over their production. \n(iv) \nReperformance: Reperformance involves the auditor’s independent \nexecution of procedures or controls that were originally performed \nas part of the entity’s internal control. \n(v) \nRecalculation: Recalculation consists of checking the mathematical \naccuracy of documents or records. Recalculation may be performed \nmanually or electronically."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

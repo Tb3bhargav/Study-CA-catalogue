@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  An auditor while verifying the sales during the year observed that the sales\ntransactions in that year are more than 1 lakh in number. He wants to\ndetermine the sample size and its composition on the basis of his personal\nexperience and knowledge and do the testing on his own judgment. Kindly\nadvise him about the scientific approach to sampling and the method of\nsampling to be chosen in such a situation.\n(4 Marks)\n\nAUDITING AND ETHICS\n\n21",
+  "suggested_answer": "(c) Statistical Sampling – More Scientific:\n1.\nAudit testing done through this approach is more scientific than\ntesting based entirely on the auditor’s own judgment because it\ninvolves the use of mathematical laws of probability in determining the\nappropriate sample size in varying circumstances.\n2.\nStatistical sampling has reasonably wide application where a\npopulation to be tested consists of a large number of similar items, and\nmore in the case of transactions involving compliance testing, trade\nreceivables’ confirmation, payroll checking, vouching of invoices and\npetty cash vouchers. In larger organizations, with huge transactions,\nstatistical sampling is always recommended as the samples selected\nare not prejudged.\n3.\nThere is no personal bias of the auditor in case of statistical sampling.\nSince it is scientific, the results of sample can be evaluated and\nprojected on the whole population in a more reliable manner.\n\nIn the instant case, an auditor while verifying the sales during the year\nobserved that the sales transactions in that year are more than one lakh in\nnumber. In such case, statistical sampling will be highly recommended in\nthe audit program. Random Sampling is the method he can decide to\nchoose sample in such a situation.\n\nAUDITING AND ETHICS\n\n23",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_C",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 20,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Ethics",
+    "topic": "Ethics",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 20,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  An auditor while verifying the sales during the year observed that the sales\ntransactions in that year are more than 1 lakh in number. He wants to\ndetermine the sample size and its composition on the basis of his personal\nexperience and knowledge and do the testing on his own judgment. Kindly\nadvise him about the scientific approach to sampling and the method of\nsampling to be chosen in such a situation.\n(4 Marks)\n\nAUDITING AND ETHICS\n\n21"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Statistical Sampling – More Scientific:\n1.\nAudit testing done through this approach is more scientific than\ntesting based entirely on the auditor’s own judgment because it\ninvolves the use of mathematical laws of probability in determining the\nappropriate sample size in varying circumstances.\n2.\nStatistical sampling has reasonably wide application where a\npopulation to be tested consists of a large number of similar items, and\nmore in the case of transactions involving compliance testing, trade\nreceivables’ confirmation, payroll checking, vouching of invoices and\npetty cash vouchers. In larger organizations, with huge transactions,\nstatistical sampling is always recommended as the samples selected\nare not prejudged.\n3.\nThere is no personal bias of the auditor in case of statistical sampling.\nSince it is scientific, the results of sample can be evaluated and\nprojected on the whole population in a more reliable manner.\n\nIn the instant case, an auditor while verifying the sales during the year\nobserved that the sales transactions in that year are more than one lakh in\nnumber. In such case, statistical sampling will be highly recommended in\nthe audit program. Random Sampling is the method he can decide to\nchoose sample in such a situation.\n\nAUDITING AND ETHICS\n\n23"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

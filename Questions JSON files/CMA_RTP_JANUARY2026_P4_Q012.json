@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "12.  XYZ Limited manufactures a standard product in a competitive market. \nDuring the year, the company experienced operational changes, \nincluding partial automation and fluctuations in input costs. Although \nthe company continued using traditional costing methods, discrepancies \nwere observed between financial and cost profits. Management has \nrequested a detailed analysis to understand the variance and assess the \naccuracy of overhead absorption. \n \nThe following is the Trading and Profit & Loss Account of XYZ Limited: \nDr. \n` Cr. \n` \n` \nTo Raw Materials \n32,50,000 By Sales (40,000 \nunits) \n92,00,000 \nTo Direct Wages \n21,75,000 By \nClosing \nFinished \nGoods \n(2,000 units) \n3,90,000 \nTo \nProduction \nOverheads \n11,20,000 By \nWork-in-\nProgress: \nTo \nAdministration \nOverheads \n6,25,000  \nMaterials \n72,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nTo \nSelling \n& \nDistribution \nOverheads \n4,60,000  \nWages \n34,000 \nTo \nPreliminary \nExpenses \nWritten \nOff \n30,000 Production \nOverheads \n26,500 \n1,32,500 \nTo Goodwill Written \nOff \n55,000 By \nDividend \nReceived \n5,25,000 \nTo Fines \n10,000 By Interest from \nBank Deposits \n1,20,000 \nTo Interest on Term \nLoan \n18,000 \nTo Loss on Sale of \nEquipment \n20,000 \nTo Tax \n2,25,000 \nTo Net Profit for the \nYear \n23,79,500 \nTotal \n1,03,67,500 \nTotal 1,03,67,500 \n \nXYZ Limited manufactures a standard product and uses traditional \ncosting systems for internal reporting. \n \nThe Cost Accounting records of XYZ Ltd. show the following:",
+  "suggested_answer": "(i)  \nCosting Profit & Loss Statement \nParticulars \nAmount \n(`) \nRaw Materials \n32,50,000 \nDirect Wages \n21,75,000 \nPrime Cost \n54,25,000 \nAdd: Production Overheads (25% of Prime Cost) \n13,56,250 \nFactory Cost \n67,81,250 \nLess: Work-in-Progress \n(1,32,500) \nManufacturing Cost Incurred During the Period \n66,48,750 \nAdd: Administration Overheads (`14.75 x 42,000 units) \n6,19,500 \nCost of Production \n72,68,250 \nLess: Closing Finished Goods (2,000 units x ` 173.05) \n(3,46,100) \nCost of Goods Sold \n69,22,150 \n\n \nINTERMEDIATE EXAMINATION \n \n \n38 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nAdd: Selling & Distribution Overheads (`11.50 x 40,000 \nunits) \n4,60,000 \nCost of Sales \n73,82,150 \nProfit (Balancing Figure) \n18,17,850 \nSales (40,000 units) \n92,00,000 \n(ii)    \n \n \n \nControl Accounts \n \n  \n \n \n \nProduction Overheads A/c \nParticulars \nAmount \n(`) \nParticulars \nAmount \n(`) \nTo \nGeneral \nLedger \nAdjustment A/c \n11,20,000 By \nWIP \nA/c \n(absorbed) \n13,56,250 \nTo Overhead Adjustment \nA/c (Over-absorption) \n2,36,250 \nTotal \n13,56,250 Total \n13,56,250 \nAdministration Overheads A/c \nParticulars \nAmount  \n(`) \nParticulars \nAmount \n(`) \nTo General Ledger \nAdjustment A/c \n6,25,000 By Finished Goods A/c \n6,19,500 \nBy Overhead Adjustment \nA/c (Under-absorption) \n5,500 \nTotal \n6,25,000 Total \n6,25,000 \nSelling & Distribution Overheads A/c \nParticulars \nAmount (`) Particulars \nAmount \n(`) \nTo General Ledger \nAdjustment A/c \n4,60,000 By Cost of Sales A/c \n4,60,000 \nTotal \n4,60,000 Total \n4,60,000 \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n39 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n(iii)  Reconciliation Statement \nParticulars \nAmount \n(`) \nAmount \n(`) \nProfits as per Cost Accounts \n18,17,850 \nAdd: \n \n–  \nProduction Overheads – over-absorbed \n2,36,250 \n \n–  \nDividend received \n5,25,000 \n \n–  \nInterest from bank deposits \n1,20,000 \n \n–  \nWrite-down of Finished Stock  \n \n(3,90,000 – 3,46,100) \n43,900 \n \nTotal Additions \n9,25,150 \nLess: \n \n–  \nAdministration \nOverheads \n– \nunder-\nabsorbed \n5,500 \n \n–  \nPreliminary expenses written off \n30,000 \n \n–  \nGoodwill written off \n55,000 \n \n–  \nFines \n10,000 \n \n–  \nInterest on term loan \n18,000 \n \n–  \nLoss on sale of equipment \n20,000 \n \n–  \nTaxation \n2,25,000 \n \nTotal Deductions \n3,63,500 \nProfit as per Financial Accounts \n23,79,500",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q012",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  XYZ Limited manufactures a standard product in a competitive market. \nDuring the year, the company experienced operational changes, \nincluding partial automation and fluctuations in input costs. Although \nthe company continued using traditional costing methods, discrepancies \nwere observed between financial and cost profits. Management has \nrequested a detailed analysis to understand the variance and assess the \naccuracy of overhead absorption. \n \nThe following is the Trading and Profit & Loss Account of XYZ Limited: \nDr. \n` Cr. \n` \n` \nTo Raw Materials \n32,50,000 By Sales (40,000 \nunits) \n92,00,000 \nTo Direct Wages \n21,75,000 By \nClosing \nFinished \nGoods \n(2,000 units) \n3,90,000 \nTo \nProduction \nOverheads \n11,20,000 By \nWork-in-\nProgress: \nTo \nAdministration \nOverheads \n6,25,000  \nMaterials \n72,000 \n\n \nINTERMEDIATE EXAMINATION \n \n \n16 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nTo \nSelling \n& \nDistribution \nOverheads \n4,60,000  \nWages \n34,000 \nTo \nPreliminary \nExpenses \nWritten \nOff \n30,000 Production \nOverheads \n26,500 \n1,32,500 \nTo Goodwill Written \nOff \n55,000 By \nDividend \nReceived \n5,25,000 \nTo Fines \n10,000 By Interest from \nBank Deposits \n1,20,000 \nTo Interest on Term \nLoan \n18,000 \nTo Loss on Sale of \nEquipment \n20,000 \nTo Tax \n2,25,000 \nTo Net Profit for the \nYear \n23,79,500 \nTotal \n1,03,67,500 \nTotal 1,03,67,500 \n \nXYZ Limited manufactures a standard product and uses traditional \ncosting systems for internal reporting. \n \nThe Cost Accounting records of XYZ Ltd. show the following:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i)  \nCosting Profit & Loss Statement \nParticulars \nAmount \n(`) \nRaw Materials \n32,50,000 \nDirect Wages \n21,75,000 \nPrime Cost \n54,25,000 \nAdd: Production Overheads (25% of Prime Cost) \n13,56,250 \nFactory Cost \n67,81,250 \nLess: Work-in-Progress \n(1,32,500) \nManufacturing Cost Incurred During the Period \n66,48,750 \nAdd: Administration Overheads (`14.75 x 42,000 units) \n6,19,500 \nCost of Production \n72,68,250 \nLess: Closing Finished Goods (2,000 units x ` 173.05) \n(3,46,100) \nCost of Goods Sold \n69,22,150 \n\n \nINTERMEDIATE EXAMINATION \n \n \n38 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nAdd: Selling & Distribution Overheads (`11.50 x 40,000 \nunits) \n4,60,000 \nCost of Sales \n73,82,150 \nProfit (Balancing Figure) \n18,17,850 \nSales (40,000 units) \n92,00,000 \n(ii)    \n \n \n \nControl Accounts \n \n  \n \n \n \nProduction Overheads A/c \nParticulars \nAmount \n(`) \nParticulars \nAmount \n(`) \nTo \nGeneral \nLedger \nAdjustment A/c \n11,20,000 By \nWIP \nA/c \n(absorbed) \n13,56,250 \nTo Overhead Adjustment \nA/c (Over-absorption) \n2,36,250 \nTotal \n13,56,250 Total \n13,56,250 \nAdministration Overheads A/c \nParticulars \nAmount  \n(`) \nParticulars \nAmount \n(`) \nTo General Ledger \nAdjustment A/c \n6,25,000 By Finished Goods A/c \n6,19,500 \nBy Overhead Adjustment \nA/c (Under-absorption) \n5,500 \nTotal \n6,25,000 Total \n6,25,000 \nSelling & Distribution Overheads A/c \nParticulars \nAmount (`) Particulars \nAmount \n(`) \nTo General Ledger \nAdjustment A/c \n4,60,000 By Cost of Sales A/c \n4,60,000 \nTotal \n4,60,000 Total \n4,60,000 \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n39 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n(iii)  Reconciliation Statement \nParticulars \nAmount \n(`) \nAmount \n(`) \nProfits as per Cost Accounts \n18,17,850 \nAdd: \n \n–  \nProduction Overheads – over-absorbed \n2,36,250 \n \n–  \nDividend received \n5,25,000 \n \n–  \nInterest from bank deposits \n1,20,000 \n \n–  \nWrite-down of Finished Stock  \n \n(3,90,000 – 3,46,100) \n43,900 \n \nTotal Additions \n9,25,150 \nLess: \n \n–  \nAdministration \nOverheads \n– \nunder-\nabsorbed \n5,500 \n \n–  \nPreliminary expenses written off \n30,000 \n \n–  \nGoodwill written off \n55,000 \n \n–  \nFines \n10,000 \n \n–  \nInterest on term loan \n18,000 \n \n–  \nLoss on sale of equipment \n20,000 \n \n–  \nTaxation \n2,25,000 \n \nTotal Deductions \n3,63,500 \nProfit as per Financial Accounts \n23,79,500"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

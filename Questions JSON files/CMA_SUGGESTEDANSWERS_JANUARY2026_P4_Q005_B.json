@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 5,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Following data is available for XYZ Ltd. for the month of March 2025:\nStandard working hours\n7 hours per day of 5 days per week\nNumber of weeks in the month\n4 weeks\nMaximum Capacity (No. of employees)\n60 employees\nActual working (No. of employees)\n42 employees\nActual Capacity Usage Ratio\n65%\nActivity Ratio\n125%\n\n24\n\nCalculate the following:\n(i)  Actual Hours worked\n(ii)  Standard Hours for actual output\n(iii)  Standard Capacity Usage Ratio\n(iv)  Actual Usage of Budgeted Capacity Ratio\n(5 Marks)",
+  "suggested_answer": "(b) (i) Actual Hours worked\n\nActual Capacity Usage Ratio =\nActual Hoursworked\n×100\nMax. possible working hours in a period\n\n65% = (Actual working hours ÷ Maximum Capacity in a budget period)\n\n× 100\n\nMaximum Capacity in a budget period\n\n= 60 workers × 7 hours × 5 days × 4 weeks = 8,400 hours\n\nActual hours= 8,400 × 65% = 5,460 hours\n(ii)  Standard hours for actual output\n\nActivity ratio = Standard Hrs\nBudgeted Hrs\n×100\n\n125% = (Standard hours ÷ Budgeted Hours) × 100\n\nBudgeted Hours = 42 workers × 7 hours × 5 days × 4 weeks = 5,880\nhours\n\nStandard hours for actual output = 5,880 x 125% = 7,350 hours\n(iii) Standard capacity usage ratio\n\n=\nBudgeted Hours\n×100\nMax. possible hours in the budgeted period\n\n= (5,880 hours÷ 8,400 hours) × 100\n\n= 70%\n(iv) Actual Usage of Budgeted Capacity Ratio\n\n= Actual working Hours×100\nBudgeted Hours\n\n= (5,460 hours ÷ 5,880hours) × 100\n\n= 92.86%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q005_B",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 24,
+    "end": 28
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "5(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 24,
+    "page_end": 28,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Following data is available for XYZ Ltd. for the month of March 2025:\nStandard working hours\n7 hours per day of 5 days per week\nNumber of weeks in the month\n4 weeks\nMaximum Capacity (No. of employees)\n60 employees\nActual working (No. of employees)\n42 employees\nActual Capacity Usage Ratio\n65%\nActivity Ratio\n125%\n\n24\n\nCalculate the following:\n(i)  Actual Hours worked\n(ii)  Standard Hours for actual output\n(iii)  Standard Capacity Usage Ratio\n(iv)  Actual Usage of Budgeted Capacity Ratio\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) (i) Actual Hours worked\n\nActual Capacity Usage Ratio =\nActual Hoursworked\n×100\nMax. possible working hours in a period\n\n65% = (Actual working hours ÷ Maximum Capacity in a budget period)\n\n× 100\n\nMaximum Capacity in a budget period\n\n= 60 workers × 7 hours × 5 days × 4 weeks = 8,400 hours\n\nActual hours= 8,400 × 65% = 5,460 hours\n(ii)  Standard hours for actual output\n\nActivity ratio = Standard Hrs\nBudgeted Hrs\n×100\n\n125% = (Standard hours ÷ Budgeted Hours) × 100\n\nBudgeted Hours = 42 workers × 7 hours × 5 days × 4 weeks = 5,880\nhours\n\nStandard hours for actual output = 5,880 x 125% = 7,350 hours\n(iii) Standard capacity usage ratio\n\n=\nBudgeted Hours\n×100\nMax. possible hours in the budgeted period\n\n= (5,880 hours÷ 8,400 hours) × 100\n\n= 70%\n(iv) Actual Usage of Budgeted Capacity Ratio\n\n= Actual working Hours×100\nBudgeted Hours\n\n= (5,460 hours ÷ 5,880hours) × 100\n\n= 92.86%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n27"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

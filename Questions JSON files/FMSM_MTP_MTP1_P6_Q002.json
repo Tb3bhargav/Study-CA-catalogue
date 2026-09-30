@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP1_P6_Q002",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2. \nWhat will be the annual after-tax cash inflow from the further-processing proposal? \n(a) \n ` 24,00,000 \n(b)  \n` 27,00,000 \n(c)  \n` 31,00,000 \n(d)  \n` 38,00,000",
+  "suggested_answer": "(C) ` 31,00,000 Incremental Contribution Before Depreciation & Tax = ` 50,00,000 Less: Depreciation = ` 1,20,00,000 / 10 = ` 12,00,000 Profit Before Tax = 50,00,000 – 12,00,000 = ` 38,00,000 Less: Tax @ 50% = ` 19,00,000 Profit After Tax = ` 19,00,000 Add Back Depreciation = 19,00,000 + 12,00,000 = ` 31,00,000",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP1_P6_Q002",
+  "source_filename": "mtp1paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 1 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "2",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6answers.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nWhat will be the annual after-tax cash inflow from the further-processing proposal? \n(a) \n ` 24,00,000 \n(b)  \n` 27,00,000 \n(c)  \n` 31,00,000 \n(d)  \n` 38,00,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 31,00,000 Incremental Contribution Before Depreciation & Tax = ` 50,00,000 Less: Depreciation = ` 1,20,00,000 / 10 = ` 12,00,000 Profit Before Tax = 50,00,000 – 12,00,000 = ` 38,00,000 Less: Tax @ 50% = ` 19,00,000 Profit After Tax = ` 19,00,000 Add Back Depreciation = 19,00,000 + 12,00,000 = ` 31,00,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

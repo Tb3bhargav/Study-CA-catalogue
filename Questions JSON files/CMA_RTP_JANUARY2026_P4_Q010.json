@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q010",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "10. \nBrightTech Appliances Ltd. is a leading manufacturer of smart home \ndevices such as the SmartCool AC, PowerLite Inverter, and EcoDry Dryer. \nAmid increasing operational complexity, the company’s finance \ncontroller has initiated a review of overhead allocations to gain better \ncontrol over departmental efficiency and product profitability. \n \nThe company operates through four major departments:",
+  "suggested_answer": "(i) \nSchedule of Cost Allocation among the Departments \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nRaw Material Cost \n5,75,00,000 5,75,00,000 \n- \n- \n- \nIndirect \nMaterial \nCost: \n12,50,000 \n7,45,000 \n4,75,000 \n30,000 \n- \nSalary & Wages \n1,60,00,000 1,60,00,000 \n- \n- \n- \nRent & Property tax \n90,000 \n- \n- \n90,000 \n- \nDepreciation \non \nMachinery \n12,50,000 \n12,50,000 \n- \n- \n- \nPower & fuel \n4,90,000 \n4,70,000 \n- \n20,000 \n- \nInsurance \npremium \non machinery \n5,00,000 \n5,00,000 \n- \n- \n- \nPrinting \n& \nStationery: \n8,20,000 \n21,000 \n5,78,000 \n2,21,000 \n- \nAudit fees \n1,40,000 \n- \n- \n- \n1,40,000 \nTelephone & Mobile \nexpenses: \n4,95,000 \n1,25,000 \n50,000 \n2,90,000 \n30,000 \nTravelling expenses \n24,00,000 \n5,50,000 \n- \n6,50,000 \n12,00,000 \nSoftware \nlicense \nrenewal fees: \n16,50,000 \n8,80,000 \n1,50,000 \n6,20,000 \n- \nTotal \nAllocated \nDirect Expenses \n8,25,85,000 7,80,41,000 \n12,53,000 \n19,21,000 \n13,70,000 \n(ii)  Schedule of Cost Apportionment (Primary Distribution) \nBasis \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nAllocated \nCost \nDirect \n8,25,85,000 7,80,41,000 \n12,53,000 \n19,21,000 \n13,70,000 \nSalary & \nWages \nGross Salary 2,60,00,000 \n97,50,000 \n65,00,000 \n54,16,667 \n43,33,333 \n(9:6:5:4) \nRent & \nProperty tax \nFloor Area \n30,000 \n16,500 \n6,000 \n4,500 \n3,000 \n(11:4:3:2) \nDepreciation  \n \n \n \n \n  \n– Building  \nFloor Area \n10,50,000 \n5,77,500 \n2,10,000 \n1,57,500 \n1,05,000 \n(11:4:3:2) \n– AC \nRT \n2,00,000 \n88,889 \n44,444 \n44,444 \n22,222 \n(4:2:2:1) \n\n \nINTERMEDIATE EXAMINATION \n \n \n36 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nGroup \nEmployee \nInsurance \nGross Salary \n3,10,000 \n1,16,250 \n77,500 \n64,583 \n51,667 \n(9:6:5:4) \nElectricity \nExpenses \nUnits \n4,00,000 \n1,05,660 \n1,88,679 \n75,472 \n30,189 \n(14:25:10:4) \nMeal Coupon \nSubsidy \nNo. of \nEmployees \n(22,20,28) \n2,25,000 \n66,000 \n60,000 \n84,000 \n15,000 \n(b.f.) \nMiscellaneous \nExpenditure \nDirect \nExpenses \n9,50,000 \n8,97,729 \n14,414 \n22,098 \n15,760 \n(Allocated \nExpenses) \nTotal  \n11,17,50,000 8,96,59,528 \n83,54,037 \n77,90,264 \n59,46,170 \n(iii)  Schedule of Secondary Distribution: \nBasis \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nTotal Allocated \nand \nApportioned \ncosts \n11,17,50,000 8,96,59,528 \n83,54,037 \n77,90,264 \n59,46,170 \nGeneral \nManagement \n(2:1:7) \n59,46,170 \n11,89,234 \n5,94,617 \n41,62,319 \n(59,46,170) \n \n 9,08,48,762 \n89,48,654 \n1,19,52,583 \n  \nAdministration \ndept. \n(1:1) \n89,48,654 \n44,74,327 \n(89,48,654) \n44,74,327 \n  \nTotal \n \n 9,53,23,089 \n- \n1,64,26,910",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q010",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "10",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. \nBrightTech Appliances Ltd. is a leading manufacturer of smart home \ndevices such as the SmartCool AC, PowerLite Inverter, and EcoDry Dryer. \nAmid increasing operational complexity, the company’s finance \ncontroller has initiated a review of overhead allocations to gain better \ncontrol over departmental efficiency and product profitability. \n \nThe company operates through four major departments:"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nSchedule of Cost Allocation among the Departments \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nRaw Material Cost \n5,75,00,000 5,75,00,000 \n- \n- \n- \nIndirect \nMaterial \nCost: \n12,50,000 \n7,45,000 \n4,75,000 \n30,000 \n- \nSalary & Wages \n1,60,00,000 1,60,00,000 \n- \n- \n- \nRent & Property tax \n90,000 \n- \n- \n90,000 \n- \nDepreciation \non \nMachinery \n12,50,000 \n12,50,000 \n- \n- \n- \nPower & fuel \n4,90,000 \n4,70,000 \n- \n20,000 \n- \nInsurance \npremium \non machinery \n5,00,000 \n5,00,000 \n- \n- \n- \nPrinting \n& \nStationery: \n8,20,000 \n21,000 \n5,78,000 \n2,21,000 \n- \nAudit fees \n1,40,000 \n- \n- \n- \n1,40,000 \nTelephone & Mobile \nexpenses: \n4,95,000 \n1,25,000 \n50,000 \n2,90,000 \n30,000 \nTravelling expenses \n24,00,000 \n5,50,000 \n- \n6,50,000 \n12,00,000 \nSoftware \nlicense \nrenewal fees: \n16,50,000 \n8,80,000 \n1,50,000 \n6,20,000 \n- \nTotal \nAllocated \nDirect Expenses \n8,25,85,000 7,80,41,000 \n12,53,000 \n19,21,000 \n13,70,000 \n(ii)  Schedule of Cost Apportionment (Primary Distribution) \nBasis \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nAllocated \nCost \nDirect \n8,25,85,000 7,80,41,000 \n12,53,000 \n19,21,000 \n13,70,000 \nSalary & \nWages \nGross Salary 2,60,00,000 \n97,50,000 \n65,00,000 \n54,16,667 \n43,33,333 \n(9:6:5:4) \nRent & \nProperty tax \nFloor Area \n30,000 \n16,500 \n6,000 \n4,500 \n3,000 \n(11:4:3:2) \nDepreciation  \n \n \n \n \n  \n– Building  \nFloor Area \n10,50,000 \n5,77,500 \n2,10,000 \n1,57,500 \n1,05,000 \n(11:4:3:2) \n– AC \nRT \n2,00,000 \n88,889 \n44,444 \n44,444 \n22,222 \n(4:2:2:1) \n\n \nINTERMEDIATE EXAMINATION \n \n \n36 \n \nREVISION TEST PAPERS \nJANUARY 2026 EXAMINATION\nGroup \nEmployee \nInsurance \nGross Salary \n3,10,000 \n1,16,250 \n77,500 \n64,583 \n51,667 \n(9:6:5:4) \nElectricity \nExpenses \nUnits \n4,00,000 \n1,05,660 \n1,88,679 \n75,472 \n30,189 \n(14:25:10:4) \nMeal Coupon \nSubsidy \nNo. of \nEmployees \n(22,20,28) \n2,25,000 \n66,000 \n60,000 \n84,000 \n15,000 \n(b.f.) \nMiscellaneous \nExpenditure \nDirect \nExpenses \n9,50,000 \n8,97,729 \n14,414 \n22,098 \n15,760 \n(Allocated \nExpenses) \nTotal  \n11,17,50,000 8,96,59,528 \n83,54,037 \n77,90,264 \n59,46,170 \n(iii)  Schedule of Secondary Distribution: \nBasis \nTotal Production \nDept. \nAdministration \nDept. \nSelling & \nDistribution \nDept. \nGeneral \nManagement \nTotal Allocated \nand \nApportioned \ncosts \n11,17,50,000 8,96,59,528 \n83,54,037 \n77,90,264 \n59,46,170 \nGeneral \nManagement \n(2:1:7) \n59,46,170 \n11,89,234 \n5,94,617 \n41,62,319 \n(59,46,170) \n \n 9,08,48,762 \n89,48,654 \n1,19,52,583 \n  \nAdministration \ndept. \n(1:1) \n89,48,654 \n44,74,327 \n(89,48,654) \n44,74,327 \n  \nTotal \n \n 9,53,23,089 \n- \n1,64,26,910"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  LMN Ltd., a mid-sized manufacturing company, generates revenue primarily\nthrough the sale of consumer electronics in domestic and international market.\nThe company reported sales of ` 2 crores in the Financial Year 2024-25. The\ncompany generates revenue through sale of standard electronics devices,\n\n48\ncustomized product orders with specific delivery terms and extended\nwarranties and after-sales services.\n\nThe auditor has to verify that all sales are accurately measured as per\napplicable accounting standards and correctly journalized, summarized and\nposted in the financial statements,\n\nExplain the audit procedures to ensure the same.\n(5 Marks)",
+  "suggested_answer": "(a) The auditor will apply the following audit procedures to verify that all\nsales are accurately measured as per applicable accounting standards\nand correctly journalised, summarised, and posted in the financial\nstatements are:\n•\nTrace a few transactions from inception to completion. (Examination in\ndepth)\n•\nEg: Take few sales transaction, and check from the receipt of sales order\nto the payment of receivable balance, every underlying document to\nensure if it is properly recorded at every stage and measured accurately\ntaking into consideration all the incentives, discounts, if any. The\nrecognition shall be according to the revenue recognition policy of the\nentity.\n•\nIf the client is engaged in export sales, then compliance with AS 11\nshall be ensured.\n\nAUDITING AND ETHICS\n\n49\n•\nAuditor must understand client’s operations and related GAAP issues\ne.g. point of sale revenue recognition vs. percentage of completion,\nwherever applicable.\n•\nCompare the rate of sales affected with related parties and review them\nfor collectability, as well as whether they were properly authorised and\nthe value of such transactions were reasonable and at arm’s length.",
+  "marks": "(5 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q003_A",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 14,
+    "end": 16
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 14,
+    "page_end": 16,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  LMN Ltd., a mid-sized manufacturing company, generates revenue primarily\nthrough the sale of consumer electronics in domestic and international market.\nThe company reported sales of ` 2 crores in the Financial Year 2024-25. The\ncompany generates revenue through sale of standard electronics devices,\n\n48\ncustomized product orders with specific delivery terms and extended\nwarranties and after-sales services.\n\nThe auditor has to verify that all sales are accurately measured as per\napplicable accounting standards and correctly journalized, summarized and\nposted in the financial statements,\n\nExplain the audit procedures to ensure the same.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) The auditor will apply the following audit procedures to verify that all\nsales are accurately measured as per applicable accounting standards\nand correctly journalised, summarised, and posted in the financial\nstatements are:\n•\nTrace a few transactions from inception to completion. (Examination in\ndepth)\n•\nEg: Take few sales transaction, and check from the receipt of sales order\nto the payment of receivable balance, every underlying document to\nensure if it is properly recorded at every stage and measured accurately\ntaking into consideration all the incentives, discounts, if any. The\nrecognition shall be according to the revenue recognition policy of the\nentity.\n•\nIf the client is engaged in export sales, then compliance with AS 11\nshall be ensured.\n\nAUDITING AND ETHICS\n\n49\n•\nAuditor must understand client’s operations and related GAAP issues\ne.g. point of sale revenue recognition vs. percentage of completion,\nwherever applicable.\n•\nCompare the rate of sales affected with related parties and review them\nfor collectability, as well as whether they were properly authorised and\nthe value of such transactions were reasonable and at arm’s length."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

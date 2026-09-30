@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) ABC Limited manufactures four products A, B, C and D in the same factory.\nThe following information is given for a certain period:\nParticulars\nA\nB\nC\nD\nInput Materials (in units)\n600\n400\n400\n200\nAverage Yield\n80%\n90%\n96%\n72%\n\nThe finished goods' packaging cost is ` 4,600.\n\nOther information:\n(1)  All the products are packed in boxes where each box is having capacity\nof 24 units.\n(2)  Product A and product B are packed in larger boxes whereas product C\nand product D are packed in smaller boxes, which cost half the price of\nbigger box.\n(3)  Each box contains only one type of product. There is no product mix up\nin packaging.\n\nYou are required to:\n(i)  Find out how many large and small boxes are used.\n(ii)  Find out the cost of per large box and per small box.\n(iii)  Allocate the packaging cost among the four finished products. (5 Marks)",
+  "suggested_answer": "(a)  (i) Calculation of Output Units and Boxes required\nProduct\nA\nB\nC\nD\nInput Units\n600\n400\n400\n200\nYield %\n80%\n90%\n96%\n72%\nOutput Units\n480\n360\n384\n144\nBoxes Required*\n20\n15\n16\n6\n* Capacity per box = 24 units\nLarge boxes used = 20 + 15 = 35\nSmall boxes used = 16 + 6 = 22\n(ii)  Let Cost of one small box = ` x and Cost of one large box = ` 2x\n35(2x) + 22x\n= `4,600\n70x + 22x\n\n= `4,600\nCost of one small box ‘x’ = ` 50\nCost of one large box ‘2x’ = ` 100\n(iii) Allocation of Packaging Cost\nProduct\nBoxes\nCost per Box\nPackaging Cost (`)\nA\n20 (Large)\n100\n2,000\nB\n15 (Large)\n100\n1,500\nC\n16 (Small)\n50\n800\nD\n6 (Small)\n50\n300\nTotal\n4,600",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2026_P4_Q001_A",
+  "source_filename": "91202bos-aps4356-sa-int-p4.pdf",
+  "source_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Activity Based Costing",
+    "topic": "Activity Based Costing",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf",
+      "answer_pdf": "suggested_answers/91202bos-aps4356-sa-int-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) ABC Limited manufactures four products A, B, C and D in the same factory.\nThe following information is given for a certain period:\nParticulars\nA\nB\nC\nD\nInput Materials (in units)\n600\n400\n400\n200\nAverage Yield\n80%\n90%\n96%\n72%\n\nThe finished goods' packaging cost is ` 4,600.\n\nOther information:\n(1)  All the products are packed in boxes where each box is having capacity\nof 24 units.\n(2)  Product A and product B are packed in larger boxes whereas product C\nand product D are packed in smaller boxes, which cost half the price of\nbigger box.\n(3)  Each box contains only one type of product. There is no product mix up\nin packaging.\n\nYou are required to:\n(i)  Find out how many large and small boxes are used.\n(ii)  Find out the cost of per large box and per small box.\n(iii)  Allocate the packaging cost among the four finished products. (5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i) Calculation of Output Units and Boxes required\nProduct\nA\nB\nC\nD\nInput Units\n600\n400\n400\n200\nYield %\n80%\n90%\n96%\n72%\nOutput Units\n480\n360\n384\n144\nBoxes Required*\n20\n15\n16\n6\n* Capacity per box = 24 units\nLarge boxes used = 20 + 15 = 35\nSmall boxes used = 16 + 6 = 22\n(ii)  Let Cost of one small box = ` x and Cost of one large box = ` 2x\n35(2x) + 22x\n= `4,600\n70x + 22x\n\n= `4,600\nCost of one small box ‘x’ = ` 50\nCost of one large box ‘2x’ = ` 100\n(iii) Allocation of Packaging Cost\nProduct\nBoxes\nCost per Box\nPackaging Cost (`)\nA\n20 (Large)\n100\n2,000\nB\n15 (Large)\n100\n1,500\nC\n16 (Small)\n50\n800\nD\n6 (Small)\n50\n300\nTotal\n4,600"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

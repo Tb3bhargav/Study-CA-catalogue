@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q004_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  Sundar Limited maintains its Cost Accounting System on the basis of\nNon-Integral System of Accounting. The following transactions arose during\nthe month of August, 2025:\nParticulars\nAmount (`)\nMaterials purchased on credit\n10,25,000\nMaterials issued to production (Direct)\n5,55,000\nDirect Wages allocated to production\n3,00,000\nFactory Overheads over-absorbed\n2,20,000\nAdministration Overheads under-absorbed\n1,40,000\nRequired:\n\nJournalize the above-mentioned transactions in Cost Books maintained on\nNon-Integrated System of Accounting.\n(5 Marks)",
+  "suggested_answer": "(b)  Journal entries are as follows:\n\nDr.\nCr.\n\n(`)\n(`)\n1.\nStores Ledger Control A/c\nDr.\n10,25,000\n\nTo Cost Ledger Control A/c\n(Materials purchased)\n\n10,25,000\n\nOR\n\nMaterial Control A/c\nDr.\n10,25,000\n\nTo Cost Ledger Control A/c\n\n10,25,000\n\nStores Ledger Control A/c\nDr.\n10,25,000\n\nTo Material Control A/c\n\n10,25,000\n2.\nWork-in-Process Control A/c\nDr.\n5,55,000\n\nTo Store Ledger Control A/c\n(Materials issued to production)\n\n5,55,000\n3.\nWork-in-Process Control A/c\nTo Wages Control A/c\n(Direct wages charged to production)\nDr.\n3,00,000\n\n3,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n4.\nFactory Overheads Control A/c\nDr.\n2,20,000\n\nTo Costing Profit & Loss A/c\n(Factory overheads over absorbed)\n\n2,20,000\n5.\nCosting Profit & Loss A/c\nDr.\n1,40,000\n\nTo Administrative Overhead Control\nA/c\n(Admin overheads under absorbed)\n\n1,40,000",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_SEPTEMBER2025_P4_Q004_B",
+  "source_filename": "89273bos-aps3012-int-p4.pdf",
+  "source_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 21,
+    "end": 23
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Cost Accounting System",
+    "topic": "Cost Accounting System",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(b)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf",
+      "answer_pdf": "suggested_answers/89273bos-aps3012-int-p4.pdf"
+    },
+    "page_start": 21,
+    "page_end": 23,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Sundar Limited maintains its Cost Accounting System on the basis of\nNon-Integral System of Accounting. The following transactions arose during\nthe month of August, 2025:\nParticulars\nAmount (`)\nMaterials purchased on credit\n10,25,000\nMaterials issued to production (Direct)\n5,55,000\nDirect Wages allocated to production\n3,00,000\nFactory Overheads over-absorbed\n2,20,000\nAdministration Overheads under-absorbed\n1,40,000\nRequired:\n\nJournalize the above-mentioned transactions in Cost Books maintained on\nNon-Integrated System of Accounting.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  Journal entries are as follows:\n\nDr.\nCr.\n\n(`)\n(`)\n1.\nStores Ledger Control A/c\nDr.\n10,25,000\n\nTo Cost Ledger Control A/c\n(Materials purchased)\n\n10,25,000\n\nOR\n\nMaterial Control A/c\nDr.\n10,25,000\n\nTo Cost Ledger Control A/c\n\n10,25,000\n\nStores Ledger Control A/c\nDr.\n10,25,000\n\nTo Material Control A/c\n\n10,25,000\n2.\nWork-in-Process Control A/c\nDr.\n5,55,000\n\nTo Store Ledger Control A/c\n(Materials issued to production)\n\n5,55,000\n3.\nWork-in-Process Control A/c\nTo Wages Control A/c\n(Direct wages charged to production)\nDr.\n3,00,000\n\n3,00,000\n\nCOST AND MANAGEMENT ACCOUNTING\n\n23\n4.\nFactory Overheads Control A/c\nDr.\n2,20,000\n\nTo Costing Profit & Loss A/c\n(Factory overheads over absorbed)\n\n2,20,000\n5.\nCosting Profit & Loss A/c\nDr.\n1,40,000\n\nTo Administrative Overhead Control\nA/c\n(Admin overheads under absorbed)\n\n1,40,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

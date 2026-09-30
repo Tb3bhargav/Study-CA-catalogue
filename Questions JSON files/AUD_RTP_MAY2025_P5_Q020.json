@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q020",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 20,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "20. \nCA Puneet is appointed as an auditor of Kamla Limited for the F.Y.  \n2023-24. The management of Kamla Limited has requested the auditor \nto change the terms of original engagement as the company has \ndiversified its business and a few new products have been introduced by \nthe company. Whether CA Puneet can agree to the request made by the \nmanagement? Under which circumstances can the client make a request \nto the auditor for a change in the terms of engagement?",
+  "suggested_answer": "The auditor may decide not to send a new audit engagement letter or \nother written agreement each period. However, a signiﬁcant change in \nnature or size of the entity’s business is one of the factors which may \nmake it appropriate to revise the terms of the audit engagement.  \n \nIn the given situation, Kamla Limited has diversified its business, and few \nnew products have also been introduced by the company which is \nindicative of signiﬁcant change in nature or size of the entity’s business. \nIn view of the above, CA. Puneet can agree to the request made by the \nmanagement to change the terms of the audit engagement. Therefore, \nthe request of Management to change the terms of audit engagement is \nappropriate. \nA request from the client for the auditor to change the engagement \nmay result from:",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q020",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "20",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "20. \nCA Puneet is appointed as an auditor of Kamla Limited for the F.Y.  \n2023-24. The management of Kamla Limited has requested the auditor \nto change the terms of original engagement as the company has \ndiversified its business and a few new products have been introduced by \nthe company. Whether CA Puneet can agree to the request made by the \nmanagement? Under which circumstances can the client make a request \nto the auditor for a change in the terms of engagement?"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The auditor may decide not to send a new audit engagement letter or \nother written agreement each period. However, a signiﬁcant change in \nnature or size of the entity’s business is one of the factors which may \nmake it appropriate to revise the terms of the audit engagement.  \n \nIn the given situation, Kamla Limited has diversified its business, and few \nnew products have also been introduced by the company which is \nindicative of signiﬁcant change in nature or size of the entity’s business. \nIn view of the above, CA. Puneet can agree to the request made by the \nmanagement to change the terms of the audit engagement. Therefore, \nthe request of Management to change the terms of audit engagement is \nappropriate. \nA request from the client for the auditor to change the engagement \nmay result from:"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

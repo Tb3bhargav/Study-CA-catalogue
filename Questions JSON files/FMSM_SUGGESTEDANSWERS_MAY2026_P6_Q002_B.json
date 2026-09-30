@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q002_B",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b)  B Ltd. has received an offer to get a discount of 2% on an invoice value of\n`75,000, if payment is made within one month instead of normal credit terms\nof 3 months. If the company makes early payment, it will need to finance the\npayment through a bank overdraft of 10% p.a. Tax rate is 30%.\n\nWhether B Ltd. should accept the offer? Support your decision with\ncalculations.\n(3 Marks)",
+  "suggested_answer": "(b) Discount on early payment = 2% x 75,000 = `1,500\n\nNet Benefit (A)\n= ` 1,500 - Tax (30%) = ` 1,050\n\nThe company must borrow the discounted invoice amount via a bank\noverdraft for the 2-month period.\n\nAmount to be Borrowed = 75,000 − 1,500 = ` 73,500\n\nBank overdraft interest for 2 months:\n\n= P × R × T\n= 73,500 × 10% × 2/12\n\n= ` 1,225\n\nAfter tax interest cost  = 1,225 × (1−0.30)\n= 1,225 × 0.70\n= ` 857.50\n\nNet Saving\n\n= Net Benefit – Net Interest Cost\n\n= ` 1,050 – ` 857.50\n\n= ` 192.50 (Net Saving)\n\nSince the company gains a net benefit of ` 192.50 by making early payment,\nB Ltd. should accept the discount offer.\n\nAlternatively, the question can be solved as below:\n\nAnnualized benefit of discount\n\n=\nDiscount %\n12 months\n×\n100-Discount %\nCredit Period – Discount Period\n\n= 2/98 x 12/2 x 100\n=12.245 %\n\nPost tax benefit\n= 12.245 x (1-0.3) =8.571\n\nPost tax Bank OD rate\n= 10% x (1-0.3) =7%\n\nBenefit of discount is more than cost of OD. Hence, discount should be\naccepted.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17",
+  "marks": "(3 Marks)",
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2026_P6_Q002_B",
+  "source_filename": "92877bos-sa-int-may2026-p6.pdf",
+  "source_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 14,
+    "end": 17
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "2(b)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf",
+      "answer_pdf": "suggested_answers/92877bos-sa-int-may2026-p6.pdf"
+    },
+    "page_start": 14,
+    "page_end": 17,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  B Ltd. has received an offer to get a discount of 2% on an invoice value of\n`75,000, if payment is made within one month instead of normal credit terms\nof 3 months. If the company makes early payment, it will need to finance the\npayment through a bank overdraft of 10% p.a. Tax rate is 30%.\n\nWhether B Ltd. should accept the offer? Support your decision with\ncalculations.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Discount on early payment = 2% x 75,000 = `1,500\n\nNet Benefit (A)\n= ` 1,500 - Tax (30%) = ` 1,050\n\nThe company must borrow the discounted invoice amount via a bank\noverdraft for the 2-month period.\n\nAmount to be Borrowed = 75,000 − 1,500 = ` 73,500\n\nBank overdraft interest for 2 months:\n\n= P × R × T\n= 73,500 × 10% × 2/12\n\n= ` 1,225\n\nAfter tax interest cost  = 1,225 × (1−0.30)\n= 1,225 × 0.70\n= ` 857.50\n\nNet Saving\n\n= Net Benefit – Net Interest Cost\n\n= ` 1,050 – ` 857.50\n\n= ` 192.50 (Net Saving)\n\nSince the company gains a net benefit of ` 192.50 by making early payment,\nB Ltd. should accept the discount offer.\n\nAlternatively, the question can be solved as below:\n\nAnnualized benefit of discount\n\n=\nDiscount %\n12 months\n×\n100-Discount %\nCredit Period – Discount Period\n\n= 2/98 x 12/2 x 100\n=12.245 %\n\nPost tax benefit\n= 12.245 x (1-0.3) =8.571\n\nPost tax Bank OD rate\n= 10% x (1-0.3) =7%\n\nBenefit of discount is more than cost of OD. Hence, discount should be\naccepted.\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n17"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

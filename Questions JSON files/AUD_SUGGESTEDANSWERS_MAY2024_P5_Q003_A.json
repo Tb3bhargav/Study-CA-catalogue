@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_A",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) CA E is auditor of LM Ltd. Before commencing with current year's audit, he\ninitiated planning for the audit. Planning includes the need to consider\ncertain matters, prior to the identification and assessment of the risk of\nmaterial misstatements. Enumerate such matters.\n(4 Marks)",
+  "suggested_answer": "(a)  Nature of Audit Planning- A Continuous and iterative process: Planning\nincludes the need to consider, prior to the auditor’s identiﬁcation and\nassessment of the risks of material misstatement, such matters as: -\n1.\nThe analytical procedures to be applied as risk assessment procedures.\n2.\nObtaining a general understanding of the legal and regulatory\nframework applicable to the entity and how the entity is complying\nwith that framework.\n3.\nThe determination of materiality.\n4.\nThe involvement of experts.\n5.\nThe performance of other risk assessment procedures.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_A",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 9,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(a)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 9,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) CA E is auditor of LM Ltd. Before commencing with current year's audit, he\ninitiated planning for the audit. Planning includes the need to consider\ncertain matters, prior to the identification and assessment of the risk of\nmaterial misstatements. Enumerate such matters.\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Nature of Audit Planning- A Continuous and iterative process: Planning\nincludes the need to consider, prior to the auditor’s identiﬁcation and\nassessment of the risks of material misstatement, such matters as: -\n1.\nThe analytical procedures to be applied as risk assessment procedures.\n2.\nObtaining a general understanding of the legal and regulatory\nframework applicable to the entity and how the entity is complying\nwith that framework.\n3.\nThe determination of materiality.\n4.\nThe involvement of experts.\n5.\nThe performance of other risk assessment procedures."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

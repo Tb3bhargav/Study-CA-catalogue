@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) XYZ Transport is running a bus between town A and town B which are 25\nkms apart. The bus will make 4 round trips every day carrying on an average\n30 passengers on each trip. The bus costs the company a sum of ` 5,00,000.\nIt has been insured at 2% per annum and the annual tax will amount to\n` 2,000 and the garage rent is ` 500 per month. Annual repairs will be\n` 8,000 and the bus is likely to last for 5 years. The driver's salary will be\n` 15,000 per month and the conductor's salary will be ` 12,000 per month in\naddition to 10% of the takings as commission (to be shared by the driver and\nconductor equally). Cost of stationery will be ` 800 per month.\nManager-cum-accountant's salary is ` 35,000 per month. Petrol and Oil will\n\n20\nbe ` 1,000 per 100 km. Assuming 15% profit on takings. Depreciation will be\ncharged at straight line method.\nYou are required to calculate the bus fare to be charged for per passenger\nkilometer. The bus will run on an average 25 days in a month.",
+  "suggested_answer": "(a)\n\nStatement of Cost per Passenger – Km\nParticulars\nCost per\nannum (`)\nPer month\n(`)\nStanding Charges (A):\n\nTaxes\n2,000\n\nInsurance (5,00,000 × 0.02)\n10,000\n\nGarage Rent (500 × 12)\n6,000\n\nSalary of Driver (15,000× 12)\n1,80,000\n\nSalary of Conductor (12,000× 12)\n1,44,000\n\nStationery (800 × 12)\n9,600\n\nSalary of Manager cum Accountant (35,000 × 12)\n4,20,000\n\nTotal\n7,71,600\n\nMonthly Standing Charges: (7,71,600/12)\n\n64,300.00\nRunning Charges (B):\n\nDepreciation [(5,00,000/5/12]\n\n8,333.33\nDiesel and oil [(4 × 2 × 25 × 25) × 10]\n\n50,000.00\nMonthly Running Charges\n\n58,333.33\nMaintenance Charges (C):\n\nRepairs\n8,000\n666.67\nTotal cost before commission\n\n1,23,300.00\nCommission: (D)\n\n16,440.00\nTotal cost (A+B+C+D)\n\n1,39,740.00\nProfit\n\n24,660.00\nTotal takings (Total Cost + Profit)\n\n1,64,400.00\nTotal passenger-km  = 4 × 2 × 25 × 25 × 30 = 1,50,000 passenger km\nHence, Fare per passenger-km    = 1,64,400.00/ 1,50,000 = ` 1.09\n\n22\nWorking Note:\nCalculation of Commission and Profit:\nLet total takings  =  ` x\nCommission\n=  0.10 x\nProfit\n\n=  0.15 x\nTakings\n\n=  Cost before commission and profit + Commission +\n\nProfit\nTherefore, x\n=  1,23,300 + 0.10 x + 0.15 x\n0.75x\n\n=  1,23,300\nx\n\n=  ` 1,64,400\nCommission\n=  0.10 × ` 1,64,400 = ` 16,440\nProfit\n\n=  0.15 × ` 1,64,400 = ` 24,660",
+  "marks": null,
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q004_A",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 19,
+    "end": 22
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 19,
+    "page_end": 22,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) XYZ Transport is running a bus between town A and town B which are 25\nkms apart. The bus will make 4 round trips every day carrying on an average\n30 passengers on each trip. The bus costs the company a sum of ` 5,00,000.\nIt has been insured at 2% per annum and the annual tax will amount to\n` 2,000 and the garage rent is ` 500 per month. Annual repairs will be\n` 8,000 and the bus is likely to last for 5 years. The driver's salary will be\n` 15,000 per month and the conductor's salary will be ` 12,000 per month in\naddition to 10% of the takings as commission (to be shared by the driver and\nconductor equally). Cost of stationery will be ` 800 per month.\nManager-cum-accountant's salary is ` 35,000 per month. Petrol and Oil will\n\n20\nbe ` 1,000 per 100 km. Assuming 15% profit on takings. Depreciation will be\ncharged at straight line method.\nYou are required to calculate the bus fare to be charged for per passenger\nkilometer. The bus will run on an average 25 days in a month."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)\n\nStatement of Cost per Passenger – Km\nParticulars\nCost per\nannum (`)\nPer month\n(`)\nStanding Charges (A):\n\nTaxes\n2,000\n\nInsurance (5,00,000 × 0.02)\n10,000\n\nGarage Rent (500 × 12)\n6,000\n\nSalary of Driver (15,000× 12)\n1,80,000\n\nSalary of Conductor (12,000× 12)\n1,44,000\n\nStationery (800 × 12)\n9,600\n\nSalary of Manager cum Accountant (35,000 × 12)\n4,20,000\n\nTotal\n7,71,600\n\nMonthly Standing Charges: (7,71,600/12)\n\n64,300.00\nRunning Charges (B):\n\nDepreciation [(5,00,000/5/12]\n\n8,333.33\nDiesel and oil [(4 × 2 × 25 × 25) × 10]\n\n50,000.00\nMonthly Running Charges\n\n58,333.33\nMaintenance Charges (C):\n\nRepairs\n8,000\n666.67\nTotal cost before commission\n\n1,23,300.00\nCommission: (D)\n\n16,440.00\nTotal cost (A+B+C+D)\n\n1,39,740.00\nProfit\n\n24,660.00\nTotal takings (Total Cost + Profit)\n\n1,64,400.00\nTotal passenger-km  = 4 × 2 × 25 × 25 × 30 = 1,50,000 passenger km\nHence, Fare per passenger-km    = 1,64,400.00/ 1,50,000 = ` 1.09\n\n22\nWorking Note:\nCalculation of Commission and Profit:\nLet total takings  =  ` x\nCommission\n=  0.10 x\nProfit\n\n=  0.15 x\nTakings\n\n=  Cost before commission and profit + Commission +\n\nProfit\nTherefore, x\n=  1,23,300 + 0.10 x + 0.15 x\n0.75x\n\n=  1,23,300\nx\n\n=  ` 1,64,400\nCommission\n=  0.10 × ` 1,64,400 = ` 16,440\nProfit\n\n=  0.15 × ` 1,64,400 = ` 24,660"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

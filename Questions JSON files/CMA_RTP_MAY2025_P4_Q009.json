@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q009",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 9,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "9. \nPi and Qu are part of a manufacturing team that handles multiple jobs \nwithin the production process. Detailed description of their respective \nmonthly wages is provided below: \nThe standard working hours for the month are 210. Overtime is \ncompensated at twice the sum of basic wages and dearness allowance. \nThe employer’s contributions to State Insurance and the Provident Fund \nare equal to the employees' contributions. Employees Pi and Qu were \nassigned to jobs A, S, and D in the following proportions:  \nParticulars \nPi  \nQu \n(i) \nBasic Wages (`) \n12,000 15,000 \n(ii) \nDearness Allowance \n50% \n50% \n(iii) \nContribution to provident Fund (on basic \nwages) \n10% \n10% \n(iv) \nContribution to Employee’s State Insurance \n(on basic wages) \n1.75% \n1.75% \n(v) \nOvertime (Hours) \n8 \n-- \n \nJobs \nA \nS \nD \nWorker Pi \n30% \n30% \n40% \nWorker Qu \n30% \n50% \n20% \nOvertime was done on job S. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n13 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nYou are required to CALCULATE the earnings of Pi and Qu and allocate \nthe employee cost to each job A, S, and D. \nOverheads- Absorption Costing Method",
+  "suggested_answer": "Statement showing Earnings of Workers Pi and Qu \n \nPi (`) \nQu (`) \nBasic wages \n12,000 \n15,000 \nDearness Allowance (50% of Basic Wages) \n6,000 \n  7,500 \nOvertime wages (Refer to Working Note) \n  1,371 \n    -- \nGross wages earned \n19,371 \n22,500 \n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nLess: Contribution to Provident fund \n(1,200) \n(1,500) \nLess: Contribution to ESI \n(210) \n(263) \nNet wages earned \n17,961 \n20,737 \nStatement of Employee Cost: \n \nPi (`) \nQu (`) \nGross Wages (excluding overtime) \n18,000 \n22,500 \nAdd: Employer’s contribution to PF \n1,200 \n1,500 \nAdd: Employer’s contribution to ESI \n210 \n263 \nGross wages earned \n19,410 \n24,263 \nStatement Showing Allocation of Wages to Jobs \n \nTotal \nWages \n(`) \nJobs \nA (`) \nS (`) \nD (`) \nWorker Pi: \n \n \n \n \n- Ordinary Wages (3: 3 : 4) \n19,410 \n5,823 \n5,823 \n7,764 \n- Overtime \n1,371 \n-- \n1,371 \n-- \nWorker Qu: \n \n \n \n \n- Ordinary Wages (3 : 5 : 2) \n24,263 \n7,279 \n12,131 \n4,853 \n \n45,044 \n13,102 \n19,325 12,617 \nWorking Note: \nOver time  = 2 x ቀBasic wage + DA\n210 hours\nቁx 8 hours \n \n \n= 2 x ቀ` 18,000\n210 hoursቁx 8 hours \n \n \n= ` 1,371 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n35 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q009",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "9",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "9. \nPi and Qu are part of a manufacturing team that handles multiple jobs \nwithin the production process. Detailed description of their respective \nmonthly wages is provided below: \nThe standard working hours for the month are 210. Overtime is \ncompensated at twice the sum of basic wages and dearness allowance. \nThe employer’s contributions to State Insurance and the Provident Fund \nare equal to the employees' contributions. Employees Pi and Qu were \nassigned to jobs A, S, and D in the following proportions:  \nParticulars \nPi  \nQu \n(i) \nBasic Wages (`) \n12,000 15,000 \n(ii) \nDearness Allowance \n50% \n50% \n(iii) \nContribution to provident Fund (on basic \nwages) \n10% \n10% \n(iv) \nContribution to Employee’s State Insurance \n(on basic wages) \n1.75% \n1.75% \n(v) \nOvertime (Hours) \n8 \n-- \n \nJobs \nA \nS \nD \nWorker Pi \n30% \n30% \n40% \nWorker Qu \n30% \n50% \n20% \nOvertime was done on job S. \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n13 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nYou are required to CALCULATE the earnings of Pi and Qu and allocate \nthe employee cost to each job A, S, and D. \nOverheads- Absorption Costing Method"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Statement showing Earnings of Workers Pi and Qu \n \nPi (`) \nQu (`) \nBasic wages \n12,000 \n15,000 \nDearness Allowance (50% of Basic Wages) \n6,000 \n  7,500 \nOvertime wages (Refer to Working Note) \n  1,371 \n    -- \nGross wages earned \n19,371 \n22,500 \n\n \nINTERMEDIATE EXAMINATION \n \n \n34 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nLess: Contribution to Provident fund \n(1,200) \n(1,500) \nLess: Contribution to ESI \n(210) \n(263) \nNet wages earned \n17,961 \n20,737 \nStatement of Employee Cost: \n \nPi (`) \nQu (`) \nGross Wages (excluding overtime) \n18,000 \n22,500 \nAdd: Employer’s contribution to PF \n1,200 \n1,500 \nAdd: Employer’s contribution to ESI \n210 \n263 \nGross wages earned \n19,410 \n24,263 \nStatement Showing Allocation of Wages to Jobs \n \nTotal \nWages \n(`) \nJobs \nA (`) \nS (`) \nD (`) \nWorker Pi: \n \n \n \n \n- Ordinary Wages (3: 3 : 4) \n19,410 \n5,823 \n5,823 \n7,764 \n- Overtime \n1,371 \n-- \n1,371 \n-- \nWorker Qu: \n \n \n \n \n- Ordinary Wages (3 : 5 : 2) \n24,263 \n7,279 \n12,131 \n4,853 \n \n45,044 \n13,102 \n19,325 12,617 \nWorking Note: \nOver time  = 2 x ቀBasic wage + DA\n210 hours\nቁx 8 hours \n \n \n= 2 x ቀ` 18,000\n210 hoursቁx 8 hours \n \n \n= ` 1,371 \n \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n35 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

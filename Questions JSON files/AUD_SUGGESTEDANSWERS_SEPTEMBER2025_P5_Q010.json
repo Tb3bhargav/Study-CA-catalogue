@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q010",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 10,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "10. In respect of registration or satisfaction of charges created on Borrowings of\nthe company, following information is to be disclosed in the financial\nstatements. Choose the correct option.\n(A)  Charges or satisfaction yet to be registered with Registrar of Companies\nbeyond the statutory period, details thereof shall be disclosed.\n(B)  Charges or satisfaction yet to be registered with Registrar of Companies\nbeyond the statutory period, details and reasons thereof shall be\ndisclosed.\n(C)  Charges yet to be registered with Registrar of Companies beyond 12\nmonths from the date of creation of charge, the details and reasons\nthereof shall be disclosed.\n(D)  Charges or satisfaction of charges made by the company during the year.\n\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q010",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "10",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "10. In respect of registration or satisfaction of charges created on Borrowings of\nthe company, following information is to be disclosed in the financial\nstatements. Choose the correct option.\n(A)  Charges or satisfaction yet to be registered with Registrar of Companies\nbeyond the statutory period, details thereof shall be disclosed.\n(B)  Charges or satisfaction yet to be registered with Registrar of Companies\nbeyond the statutory period, details and reasons thereof shall be\ndisclosed.\n(C)  Charges yet to be registered with Registrar of Companies beyond 12\nmonths from the date of creation of charge, the details and reasons\nthereof shall be disclosed.\n(D)  Charges or satisfaction of charges made by the company during the year.\n\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

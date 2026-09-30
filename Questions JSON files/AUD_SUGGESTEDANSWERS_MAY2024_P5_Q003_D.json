@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_D",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "d",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(d) M/s PSR & Associates are the auditors of The Saturn Hotel, a chain of five-\nstar hotels. Since the nature of their business is prone to frauds, the company\nhas appointed internal auditors at various locations. The company has also\ndevised a system of effective and efficient internal controls. The auditors, M/s\nPSR & Associates, want to use the work of the internal auditors. In order to\nensure effectiveness, what kind of coordination should be there between the\nexternal auditor and the internal audit function?\n(3 Marks)",
+  "suggested_answer": "(d)  As per SA 610, “Using the Work of Internal Auditors”, coordination\nbetween the external auditor and the internal audit function is effective\nwhen, for example;\n(i) Discussions take place at appropriate intervals throughout the period.\n(ii) The external auditor informs the internal audit function of significant\nmatters that may affect the function.\n\nAUDITING AND ETHICS\n\n39\n(iii) The external auditor is advised of and has access to relevant reports of\nthe internal audit function and is informed of any significant matters\nthat come to the attention of the function when such matters may\naffect the work of the external auditor so that the external auditor is\nable to consider the implications of such matters for the audit\nengagement.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_D",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Service Costing",
+    "topic": "Service Costing",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(d)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 10,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d) M/s PSR & Associates are the auditors of The Saturn Hotel, a chain of five-\nstar hotels. Since the nature of their business is prone to frauds, the company\nhas appointed internal auditors at various locations. The company has also\ndevised a system of effective and efficient internal controls. The auditors, M/s\nPSR & Associates, want to use the work of the internal auditors. In order to\nensure effectiveness, what kind of coordination should be there between the\nexternal auditor and the internal audit function?\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d)  As per SA 610, “Using the Work of Internal Auditors”, coordination\nbetween the external auditor and the internal audit function is effective\nwhen, for example;\n(i) Discussions take place at appropriate intervals throughout the period.\n(ii) The external auditor informs the internal audit function of significant\nmatters that may affect the function.\n\nAUDITING AND ETHICS\n\n39\n(iii) The external auditor is advised of and has access to relevant reports of\nthe internal audit function and is informed of any significant matters\nthat come to the attention of the function when such matters may\naffect the work of the external auditor so that the external auditor is\nable to consider the implications of such matters for the audit\nengagement."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

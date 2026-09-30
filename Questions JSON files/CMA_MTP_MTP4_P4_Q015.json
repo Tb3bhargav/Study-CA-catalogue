@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15. \nXYZ Ltd. manufactures a single product ‘Z’. The company by using traditional costing method \nabsorbs all production overheads based on machine hours. The machine hour rate of \noverheads is ` 50 per hour. Actual production overhead incurred were ` 12,00,000 (including \n` 1,30,000 on account of written off obsolete stores and ` 75,000 wages being paid for the \nstrike period). Actual machine hours worked during the year were 18,500 hours. \n \nCalculate the amount of under-absorption of production overheads during the year. \n(A)  \n` 70,000 \n(B)  \n` 2,75,000 \n(C)  \n` 1,45,000 \n(D)  \n` 2,00,000 \n (2 Marks) \n \n \n7 \nPART-II – Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions out of the remaining five questions.",
+  "suggested_answer": "(A) ` 70,000 Amount of under – absorption of production overheads during the year: Particulars Amount (in `) Total production overheads actually incurred during the year 12,00,000 Less: Written off obsolete stores 1,30,000 Less: Wages being paid for the strike period 75,000 Net production overheads actually incurred (A) 9,95,000 Production overhead absorbed by 18,500 machine hours @ ` 50 per hour:(B) 9,25,000 Amount of under absorption of production overheads (A-B) 70,000 6 Part II – Descriptive Question",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q015",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nXYZ Ltd. manufactures a single product ‘Z’. The company by using traditional costing method \nabsorbs all production overheads based on machine hours. The machine hour rate of \noverheads is ` 50 per hour. Actual production overhead incurred were ` 12,00,000 (including \n` 1,30,000 on account of written off obsolete stores and ` 75,000 wages being paid for the \nstrike period). Actual machine hours worked during the year were 18,500 hours. \n \nCalculate the amount of under-absorption of production overheads during the year. \n(A)  \n` 70,000 \n(B)  \n` 2,75,000 \n(C)  \n` 1,45,000 \n(D)  \n` 2,00,000 \n (2 Marks) \n \n \n7 \nPART-II – Descriptive Questions (70 Marks) \nQuestion No. 1 is compulsory. \nAttempt any four questions out of the remaining five questions."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) ` 70,000 Amount of under – absorption of production overheads during the year: Particulars Amount (in `) Total production overheads actually incurred during the year 12,00,000 Less: Written off obsolete stores 1,30,000 Less: Wages being paid for the strike period 75,000 Net production overheads actually incurred (A) 9,95,000 Production overhead absorbed by 18,500 machine hours @ ` 50 per hour:(B) 9,25,000 Amount of under absorption of production overheads (A-B) 70,000 6 Part II – Descriptive Question"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

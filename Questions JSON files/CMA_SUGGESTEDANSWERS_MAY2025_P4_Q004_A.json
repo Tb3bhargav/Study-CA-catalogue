@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q004_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) NT Ltd. showed a net loss of ` 9,000 as per their cost accounts for the year\nended 31-03-2025. However, the financial books disclosed a net profit of\n` 7,000 for the same period. The following information was revealed as a\nresult of scrutiny of the figures of both the sets of books:\n\n(`)\nFactory overheads absorbed\n52,000\nSelling & distribution overheads over absorbed\n6,000\nAdministrative overheads under absorbed\n7,500\nInterest on Loan\n8,800\nDividend received\n9,000\nFactory overheads charged\n45,000\nDepreciation charged in financial accounts\n42,000\nDepreciation recovered in cost accounts\n45,000\n\nThere is the difference in the value of closing stock of finished goods due to\nvarying basis of valuation. 500 units of closing stock is valued at ` 41,000 in\ncost accounts whereas market price per unit of closing stock is ` 80 per unit.\n\nIt is found that there is still a difference in the reconciliation statement after\nconsidering all of the above which is due to the excess of raw material\nconsumption in cost accounts.\n\nPrepare:\n(i)  A reconciliation statement taking net loss as per cost accounts as base,\nand\n(ii)  Find out the excess of material consumption during the period in cost\naccounts effectuated the difference in reconciliation.\n(8 Marks)",
+  "suggested_answer": "(a)  (i)  Statement of Reconciliation of profit as obtained under Cost and\nFinancial Accounts\n\n(`)\n(`)\n\nNet Loss as per Cost Records\n\n(9,000)\nAdd: Excess of Material Consumption (see\nbelow)\n8,300\n\nFactory Overhead over-absorbed (` 52,000\n- ` 45,000)\n7,000\n\nSelling & Distribution Overhead over-\nabsorbed\n6,000\n\nDividend Received\n9,000\n\nDepreciation over-charged (` 45,000 -\n` 42,000)\n3,000\n33,300\n\n24,300\nLess: Administration Overhead under-absorbed\n7,500\n\nInterest on Loan\n8,800\n\nOver-valuation of Closing Stock of Finished\nGoods (` 41,000 - ` 40,000)\n(` 80 p.u. x 500 units = ` 40,000 in financial\naccounts)\n1,000 (17,300)\n\nProfit as per Financial Records\n\n7,000\n\n24\n(ii)  Statement showing calculation of excess of material consumption\nin cost accounts:\n\n(`)\n(`)\n\nNet Loss as per Cost Records\n\n(9,000)\nAdd: Excess of Material Consumption\nX\n\nFactory Overhead over-absorbed\n7,000\n\nSelling & Distribution Overhead\nover-absorbed\n6,000\n\nDividend Received\n9,000\n\nDepreciation over-charged\n3,000\nX + 25,000\n\nX + 16,000\nLess: Administration\nOverhead\nunder-\nabsorbed\n7,500\n\nInterest on Loan\n8,800\n\nOver-valuation of Closing Stock of\nFinished Goods\n1,000\n(17,300)\n\nProfit as per Financial Records\n\nX -1,300\n\nTherefore, x – 1,300  =  7,000\n\nOr\nx\n\n=\n7,000 + 1,300\n\n=\n8,300\n\nExcess of material consumption during the period in cost accounts is\n` 8,300.",
+  "marks": "(8 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q004_A",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 22,
+    "end": 24
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "4(a)",
+    "marks": "(8 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 22,
+    "page_end": 24,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) NT Ltd. showed a net loss of ` 9,000 as per their cost accounts for the year\nended 31-03-2025. However, the financial books disclosed a net profit of\n` 7,000 for the same period. The following information was revealed as a\nresult of scrutiny of the figures of both the sets of books:\n\n(`)\nFactory overheads absorbed\n52,000\nSelling & distribution overheads over absorbed\n6,000\nAdministrative overheads under absorbed\n7,500\nInterest on Loan\n8,800\nDividend received\n9,000\nFactory overheads charged\n45,000\nDepreciation charged in financial accounts\n42,000\nDepreciation recovered in cost accounts\n45,000\n\nThere is the difference in the value of closing stock of finished goods due to\nvarying basis of valuation. 500 units of closing stock is valued at ` 41,000 in\ncost accounts whereas market price per unit of closing stock is ` 80 per unit.\n\nIt is found that there is still a difference in the reconciliation statement after\nconsidering all of the above which is due to the excess of raw material\nconsumption in cost accounts.\n\nPrepare:\n(i)  A reconciliation statement taking net loss as per cost accounts as base,\nand\n(ii)  Find out the excess of material consumption during the period in cost\naccounts effectuated the difference in reconciliation.\n(8 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)  Statement of Reconciliation of profit as obtained under Cost and\nFinancial Accounts\n\n(`)\n(`)\n\nNet Loss as per Cost Records\n\n(9,000)\nAdd: Excess of Material Consumption (see\nbelow)\n8,300\n\nFactory Overhead over-absorbed (` 52,000\n- ` 45,000)\n7,000\n\nSelling & Distribution Overhead over-\nabsorbed\n6,000\n\nDividend Received\n9,000\n\nDepreciation over-charged (` 45,000 -\n` 42,000)\n3,000\n33,300\n\n24,300\nLess: Administration Overhead under-absorbed\n7,500\n\nInterest on Loan\n8,800\n\nOver-valuation of Closing Stock of Finished\nGoods (` 41,000 - ` 40,000)\n(` 80 p.u. x 500 units = ` 40,000 in financial\naccounts)\n1,000 (17,300)\n\nProfit as per Financial Records\n\n7,000\n\n24\n(ii)  Statement showing calculation of excess of material consumption\nin cost accounts:\n\n(`)\n(`)\n\nNet Loss as per Cost Records\n\n(9,000)\nAdd: Excess of Material Consumption\nX\n\nFactory Overhead over-absorbed\n7,000\n\nSelling & Distribution Overhead\nover-absorbed\n6,000\n\nDividend Received\n9,000\n\nDepreciation over-charged\n3,000\nX + 25,000\n\nX + 16,000\nLess: Administration\nOverhead\nunder-\nabsorbed\n7,500\n\nInterest on Loan\n8,800\n\nOver-valuation of Closing Stock of\nFinished Goods\n1,000\n(17,300)\n\nProfit as per Financial Records\n\nX -1,300\n\nTherefore, x – 1,300  =  7,000\n\nOr\nx\n\n=\n7,000 + 1,300\n\n=\n8,300\n\nExcess of material consumption during the period in cost accounts is\n` 8,300."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

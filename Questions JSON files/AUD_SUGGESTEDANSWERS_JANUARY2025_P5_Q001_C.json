@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q001_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  Spare Parts Limited received an input from internal auditors that internal\ncontrols implemented by the company appears to be reasonable but not so\nstrong that any fraudulent activity can be prevented or timely detected by\nsuch controls. Accordingly a qualified person should head the internal\ncontrols department. CA Raj has been appointed as an Internal Control Head\nof the company. His scope of work includes development of internal controls\nin various departments/areas of the company. On his joining, he studied the\nvarious verticals and after identifying the important areas (prone to fraud)\nimplemented strong controls in those areas. In his meeting with senior\nmanagement and statutory auditors, he assured that satisfactory control\nenvironment exists and fraud cannot happen. Whether existence of a\nsatisfactory control environment can be considered as an absolute deterrent\nto fraud ?\n(4 Marks)",
+  "suggested_answer": "(c) •\nExistence of a satisfactory control environment is not an absolute\ndeterrent to fraud. The existence of a satisfactory control environment\ncan be a positive factor when the auditor assesses the risks of material\nmisstatement.\n•\nHowever, although it may help reduce the risk of fraud, a satisfactory\ncontrol environment is not an absolute deterrent to fraud.\n•\nConversely, deficiencies in the control environment may undermine the\neffectiveness of controls, in particular in relation to fraud. For example,\nmanagement’s failure to commit sufficient resources to address IT\nsecurity risks may adversely affect internal control by allowing\nimproper changes to be made to computer programs or to data, or\nunauthorised transactions to be processed.\n•\nThe control environment in itself does not prevent, or detect and\ncorrect, a material misstatement. It may, however, influence the\nauditor’s evaluation of the effectiveness of other controls.\n•\nFor example, the monitoring of controls and the operation of specific\ncontrol activities and thereby, the auditor’s assessment of the risks of\nmaterial misstatement.",
+  "marks": "(4 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_JANUARY2025_P5_Q001_C",
+  "source_filename": "84879bos68360-p5.pdf",
+  "source_pdf": "suggested_answers/84879bos68360-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 11,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1(c)",
+    "marks": "(4 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84879bos68360-p5.pdf",
+      "answer_pdf": "suggested_answers/84879bos68360-p5.pdf"
+    },
+    "page_start": 11,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Spare Parts Limited received an input from internal auditors that internal\ncontrols implemented by the company appears to be reasonable but not so\nstrong that any fraudulent activity can be prevented or timely detected by\nsuch controls. Accordingly a qualified person should head the internal\ncontrols department. CA Raj has been appointed as an Internal Control Head\nof the company. His scope of work includes development of internal controls\nin various departments/areas of the company. On his joining, he studied the\nvarious verticals and after identifying the important areas (prone to fraud)\nimplemented strong controls in those areas. In his meeting with senior\nmanagement and statutory auditors, he assured that satisfactory control\nenvironment exists and fraud cannot happen. Whether existence of a\nsatisfactory control environment can be considered as an absolute deterrent\nto fraud ?\n(4 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) •\nExistence of a satisfactory control environment is not an absolute\ndeterrent to fraud. The existence of a satisfactory control environment\ncan be a positive factor when the auditor assesses the risks of material\nmisstatement.\n•\nHowever, although it may help reduce the risk of fraud, a satisfactory\ncontrol environment is not an absolute deterrent to fraud.\n•\nConversely, deficiencies in the control environment may undermine the\neffectiveness of controls, in particular in relation to fraud. For example,\nmanagement’s failure to commit sufficient resources to address IT\nsecurity risks may adversely affect internal control by allowing\nimproper changes to be made to computer programs or to data, or\nunauthorised transactions to be processed.\n•\nThe control environment in itself does not prevent, or detect and\ncorrect, a material misstatement. It may, however, influence the\nauditor’s evaluation of the effectiveness of other controls.\n•\nFor example, the monitoring of controls and the operation of specific\ncontrol activities and thereby, the auditor’s assessment of the risks of\nmaterial misstatement."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

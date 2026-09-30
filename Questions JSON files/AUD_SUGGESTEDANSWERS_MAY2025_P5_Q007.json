@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q007",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 7,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "7.\nMr. E, an Articled Clerk, was not sure about which items should be considered\nas intangible assets in PQ Ltd. According to AS-26, which of the following\nitems should not be recognized as intangible assets?\n(I)  Internally generated Goodwill\n(II)  Compact disk in the case of computer software\n(III)  Copyrights\n(IV)  Computer software for computer-controlled machine tools that cannot\noperate without that specific software, which is an integral part of the\nrelated hardware.\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  I & IV above\n(2 Marks)\n\n38",
+  "suggested_answer": "D",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q007",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "7",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 4,
+    "page_end": 5,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "7.\nMr. E, an Articled Clerk, was not sure about which items should be considered\nas intangible assets in PQ Ltd. According to AS-26, which of the following\nitems should not be recognized as intangible assets?\n(I)  Internally generated Goodwill\n(II)  Compact disk in the case of computer software\n(III)  Copyrights\n(IV)  Computer software for computer-controlled machine tools that cannot\noperate without that specific software, which is an integral part of the\nrelated hardware.\n(A)  I & II above\n(B)  II & III above\n(C)  III & IV above\n(D)  I & IV above\n(2 Marks)\n\n38"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "D"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

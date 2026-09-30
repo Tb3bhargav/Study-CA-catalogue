@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. The following information pertains to a worker G:\nBasic Pay\n` 25,000 per month\nDearness Allowance\n` 5,000 per month\nOther Allowances\n` 2,000 per month\n\n6\n\nThe number of working days in a year is 325 of 8 hours each. G has availed\n25 days as holidays on full pay in a year.\n\nWhat is the wage rate per hour of worker G?\n(A)  ` 160\n(B)  ` 175\n(C)  ` 140\n(D)  ` 185\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q012",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 5,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 5,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. The following information pertains to a worker G:\nBasic Pay\n` 25,000 per month\nDearness Allowance\n` 5,000 per month\nOther Allowances\n` 2,000 per month\n\n6\n\nThe number of working days in a year is 325 of 8 hours each. G has availed\n25 days as holidays on full pay in a year.\n\nWhat is the wage rate per hour of worker G?\n(A)  ` 160\n(B)  ` 175\n(C)  ` 140\n(D)  ` 185\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

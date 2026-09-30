@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "12. \nGrape Limited presented its financial statements for the F.Y. 2023-24 to \nits auditor for expressing an opinion thereon. The auditor while carrying \nout the audit started comparing various items of profit and loss account \nof the year under audit with previous financial years. What is auditor \ntrying to achieve by carrying out those comparisons? \n\n \nINTERMEDIATE EXAMINATION \n \n \n64 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nChapter 5 - Audit of Items of Financial Statements",
+  "suggested_answer": "Purpose of Applying Analytical Procedure: Analytical procedures use \ncomparisons and relationships to assess whether account balances or \nother data appear reasonable. \n \nThe auditor of Grape Ltd. would achieve the following by carrying out \nthe comparison stated in the question: \n(i) \nIf balances included in the Statement of Proﬁt and Loss of an \nentity are compared with those contained in the Statement of \nProﬁt and Loss with that of the previous period, it would be \npossible to ﬁnd out the reasons for increase or decrease in the \namount of proﬁts of those years.  \n(ii) \nBy setting up certain expenses’ ratios on the basis of balances \nincluded in the Statement of Proﬁt and Loss, for the year under \naudit, comparing them with the same ratios for the previous year, \nit is possible to ascertain the extent of increase or decrease in \nvarious items of expenditure in relation to sales and that of trading \nproﬁt in relation to sales.  \n(iii) \nIf diﬀerences are found to be material, the auditor would ascertain \nthe reasons thereof and assess whether the accounts have been \nmanipulated to inﬂate or suppress proﬁts. \n(iv) \nIt may help identify the existence of unusual transactions or \nevents, and amounts, ratios, and trends that might indicate \nmatters that have audit implications.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q012",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Items of Financial Statements",
+    "topic": "Audit of Items of Financial Statements",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nGrape Limited presented its financial statements for the F.Y. 2023-24 to \nits auditor for expressing an opinion thereon. The auditor while carrying \nout the audit started comparing various items of profit and loss account \nof the year under audit with previous financial years. What is auditor \ntrying to achieve by carrying out those comparisons? \n\n \nINTERMEDIATE EXAMINATION \n \n \n64 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nChapter 5 - Audit of Items of Financial Statements"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Purpose of Applying Analytical Procedure: Analytical procedures use \ncomparisons and relationships to assess whether account balances or \nother data appear reasonable. \n \nThe auditor of Grape Ltd. would achieve the following by carrying out \nthe comparison stated in the question: \n(i) \nIf balances included in the Statement of Proﬁt and Loss of an \nentity are compared with those contained in the Statement of \nProﬁt and Loss with that of the previous period, it would be \npossible to ﬁnd out the reasons for increase or decrease in the \namount of proﬁts of those years.  \n(ii) \nBy setting up certain expenses’ ratios on the basis of balances \nincluded in the Statement of Proﬁt and Loss, for the year under \naudit, comparing them with the same ratios for the previous year, \nit is possible to ascertain the extent of increase or decrease in \nvarious items of expenditure in relation to sales and that of trading \nproﬁt in relation to sales.  \n(iii) \nIf diﬀerences are found to be material, the auditor would ascertain \nthe reasons thereof and assess whether the accounts have been \nmanipulated to inﬂate or suppress proﬁts. \n(iv) \nIt may help identify the existence of unusual transactions or \nevents, and amounts, ratios, and trends that might indicate \nmatters that have audit implications."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

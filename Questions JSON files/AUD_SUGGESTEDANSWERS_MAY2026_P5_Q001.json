@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q001",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "1.\nCA Vivek formulates his audit programme after obtaining a satisfactory\nunderstanding of the internal control system. Which of the following\nstatement is correct in this respect?\n(A)  A detailed evaluation of internal control by the auditor would\nunnecessarily expand the scope of the audit programme and his audit\nprogramme may become unwieldy and unnecessarily heavy.\n(B)  If the auditor does not care to study the internal control system, his audit\nprogramme may become unwieldy and unnecessarily heavy, and the\nobject of the audit may be altogether lost in the mass of entries and\nvouchers.\n(C)  If the internal control is considered strong, the auditor should introduce\nadditional audit procedures that otherwise might not be required to\nensure absolute assurance.\n(D)  A proper understanding of the internal control system, its content and\nfunctioning, does not significantly influence the auditor's selection of\naudit procedure to be applied in the various areas covered in the audit\nprogramme.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2026_P5_Q001",
+  "source_filename": "92876bos-sa-int-may2026-p5.pdf",
+  "source_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Strategy, Planning and Programme",
+    "topic": "Audit Strategy, Planning and Programme",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "1",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf",
+      "answer_pdf": "suggested_answers/92876bos-sa-int-may2026-p5.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "1.\nCA Vivek formulates his audit programme after obtaining a satisfactory\nunderstanding of the internal control system. Which of the following\nstatement is correct in this respect?\n(A)  A detailed evaluation of internal control by the auditor would\nunnecessarily expand the scope of the audit programme and his audit\nprogramme may become unwieldy and unnecessarily heavy.\n(B)  If the auditor does not care to study the internal control system, his audit\nprogramme may become unwieldy and unnecessarily heavy, and the\nobject of the audit may be altogether lost in the mass of entries and\nvouchers.\n(C)  If the internal control is considered strong, the auditor should introduce\nadditional audit procedures that otherwise might not be required to\nensure absolute assurance.\n(D)  A proper understanding of the internal control system, its content and\nfunctioning, does not significantly influence the auditor's selection of\naudit procedure to be applied in the various areas covered in the audit\nprogramme.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

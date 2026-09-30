@@ -1,0 +1,64 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004_02",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4.  Is there a written procedure for periodic\nverification and discrepancies disclosed by\nsuch reports investigated and are the records\nand\nfinancial\naccounts\ncorrected\nwith\nappropriate authority?\nd.  Inventories\n(A)  1-d, 2-a, 3-c, 4-b\n(B)  1-b, 2-a, 3-d, 4-c\n(C)  1-a, 2-c, 3-d, 4-b\n(D)  1-c, 2-b, 3-d, 4-a\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q004",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Items of Financial Statements",
+    "topic": "Audit of Items of Financial Statements",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "4",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "duplicate_suffix": 2
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4.  Is there a written procedure for periodic\nverification and discrepancies disclosed by\nsuch reports investigated and are the records\nand\nfinancial\naccounts\ncorrected\nwith\nappropriate authority?\nd.  Inventories\n(A)  1-d, 2-a, 3-c, 4-b\n(B)  1-b, 2-a, 3-d, 4-c\n(C)  1-a, 2-c, 3-d, 4-b\n(D)  1-c, 2-b, 3-d, 4-a\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  XYZ Limited specializes in manufacture of high end office furniture. They use\na batch costing system to track production costs. The company received an\norder for a special production run, Batch A - 01, consisting of 20 Ergonomic\nExecutive Chairs. The estimated costs for this specific:\nbatch are as follows:\nDirect Material\n` 55,500\nDirect Labour :\n\nCutting & Shaping\n300 hours @ ` 50 per hour\nPolishing & Finishing\n200 hours @ ` 40 per hour\nFactory Overheads:\n\nCutting & shaping\n300 hours @ ` 8 per hour\nPolishing & Shaping\n200 hours @ ` 8 per hour\nAdministrative & Selling Overheads\n20% of Works Cost\nProfit\n25% on Selling Price\nYou are required to calculate:\n(i)  Total Cost of the Batch.\n(ii)  Selling Price per Chair.\n(5 Marks)",
+  "suggested_answer": "(a)  (i)\n\nStatement showing Total Cost of the Batch A – 01\nParticulars\nAmount\n(in `)\nDirect Material Cost\n55,500\nDirect Labour:\nCutting & Shaping (300 hours @ ` 50 per hour)\nPolishing & Finishing (200 hours @ ` 40 per hour)\n\n15,000\n8,000\nPrime Cost\n78,500\nAdd: Factory Overheads:\nCutting & Shaping (300 hours @ ` 8 per hour)\nPolishing & Finishing (200 hours @ ` 8 per hour)\n\n2,400\n1,600\nFactory Cost/Works Cost\n82,500\nAdd: Administrative & Selling Overheads\n(20% of Works Cost)\n16,500\nTotal Cost\n99,000\n(ii)  Selling Price per Chair:\n\nUnits produced & sold = 20 chairs\n\nSales = Total cost + 25% profit on sales or 33.3% (1/3rd) profit on cost\n\n= `99,000 + 33.33% (1/3rd) of ` 99,000\n\n= ` 1,32,000\n\nSelling price per chair = Total sales/no. of chairs sold\n\n= ` 1,32,000/20= ` 6,600 per chair",
+  "marks": "(5 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2026_P4_Q001_A",
+  "source_filename": "92875bos-sa-int-may2026-p4.pdf",
+  "source_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 10
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Unit & Batch Costing",
+    "topic": "Unit & Batch Costing",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2026 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(a)",
+    "marks": "(5 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf",
+      "answer_pdf": "suggested_answers/92875bos-sa-int-may2026-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 10,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  XYZ Limited specializes in manufacture of high end office furniture. They use\na batch costing system to track production costs. The company received an\norder for a special production run, Batch A - 01, consisting of 20 Ergonomic\nExecutive Chairs. The estimated costs for this specific:\nbatch are as follows:\nDirect Material\n` 55,500\nDirect Labour :\n\nCutting & Shaping\n300 hours @ ` 50 per hour\nPolishing & Finishing\n200 hours @ ` 40 per hour\nFactory Overheads:\n\nCutting & shaping\n300 hours @ ` 8 per hour\nPolishing & Shaping\n200 hours @ ` 8 per hour\nAdministrative & Selling Overheads\n20% of Works Cost\nProfit\n25% on Selling Price\nYou are required to calculate:\n(i)  Total Cost of the Batch.\n(ii)  Selling Price per Chair.\n(5 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  (i)\n\nStatement showing Total Cost of the Batch A – 01\nParticulars\nAmount\n(in `)\nDirect Material Cost\n55,500\nDirect Labour:\nCutting & Shaping (300 hours @ ` 50 per hour)\nPolishing & Finishing (200 hours @ ` 40 per hour)\n\n15,000\n8,000\nPrime Cost\n78,500\nAdd: Factory Overheads:\nCutting & Shaping (300 hours @ ` 8 per hour)\nPolishing & Finishing (200 hours @ ` 8 per hour)\n\n2,400\n1,600\nFactory Cost/Works Cost\n82,500\nAdd: Administrative & Selling Overheads\n(20% of Works Cost)\n16,500\nTotal Cost\n99,000\n(ii)  Selling Price per Chair:\n\nUnits produced & sold = 20 chairs\n\nSales = Total cost + 25% profit on sales or 33.3% (1/3rd) profit on cost\n\n= `99,000 + 33.33% (1/3rd) of ` 99,000\n\n= ` 1,32,000\n\nSelling price per chair = Total sales/no. of chairs sold\n\n= ` 1,32,000/20= ` 6,600 per chair"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

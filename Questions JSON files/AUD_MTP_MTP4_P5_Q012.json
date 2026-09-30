@@ -1,0 +1,63 @@
+{
+  "id": "AUD_MTP_MTP4_P5_Q012",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12. \nBased on the depreciation issues identified in the case, which of the following is the most \nappropriate audit conclusion? \n(a)  \nMultiple issues exist including non-component depreciation, ignoring residual \nvalue and lack of disclosure of change in method  \n(b)  \nOnly change in method requires verification \n(c)  \nDepreciation is acceptable if total expense appears reasonable \n(d)  \nDepreciation errors are immaterial due to long-term nature of assets",
+  "suggested_answer": "(A)",
+  "marks": "2",
+  "source_id": "AUD_MTP_MTP4_P5_Q012",
+  "source_filename": "mtp4paper5questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 7
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Fraud and Responsibilities",
+    "topic": "Fraud and Responsibilities",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "12",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper5answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nBased on the depreciation issues identified in the case, which of the following is the most \nappropriate audit conclusion? \n(a)  \nMultiple issues exist including non-component depreciation, ignoring residual \nvalue and lack of disclosure of change in method  \n(b)  \nOnly change in method requires verification \n(c)  \nDepreciation is acceptable if total expense appears reasonable \n(d)  \nDepreciation errors are immaterial due to long-term nature of assets"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A)"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

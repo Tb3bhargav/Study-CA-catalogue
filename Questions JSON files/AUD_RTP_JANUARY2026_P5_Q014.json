@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_JANUARY2026_P5_Q014",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 14,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "14. \nIn the Balance Sheet of Watches Ltd., additions worth ` 20 Crores are \nappearing under Property, Plant & Equipment. Auditor of the company, \nin addition to the procedures undertaken for verifying completeness of \nadditions to PPE during the period under audit, while performing testing \nof additions also want to verify that all PPE purchase invoices are in the \nname of the company. Name the relevant assertion for verification of \nownership and procedure to verify the same. \nChapter 6 - Audit Documentation",
+  "suggested_answer": "Relevant assertion for verification of ownership of PPE in the given \nsituation is Rights and Obligation. \n \n \n\n \nAUDITING AND ETHICS \n \n \n73 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nProcedure to verify the ownership rights over PPE is as under: \ni. \nThe auditor while performing testing of additions should also \nverify that all PPE purchase invoices are in the name of the entity \nthat entitles legal title of ownership to the respective entity.  \nii. \nFor all additions to land and building in particular, the auditor \nshould check the conveyance deed/ sale deed to verify whether \nthe entity is the legal and valid owner or not. \niii. \nThe auditor should insist and verify the original title deeds for all \nimmoveable properties held as at the balance sheet date. \niv. \nIn case the entity has given such immoveable property as security \nfor any borrowings and the original title deeds are not available \nwith the entity, the auditor should request the entity’s \nmanagement for obtaining a conﬁrmation from the respective \nlenders that they are holding the original title deeds of \nimmoveable property as security.  \nv. \nIn addition, the auditor should also verify the register of charges, \navailable with the entity to assess that any charge has been \ncreated against the PPE.",
+  "marks": null,
+  "source_id": "AUD_RTP_JANUARY2026_P5_Q014",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit Documentation & Evidence",
+    "topic": "Audit Documentation & Evidence",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "14",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "14. \nIn the Balance Sheet of Watches Ltd., additions worth ` 20 Crores are \nappearing under Property, Plant & Equipment. Auditor of the company, \nin addition to the procedures undertaken for verifying completeness of \nadditions to PPE during the period under audit, while performing testing \nof additions also want to verify that all PPE purchase invoices are in the \nname of the company. Name the relevant assertion for verification of \nownership and procedure to verify the same. \nChapter 6 - Audit Documentation"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Relevant assertion for verification of ownership of PPE in the given \nsituation is Rights and Obligation. \n \n \n\n \nAUDITING AND ETHICS \n \n \n73 \n \nJANUARY 2026 EXAMINATION \nREVISION TEST PAPERS \n \nProcedure to verify the ownership rights over PPE is as under: \ni. \nThe auditor while performing testing of additions should also \nverify that all PPE purchase invoices are in the name of the entity \nthat entitles legal title of ownership to the respective entity.  \nii. \nFor all additions to land and building in particular, the auditor \nshould check the conveyance deed/ sale deed to verify whether \nthe entity is the legal and valid owner or not. \niii. \nThe auditor should insist and verify the original title deeds for all \nimmoveable properties held as at the balance sheet date. \niv. \nIn case the entity has given such immoveable property as security \nfor any borrowings and the original title deeds are not available \nwith the entity, the auditor should request the entity’s \nmanagement for obtaining a conﬁrmation from the respective \nlenders that they are holding the original title deeds of \nimmoveable property as security.  \nv. \nIn addition, the auditor should also verify the register of charges, \navailable with the entity to assess that any charge has been \ncreated against the PPE."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

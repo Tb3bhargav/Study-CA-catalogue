@@ -1,0 +1,60 @@
+{
+  "id": "AUD_RTP_MAY2025_P5_Q016",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 16,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "16.  As per SA 701, the objectives of the auditor are to determine key audit \nmatters and having formed an opinion on the financial statements, \n\n \nAUDITING AND ETHICS \n \n \n65 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \ncommunicate those matters by describing them in the auditor’s report. \nWhich factors are taken into account by auditor while determining Key \nAudit Matters? How Key Audit Matters are communicated in audit \nreport? \nChapter 9 - Special Features of Audit of Different Type of Entities",
+  "suggested_answer": "The auditor shall determine, from the matters communicated with those \ncharged with governance, those matters that required significant auditor \nattention in performing the audit. In making this determination, the \nauditor shall take into account the following: \n• \nAreas of higher assessed risk of material misstatement, or \nsignificant risks identified in accordance with SA 315. \n• \nSignificant auditor judgements relating to areas in the financial \nstatements that involved significant management judgement, \nincluding accounting estimates that have been identified as having \nhigh estimation uncertainty. \n• \nThe effect on the audit of significant events or transactions that \noccurred during the period. \n\n \nINTERMEDIATE EXAMINATION \n \n \n72 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n \nThe auditor shall determine which of the matters determined, as stated \nabove, were of most significance in the audit of the financial statements \nof the current period and therefore are the key audit matters. \n \nThe auditor shall describe each key audit matter, using an appropriate \nsubheading, in a separate section of the auditor’s report under the \nheading “Key Audit Matters”. The introductory language in this section \nof the auditor’s report shall state that:  \n(a)  \nKey audit matters are those matters that, in the auditor’s \nprofessional judgement, were of most significance in the audit of \nthe financial statements [of the current period]; and \n(b)  \nThese matters were addressed in the context of the audit of the \nfinancial statements as a whole, and in forming the auditor’s \nopinion thereon, and the auditor does not provide a separate \nopinion on these matters.",
+  "marks": null,
+  "source_id": "AUD_RTP_MAY2025_P5_Q016",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 5",
+    "paper": "Paper 5",
+    "question_number": "16",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "16.  As per SA 701, the objectives of the auditor are to determine key audit \nmatters and having formed an opinion on the financial statements, \n\n \nAUDITING AND ETHICS \n \n \n65 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \ncommunicate those matters by describing them in the auditor’s report. \nWhich factors are taken into account by auditor while determining Key \nAudit Matters? How Key Audit Matters are communicated in audit \nreport? \nChapter 9 - Special Features of Audit of Different Type of Entities"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "The auditor shall determine, from the matters communicated with those \ncharged with governance, those matters that required significant auditor \nattention in performing the audit. In making this determination, the \nauditor shall take into account the following: \n• \nAreas of higher assessed risk of material misstatement, or \nsignificant risks identified in accordance with SA 315. \n• \nSignificant auditor judgements relating to areas in the financial \nstatements that involved significant management judgement, \nincluding accounting estimates that have been identified as having \nhigh estimation uncertainty. \n• \nThe effect on the audit of significant events or transactions that \noccurred during the period. \n\n \nINTERMEDIATE EXAMINATION \n \n \n72 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n \nThe auditor shall determine which of the matters determined, as stated \nabove, were of most significance in the audit of the financial statements \nof the current period and therefore are the key audit matters. \n \nThe auditor shall describe each key audit matter, using an appropriate \nsubheading, in a separate section of the auditor’s report under the \nheading “Key Audit Matters”. The introductory language in this section \nof the auditor’s report shall state that:  \n(a)  \nKey audit matters are those matters that, in the auditor’s \nprofessional judgement, were of most significance in the audit of \nthe financial statements [of the current period]; and \n(b)  \nThese matters were addressed in the context of the audit of the \nfinancial statements as a whole, and in forming the auditor’s \nopinion thereon, and the auditor does not provide a separate \nopinion on these matters."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

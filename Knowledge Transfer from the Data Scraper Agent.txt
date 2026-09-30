@@ -1,0 +1,121 @@
+You are taking over an existing CA Inter Group-II question-bank project.
+
+Project root:
+
+`C:\Users\nj322ws\OneDrive\Desktop\ca_inter_scraper`
+
+Current data pipeline is complete enough to build the website. Do not rerun OCR or scrape again unless new ICAI source PDFs are added.
+
+## Main usable data
+
+Website-ready data is in:
+
+`data/processed/`
+
+- `questions.json` — 561 safe question records
+- `examiner_remarks.json` — 106 Group-II examiner remarks
+- `metadata.json`
+- `parser_report.json`
+
+Source archive:
+
+`data/website_sources/`
+
+- `suggested_answers/` — 21 official ICAI suggested-answer PDFs and extracted page JSON
+- `examiner_comments/` — official examiner-comment PDFs and extracted page JSON
+- `group_compilations/` — cross-reference only; do not use to duplicate questions
+- `catalog.json`
+
+The separate question-paper PDFs under `data/raw/` are not required for the first website version because the suggested-answer documents contain both questions and answers.
+
+## Data scope
+
+- ICAI CA Intermediate, Group II
+- Attempts: May 2024 through May 2026
+- Papers:
+  - Paper 4: Cost and Management Accounting
+  - Paper 5: Auditing and Ethics
+  - Paper 6: Financial Management and Strategic Management
+
+Group-I examiner comments were deliberately excluded.
+
+## Question schema
+
+Each record in `questions.json` includes:
+
+- `id`
+- `subject`
+- `paper_number`, `paper_name`
+- `attempt`, `exam_year`
+- `question_number`, `question_part`
+- `question_kind` (`mcq` or `descriptive`)
+- `question_text`
+- `suggested_answer`
+- `marks` when reliably available
+- `has_or_alternative`
+- source metadata: PDF, ICAI URL, extracted filename, page range
+- parser confidence/warnings
+
+MCQ records include the official answer key in `suggested_answer`.
+
+## Important data-handling rules
+
+- Display the source wording exactly; do not rewrite ICAI questions or answers.
+- Treat individual suggested-answer PDFs as authoritative.
+- Group compilations are not question sources for the first version.
+- Some complex descriptive questions intentionally remain one complete parent record when nested `(a)/(b)` labels are ambiguous. This is safer than attaching an answer to the wrong subpart.
+- `has_or_alternative: true` means the question contains an `OR` option. Preserve that in the UI.
+- Marks are not populated for every record, so the UI must handle missing marks gracefully.
+- Examiner remarks are independent study feedback; do not claim a remark maps to a question unless `paper_number`, `question_number`, and `question_part` are present.
+
+## Parser
+
+Parser module:
+
+`scraper/process_sources.py`
+
+Tests:
+
+`tests/test_process_sources.py`
+
+Rerun parser after new source files are added:
+
+```powershell
+.\.venv-ocr\Scripts\python.exe -m scraper.process_sources
+```
+
+Run regression tests:
+
+```powershell
+.\.venv-ocr\Scripts\python.exe -m unittest tests.test_process_sources -v
+```
+
+## Validation status
+
+The last parser run passed:
+
+- 561 questions
+- 106 Group-II examiner remarks
+- 0 empty question texts
+- 0 empty answers
+- 0 failed records
+- 0 parser warnings
+- 0 duplicate candidates
+
+## Website goal
+
+Build a fast, polished CA Inter Group-II question-bank website around `data/processed/questions.json`.
+
+Minimum product requirements:
+
+- Browse by Paper 4/5/6
+- Filter by attempt and year
+- Search questions
+- Question detail page with full question and suggested answer
+- Clearly support MCQs, descriptive questions, and OR alternatives
+- Show marks when present
+- Show ICAI source PDF link/page provenance where useful
+- Add a separate examiner-remarks area/filter
+- Mobile-first, clean, fast, study-focused interface
+
+Do not modify the scraper/parser unless a website integration issue proves it necessary. Build the website using the processed dataset.

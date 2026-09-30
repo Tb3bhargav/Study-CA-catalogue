@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_B",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "b",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(b) Aroma Park Ltd. Produces two perfumes named Floral, Oriental, and one\nCologne, all created through a joint production process. Below are the data\nfrom the most recent month of production:\n\nProducts\nFloral\nOriental\nCologne\nSales Price\n` 80\n`200\n` 300\nQuantity (in units)\n5,000\n3,000\n2,000\nJoint Cost\n` 60\n` 60\n` 60\nCost after split off\n` 40\n` 80\n` 100\nTotal cost\n` 100\n` 140\n` 160\n\nThe management on reviewing the above cost data is of the opinion that\neither they are selling the largest – volume product at a loss or the product\ncost data is flawed.\n\nRequired:\n(i)  Prepare statement showing profit / loss for each product based on the\ngiven data.\n(2 Marks)\n(ii)  Respond to the management perception by showing joint cost\napportionment under Net Realisable Value method.\n(3 Marks)",
+  "suggested_answer": "(b)  (i) Statement showing profit/loss by each product after further\nprocessing products\n\nFloral\n(in `)\nOriental\n(in `)\nCologne\n(in `)\nTotal\n(in `)\nSales price after\nfurther\nprocessing\n80\n200\n300\n\nLess: Cost after\nsplit off\n40\n80\n100\n\nLess: Joint Cost\n(already\napportioned)\n60\n60\n60\n\nProfit/(loss) per\nunit\n(20)\n60\n140\n\nQuantity\n(in\nunits)\n5,000\n3,000\n2,000\n\nProfit/(loss)\n(1,00,000)\n1,80,000\n2,80,000\n3,60,000\n(ii)  Apportionment of joint costs on the basis of Net Realisable Value\nmethod\n\nFloral\n(in `)\nOriental\n(in `)\nCologne\n(in `)\nTotal\n(in `)\nSales price\n80\n200\n300\n\nLess:\nPost\nsplit-off\ncost\n(Further\nprocessing\ncost)\n40\n80\n100\n\nNet Realisable\nValue per unit\n40\n120\n200\n\nNet Realisable\nValue\n2,00,000\n(` 40 × 5,000)\n3,60,000\n(` 120 × 3,000)\n4,00,000\n(` 200 × 2,000)\n\n12\nApportionmen\nt of Joint Cost\nof ` 6,00,000*\nin\nratio\nof\n5:9:10\n1,25,000\n2,25,000\n2,50,000\n\nTotal Profit\n75,000\n1,35,000\n1,50,000\n3,60,000\n\n*Total Joint Cost = 60 x 5,000 + 60 x 3,000 + 60 x 2,000 = 6,00,000\n\nNote: Profitability statement prepared after distributing joint cost\nbased on NRV clearly shows that they are not selling its largest volume\nproduct, i.e floral at a loss. Actually, it yields a profit of ` 75,000.",
+  "marks": "(3 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_B",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 12
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Joint Products and By Products",
+    "topic": "Joint Products and By Products",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(b)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 12,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b) Aroma Park Ltd. Produces two perfumes named Floral, Oriental, and one\nCologne, all created through a joint production process. Below are the data\nfrom the most recent month of production:\n\nProducts\nFloral\nOriental\nCologne\nSales Price\n` 80\n`200\n` 300\nQuantity (in units)\n5,000\n3,000\n2,000\nJoint Cost\n` 60\n` 60\n` 60\nCost after split off\n` 40\n` 80\n` 100\nTotal cost\n` 100\n` 140\n` 160\n\nThe management on reviewing the above cost data is of the opinion that\neither they are selling the largest – volume product at a loss or the product\ncost data is flawed.\n\nRequired:\n(i)  Prepare statement showing profit / loss for each product based on the\ngiven data.\n(2 Marks)\n(ii)  Respond to the management perception by showing joint cost\napportionment under Net Realisable Value method.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(b)  (i) Statement showing profit/loss by each product after further\nprocessing products\n\nFloral\n(in `)\nOriental\n(in `)\nCologne\n(in `)\nTotal\n(in `)\nSales price after\nfurther\nprocessing\n80\n200\n300\n\nLess: Cost after\nsplit off\n40\n80\n100\n\nLess: Joint Cost\n(already\napportioned)\n60\n60\n60\n\nProfit/(loss) per\nunit\n(20)\n60\n140\n\nQuantity\n(in\nunits)\n5,000\n3,000\n2,000\n\nProfit/(loss)\n(1,00,000)\n1,80,000\n2,80,000\n3,60,000\n(ii)  Apportionment of joint costs on the basis of Net Realisable Value\nmethod\n\nFloral\n(in `)\nOriental\n(in `)\nCologne\n(in `)\nTotal\n(in `)\nSales price\n80\n200\n300\n\nLess:\nPost\nsplit-off\ncost\n(Further\nprocessing\ncost)\n40\n80\n100\n\nNet Realisable\nValue per unit\n40\n120\n200\n\nNet Realisable\nValue\n2,00,000\n(` 40 × 5,000)\n3,60,000\n(` 120 × 3,000)\n4,00,000\n(` 200 × 2,000)\n\n12\nApportionmen\nt of Joint Cost\nof ` 6,00,000*\nin\nratio\nof\n5:9:10\n1,25,000\n2,25,000\n2,50,000\n\nTotal Profit\n75,000\n1,35,000\n1,50,000\n3,60,000\n\n*Total Joint Cost = 60 x 5,000 + 60 x 3,000 + 60 x 2,000 = 6,00,000\n\nNote: Profitability statement prepared after distributing joint cost\nbased on NRV clearly shows that they are not selling its largest volume\nproduct, i.e floral at a loss. Actually, it yields a profit of ` 75,000."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP2_P4_Q015",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 15,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "15. \nPre-determined factory overhead rate was ` 15 per labour hour. Actual labour hour \nworked 60,000. Actual factory overhead was ` 11,00,000 however it includes ` 26,000 \nbeing the wages paid for strike period and overtime wages amounting to ` 9,000. It was \nobserved that 2/3 of the under absorbed were due to inflation and rest were due to faulty \nplanning. The amount of over/under absorbed factory overhead transferred to costing \nP&L will be:  \n(a)  58,000 under-absorbed  \n(b)  55,000 over-absorbed  \n(c)  58,000 over-absorbed  \n(d)  55,000 under-absorbed \n(2 Marks) \n \n \n8 \nPART – II Descriptive Questions",
+  "suggested_answer": "(A) 58,000 under-absorbed Particulars Amount (`) Absorption rate 15 Actual hours 60,000 Absorbed Overheads 9,00,000 Actual overheads (11,00,000 - 26,000) 10,74,000 Under absorption 1,74,000 1/3 of 1,74,000 58,000 7 PART – II: Descriptive Answers",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP2_P4_Q015",
+  "source_filename": "mtp2paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 8
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 2 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "15",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 2/mtp2paper4answers.pdf"
+    },
+    "page_start": 7,
+    "page_end": 8,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "15. \nPre-determined factory overhead rate was ` 15 per labour hour. Actual labour hour \nworked 60,000. Actual factory overhead was ` 11,00,000 however it includes ` 26,000 \nbeing the wages paid for strike period and overtime wages amounting to ` 9,000. It was \nobserved that 2/3 of the under absorbed were due to inflation and rest were due to faulty \nplanning. The amount of over/under absorbed factory overhead transferred to costing \nP&L will be:  \n(a)  58,000 under-absorbed  \n(b)  55,000 over-absorbed  \n(c)  58,000 over-absorbed  \n(d)  55,000 under-absorbed \n(2 Marks) \n \n \n8 \nPART – II Descriptive Questions"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) 58,000 under-absorbed Particulars Amount (`) Absorption rate 15 Actual hours 60,000 Absorbed Overheads 9,00,000 Actual overheads (11,00,000 - 26,000) 10,74,000 Under absorption 1,74,000 1/3 of 1,74,000 58,000 7 PART – II: Descriptive Answers"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP3_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "12.  \nStandard hours required for doing a work is 100 hours and budgeted hours is 120 hrs. \nwhile the same work is actually completed by workers in 110 hrs. You are required to \ncalculate the activity ratio: \n(A)  \n109.09% \n(B)  \n83.33% \n(C)  \n90.90%  \n(D)  \n110% \n(2 Marks)",
+  "suggested_answer": "(B) 83.33% Activity Ratio = Standard Hours ×100 Budgeted Hours = 83.33%",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP3_P4_Q012",
+  "source_filename": "mtp3paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Budget and Budgetary Control",
+    "topic": "Budget and Budgetary Control",
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 3 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 3/mtp3paper4answers.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12.  \nStandard hours required for doing a work is 100 hours and budgeted hours is 120 hrs. \nwhile the same work is actually completed by workers in 110 hrs. You are required to \ncalculate the activity ratio: \n(A)  \n109.09% \n(B)  \n83.33% \n(C)  \n90.90%  \n(D)  \n110% \n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(B) 83.33% Activity Ratio = Standard Hours ×100 Budgeted Hours = 83.33%"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

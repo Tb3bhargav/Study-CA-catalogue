@@ -1,0 +1,63 @@
+{
+  "id": "CMA_MTP_MTP4_P4_Q006",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2026",
+  "exam_year": 2026,
+  "question_number": 6,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "6. \nWhat is the total cost and average cost per participant if there is 40 participants? \n(A) \nTotal Cost ` 47,000; Avg ` 1,175 \n(B)  \nTotal Cost ` 35,000; Avg ` 875 \n(C)  \nTotal Cost ` 37,000; Avg ` 925 \n(D)  \nTotal Cost ` 40,000; Avg ` 1,000",
+  "suggested_answer": "(A) Total Cost ` 47,000; Avg ` 1,175",
+  "marks": "2",
+  "source_id": "CMA_MTP_MTP4_P4_Q006",
+  "source_filename": "mtp4paper4questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 4,
+    "end": 4
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": null,
+    "topic": null,
+    "attempt": "May 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 4 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "6",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 4/mtp4paper4answers.pdf"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "6. \nWhat is the total cost and average cost per participant if there is 40 participants? \n(A) \nTotal Cost ` 47,000; Avg ` 1,175 \n(B)  \nTotal Cost ` 35,000; Avg ` 875 \n(C)  \nTotal Cost ` 37,000; Avg ` 925 \n(D)  \nTotal Cost ` 40,000; Avg ` 1,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(A) Total Cost ` 47,000; Avg ` 1,175"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

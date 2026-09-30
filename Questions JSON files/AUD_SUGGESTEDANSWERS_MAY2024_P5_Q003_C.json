@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_C",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c)  You are appointed as the auditor of a company manufacturing paints. The\ncompany has a robust system of internal control. Most of the controls in the\ncompany are automated and they are working effectively. However, in\ncertain situations, manual elements in internal controls are more suitable.\nWhat are the circumstances where manual elements in internal controls may\nbe more suitable?\n(3 Marks)",
+  "suggested_answer": "(c)  Manual elements vs automated elements in entity’s internal control:\nManual elements in internal control may be more suitable in the following\ncircumstances:\n\nWhere judgment and discretion are required.\n\nLarge, unusual or non-recurring transactions.\n\nCircumstances where errors are difficult to define, anticipate or predict.\n\nIn changing circumstances that require a control response outside the\nscope of an existing automated control.\n\nIn monitoring the effectiveness of automated controls.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2024_P5_Q003_C",
+  "source_filename": "81500bos65715-p5.pdf",
+  "source_pdf": "suggested_answers/81500bos65715-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 10,
+    "end": 11
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Risk Assessment and Internal Control",
+    "topic": "Risk Assessment and Internal Control",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(c)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/81500bos65715-p5.pdf",
+      "answer_pdf": "suggested_answers/81500bos65715-p5.pdf"
+    },
+    "page_start": 10,
+    "page_end": 11,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  You are appointed as the auditor of a company manufacturing paints. The\ncompany has a robust system of internal control. Most of the controls in the\ncompany are automated and they are working effectively. However, in\ncertain situations, manual elements in internal controls are more suitable.\nWhat are the circumstances where manual elements in internal controls may\nbe more suitable?\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Manual elements vs automated elements in entity’s internal control:\nManual elements in internal control may be more suitable in the following\ncircumstances:\n\nWhere judgment and discretion are required.\n\nLarge, unusual or non-recurring transactions.\n\nCircumstances where errors are difficult to define, anticipate or predict.\n\nIn changing circumstances that require a control response outside the\nscope of an existing automated control.\n\nIn monitoring the effectiveness of automated controls."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q002",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "2.\nWhile conducting an audit against provision of funds, the statutory auditors,\nM/s Rama & Associates must check\n(A)  that each item of expenditure is covered by a sanction either general or\nspecial of a competent authority.\n(B)  that the expenditure incurred has been on the purpose for which the\ngrant and appropriation has been provided and the amount of such\nexpenditure does not exceed the appropriation made.\n(C)  that the expenditure conforms to the relevant provision of the\nconstitution and of the laws and rules made thereunder.\n(D)  that the expenditure is in accordance with the financial rules, regulations\nand orders issued by the competent authority.\n(2 Marks)",
+  "suggested_answer": "B",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_MAY2025_P5_Q002",
+  "source_filename": "86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 2,
+    "end": 2
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Introduction to Strategic Management",
+    "topic": "Introduction to Strategic Management",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "2",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf",
+      "answer_pdf": "suggested_answers/86855bos-sa-int-may2025-g2-p5.pdf"
+    },
+    "page_start": 2,
+    "page_end": 2,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2.\nWhile conducting an audit against provision of funds, the statutory auditors,\nM/s Rama & Associates must check\n(A)  that each item of expenditure is covered by a sanction either general or\nspecial of a competent authority.\n(B)  that the expenditure incurred has been on the purpose for which the\ngrant and appropriation has been provided and the amount of such\nexpenditure does not exceed the appropriation made.\n(C)  that the expenditure conforms to the relevant provision of the\nconstitution and of the laws and rules made thereunder.\n(D)  that the expenditure is in accordance with the financial rules, regulations\nand orders issued by the competent authority.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "B"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

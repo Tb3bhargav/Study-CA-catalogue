@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_C",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "c",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(c) Following information is given of a newly setup organization for the year\nended on 31st March, 2025:\n\nNumber of workers replaced during the period\n\n78\n\nNumber of workers left and discharged during the period\n\n28\n\nEmployee turnover rates using separation method\n\n3.5%\n\nRequired:\n\nCompute the employee turnover rates using:\n(i) Replacement method and\n(2 Marks)\n(ii) Flux method\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9",
+  "suggested_answer": "(c)  Employee turnover rate (Separation method)\n\n=\nNo. of Separations(S)\nAverage  number of workers on roll\n× 100\n\n100\n3.5\n=\nAverage number of workers on roll\n28\n\nAverage number of workers on roll = 28×100\n3.5\n= 800\n(i)\nEmployee Turnover rate using Replacement method\n\n=\nNo.  of  replacements\n×100\nAverage  number of workers on  roll\n\n= 78×100\n800\n= 9.75%\n(ii) Employee turnover rate (Flux method)\n\n=\nNumberofemployees\nNumberofemployees\n\nreplaced during the period\neparated\n×100\nAverage number ofemployees during the period on roll\n\n\n+\n\n\n\n\n\n\n\n\ns\n\n= 28+78\n800\nx 100 = 13.25%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_MAY2025_P4_Q001_C",
+  "source_filename": "86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 8,
+    "end": 13
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Employee Cost",
+    "topic": "Employee Cost",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(c)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf",
+      "answer_pdf": "suggested_answers/86854bos-sa-int-may2025-g2-p4.pdf"
+    },
+    "page_start": 8,
+    "page_end": 13,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c) Following information is given of a newly setup organization for the year\nended on 31st March, 2025:\n\nNumber of workers replaced during the period\n\n78\n\nNumber of workers left and discharged during the period\n\n28\n\nEmployee turnover rates using separation method\n\n3.5%\n\nRequired:\n\nCompute the employee turnover rates using:\n(i) Replacement method and\n(2 Marks)\n(ii) Flux method\n(2 Marks)\n\nCOST AND MANAGEMENT ACCOUNTING\n\n9"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(c)  Employee turnover rate (Separation method)\n\n=\nNo. of Separations(S)\nAverage  number of workers on roll\n× 100\n\n100\n3.5\n=\nAverage number of workers on roll\n28\n\nAverage number of workers on roll = 28×100\n3.5\n= 800\n(i)\nEmployee Turnover rate using Replacement method\n\n=\nNo.  of  replacements\n×100\nAverage  number of workers on  roll\n\n= 78×100\n800\n= 9.75%\n(ii) Employee turnover rate (Flux method)\n\n=\nNumberofemployees\nNumberofemployees\n\nreplaced during the period\neparated\n×100\nAverage number ofemployees during the period on roll\n\n\n+\n\n\n\n\n\n\n\n\ns\n\n= 28+78\n800\nx 100 = 13.25%\n\nCOST AND MANAGEMENT ACCOUNTING\n\n13"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

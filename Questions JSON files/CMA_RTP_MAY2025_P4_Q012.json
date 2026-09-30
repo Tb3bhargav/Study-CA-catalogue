@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_MAY2025_P4_Q012",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "May 2025",
+  "exam_year": 2025,
+  "question_number": 12,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "12. \nAmy Ltd. uses a batch costing system that is fully integrated with its \nfinancial accounts. Balances at the beginning of the period is provided \nbelow: \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n17 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nParticulars \n(`) \nStores Ledger Control Account \n4,83,250 \nWork-in-Process Control Account \n3,86,600 \nFinished Goods Control Account \n6,76,550 \nOther information is as under: \nParticulars \nMaterials purchased during the period \n14,49,750  \nMaterials issued to production \n5,79,900  \nTotal wages paid (1/6th being indirect) \n5,79,900  \nDirect wages charged to batches \n3,86,600  \nPayment for non-productive time of direct \nworkers  \n1/5th of direct \nwages paid \nProduction Overheads incurred \n2,31,960  \nSales \n19,33,000  \nCost of Finished Goods Sold \n15,46,400  \nCost of Goods completed and transferred into \nfinished goods during the period \n12,56,450  \nPhysical value of Work-in-Process at the end of \nthe period \n7,73,200  \nProduction overhead absorption rate \n130% of direct \nwages charged to \nWork-in-Process \nYou are required to PREPARE the following accounts: \n(i) \nStores Ledger Control Account. \n(ii) \nWages Control Account. \n(iii) \nProduction Overhead Control Account. \n(iv) \nWork-in-Process Control Account. \n(v) \nFinished Goods Control Account. \n(vi) \nCosting Profit and Loss Account. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n18 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nJob and Batch Costing",
+  "suggested_answer": "(i) \nStores Ledger Control Account \n \n \n(`) \n \n \n(`) \nTo \nBalance b/d \n4,83,250 By \nWork in Process \nControl A/c \n5,79,900 \n” \nCreditors/ \nBank A/c \n14,49,750 \n” \nBalance c/d \n13,53,100  \n \n \n19,33,000  \n \n \n19,33,000  \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n41 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nWages Control Account \n \n \n(`) \n \n \n(`) \nTo Bank A/c 5,79,900 By Work in Process Control A/c \n(Charged to batches) \n3,86,600 \n \n \n ,, Production Oh Control A/c \n(Indirect wages)  \n(1/6th of ` 5,79,900) \n96,650 \n \n \n ” Production Oh Control A/c \n(Non-productive wages) \n[1/5th of (` 5,79,900 -` 96,650)] \n96,650 \n \n \n5,79,900 \n \n \n5,79,900 \n(iii) Production Overhead Control Account \n \n \n(`) \n \n \n(`) \nTo Bank A/c \n2,31,960 By Work-in-Process \nControl A/c (130% \nof ` 3,86,600) \n5,02,580 \n” \nWages Control A/c \n(` 96,650 +` 96,650) \n1,93,300 \n \n \n \n” \nCosting P&L A/c \n(Over-absorption, \nbalancing figure) \n77,320 \n \n \n \n \n \n5,02,580 \n \n \n5,02,580 \n(iv)  Work-in-Process Control Account \n \n \n(`) \n \n \n(`) \nTo \nBalance b/d \n3,86,600 By \nFinished Goods \nControl A/c \n12,56,450 \n” \nStore Ledger \nControl A/c \n5,79,900 \n” \nBalance c/d \n(Physical value) \n7,73,200 \n” \nWages Control \nA/c \n3,86,600 \n \n \n \n” \nProduction OH \nControl A/c  \n5,02,580 \n \n \n \n” \nCosting P&L A/c \n(Stock Gains) \n1,73,970 \n \n \n \n \n \n20,29,650  \n \n \n 20,29,650  \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n(v) \nFinished Goods Control Account \n \n \n \n(`) \n \n \n(`) \nTo Balance b/d \n6,76,550 By Costing Profit & Loss A/c \n(Cost of Goods Sold) \n15,46,400 \n” \nWork-in-Process \nControl A/c \n12,56,450 \n” Balance c/d  \n 3,86,600 \n \n \n19,33,000 \n \n \n19,33,000 \n(vi) Costing Profit & Loss Account \n \n \n(`) \n \n \n(`) \nTo Finished Goods \nControl A/c  \n15,46,400 By Sales A/c \n19,33,000 \n” \nBalance c/d \n6,37,890 \n” Production OH \nControl A/c \n77,320 \n \n \n \n” Work-in-Process \nControl A/c \n(Stock gain) \n1,73,970 \n \n \n21,84,290 \n \n \n21,84,290",
+  "marks": null,
+  "source_id": "CMA_RTP_MAY2025_P4_Q012",
+  "source_filename": "may25.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/may25.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Overheads",
+    "topic": "Overheads",
+    "attempt": "May 2025",
+    "year": 2025,
+    "source": "RTP",
+    "source_name": "Revision Test Paper May 2025 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "12",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/may25.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/may25.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "12. \nAmy Ltd. uses a batch costing system that is fully integrated with its \nfinancial accounts. Balances at the beginning of the period is provided \nbelow: \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n17 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \nParticulars \n(`) \nStores Ledger Control Account \n4,83,250 \nWork-in-Process Control Account \n3,86,600 \nFinished Goods Control Account \n6,76,550 \nOther information is as under: \nParticulars \nMaterials purchased during the period \n14,49,750  \nMaterials issued to production \n5,79,900  \nTotal wages paid (1/6th being indirect) \n5,79,900  \nDirect wages charged to batches \n3,86,600  \nPayment for non-productive time of direct \nworkers  \n1/5th of direct \nwages paid \nProduction Overheads incurred \n2,31,960  \nSales \n19,33,000  \nCost of Finished Goods Sold \n15,46,400  \nCost of Goods completed and transferred into \nfinished goods during the period \n12,56,450  \nPhysical value of Work-in-Process at the end of \nthe period \n7,73,200  \nProduction overhead absorption rate \n130% of direct \nwages charged to \nWork-in-Process \nYou are required to PREPARE the following accounts: \n(i) \nStores Ledger Control Account. \n(ii) \nWages Control Account. \n(iii) \nProduction Overhead Control Account. \n(iv) \nWork-in-Process Control Account. \n(v) \nFinished Goods Control Account. \n(vi) \nCosting Profit and Loss Account. \n \n \n\n \nINTERMEDIATE EXAMINATION \n \n \n18 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\nJob and Batch Costing"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(i) \nStores Ledger Control Account \n \n \n(`) \n \n \n(`) \nTo \nBalance b/d \n4,83,250 By \nWork in Process \nControl A/c \n5,79,900 \n” \nCreditors/ \nBank A/c \n14,49,750 \n” \nBalance c/d \n13,53,100  \n \n \n19,33,000  \n \n \n19,33,000  \n \n \n\n \nCOST AND MANAGEMENT ACCOUNTING \n \n \n41 \n \nMAY 2025 EXAMINATION \nREVISION TEST PAPER \n(ii) \nWages Control Account \n \n \n(`) \n \n \n(`) \nTo Bank A/c 5,79,900 By Work in Process Control A/c \n(Charged to batches) \n3,86,600 \n \n \n ,, Production Oh Control A/c \n(Indirect wages)  \n(1/6th of ` 5,79,900) \n96,650 \n \n \n ” Production Oh Control A/c \n(Non-productive wages) \n[1/5th of (` 5,79,900 -` 96,650)] \n96,650 \n \n \n5,79,900 \n \n \n5,79,900 \n(iii) Production Overhead Control Account \n \n \n(`) \n \n \n(`) \nTo Bank A/c \n2,31,960 By Work-in-Process \nControl A/c (130% \nof ` 3,86,600) \n5,02,580 \n” \nWages Control A/c \n(` 96,650 +` 96,650) \n1,93,300 \n \n \n \n” \nCosting P&L A/c \n(Over-absorption, \nbalancing figure) \n77,320 \n \n \n \n \n \n5,02,580 \n \n \n5,02,580 \n(iv)  Work-in-Process Control Account \n \n \n(`) \n \n \n(`) \nTo \nBalance b/d \n3,86,600 By \nFinished Goods \nControl A/c \n12,56,450 \n” \nStore Ledger \nControl A/c \n5,79,900 \n” \nBalance c/d \n(Physical value) \n7,73,200 \n” \nWages Control \nA/c \n3,86,600 \n \n \n \n” \nProduction OH \nControl A/c  \n5,02,580 \n \n \n \n” \nCosting P&L A/c \n(Stock Gains) \n1,73,970 \n \n \n \n \n \n20,29,650  \n \n \n 20,29,650  \n\n \nINTERMEDIATE EXAMINATION \n \n \n42 \n \nREVISION TEST PAPER \nMAY 2025 EXAMINATION\n(v) \nFinished Goods Control Account \n \n \n \n(`) \n \n \n(`) \nTo Balance b/d \n6,76,550 By Costing Profit & Loss A/c \n(Cost of Goods Sold) \n15,46,400 \n” \nWork-in-Process \nControl A/c \n12,56,450 \n” Balance c/d  \n 3,86,600 \n \n \n19,33,000 \n \n \n19,33,000 \n(vi) Costing Profit & Loss Account \n \n \n(`) \n \n \n(`) \nTo Finished Goods \nControl A/c  \n15,46,400 By Sales A/c \n19,33,000 \n” \nBalance c/d \n6,37,890 \n” Production OH \nControl A/c \n77,320 \n \n \n \n” Work-in-Process \nControl A/c \n(Stock gain) \n1,73,970 \n \n \n21,84,290 \n \n \n21,84,290"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

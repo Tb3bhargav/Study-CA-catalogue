@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q008",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2025",
+  "exam_year": 2025,
+  "question_number": 8,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "8.\nIn respect of the confirmations from the trade receivables, choose the\nstatement which is not correct.\n(A)  Confirmation from trade receivables should necessarily be as on the date\nof balance sheet.\n(B)  The requested confirmation should preferably be without mentioning the\nbalance outstanding, wherein the debtor is requested to respond with\nthe balance outstanding as per his records.\n(C)  The method of selection of trade receivables to be circulated, should not\nbe revealed to the client, until the trial balance of the trade receivables\nledger is handed over to the auditor.\n(D)  The auditor employs direct confirmation procedure with the consent of\nthe entity under audit.\n(2 Marks)",
+  "suggested_answer": "A",
+  "marks": "(2 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2025_P5_Q008",
+  "source_filename": "89274bos-aps3012-int-p5.pdf",
+  "source_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 6,
+    "end": 6
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": "Audit of Items of Financial Statements",
+    "topic": "Audit of Items of Financial Statements",
+    "attempt": "September 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2025 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "8",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf",
+      "answer_pdf": "suggested_answers/89274bos-aps3012-int-p5.pdf"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "8.\nIn respect of the confirmations from the trade receivables, choose the\nstatement which is not correct.\n(A)  Confirmation from trade receivables should necessarily be as on the date\nof balance sheet.\n(B)  The requested confirmation should preferably be without mentioning the\nbalance outstanding, wherein the debtor is requested to respond with\nthe balance outstanding as per his records.\n(C)  The method of selection of trade receivables to be circulated, should not\nbe revealed to the client, until the trial balance of the trade receivables\nledger is handed over to the auditor.\n(D)  The auditor employs direct confirmation procedure with the consent of\nthe entity under audit.\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "A"
+      }
+    ]
+  },
+  "needs_review": true,
+  "review_reason": "suspiciously short answer"
+}

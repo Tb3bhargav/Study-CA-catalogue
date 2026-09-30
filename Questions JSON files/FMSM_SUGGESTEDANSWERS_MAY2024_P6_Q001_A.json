@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q001_A",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "May 2024",
+  "exam_year": 2024,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a)  Theme Ltd provides you the following information:\n\n12.5 % Debt\n\n` 45,00,000\n\nDebt to Equity ratio\n\n1.5 : 1\n\nReturn on Shareholder's fund\n\n54%\n\nOperating Ratio\n\n85%\n\nRatio of operating expenses to Cost of Goods sold\n2 : 6\n\nTax rate\n\n25%\n\nFixed Assets\n\n` 39,00,000\n\nCurrent Ratio\n\n1.8 : 1\n\nYou are required to calculate:\n(i)  Interest Coverage Ratio\n(ii)  Gross Profit Ratio\n(iii)  Current Assets\n\n50",
+  "suggested_answer": "(a)  Working Notes:\n\nDebt\n\n= ` 45,00,000\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n51\n\nInterest\n\n= ` 45,00,000 x 12.5%= 5,62,500\n\nDebt to Equity\n= 1.5:1 =\nTotal Debt\nShareholders'Equity\n\nEquity\n\n= ` 30,00,000\n\nReturn of Shareholder’s funds = 54%    =\nNetProfitaftertaxes\n×100\nEquityshareholders'fund\n\nProfit after tax (PAT)\n\n= 54% x Equity = `16,20,000\n\nProfit before tax (PBT)(1-25%)\n= Profit after tax\n\n= `16,20,000/75% = `21,60,000\n\nEarning before interest and tax (EBIT)  = PBT + Interest\n\n= `21,60,000 + ` 5,62,500\n\n= `27,22,500\n(i) Interest Coverage Ratio\n\n= EBIT/Interest\n\n= `27,22,500/`5,62,500\n\n= 4.84 Times\n(ii) Operating Profit Ratio\n= 1 - Operating Ratio\n\n= 1 – 0.85 = 0.15 or 15%\n\n0.15\n= Operating Profit×100\nSales\n\nSales\n\n= EBIT or Operating Profit /0.15\n\n= ` 27,22,500 / 0.15\n\n= ` 1,81,50,000\n\nOperating ratio\n=\n(\n)\nOperating expenses\nCost of goods sold COGS\n= 2 : 6 = 1 : 3\n\nOperating expenses\n= 1/3COGS\n\nOperating cost\n\n= Sales – Operating profit\n\n= ` 1,81,50,000 - ` 27,22,500\n\n= ` 1,54,27,500\n\n52\n\n` 1,54,27,500\n= COGS + Operating expenses\n\n` 1,54,27,500\n= COGS + 1/3COGS\n\nCOGS\n\n= ` 1,15,70,625\n\nGross profit\n= Sales – COGS\n\n= 1,81,50,000 – 1,15,70,625\n\n= ` 65,79,375\n\nGross Profit ratio\n= Gross Profit×100\nSales\n\n= 65,79,375/1,81,50,000\n\n= 0.3625 or 36.25%\n\nGross profit and sales can be calculated in alternative way also.\nHowever, there will be no change in GP ratio i.e 36.25%\n(iii) Current Ratio\n\n=\nCurrent Assets\nCurrentLiabilities\n\n= 1.8\n\nCurrent Assets\n= 1.8 Current Liabilities\n\nTotal of Balance sheet liability = Equity + Debt + Current Liabilities\n\n=30,00,000+45,00,000+CL ……….(2)\n\nTotal Balance sheet asset    = Fixed Assets + Current Assets\n\n= 39 lakhs + CA= 39 + 1.8CL…….(3)\n\nEquating 2 and 3,\n\n75,00,000 + CL\n= 39,00,000 + 1.8CL\n\n0.8CL\n\n= 36,00,000\n\nCL\n\n=` 45,00,000\n\nCurrent Assets\n= 1.8 CL = 1.8 x 45 lakhs= ` 81,00,000\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n53",
+  "marks": null,
+  "source_id": "FMSM_SUGGESTEDANSWERS_MAY2024_P6_Q001_A",
+  "source_filename": "81501bos65715-p6.pdf",
+  "source_pdf": "suggested_answers/81501bos65715-p6.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 1,
+    "end": 5
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Types of Financing",
+    "topic": "Types of Financing",
+    "attempt": "May 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers May 2024 - Paper-6: Financial Management and Strategic Management",
+    "paper": "Paper 6",
+    "question_number": "1(a)",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "suggested_answers/81501bos65715-p6.pdf",
+      "answer_pdf": "suggested_answers/81501bos65715-p6.pdf"
+    },
+    "page_start": 1,
+    "page_end": 5,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Theme Ltd provides you the following information:\n\n12.5 % Debt\n\n` 45,00,000\n\nDebt to Equity ratio\n\n1.5 : 1\n\nReturn on Shareholder's fund\n\n54%\n\nOperating Ratio\n\n85%\n\nRatio of operating expenses to Cost of Goods sold\n2 : 6\n\nTax rate\n\n25%\n\nFixed Assets\n\n` 39,00,000\n\nCurrent Ratio\n\n1.8 : 1\n\nYou are required to calculate:\n(i)  Interest Coverage Ratio\n(ii)  Gross Profit Ratio\n(iii)  Current Assets\n\n50"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a)  Working Notes:\n\nDebt\n\n= ` 45,00,000\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n51\n\nInterest\n\n= ` 45,00,000 x 12.5%= 5,62,500\n\nDebt to Equity\n= 1.5:1 =\nTotal Debt\nShareholders'Equity\n\nEquity\n\n= ` 30,00,000\n\nReturn of Shareholder’s funds = 54%    =\nNetProfitaftertaxes\n×100\nEquityshareholders'fund\n\nProfit after tax (PAT)\n\n= 54% x Equity = `16,20,000\n\nProfit before tax (PBT)(1-25%)\n= Profit after tax\n\n= `16,20,000/75% = `21,60,000\n\nEarning before interest and tax (EBIT)  = PBT + Interest\n\n= `21,60,000 + ` 5,62,500\n\n= `27,22,500\n(i) Interest Coverage Ratio\n\n= EBIT/Interest\n\n= `27,22,500/`5,62,500\n\n= 4.84 Times\n(ii) Operating Profit Ratio\n= 1 - Operating Ratio\n\n= 1 – 0.85 = 0.15 or 15%\n\n0.15\n= Operating Profit×100\nSales\n\nSales\n\n= EBIT or Operating Profit /0.15\n\n= ` 27,22,500 / 0.15\n\n= ` 1,81,50,000\n\nOperating ratio\n=\n(\n)\nOperating expenses\nCost of goods sold COGS\n= 2 : 6 = 1 : 3\n\nOperating expenses\n= 1/3COGS\n\nOperating cost\n\n= Sales – Operating profit\n\n= ` 1,81,50,000 - ` 27,22,500\n\n= ` 1,54,27,500\n\n52\n\n` 1,54,27,500\n= COGS + Operating expenses\n\n` 1,54,27,500\n= COGS + 1/3COGS\n\nCOGS\n\n= ` 1,15,70,625\n\nGross profit\n= Sales – COGS\n\n= 1,81,50,000 – 1,15,70,625\n\n= ` 65,79,375\n\nGross Profit ratio\n= Gross Profit×100\nSales\n\n= 65,79,375/1,81,50,000\n\n= 0.3625 or 36.25%\n\nGross profit and sales can be calculated in alternative way also.\nHowever, there will be no change in GP ratio i.e 36.25%\n(iii) Current Ratio\n\n=\nCurrent Assets\nCurrentLiabilities\n\n= 1.8\n\nCurrent Assets\n= 1.8 Current Liabilities\n\nTotal of Balance sheet liability = Equity + Debt + Current Liabilities\n\n=30,00,000+45,00,000+CL ……….(2)\n\nTotal Balance sheet asset    = Fixed Assets + Current Assets\n\n= 39 lakhs + CA= 39 + 1.8CL…….(3)\n\nEquating 2 and 3,\n\n75,00,000 + CL\n= 39,00,000 + 1.8CL\n\n0.8CL\n\n= 36,00,000\n\nCL\n\n=` 45,00,000\n\nCurrent Assets\n= 1.8 CL = 1.8 x 45 lakhs= ` 81,00,000\n\nFINANCIAL MANAGEMENT AND\n\nSTRATEGIC MANAGEMENT\n\n53"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

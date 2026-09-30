@@ -1,0 +1,63 @@
+{
+  "id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_D",
+  "subject": "Auditing and Ethics",
+  "paper_number": 5,
+  "paper_name": "Paper-5: Auditing and Ethics",
+  "attempt": "September 2024",
+  "exam_year": 2024,
+  "question_number": 3,
+  "question_part": "d",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(d) You are the statutory auditor of NP Ltd. Looking at the huge size of similar\ntransactions, you directed your team members to use statistical sampling.\nOne of the team members, Mr. Q, wants to select samples based upon his\npersonal experience & knowledge as he is not aware of statistical sampling.\nYou are required to explain to Mr. Q why the use of statistical sampling\nmethod is more scientific and appropriate.\n(3 Marks)",
+  "suggested_answer": "(d) Statistical sampling: Statistical sampling is an approach to sampling that\nhas the random selection of the sample units and the use of probability\ntheory to evaluate sample results, including measurement of sampling risk\ncharacteristics.\nStatistical Sampling is more scientiﬁc and appropriate as:\n•\nAudit testing done through this approach is more scientiﬁc than testing\nbased entirely on the auditor’s own judgment because it involves use\nof mathematical laws of probability in determining the appropriate\nsample size in varying circumstances.\n•\nStatistical sampling has reasonably wide application where a\npopulation to be tested consists of a large number of similar items and\nmore in the case of transactions involving compliance testing, trade\nreceivables’ conﬁrmation, payroll checking, vouching of invoices and\npetty cash vouchers.\n•\nThere is no personal bias of the auditor in case of statistical sampling.\nSince it is scientific, the results of samples can be evaluated and\nprojected on the whole population in a more reliable manner.\nIn larger organisations, with huge transactions, statistical sampling is\nalways recommended as it is unbiased, and the samples selected are not\nprejudged.",
+  "marks": "(3 Marks)",
+  "source_id": "AUD_SUGGESTEDANSWERS_SEPTEMBER2024_P5_Q003_D",
+  "source_filename": "83076bos67152-5.pdf",
+  "source_pdf": "suggested_answers/83076bos67152-5.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 17,
+    "end": 19
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Auditing and Ethics",
+    "chapter": null,
+    "topic": null,
+    "attempt": "September 2024",
+    "year": 2024,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers September 2024 - Paper-5: Auditing and Ethics",
+    "paper": "Paper 5",
+    "question_number": "3(d)",
+    "marks": "(3 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/83076bos67152-5.pdf",
+      "answer_pdf": "suggested_answers/83076bos67152-5.pdf"
+    },
+    "page_start": 17,
+    "page_end": 19,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d) You are the statutory auditor of NP Ltd. Looking at the huge size of similar\ntransactions, you directed your team members to use statistical sampling.\nOne of the team members, Mr. Q, wants to select samples based upon his\npersonal experience & knowledge as he is not aware of statistical sampling.\nYou are required to explain to Mr. Q why the use of statistical sampling\nmethod is more scientific and appropriate.\n(3 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(d) Statistical sampling: Statistical sampling is an approach to sampling that\nhas the random selection of the sample units and the use of probability\ntheory to evaluate sample results, including measurement of sampling risk\ncharacteristics.\nStatistical Sampling is more scientiﬁc and appropriate as:\n•\nAudit testing done through this approach is more scientiﬁc than testing\nbased entirely on the auditor’s own judgment because it involves use\nof mathematical laws of probability in determining the appropriate\nsample size in varying circumstances.\n•\nStatistical sampling has reasonably wide application where a\npopulation to be tested consists of a large number of similar items and\nmore in the case of transactions involving compliance testing, trade\nreceivables’ conﬁrmation, payroll checking, vouching of invoices and\npetty cash vouchers.\n•\nThere is no personal bias of the auditor in case of statistical sampling.\nSince it is scientific, the results of samples can be evaluated and\nprojected on the whole population in a more reliable manner.\nIn larger organisations, with huge transactions, statistical sampling is\nalways recommended as it is unbiased, and the samples selected are not\nprejudged."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q001_A",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2025",
+  "exam_year": 2025,
+  "question_number": 1,
+  "question_part": "a",
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "(a) XYZ Company has an option to buy any one of the two machines N or M to\nmanufacture its unique industrial component P. Each of the machines have\nthe capacity to produce same quality of component P and are almost\nidentical except for the fact that they are being manufactured by a different\nmanufacturers. The specifications for each Machine are:\nMachine M: It has the capacity to produce 50,000 components of P per\nannum, the fixed costs being 1,50,000 and could generate a profit of 2,25,000\non the sale of all the components produced.\nMachine N: It is also having the equal capacity to produce same number of\ncomponents as that of Machine M per annum and all the components thus\nproduced could be sold in the open market without any difficulty. Fixed cost\nof Machine N is 60,000 less than that of Machine M and yield a profit of\n1,60,000 by selling all the components that are produced.\nThe selling price of each component of P is 100.\nRequired:\n(i)  Calculate break even sales in value for each machine.\n(3 Marks)\n(ii)  Calculate sales levels in units where both the machines are equally\nprofitable.\n\n(2 Marks)",
+  "suggested_answer": "(a) (i)\n\nMachine M\nMachine N\n\nQuantity\nPrice\nAmount (`) Quantity\nPrice\nAmount (`)\nSales\n50,000\n100\n50,00,000\n50,000\n100\n50,00,000\nVariable cost\n50,000\n92.5\n46,25,000\n50,000\n95\n47,50,000\nContribution\n\n7.5\n3,75,000\n\n5\n2,50,000\nFixed Cost\n\n1,50,000\n\n90,000\nProfit\n\n2,25,000\n\n1,60,000\nP/V Ratio\n\nContribution x 100\nSales\n\n3,75,000 x100\n50,00,000\n\n2,50,000 x100\n50,00,000\n\n7.5%\n\n5%\nBreak even Sales\n\nFixedCost\nP / V Ratio\n\n20,00,000\n\n18,00,000\n(ii) Let the units be x\n7.5x – 1,50,000 = 5x – 90,000\n2.5x = 60,000\nX = 24,000 Units",
+  "marks": "(2 Marks)",
+  "source_id": "CMA_SUGGESTEDANSWERS_JANUARY2025_P4_Q001_A",
+  "source_filename": "84878bos68360-p4.pdf",
+  "source_pdf": "suggested_answers/84878bos68360-p4.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 7,
+    "end": 9
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Marginal Costing",
+    "topic": "Marginal Costing",
+    "attempt": "January 2025",
+    "year": 2025,
+    "source": "Suggested Answers",
+    "source_name": "Suggested Answers January 2025 - Paper-4: Cost and Management Accounting",
+    "paper": "Paper 4",
+    "question_number": "1(a)",
+    "marks": "(2 Marks)",
+    "source_documents": {
+      "question_pdf": "suggested_answers/84878bos68360-p4.pdf",
+      "answer_pdf": "suggested_answers/84878bos68360-p4.pdf"
+    },
+    "page_start": 7,
+    "page_end": 9,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) XYZ Company has an option to buy any one of the two machines N or M to\nmanufacture its unique industrial component P. Each of the machines have\nthe capacity to produce same quality of component P and are almost\nidentical except for the fact that they are being manufactured by a different\nmanufacturers. The specifications for each Machine are:\nMachine M: It has the capacity to produce 50,000 components of P per\nannum, the fixed costs being 1,50,000 and could generate a profit of 2,25,000\non the sale of all the components produced.\nMachine N: It is also having the equal capacity to produce same number of\ncomponents as that of Machine M per annum and all the components thus\nproduced could be sold in the open market without any difficulty. Fixed cost\nof Machine N is 60,000 less than that of Machine M and yield a profit of\n1,60,000 by selling all the components that are produced.\nThe selling price of each component of P is 100.\nRequired:\n(i)  Calculate break even sales in value for each machine.\n(3 Marks)\n(ii)  Calculate sales levels in units where both the machines are equally\nprofitable.\n\n(2 Marks)"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(a) (i)\n\nMachine M\nMachine N\n\nQuantity\nPrice\nAmount (`) Quantity\nPrice\nAmount (`)\nSales\n50,000\n100\n50,00,000\n50,000\n100\n50,00,000\nVariable cost\n50,000\n92.5\n46,25,000\n50,000\n95\n47,50,000\nContribution\n\n7.5\n3,75,000\n\n5\n2,50,000\nFixed Cost\n\n1,50,000\n\n90,000\nProfit\n\n2,25,000\n\n1,60,000\nP/V Ratio\n\nContribution x 100\nSales\n\n3,75,000 x100\n50,00,000\n\n2,50,000 x100\n50,00,000\n\n7.5%\n\n5%\nBreak even Sales\n\nFixedCost\nP / V Ratio\n\n20,00,000\n\n18,00,000\n(ii) Let the units be x\n7.5x – 1,50,000 = 5x – 90,000\n2.5x = 60,000\nX = 24,000 Units"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "CMA_RTP_JANUARY2026_P4_Q002",
+  "subject": "Cost and Management Accounting",
+  "paper_number": 4,
+  "paper_name": "Paper-4: Cost and Management Accounting",
+  "attempt": "January 2026",
+  "exam_year": 2026,
+  "question_number": 2,
+  "question_part": null,
+  "question_kind": "descriptive",
+  "has_or_alternative": false,
+  "question_text": "2. \nCalculate the Economic Order Quantity (EOQ) for each material \nunder both options.",
+  "suggested_answer": "Toll Charges \n \nNumbers of vehicles available per day x No. of days x trips x toll \ncharges per trip \n \n21 x 2 x 26x 250 = `2,73,000",
+  "marks": null,
+  "source_id": "CMA_RTP_JANUARY2026_P4_Q002",
+  "source_filename": "jan26.pdf",
+  "source_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+  "source_url": "",
+  "source_pages": null,
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Cost and Management Accounting",
+    "chapter": "Material Cost",
+    "topic": "Material Cost",
+    "attempt": "January 2026",
+    "year": 2026,
+    "source": "RTP",
+    "source_name": "Revision Test Paper January 2026 - Paper 4",
+    "paper": "Paper 4",
+    "question_number": "2",
+    "marks": null,
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/RTPs/jan26.pdf",
+      "answer_pdf": "Question-Answer main data/RTPs/jan26.pdf"
+    },
+    "page_start": null,
+    "page_end": null,
+    "question_kind": "descriptive",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "2. \nCalculate the Economic Order Quantity (EOQ) for each material \nunder both options."
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "Toll Charges \n \nNumbers of vehicles available per day x No. of days x trips x toll \ncharges per trip \n \n21 x 2 x 26x 250 = `2,73,000"
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}

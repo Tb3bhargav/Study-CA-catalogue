@@ -1,0 +1,63 @@
+{
+  "id": "FMSM_MTP_MTP1_P6_Q004",
+  "subject": "Financial Management and Strategic Management",
+  "paper_number": 6,
+  "paper_name": "Paper-6: Financial Management and Strategic Management",
+  "attempt": "September 2026",
+  "exam_year": 2026,
+  "question_number": 4,
+  "question_part": null,
+  "question_kind": "mcq",
+  "has_or_alternative": false,
+  "question_text": "4. \nWhat will be the Net Present Value (NPV) of the further-processing proposal? \n(a)  \n` 15,58,900 \n(b)  \n` 24,00,000 \n(c)  \n` 35,58,900 \n(d)  \n` 47,50,000",
+  "suggested_answer": "(C) ` 35,58,900 Particulars Amount (`) PV of Annual Cash Inflows 1,55,58,900 Less: Initial Investment 1,20,00,000 Net Present Value 35,58,900 Since NPV is positive, the company should process the waste further instead of disposing it externally.",
+  "marks": "2",
+  "source_id": "FMSM_MTP_MTP1_P6_Q004",
+  "source_filename": "mtp1paper6questions.pdf",
+  "source_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+  "source_url": "",
+  "source_pages": {
+    "start": 3,
+    "end": 3
+  },
+  "parser_confidence": "high",
+  "parser_warnings": [],
+  "metadata": {
+    "subject": "Financial Management and Strategic Management",
+    "chapter": "Investment Decisions",
+    "topic": "Investment Decisions",
+    "attempt": "September 2026",
+    "year": 2026,
+    "source": "MTP",
+    "source_name": "Model Test Paper 1 - Paper 6",
+    "paper": "Paper 6",
+    "question_number": "4",
+    "marks": "2",
+    "source_documents": {
+      "question_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6questions.pdf",
+      "answer_pdf": "Question-Answer main data/MTPs/MTP 1/mtp1paper6answers.pdf"
+    },
+    "page_start": 3,
+    "page_end": 3,
+    "question_kind": "mcq",
+    "has_or_alternative": false
+  },
+  "question": {
+    "content": [
+      {
+        "type": "text",
+        "value": "4. \nWhat will be the Net Present Value (NPV) of the further-processing proposal? \n(a)  \n` 15,58,900 \n(b)  \n` 24,00,000 \n(c)  \n` 35,58,900 \n(d)  \n` 47,50,000"
+      }
+    ]
+  },
+  "answer": {
+    "content": [
+      {
+        "type": "text",
+        "value": "(C) ` 35,58,900 Particulars Amount (`) PV of Annual Cash Inflows 1,55,58,900 Less: Initial Investment 1,20,00,000 Net Present Value 35,58,900 Since NPV is positive, the company should process the waste further instead of disposing it externally."
+      }
+    ]
+  },
+  "needs_review": false,
+  "review_reason": null
+}
